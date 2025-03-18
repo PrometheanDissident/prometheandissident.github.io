@@ -189,7 +189,7 @@
             document.body.innerHTML = document.body.innerHTML
                 .replace(/\[\[(.*?)\]\]/g, function(match, p1) {
                     var formattedText = p1.replace(/\s+/g, '-').toLowerCase();
-                    var url = "https://maverickspectacle.github.io/" + encodeURIComponent(formattedText);
+                    var url = "https://prometheandissident.github.io/" + encodeURIComponent(formattedText);
                     return '<a href="' + url + '" class="internal-link">' + p1 + '</a>';
                 })
                 .replace(/\[(https?:\/\/[^\s]+)\s(.+?)\]/g, function(match, url, label) {
