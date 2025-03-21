@@ -7,6 +7,10 @@
 
 <style>
 
+sup {
+font-size: 6px;
+}
+    
 li {
 font-size: 14px;
 }
@@ -366,7 +370,7 @@ text-decoration: underline;
                 let refText = ref.innerHTML.trim();
 
                 // Create inline citation
-                let citation = document.createElement("p");
+                let citation = document.createElement("sup");
                 citation.className = "citation";
                 citation.innerHTML = `<a href="#ref-${refNumber}" id="cite-${refNumber}" onclick="highlightReference(${refNumber})">[${refNumber}]</a>`;
 
