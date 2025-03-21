@@ -398,6 +398,7 @@ text-decoration: underline;
 
                 let rightColumn = document.createElement("ol");
                 rightColumn.className = "column-right";
+                rightColumn.start = Math.ceil(references.length / 2) + 1; // Ensure right column starts at the correct number
 
                 references.forEach((ref, index) => {
                     let refEntry = ol.children[index].cloneNode(true); // Clone the <li> element
