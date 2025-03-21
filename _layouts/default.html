@@ -354,7 +354,7 @@ text-decoration: underline;
                 let refText = ref.innerHTML.trim();
 
                 // Create inline citation
-                let citation = document.createElement("sup");
+                let citation = document.createElement("p");
                 citation.className = "citation";
                 citation.innerHTML = `<a href="#ref-${refNumber}" id="cite-${refNumber}" onclick="highlightReference(${refNumber})">[${refNumber}]</a>`;
 
