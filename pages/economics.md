@@ -4,7 +4,7 @@ title: Economics
 permalink: /economics/
 ---
 
-## Economic Freedom
+## <span style="background-color:yellow">Economic Freedom</span>
 
 **Economic freedom = based**
 
@@ -28,11 +28,11 @@ A 2013 systematic literature review on the effects of economic freedom found tha
 
 ***Air Quality -** Economic freedom appears to create incentives to abate local air pollution such as fine particulate matter, although such incentives do not appear to be created for carbon dioxide emissions which are more global in nature<ref>https://www.fraserinstitute.org/sites/default/files/economic-freedom-and-air-quality.pdf</ref>. This would make sense given the difficulty of coordination on an international scale which is required to reduce carbon dioxide emissions.
 
-## Socialism
+## <span style="background-color:orange">Socialism</span>
 
 Socialism is gay and cringe.
 
-### Efficiency
+### <span style="background-color:yellow">Efficiency</span>
 
 Capitalism and its associated legal and cultural institutions are associated with much higher economic efficiency:
 
@@ -50,7 +50,7 @@ Specific cases:
 - Xiaogang farmers, who agreed in 1978 to have personal property and no longer have collectivization, immediately had a massive increase in their agricultural productivity. This was used as a model for the rest of the Chinese economy to move to a market system<ref>https://www.npr.org/sections/money/2012/01/20/145360447/the-secret-document-that-transformed-china</ref>.
 - Delayed economic reform in India because of its prolonged experiment with socialism led to over ten million "missing children", amongst other negative effects on quality of life<ref>https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7</ref>.
 
-### Quality of Life
+### <span style="background-color:yellow">Quality of Life</span>
 
 Social democratic policies are associated with higher quality of life:
 
@@ -68,19 +68,19 @@ Gains in some socialist countries appear to be primarily due to improvements in 
 
 - Between 1950-1980, China experienced the most rapid sustained increase in life expectancy of any population in documented global history, primarily through gains in school enrollment and public health campaigns<ref>https://www.tandfonline.com/doi/abs/10.1080/00324728.2014.972432?journalCode=rpst20</ref>.
 
-## Labor Exploitation
+## <span style="background-color:lightcoral">Labor Exploitation</span>
 
-### Child Labor
+### <span style="background-color:yellow">Child Labor</span>
 
 Historically, bans on child labor have not been the primary reason for declines in child labor, but rather improvements in industrialization and economic growth which brought rising incomes which allowed parents to keep their children out of the workforce<ref>https://sci-hub.st/10.3368/jhr.XL.1.77</ref><ref>https://eh.net/encyclopedia/child-labor-in-the-united-states/</ref>. Research in fact suggests that in the case of India's Child Labor Ban, the relative probability of child employment increased and child wages relative to adult wages decreased after the ban, as well as decreased young child participation in schooling<ref>https://sci-hub.se/10.1093/jeea/jvz059</ref>. This is consistent with the idea that families use child labor to satisfy basic subsistence needs, which don't go away simply due to a ban on child labor. Similar results have been found in Bangladesh following the 1993 United States Child Labor Deterrence Act<ref>https://www.cato.org/economic-development-bulletin/case-against-child-labor-prohibitions</ref>.
 
-### Sweatshops and Worker Quality of Life
+### <span style="background-color:yellow">Sweatshops and Worker Quality of Life</span>
 
 While sweatshops are commonly said to be unjust due to their poor labor conditions, when examining the evidence one should compare how the presence of sweatshops in **already impoverished countries** affects the workers who work in them as well as the broader domestic economy. Research suggests that multinational firms, the firms which have sweatshop jobs, pay more than domestic firms in third world countries and that sweatshop jobs provide workers with above average living standards<ref>http://hseuenglish102.pbworks.com/f/JobsworththeSweat.pdf</ref>. Foreign ownership of firms raises wages by expanding labor production and the scale of production, improving the conditions of work in the process. Not only that, but foreign-owned firms in fact make use of labor organizations and democratic institutions<ref>https://www.nber.org/system/files/chapters/c9541/c9541.pdf#page=45</ref>. While child labor occurs, the vast majority of child laborers of sweatshops and carpet factories are members of landless, very poor families, making it an economic necessity, especially in single mother families where it may be the only source of income. These are situations where children lack access to education regardless of whether they work in sweatshops or not due to them needing to work to sustain their families, regardless of the type of work<ref>https://www.cips-cepi.ca/2018/02/26/the-ethics-of-buying-clothes-produced-in-sweatshops/</ref>. All of this helps to explain why workers subjectively perceive factor employment to provide more stable compensation<ref>https://0x0.la/u/F6CEuq4.pdf</ref>.
 
 The closure of sweatshops cuts off a major source of income for the poor in the short-run, and decreases GDP in the medium term, which helps to explain why sweatshops have been a necessary existence at some point in the development of all nations since the beginning of the industrial revolution<ref>https://www.cips-cepi.ca/2018/02/26/the-ethics-of-buying-clothes-produced-in-sweatshops/</ref>.
 
-## Income Inequality
+## <span style="background-color:yellow">Income Inequality</span>
 
 **Inequality Bad**
 
@@ -100,7 +100,7 @@ Causes of Income Inequality:
 
 - **Regulation -** Research suggests that a 10% increase in federal regulation is associated with an approximate 0.5 percent increase in income inequality as measured by the Gini coefficient<ref>https://www.mercatus.org/system/files/chambers-regulation-inequality-mercatus-working-paper-v1.pdf</ref>.
 
-## Minimum Wage
+## <span style="background-color:yellow">Minimum Wage</span>
 
 Minimum wage in developed countries of about 60% of the local median income has a net positive effect. It does have many limitations however and does not suffice as an efficient anti-poverty tool.
 
@@ -121,7 +121,7 @@ A third often not mentioned model of the minimum wage is the institutional/behav
 
 In sum, all three major models for how the minimum wage operates have some degree of merit to them, and we will examine the effects of the minimum wage as they apply to all of these models when looking at the channels of adjustment that firms engage in following minimum wage increases in more detail.
 
-### Channels of Adjustment
+### <span style="background-color:lightcoral">Channels of Adjustment</span>
 
 #### Employment
 
@@ -145,7 +145,7 @@ It should be acknowledged that the distributional effects of the minimum wage wh
 
 In short, price increases are important to consider but not sufficient to justify the notion that the minimum wage is inherently bad. While I did not find any data pertaining to how price levels would change as a minimum wage continues to increase, I would imagine it'd be roughly similar to the 59% of median wage number that a study found on employment. I suspect this because if employment effects don't become notable until 59% of the median wage, it is likely the case that some monopsonistic effects are operating until roughly that threshold, in which case not only is there less of a necessity to decrease employment at lower minimum wage levels, but there is less of a necessity to engage in other profit-maximizing measures, such as price hikes either. Due to this, I would consider this literature consistent with the idea that a minimum wage should be hiked to be roughly 59% of the median hourly wage.
 
-#### Labor Market Changes
+#### <span style="background-color:skyblue">Labor Market Changes</span>
 
 Consistent with the notion that neither the monopsony nor the competitive model can fully explain minimum wage effects, I found fairly contradictory evidence on how labor market flows are affected by the minimum wage, with some research suggesting increased labor market flows<ref>http://sarkoups.free.fr/dustmann719.pdf</ref> and some suggesting decreased labor market flows<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/685449</ref>. My suspicion is that the effects likely vary by industry and also by location as most minimum wage effects appear to vary. Ku (2020) suggests that the minimum wage increases labor productivity, which could arguably be due to either a monopsony or competitive model<ref>https://docs.iza.org/dp13369.pdf</ref>. I think in either case it makes sense why workers would want to improve their productivity, as they are potentially at risk of being squeezed out of the market, even in some cases with a monopsony model. Research on the levels of absenteeism is also consistent with the idea that workers are likely pressured to some extent as a consequence of minimum wage increases, as they often risk getting unemployed<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1588294</ref>. The minimum wage also has a variety of other effects on the labor market, which are also due to cost pressures<ref>https://www.cato.org/sites/cato.org/files/pubs/pdf/PA701.pdf</ref>:
 
@@ -163,7 +163,7 @@ Consistent with the notion that neither the monopsony nor the competitive model 
 
 Much of this research is consistent with the competitive model, although results from the monopsonistic model creep in as well. It does appear, however, that the competitive model is better at explaining how channels of adjustment operate following minimum wage hikes.
 
-### Quality of Life Effects
+### <span style="background-color:lightcoral">Quality of Life Effects</span>
 
 #### Poverty and Wages
 
@@ -171,37 +171,37 @@ Much of the research on the relationship between the minimum wage and poverty/wo
 
 Further complicating this issue however is the question of who benefits from the minimum wage, which does seem to be disproportionately the poor as suggested by data on minimum wages and prices<ref>https://onlinelibrary.wiley.com/doi/abs/10.4284/sej.2010.76.3.592</ref><ref>https://www.cato.org/sites/cato.org/files/pubs/pdf/PA701.pdf</ref>. However, as stated before the minimum wage is only moderately progressive. If my hypothesis is correct that the effects of the minimum wage is beneficial up until a certain threshold, it would help to explain the generally sympathetic views that economists have towards the minimum wage according to polling<ref>https://www.igmchicago.org/surveys/minimum-wage/</ref>.
 
-#### Wealth Inequality
+#### <span style="background-color:yellow">Wealth Inequality</span>
 
 The minimum wage appears to decrease general income inequality, consistent with the idea that it increases the income of people while having little to no unemployment effects<ref>https://economics.mit.edu/files/11561](https://www.aeaweb.org/articles?id=10.1257/app.20140073</ref><ref>https://ftp.iza.org/dp10572.pdf</ref>. However, once again, this appears to potentially reverse itself when it reaches a maximum effectiveness value. Litwin (2015) found a result of a maximum effectiveness value of $11.77 across OECD countries<ref>https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1388&context=student_scholarship</ref>, which appears roughly consistent with the 59% maximum before large unemployment effects occur. This doesn't mean that all poorer parties benefit. For example, poorer bosses appear to suffer more from the minimum wage<ref>https://www.economist.com/finance-and-economics/2020/01/04/a-study-suggests-that-higher-minimum-wages-hit-poorer-bosses-pockets</ref>. This is consistent with research shown earlier about how the minimum wage pushes less successful businesses out of the market, given that they have lower profit margins. Still, overall the minimum wage reduces wealth inequality.
 
-#### Health
+#### <span style="background-color:yellow">Health</span>
 
 In general, the minimum wage has been found to have positive health effects, including reduced mortality<ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2016.303188</ref>, suicides<ref>https://www.nber.org/system/files/working_papers/w25787/w25787.pdf</ref><ref>https://www.economist.com/graphic-detail/2020/01/20/higher-minimum-wages-are-linked-to-lower-suicide-rates</ref>, and BMI<ref>https://journalistsresource.org/wp-content/uploads/2013/02/w15485.pdf</ref>, as well as increased subjective well-being<ref>https://cpb-us-w2.wpmucdn.com/blogs.baylor.edu/dist/2/1297/files/2010/09/Minimum_Wage_SWB_3.7.16_PF-293y1ob.pdf</ref> and life expectancy<ref>https://pubmed.ncbi.nlm.nih.gov/27844176/</ref>. This is consistent with the idea that the minimum wage generally alleviates economic hardship for those who are most at risk of poor health conditions in society.
 
-#### Education
+#### <span style="background-color:yellow">Education</span>
 
 There is research suggesting that minimum wage increases have a small but positive impact on education<ref>https://journalistsresource.org/wp-content/uploads/2013/02/w16355.pdf</ref>. Given that the posited mechanism for this result is that unemployment increases as a consequence of the minimum wage which causes teenagers to become more educated to increase their job prospects, I'd imagine this is generally a null or small effect.
 
-#### Crime
+#### <span style="background-color:yellow">Crime</span>
 
 Research on crime suggests that the minimum wage can have positive or negative effects on crime, depending on whether the increase has notable effects on the unemployment rate relative to the wage increase<ref>https://obamawhitehouse.archives.gov/sites/default/files/page/files/20160423_cea_incarceration_criminal_justice.pdf</ref><ref>https://www.nber.org/system/files/working_papers/w25116/w25116.pdf</ref><ref>https://epionline.org/app/uploads/2019/03/EPI_MinimumWageReducingCrimeStudy_Final-2.pdf</ref>. Due to this, it is likely the case that crime effects are roughly positive or null until the 59% threshold outlined earlier.
 
-### Other Economic Effects
+### <span style="background-color:yellow">Other Economic Effects</span>
 
 Due to causing increases in spending, a minimum wage hike appears to increase economic growth<ref>https://www.epi.org/publication/raising-federal-minimum-wage-to-1010/</ref><ref>https://www.nber.org/papers/w25761#:~:text=Using%20variation%20in%20minimum%20wages,and%20nominal%20spending%20rise%20modestly.</ref>. As with policies which increase aggregate spending in general, however, this is likely to be a short-term effect of a hike as opposed to a long-term consequence of having a minimum wage in place. In the long-term, it is likely the case that a minimum wage has roughly null effects on economic growth.
 
-### Racism
+### <span style="background-color:yellow">Racism</span>
 
 Historically, minimum wage laws have been advocated by some as a means to push black people out of the labor market through increasing the pressure of businesses to reduce their employment of low-skilled labor, which was and still is disproportionately black<ref>https://mises.org/wire/racist-history-minimum-wage-laws</ref>.
 
 Interestingly however, these policies appear to have had the opposite effect that was expected. While I have previously documented research on the effects of the minimum wage on broad inequality, there is also some on racial inequality specifically, which finds that minimum wages have reduced racial inequality where implemented<ref>https://academic.oup.com/qje/article/136/1/169/5905427</ref><ref>https://irle.berkeley.edu/racial-inequality-and-minimum-wages-in-frictional-labor-markets/</ref>. Therefore, it is more accurate to suggest that a minimum wage reduces racism rather than exacerbating it, although I would argue this shouldn't be framed in terms of racism.
 
-### In Developing Countries
+### <span style="background-color:yellow">In Developing Countries</span>
 
 An interesting question to examine is how the minimum wage would work in developing countries which are characterized by significantly higher levels of low-wage labor. In these contexts, the minimum wage also appears to be effective in reducing poverty<ref>https://wol.iza.org/articles/introducing-a-statutory-minimum-wage-in-middle-and-low-income-countries</ref><ref>https://wol.iza.org/articles/does-increasing-the-minimum-wage-reduce-poverty-in-developing-countries/long</ref>. As for the threshold of a minimum wage, I'd imagine 59% of the median wage could work, although I am not super confident on this just due to how these types of labor markets likely operate significantly differently compared to those in developed countries where minimum wage effects are typically studied. Importantly, institutional mechanisms must be in place to actually enforce a minimum wage in order for it to be effective, which is a concern in developing countries where rule of law is more questionable in some contexts to say the least.
 
-## Welfare State
+## <span style="background-color:yellow">Welfare State</span>
 
 The effects of an expanded welfare state, usually measured in the form of social spending, have been studied extensively:
 
@@ -223,7 +223,7 @@ The effects of an expanded welfare state, usually measured in the form of social
 
 **Unified Analysis** The marginal value of public funds of various government policies is highest in direct investments on low-income children, including child health insurance expansions and college policies. These tend to pay for themselves. For policies targeting adults, they tend to involve budgetary tradeoffs as they cost the government on net. Expenditures on adults can have high MVPFs if they have spillover effects on children<ref>https://www.policyinsights.org/</ref>.
 
-## Worker Ownership
+## <span style="background-color:yellow">Worker Ownership</span>
 
 Worker ownership of corporations can be good in some contexts, but it isn't scalable and thus can never be a universal model. This is in part because there is less incentive for such organizations to start up.
 
@@ -231,19 +231,19 @@ Worker ownership of corporations can be good in some contexts, but it isn't scal
 
 **The Bad -** Worker cooperatives aren't rare because they are inefficient, but because they are less likely to start up. From the ground, this is due to wealth and credit constraints, entrepreneurial rents, and collective action problems. However, this does not explain why existing firms do not convert to worker cooperatives<ref>https://institute.coop/sites/default/files/resources/070%202013_Olsen_The%20Relative%20Survival%20of%20Worker%20Cooperatives%20and%20Barriers%20to%20Their%20Creation.pdf</ref>.
 
-## Monetary/Fiscal Policy
+## <span style="background-color:orange">Monetary/Fiscal Policy</span>
 
 Quantitative easing tends to ease financial conditions and support economic growth, and can be especially powerful during times of financial stress<ref>https://www.piie.com/publications/policy-briefs/quantitative-easing-underappreciated-success</ref>.
 
-## Housing
+## <span style="background-color:lightcoral">Housing</span>
 
-### Rent Control
+### <span style="background-color:orange">Rent Control</span>
 
 **Rent control is gay and cringe.**
 
 Rent control does a poor job at targeting benefits to those who need them. Residents of rent-controlled units are less likely to move, meaning they often continue to live in houses that don't properly fit their needs. Rent control and rent stabilization policies also reduce the available supply of housing, which generally leads to higher rents in the uncontrolled market. There are also significant fiscal costs associated with implementing rent control and no consistent relationship between rent control and the prevalence of homelessness. There is also no substantial evidence supporting the idea that rent control decreases economic or racial segregation<ref>https://www.nmhc.org/globalassets/knowledge-library/rent-control-literature-review-final2.pdf</ref>.
 
-## Zoning/Regulation
+## <span style="background-color:orange">Zoning/Regulation</span>
 
 **Regulations are cringe unless absolutely necessary.**
 
@@ -251,11 +251,11 @@ In most places, housing costs are close to the marginal physical costs of new co
 
 Housing regulation is a significant contributor to high house prices<ref>https://www.nber.org/system/files/working_papers/w10124/w10124.pdf</ref><ref>https://www.nahb.org/blog/2021/05/regulatory-costs-add-a-whopping-93870-to-new-home-prices/</ref><ref>https://www.vtpi.org/park-hou.pdf</ref>.
 
-## Immigration
+## <span style="background-color:yellow">Immigration</span>
 
 Immigration often comes with a tradeoff between positive economic effects and (to some degree) negative social effects, especially when accounting for research on ethnic diversity in cases where immigration is non-white.
 
-### Economic/Social Effects
+### <span style="background-color:yellow">Economic/Social Effects</span>
 
 **Economic Effects: Generally Positive**
 
@@ -276,7 +276,7 @@ Immigration often comes with a tradeoff between positive economic effects and (t
 
 **Note on effects of immigration enforcement: It works, but undoes the positive economic effects of immigration.** Regulations on immigration in general have a significant effect on immigration flows, suggesting that states are able to control their borders<ref>https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12279</ref>. Enforcement of immigration, whether it be on the border or interior of a country, reduces the probability that an individual will decide to illegally migrate<ref>https://wol.iza.org/articles/enforcement-and-illegal-migration</ref>. However, immigration enforcement is costly to the government, decreases the labor force, reduces real GDP, and has no meaningful effects on crime<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/680935?journalCode=jle</ref><ref>https://www.americanactionforum.org/research/the-budgetary-and-economic-costs-of-addressing-unauthorized-immigration-alt/</ref>.
 
-### Public Opinion
+### <span style="background-color:yellow">Public Opinion</span>
 
 Facts about public opinion:
 
@@ -286,17 +286,17 @@ Facts about public opinion:
 - Natives tend to support redistribution less when the share of immigrants in their resident region is higher. This effect is driven by areas with large welfare states and by centrist or rightist respondents<ref>https://docs.iza.org/dp12130.pdf</ref>.
 - Exposure to refugee arrivals induces sizable and lasting increases in natives' hostility toward refugees and immigrants and support for restrictive asylum and immigration policies<ref>https://sci-hub.ru/https://doi.org/10.1017/S0003055418000813</ref>. Similarly research in Australia has suggested that Australians living in electoral districts with higher percentages of non-white immigrants are more likely to want lower immigrant numbers than those living in districts with fewer non-white immigrants<ref>https://www.tandfonline.com/doi/abs/10.1080/10361146.2018.1450357</ref>.
 
-## Innovation
+## <span style="background-color:orange">Innovation</span>
 
 Innovation primarily comes from universities and federal laboratories, and is primarily collaborative<ref>https://itif.org/files/Where_do_innovations_come_from.pdf</ref><ref>https://www.nejm.org/doi/full/10.1056/nejmsa1008268</ref>.
 
 Patent rights have a positive effect on innovation<ref>https://0x0.la/u/K9fgvb6.pdf</ref>.
 
-## Poverty
+## <span style="background-color:orange">Poverty</span>
 
 - **Effect on Fertility -** Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/</ref>. Additionally, a $100,000 increase in housing wealth among homeowners causes a 16-18% increase in the probability of having a child<ref>https://sci-hub.ru/https://doi.org/10.1162/REST_a_00266</ref>. This suggests that income can have a positive effect on fertility.
 
-## Regulation
+## <span style="background-color:yellow">Regulation</span>
 
 Regulation cringe
 
@@ -305,15 +305,15 @@ Regulation cringe
 - **Employment: Decreased -** Around the world, stricter regulation tends to increase unemployment. Tight hiring and firing rules and military conscription most clearly appear to have adverse effects<ref>https://www.sciencedirect.com/science/article/pii/S0147596708000772</ref>. Anticompetitive business regulations such as price controls and administrative obstacles to starting a new business appear to lower labor force participation and employment rates<ref>https://www.sciencedirect.com/science/article/abs/pii/S0148619508000337</ref>.
 - **Life Satisfaction: Decreased -** Low regulation and pro-market attitudes have a positive effect on life satisfaction<ref>https://sci-hub.se/10.1080/13504851.2012.762709</ref>.
 
-## Big Government
+## <span style="background-color:orange">Big Government</span>
 
 Big government bad.
 
 - **Economic Growth: Negative -** Government size negatively correlates with growth when controlling for economic freedom and globalization<ref>https://link.springer.com/article/10.1007/s11127-009-9484-1</ref>. Fiscal policy or public spending has a sizable negative effect on profits and business investment<ref>https://www.aeaweb.org/articles?id=10.1257/00028280260136255</ref>. There is a robust negative effect of government spending and taxation on economic growth in rich countries, based on a sample during the period of 1970-95<ref>https://www.ifn.se/Wfiles/wp/wp503.pdf</ref>.
 
-## Housing
+## <span style="background-color:lightcoral">Housing (COMBINE THIS WITH SECTION ABOVE)</span>
 
-### Housing First
+### <span style="background-color:yellow">Housing First</span>
 
 **Based - Save money, are effective in reducing homelessness**
 
@@ -321,13 +321,13 @@ The Finnish national program to reduce homelessness started in 2008 and renewed 
 
 Medicine Hat practiced housing first and became the first city in Canada to end chronic homelessness<ref>https://community.solutions/case-studies/medicine-hat-becomes-first-city-in-canada-to-end-chronic-homelessness/</ref>, although it lasted only 5 months. As of 2022, the number of people chronically rose to 19<ref>https://www.cbc.ca/news/canada/calgary/homeless-medicine-hat-point-in-time-count-1.6600717</ref>.
 
-## Trade and Globalization
+## <span style="background-color:orange">Trade and Globalization</span>
 
 **Based**
 
 While there is publication bias in the literature, even correcting for publication bias economic globalization has a positive effect on economic growth, although this is primarily driven by trade globalization. Financial globalization may have zero effect<ref>https://onlinelibrary.wiley.com/doi/10.1111/twec.13235</ref>. International trade regulation can create jobs in the sectors it protects or promotes, but almost always at the expense of destroying a roughly equivalent number of jobs elsewhere in the economy<ref>https://wol.iza.org/articles/international-trade-regulation-and-job-creation</ref>.
 
-## Healthcare
+## <span style="background-color:yellow">Healthcare</span>
 
 **Universality Based:**
 - Veterans affairs healthcare generally performs similarly or better than non veterans affairs healthcare<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5215146/</ref>.
@@ -344,20 +344,20 @@ While there is publication bias in the literature, even correcting for publicati
 
 Longer healthcare wait times are associated with greater risk of mortality<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955366/</ref><ref>https://www.fraserinstitute.org/sites/default/files/effect-of-wait-times-on-mortality-in-canada.pdf</ref><ref>https://jamanetwork.com/journals/jama/fullarticle/2664460</ref>.
 
-## Inheritance Taxation
+## <span style="background-color:orange">Inheritance Taxation</span>
 
 Based form of taxation.
 
 Inheritance taxation can reduce wealth inequality. It has been argued that it leads to businesses, particularly small businesses, going bankrupt due to inheritances following taxation being insufficient to continue a business. However, heirs are generally poorer at managing businesses so inheritance taxation can help reduce skills-capital mismatch<ref>https://www.oecd-ilibrary.org/taxation/inheritance-taxation-in-oecd-countries_6315055c-en</ref>.
 
-## Unions
+## <span style="background-color:orange">Unions</span>
 
 Effects:
 
 - **Wages/Poverty: Increases Wages, Decreases Poverty -** Unionization reduces aggregate poverty<ref>https://www.cepr.net/unions-the-best-fix-to-poverty/</ref><ref>https://journals.sagepub.com/doi/full/10.1177/0003122413501859</ref><ref>https://journals.sagepub.com/doi/10.1177/00197939211014855</ref>, as well as income inequality<ref>https://www.asanet.org/sites/default/files/savvy/images/journals/docs/pdf/asr/WesternandRosenfeld.pdf</ref><ref>https://journals.sagepub.com/doi/abs/10.1177/0891242416634852</ref>. Right to work laws make it illegal for a group of unionized workers to negotiate a contract that requires each employee who enjoys the benefits of the contract terms to pay their share of costs for negotiating and policing the contract. These result in decreased wages<ref>https://www.epi.org/publication/bp299/</ref>, and also increase economic inequality indirectly by lowering labor power resources<ref>https://www.journals.uchicago.edu/doi/10.1086/708067</ref>.
 - **Firm Productivity: Mixed -** Doucouliagos & Laroche (2003) conducted a meta-analysis and found that after controlling for differences between studies, a negative association was discovered between unions and productivity in the UK, while a positive relationship was found in the US<ref>https://library.fes.de/libalt/journals/swetsfulltext/17556769.pdf</ref>. An additional bootstrapped meta-analysis also found a positive relationship in the US<ref>https://www.researchgate.net/publication/227640784_What_Do_Unions_Do_to_Productivity_A_Meta-Analysis</ref>. A more recent meta-analysis also suggested that unions are not invariably harmful to productivity, although the impact may depend on a number of factors including the sectors and counties concerned, the time period investigated and institutional settings such as labor market regulation<ref>https://tuac.org/wp-content/uploads/2017/12/Recent-Meta-20Dec17.pdf</ref>.
 
-## Colonialism/Slavery
+## <span style="background-color:yellow">Colonialism/Slavery</span>
 
 Effects (I'm not pro-colonialism I swear):
 
@@ -365,7 +365,7 @@ Effects (I'm not pro-colonialism I swear):
 
 - **Slavery and Economic Growth: Negative -** Slavery use in the Americas was negatively correlated with subsequent economic development<ref>https://scholar.harvard.edu/files/nunn/files/domestic_slavery.pdf</ref>.
 
-## Industrial Revolution
+## <span style="background-color:orange">Industrial Revolution</span>
 
 Contra Kaczynski, based
 
