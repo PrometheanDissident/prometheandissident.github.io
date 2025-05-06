@@ -4,7 +4,9 @@ title: Free Speech
 permalink: /free-speech/
 ---
 
-## Effects
+<span style="background-color:lightcoral">Need to expand on broader thoughts on this, even if studies are also important to discuss</span>
+
+## <span style="background-color:orange">Effects</span>
 
 Eskildsen & Bjørnskov (2020) looked at a panel of 162 countries between 1970-2016 and found that discussion freedom is unambiguously associated with less terrorism in democracies<ref>https://futurefreespeech.com/wp-content/uploads/2020/06/Freedom-of-Expression-and-Terror-Apr-4.pdf</ref>. Another study suggested that there is no connection between the protection of freedom of expression and radicalization and terror<ref>http://justitia-int.org/wp-content/uploads/2017/11/Analyse_Ytringsfrihed-Hvad-skal-det-nytte.pdf</ref>. Concern about societal conflict and violence arising from freedom of expression only finds empirical support in the most closed societies, where limited liberalizations of freedom of expression may be able to promote societal conflict. The same study suggested that freedom of expression is associated with general protection of human rights, lower levels of corruption, better democratic conditions, and increased innovation. This is consistent with the idea that most restrictions on freedom of expression are used as a tool to safeguard the interests of society's most powerful people.
 
