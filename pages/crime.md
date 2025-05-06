@@ -4,28 +4,28 @@ title: Crime
 permalink: /crime/
 ---
 
-## Punishment Practices
+## <span style="background-color:lightcoral">Punishment Practices</span>
 
-### Private Prisons
+### <span style="background-color:orange">Private Prisons</span>
 
 Probably cringe
 
 Cost savings from private prisons are minimal to null, and quality of confinement is slightly better for publicly managed prisons, with slightly better skills training and slightly fewer inmate grievances<ref>Pratt, T. C., & Maahs, J. (1999). Are Private Prisons More Cost-Effective than Public Prisons? A Meta-Analysis of Evaluation Research Studies. Crime & Delinquency, 45(3), 358–371. https://doi.org/10.1177/0011128799045003004</ref><ref>Lundahl, B. W., Kunz, C., Brownell, C., Harris, N., & Van Vleet, R. (2009). Prison privatization. Research on Social Work Practice, 19(4), 383–394. https://doi.org/10.1177/1049731509331946</ref>. Private prison inmates tend to have higher recidivism<ref>Spivak, A. L., & Sharp, S. F. (2008). Inmate recidivism as a measure of private prison performance. Crime & Delinquency, 54(3), 482–508. https://doi.org/10.1177/0011128707307962</ref><ref>Duwe, G., & Clark, V. (2013). The effects of private prison confinement on offender recidivism. Criminal Justice Review, 38(3), 375–394. https://doi.org/10.1177/0734016813478823</ref>.
 
-### Rehabilitation
+### <span style="background-color:orange">Rehabilitation</span>
 
 Probably based
 
 Restorative justice programs are significantly more effective in terms of victim and offender satisfaction, restitution compliance, and recidivism, although these are tempered by self-selection bias inherent in restorative justice research<ref>Latimer, J., Dowden, C., & Muise, D. (2005). The Effectiveness of Restorative Justice Practices: A Meta-Analysis. The Prison Journal, 85(2), 127–144. https://doi.org/10.1177/0032885505276969</ref>.
 
-### Death Penalty
+### <span style="background-color:orange">Death Penalty</span>
 
 Gay and cringe
 
 - **Deterrence: Null -** The consensus among criminologists is that the death penalty does not add any significant deterrent effect above that of long-term imprisonment<ref>Radelet, M. L., Ph. D., Lacock, T. L., Sheilah’s Fund, Tides Foundation, & Death Penalty Information Center. (2009). DO EXECUTIONS LOWER HOMICIDE RATES?: THE VIEWS OF LEADING CRIMINOLOGISTS. In Northwestern University, School of Law, THE JOURNAL OF CRIMINAL LAW & CRIMINOLOGY (Vol. 99, Issue 2, pp. 489–491). https://dpic-cdn.org/production/legacy/DeterrenceStudy2009.pdf</ref>. Empirical evidence also suggests that the death penalty has no deterrent effect on homicides<ref>Cochran, J. K., Chamlin, M. B., & Seth, M. (1994). DETERRENCE OR BRUTALIZATION? AN IMPACT ASSESSMENT OF OKLAHOMA’S RETURN TO CAPITAL PUNISHMENT*. Criminology, 32(1), 107–134. https://doi.org/10.1111/j.1745-9125.1994.tb01148.x</ref><ref>Zimring, F., Fagan, J., & Johnson, D. T. (n.d.). Executions, Deterrence and Homicide: A tale of two cities. Scholarship Archive. https://scholarship.law.columbia.edu/faculty_scholarship/1587/</ref>.
 - **Cost: High -** Each death penalty inmate in the US is approximately $1.12 million (2015 USD) more than a general population inmate. This comes from more expensive living conditions, a much more extensive legal process, and increasing resistance to the death penalty from chemical manufacturers overseas<ref>The Death Penalty vs. Life Incarceration: A Financial Analysis. (n.d.). ResearchGate. https://www.researchgate.net/publication/324804378_The_Death_Penalty_vs_Life_Incarceration_A_Financial_Analysis</ref>.
 
-## Police
+## <span style="background-color:orange">Police</span>
 
 Police force based
 
@@ -33,16 +33,16 @@ Police force based
 - **Hot Spots Policing and Crime: Negative -** Hot spots policing is effective in reducing crime<ref>Sci-Hub | Hot spots policing and crime reduction: an update of an ongoing systematic review and meta-analysis. Journal of Experimental Criminology | 10.1007/s11292-019-09372-3. (n.d.). https://sci-hub.ru/https://doi.org/10.1007/s11292-019-09372-3</ref>.
 - **Community-Oriented Policing and Crime: Null (But Maybe Other Positives) -** Community-oriented policing can positively affect citizen satisfaction, perceptions of disorder, and police legitimacy, but it has limited effects on crime and fear of crime<ref>Gill, C., Weisburd, D., Telep, C. W., Vitter, Z., & Bennett, T. (2014). Community-oriented policing to reduce crime, disorder and fear and increase satisfaction and legitimacy among citizens: a systematic review. Journal of Experimental Criminology, 10(4), 399–428. https://doi.org/10.1007/s11292-014-9210-y</ref>.
 
-## Crime
+## <span style="background-color:orange">Crime</span>
 
 Predictors of Crime:
 - **Lead Pollution -** Lead pollution has a small but statistically significant positive effect on crime<ref>Higney, A., Hanley, N., & Moro, M. (2022). The lead-crime hypothesis: A meta-analysis. Regional Science and Urban Economics, 97, 103826. https://doi.org/10.1016/j.regsciurbeco.2022.103826</ref>.
 - **Poverty/Inequality -** Both poverty and income inequality are associated with violent crime, with homicide and assault showing stronger associations than rape and robbery<ref>Sci-HuB | Poverty, Income Inequality, and Violent Crime: A Meta-Analysis of Recent Aggregate Data Studies. Criminal Justice Review, 18(2), 182–202 | 10.1177/073401689301800203. (n.d.). https://sci-hub.ru/https://doi.org/10.1177/073401689301800203</ref>. Poverty, social exclusion, wage and income inequality, cultural and family background, level of education, age, and sex contribute to violent crime<ref>Buonanno, P. (2003). The Socioeconomic Determinants of Crime. A Review of the literature. ideas.repec.org. https://ideas.repec.org/p/mib/wpaper/63.html</ref>. Higher social spending is associated with significantly lower crime, particularly homicide. This suggests that poverty itself is in fact an important predictor of criminality<ref>https://www.jstor.org/stable/3097192</ref><ref>https://www.sciencedirect.com/science/article/pii/S0047235220300623#:~:text=The%20welfare%20state%20suppresses%20crime,have%20any%20effect%20on%20homicide.</ref><ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/coep.12522</ref><ref>https://bmjopen.bmj.com/content/bmjopen/7/10/e016379.full.pdf</ref>.
 - **Racial Heterogeneity -** Racial heterogeneity, poverty, and family disruption are strong and stable predictors of crime, while variables related to the use of the criminal justice system were weak predictors. Social disorganization and resource/economic deprivation theories received strong empirical support, while deterrence/rational choice and subcultural theories received weak support<ref>Sci-Hub | Assessing Macro-Level Predictors and Theories of Crime: A Meta-Analysis. Crime and Justice, 32, 373–450 | 10.1086/655357. (n.d.). https://sci-hub.ru/https://doi.org/10.1086/655357</ref>.
 
-## Drug Policy
+## <span style="background-color:lightcoral">Drug Policy</span>
 
-### Effect on Crime
+### <span style="background-color:orange">Effect on Crime</span>
 
 **Enforcement increases crime, helps cartels**
 
@@ -50,21 +50,23 @@ Drug-related and gang-related homicides, as well as robberies, in states borderi
 
 Increasing drug law enforcement leads to higher gun violence and high homicide rates, and the disruption of drug markets increases violence without decreasing drug supply<ref>Werb, D., Rowell, G., Guyatt, G., Kerr, T., Montaner, J., & Wood, E. (2011). Effect of drug law enforcement on drug market violence: A systematic review. International Journal of Drug Policy, 22(2), 87–94. https://doi.org/10.1016/j.drugpo.2011.02.002</ref>.
 
-### Effect on Drug Use
+### <span style="background-color:orange">Effect on Drug Use</span>
 
 **Somewhat positive effect**
 
 The legalization of marijuana does not result in increased adolescent marijuana usage<ref>Choo, E. K., Benz, M., Zaller, N., Warren, O., Rising, K. L., & McConnell, K. J. (2014). The impact of state medical marijuana legislation on adolescent marijuana use. Journal of Adolescent Health, 55(2), 160–166. https://doi.org/10.1016/j.jadohealth.2014.02.018</ref><ref>Sci-Hub | Medical Marijuana Laws and Teen Marijuana Use | 10.1093/Aler/AHV002. (n.d.). https://sci-hub.usualwant.com/10.1093/aler/ahv002</ref>, although it may slightly increase general marijuana usage<ref>Zellers, S. M., Ross, J. M., Saunders, G. R. B., Ellingson, J. M., Anderson, J. E., Corley, R. P., Iacono, W., Hewitt, J. K., Hopfer, C. J., McGue, M. K., & Vrieze, S. (2022). Impacts of recreational cannabis legalization on cannabis use: a longitudinal discordant twin study. Addiction, 118(1), 110–118. https://doi.org/10.1111/add.16016</ref>.
 
-### Supervised Injection Sites
+### <span style="background-color:orange">Supervised Injection Sites</span>
+
+<span style="background-color:orange">Look into BC experience</span>
 
 **Based**
 
 Supervised injection sites reduce overdose mortality, reduce ambulance calls for treating overdoses, and decrease HIV infections, without increasing drug injection, trafficking, or crime in the surrounding environments<ref>Potier, C., Laprévote, V., Dubois-Arber, F., Cottencin, O., & Rolland, B. (2014). Supervised injection services: What has been demonstrated? A systematic literature review. Drug and Alcohol Dependence, 145, 48–68. https://doi.org/10.1016/j.drugalcdep.2014.10.012</ref><ref>Ng, J., Sutherland, C., & Kolber, M. R. (2017, November 1). Does evidence support supervised injection sites? PubMed Central (PMC). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685449/</ref>. Decreased needle sharing and better health services at safe injection sites resulted in Vancouver's supervised injection facility saving more than $20 million and 1070 life years gained<ref>Bayoumi, A. M., & Zaric, G. S. (2008). The cost-effectiveness of Vancouver’s supervised injection facility. Canadian Medical Association Journal, 179(11), 1143–1151. https://doi.org/10.1503/cmaj.080808</ref>.
 
-## Guns
+## <span style="background-color:lightcoral">Guns</span>
 
-### Homicide
+### <span style="background-color:orange">Homicide</span>
 
 **Moar guns = moar homicides**
 
@@ -80,7 +82,7 @@ In the US, higher levels of firearm ownership are associated with higher levels 
 
 Across developed countries, where guns are more available there are more homicides<ref>https://pubmed.ncbi.nlm.nih.gov/11130511/</ref>.
 
-### Suicide
+### <span style="background-color:orange">Suicide</span>
 
 **Moar guns = Moar suicides**
 
@@ -90,13 +92,13 @@ There is an association between gun ownership and overall risk of suicide, with 
 
 Changes in a household's gun ownership over time are associated with significant changes in suicide<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563517/pdf/178.pdf</ref>.
 
-### Economic Cost
+### <span style="background-color:orange">Economic Cost</span>
 
 **Guns have health costs**
 
 Firearm injuries in the US have an economic cost between hundreds of millions per year to tens of billions per year<ref>https://www.childrenssafetynetwork.org/sites/default/files/TheCostofGunViolence.pdf</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0039606014000609</ref><ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303684</ref>.
 
-### General Strictness
+### <span style="background-color:orange">General Strictness</span>
 
 **Gun control reduces deaths**
 
