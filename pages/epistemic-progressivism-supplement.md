@@ -4,15 +4,15 @@ title: Epistemic Progressivism Supplement
 permalink: /epistemic-progressivism-supplement/
 ---
 
-## Sociologist's Fallacy
+## <span style="background-color:lightcoral">Sociologist's Fallacy</span>
 
-## Social Constructions
+## <span style="background-color:lightcoral">Social Constructions</span>
 
-## Cthulu's Razor
+## <span style="background-color:lightcoral">Cthulu's Razor</span>
 
-## A Biorealist Account of Ethics
+## <span style="background-color:lightcoral">A Biorealist Account of Ethics</span>
 
-### The Relationship Between Truth and Ethics
+### <span style="background-color:lightcoral">The Relationship Between Truth and Ethics</span>
 
-#### Moralistic Fallacy
+#### <span style="background-color:lightcoral">Moralistic Fallacy</span>
 
