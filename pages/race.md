@@ -4,7 +4,7 @@ title: Race
 permalink: /race/
 ---
 
-## The Ethics of Investigating Race and Racial Differences
+## <span style="background-color:skyblue">The Ethics of Investigating Race and Racial Differences</span>
 
 There is an extremely large taboo against looking at issues surrounding race from a biological perspective. A recent study by researchers investigating the comparative taboo of various topics found that the issue of a genetic relationship between race and intelligence was a more taboo topic than issues such as incest and pedophilia<ref>Pesta, B., Kirkegaard, E. O. W., & Bronski, J. (2024). Is research on the genetics of race / IQ gaps “Mythically taboo?” OpenPsych. https://doi.org/10.26775/op.2024.04.15</ref>. Much of the strong aversion exhibited by many regarding this topic comes from the fear that such investigation will ultimately lead to a legitimization of racial prejudice, or claims that one group is superior to another. Admittedly, dividing people into races and implying that they may have differing characteristics is oftentimes a necessary condition by which oppression or claims of superiority can occur. However, that does not mean that suggesting that groups exist and have differing characteristics ultimately legitimates said thing. There are numerous examples in the context of people's everyday lives in which acknowledging differences does not lead or legitimate oppression or claims of superiority:
 
@@ -26,7 +26,7 @@ But this only suggests that the investigation of races and racial differences do
 
 None of this should be used as a case to lie about pieces of information should they appear to make people feel good. That being said, these arguments demonstrate that the acknowledgement of groups and group differences does not have to be something to legitimate oppression and racial superiority claims, and in many cases can be the exact opposite.
 
-## Classifying Racial Groups
+## <span style="background-color:skyblue">Classifying Racial Groups</span>
 
 The first issue which should be examined is the question of the degree to which racial classifications are themselves legitimate. The first objection academics often give to those studying group differences is that racial groups are simply arbitrary, and thus that it is useless to study race as a category. Oftentimes, this is done with an appeal to a supposed academic consensus amongst those who study race, who universally tend to reject race as a biological category. Race is said to be a social construct, and human population differentiation is said to exist amongst a gradient as opposed to discrete categories.
 
@@ -87,7 +87,7 @@ More recently, more sophisticated research utilizing admixture analysis has been
 
 A final line of evidence concerns MRI scans. MRI analysis indicates significant brain differences between groups of people, and various forms of imaging and geometric data on brains can predict a person's genetic ancestry at a very high performance<ref>Rao, N. P., Jeelani, H., Achalia, R., Achalia, G., Jacob, A., Bharath, R. D., Varambally, S., Venkatasubramanian, G., & Yalavarthy, P. K. (2017). Population differences in brain morphology: Need for population specific brain template. Psychiatry Research. Neuroimaging, 265, 1–8. https://doi.org/10.1016/j.pscychresns.2017.03.018</ref><ref>Altmann, A., Mourao-Miranda, J., Centre for Medical Image Computing, University College London, & Max Planck University College London Centre for Computational Psychiatry and Ageing Research. (2018). EVIDENCE FOR BIAS OF GENETIC ANCESTRY IN RESTING STATE FUNCTIONAL MRI. In bioRxiv [Journal-article]. https://www.biorxiv.org/content/10.1101/440776v1.full.pdf</ref><ref>Fan, C. C., Bartsch, H., Schork, A. J., Chen, C., Wang, Y., Lo, M., Brown, T. T., Kuperman, J. M., Hagler, D. J., Schork, N. J., Jernigan, T. L., & Dale, A. M. (2015). Modeling the 3D Geometry of the Cortical Surface with Genetic Ancestry. CB/Current Biology, 25(15), 1988–1992. https://doi.org/10.1016/j.cub.2015.06.006</ref>. This by itself does not imply that there exists genetic differences in intelligence between racial groups, but it does strongly imply that there are general brain differences which biologically differ between groups. Any environmental explanation for the high predictive power of brain imaging seems rather dubious from the outset. Kirkegaard and Fuerst found that when applying a multimodal MRI-based predictor of intelligence, race can confound models when a multiracial training sample is used because models learn to predict race and use race to predict intelligence<ref>A multimodal MRI-based predictor of intelligence and its relation to Race/Ethnicity. (n.d.). ResearchGate. https://www.researchgate.net/publication/369479241_A_Multimodal_MRI-based_Predictor_of_Intelligence_and_Its_Relation_to_RaceEthnicity</ref>. So models developed to try and predict intelligence use race to predict a person's intelligence when given MRI data. This strongly implies that race qua race is a factor which drives intelligence differences between people.
 
-#### Absence of Evidence for a Full Environmental Perspective
+#### <span style="background-color:skyblue">Absence of Evidence for a Full Environmental Perspective</span>
 
 So all of the aforementioned information taken together strongly suggests that one cannot explain racial intelligence differences without taking into account genetics. We can also look at it from the other angle. If we rule out reasonable environmental explanations for racial IQ gaps, it follows that genetics is a reasonable explanation for at least part of the gaps. Several factors are examined here:
 
@@ -115,11 +115,11 @@ If it is the case that racial intelligence gaps were 100% environmental, that wo
 
 Research suggests that there exists no ethnic differences in the heritability of intelligence<ref>https://sci-hub.se/https://doi.org/10.1016/j.intell.2019.101408</ref>, and that the heritability of intelligence among both blacks and whites is about 0.6. This is within the range of the pooled heritability of intelligence, if not slightly lower. Therefore, I conclude that the black-white IQ gap, and likely other racial IQ gaps, are caused by as much a mix of genetics and environment as individual differences in intelligence. That is, the gap is 60-80% genetic and 20-40% environmental.
 
-#### Implications
+#### <span style="background-color:yellow">Implications</span>
 
 Group IQ differences can help in part explain differences in wealth across countries. There is a positive correlation between national IQ score and innovation<ref>https://mpra.ub.uni-muenchen.de/76922/</ref>. Nations with higher average intelligence are more liberal (greater highest marginal individual tax rate and thus lower economic inequality), are less religious, and are more monogamous. Average intelligence appears to be the strongest predictor of these traits<ref>https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/iq-and-the-values-of-nations/B28886FC682668151084DF2E9DC5C0AF</ref>.
 
-### Other Psychological Racial Differences
+### <span style="background-color:skyblue">Other Psychological Racial Differences</span>
 
 There have been other psychological differences between races which have been identified. The full discussion about how these are plausible will not be here, as it was already addressed in the race and intelligence section. It was already demonstrated how there are significant differences between races in brain structure, which are likely heavily mediated by genetics, and hence intuitively many psychological differences would be in part genetic:
 
@@ -131,11 +131,11 @@ There have been other psychological differences between races which have been id
 
 ***Aggression -** The 2-repeat allele of the MAOA gene is carried by 0.1% of caucasian males and 5.2% of African-American males. African-American males who carried the 2-repeat allele are significantly more likely to be arrested and incarcerated, are more anti-social, and have higher involvement in violent behaviors over the life course<ref>https://lesacreduprintemps19.files.wordpress.com/2012/12/exploring-the-association-between-the-2-repeat-allele-of-the-maoa-gene.pdf</ref>. A similar analysis could not be done for caucasians due to its rarity amongst caucasians.
 
-## Understanding Race as a Social Phenomenon
+## <span style="background-color:orange">Understanding Race as a Social Phenomenon</span>
 
 It is difficult to dispute the notion that race is a major social issue within modern societies. Investigating the reasons for why race is generally seen as being significant to many people is essential to helping alleviate conflict.
 
-### Ethnocentrism: Descriptively and Ethically
+### <span style="background-color:yellow">Ethnocentrism: Descriptively and Ethically</span>
 
 Human morality fundamentally derives from concentric circles of obligation that one has to individuals who are gradually less and less related to oneself. This is because people are interested in passing down their genes and yet need the assistance of others to survive. Even when an individual does not survive, if someone genetically related to them survives, that is still in part a passage of one's genes. Thus, humans will naturally feel a greater sense of obligation towards those that they are genetically similar to. This can be seen with nepotism, and preference for one's family; followed by preference for friends, community, and race/ethnicity, followed by a general preference for humanity. One can even extend this back to different animals. Humans feel less bad about killing an ant compared to a rabbit, in part because the rabbit appears more genetically similar.
 
@@ -153,7 +153,7 @@ Nonetheless, there are behaviors which are seen as clearly going too far when it
 
 While some may view this as being a particularly radical position, this is in some sense a description of what already occurs in general. People tend to associate with those who are similar to them, and this is merely an argument for that being normal and acceptable.
 
-### Research on the Effects of Ethnic Diversity
+### <span style="background-color:yellow">Research on the Effects of Ethnic Diversity</span>
 
 Understanding ethnocentrism as relatively natural, this can help to understand why research on ethnic diversity suggests that it can oftentimes have negative effects on society. Several broad themes emerge from examining the effects of ethnic diversity:
 
@@ -165,7 +165,7 @@ Understanding ethnocentrism as relatively natural, this can help to understand w
 
 *Diversity, when it brings about greater levels of experience and ideas generation can have positive effects in terms of innovation.
 
-#### Social Effects: Mixed
+#### <span style="background-color:yellow">Social Effects: Mixed</span>
 
 The overall research suggests that ethnic diversity has negative effects on social trust, based on results from both meta-analytical and experimental data and also a literature review on the subject. However, this varies according to measure, and the evidence suggests the effect is strongest in the context of within-neighborhood interactions<ref>Glaeser, E. L., Laibson, D. I., Scheinkman, J. A., & Soutter, C. L. (2000). Measuring trust. The Quarterly Journal of Economics, 811–812. https://scholar.harvard.edu/files/laibson/files/measuring_trust.pdf</ref><ref>Van Der Meer, T., & Tolsma, J. (2014). Ethnic diversity and its effects on social cohesion. Annual Review of Sociology, 40(1), 459–478. https://doi.org/10.1146/annurev-soc-071913-043309</ref><ref>Dinesen, P. T., Schaeffer, M., & Sønderskov, K. M. (2020). Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review. Annual Review of Political Science, 23(1), 441–465. https://doi.org/10.1146/annurev-polisci-052918-020708</ref>. Conversely, there is a positive relationship between co-ethnic concentration and trust in neighbors<ref>Wu, Z., Hou, F., Schimmele, C., & Carmichael, A. (2017). Co-ethnic concentration and trust in Canada’s urban neighbourhoods. Urban Studies, 55(10), 2159–2178. https://doi.org/10.1177/0042098017708939</ref>. Interestingly, immigrants appear to also adopt levels of social trust consistent with those of native-born citizens, and this effect becomes stronger for second-generation immigrants<ref>Dinesen, P. T., & Hooghe, M. (2010). When in Rome, Do as the Romans Do: The Acculturation of Generalized Trust among Immigrants in Western Europe. In Center for Migration Studies of New York, International Migration Review (Vols. 44–44, Issue Number 3, pp. 697–727). https://doi.org/10.1111/j.1747-7379.2010.00822.x</ref><ref>Helliwell, J. F., Wang, S., & Xu, J. (2015). How Durable are Social Norms? Immigrant Trust and Generosity in 132 Countries. Social Indicators Research, 128(1), 201–219. https://doi.org/10.1007/s11205-015-1026-2</ref>. This suggests that ethnic diversity in general reduces social cohesion and immigrants also feel these effects. On an individual level, this effect certainly varies from person to person, as research has found that those who move into a diverse place experience no negative effects on social cohesion while those who are in a community which becomes more diverse do have negative social cohesion effects<ref>Does Ethnic Diversity Have a Negative Effect on Attitudes towards the. . .. (2015, November 14). archive.is. https://archive.is/EyRQQ</ref>. This is likely due to selection bias of those moving being more likely to be sympathetic towards diverse communities. Ethnic diversity also erodes social capital<ref>In-migration and dilution of community social capital. (2018). In CES (No. 32; Vol. 18). https://www2.census.gov/ces/wp/2018/CES-WP-18-32.pdf</ref>, including the probability of volunteering, having a group membership, and the probability of entertaining<ref>Costa, D., & Kahn, M. (2001). Understanding the Decline in Social Capital, 1952-1998. https://doi.org/10.3386/w8295</ref>.
 
@@ -181,7 +181,7 @@ Moving from a homogenous school district to one in which two racial groups have 
 
 So much of the research on the social effects suggests that ethnic diversity can increase conflict.
 
-#### Economic Effects: Mixed
+#### <span style="background-color:yellow">Economic Effects: Mixed</span>
 
 Looking at research on overall economic growth, the evidence points to null or negative effects of ethnic diversity on economic growth. This effect is largest in poorer countries with weak institutions and becomes null in rich democracies which have good institutions to be able to manage ethnic diversity<ref>http://www.sba.muohio.edu/davisgk/growth%20readings/1.pdf</ref><ref>https://archive.is/HSsBl</ref><ref>https://www.nber.org/system/files/working_papers/w10313/w10313.pdf</ref>. There are some more specific lines of evidence that can be examined. One is how ethnic diversity affects institutions which predict economic growth, such as public goods provision<ref>https://www.nber.org/papers/w5677</ref>, as well as other institutions which are generally positive but may not predict economic growth such as environmental protection<ref>https://archive.is/wF2el</ref>. Ethnic diversity also appears to have a negative effect on the provision of public goods.
 
@@ -193,11 +193,11 @@ Research which bases its conclusions on the personal experiences of employees pa
 
 Given that these initiatives likely predict in many circumstances the level of ethnic diversity within firms, it is possible that this can also explain some positive overall associations between ethnic diversity and firm performance. Furthermore, this research doesn't separate between demographic and ethnic diversity necessarily.
 
-#### Health Effects: Mixed
+#### <span style="background-color:yellow">Health Effects: Mixed</span>
 
 Ethnic diversity appears to be weakly associated with lower mental health outcomes<ref>https://www.researchgate.net/publication/266144169_Cultural_Diversity_and_Subjective_Wellbeing</ref><ref>https://link.springer.com/article/10.1007/s00148-017-0657-9</ref><ref>https://www.researchgate.net/publication/327971738_Neighbourhood_Ethnic_Diversity_and_Mental_Health_in_Australia</ref>, and increases in own ethnic density are associated with improvements in mental health<ref>https://www.cambridge.org/core/journals/psychological-medicine/article/abs/ethnic-density-effects-for-adult-mental-health-systematic-review-and-metaanalysis-of-international-studies/A24EC5BAF9D8B12450A940A7D3A6A887</ref><ref>https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/ethnic-density-as-a-buffer-for-psychotic-experiences-findings-from-a-national-survey-empiric/6996920C34314755C7D02BC7C0C016FB</ref>. It should be noted however that this effect varies between individuals of different psychological orientations<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3321720</ref>. Individuals with low openness and low particularized trust tend to have lower psychological well-being as a result of immigration, which is typically associated with increases in ethnic diversity. On the other hand, immigration increases the psychological well-being of individuals with high openness and high particularized trust. In terms of general health, ethnic diversity and general health are inversely related to one another<ref>https://archive.is/UF8IT</ref><ref>https://link.springer.com/article/10.1007/s11205-016-1454-7</ref>. Additionally, ethnic diversity appears to itself contribute to poverty levels<ref>https://www.sciencedirect.com/science/article/abs/pii/S0305750X17300694?via%3Dihub</ref>.
 
-### The Effects of Interracial Marriage
+### <span style="background-color:yellow">The Effects of Interracial Marriage</span>
 
 Interracial marriages, because they go in opposition to natural ingroup bias, are naturally seen as non-normative by people. Among non-blacks there is more stigma and disapproval attached to relationships with blacks than to relationships with members of other groups<ref>https://pubmed.ncbi.nlm.nih.gov/22081799/</ref>. Furthermore, interracial couples elicit disgust and are dehumanized relative to same-race couples<ref>https://www.sciencedirect.com/science/article/abs/pii/S0022103116300555</ref>.
 
@@ -211,23 +211,23 @@ These issues likely arise for two reasons. First, people are genetically incline
 
 This is likely due to selection bias amongst those who choose ot be interracial parents, as well as possible identity issues related to being mixed-race. Research on admixture and IQ suggests that outbreeding depression is not a major factor in explaining these outcomes. Similarly, there is mixed evidence on whether mixed-race children are more or less likely to have malformations from birth. Some congenital malformations are more common amongst births to parents of mixed race-ethnicity, while others are less common<ref>https://archive.ph/5kPn1</ref>.
 
-### How to Accommodate for Ethnic Diversity
+### <span style="background-color:lightcoral">How to Accommodate for Ethnic Diversity</span>
 
-### Why Ethnostates and Racialism are Cringe and Dumb
+### <span style="background-color:lightcoral">Why Ethnostates and Racialism are Cringe and Dumb</span>
 
-### Identity Politics is Inevitable
+### <span style="background-color:lightcoral">Identity Politics is Inevitable</span>
 
-## The Modern Narrative on Racism
+## <span style="background-color:yellow">The Modern Narrative on Racism</span>
 
 In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatment in the past 5 years due to their race or skin color, compared to 13.8% of First Nations, Metis, or Inuit, 19% of other groups designated as visible minorities, and 2.8% of non-Indigenous, non-visible minorities<ref>https://www150.statcan.gc.ca/n1/pub/85-002-x/2022001/article/00002/tbl/tbl01-eng.htm</ref>. While this doesn't by itself imply that racism disproportionately negatively affects one group or another, it does suggest it may be the case and regardless the perception can have effects. Perceived discrimination has a significant negative effect on both mental and physical health, also increasing stress<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747726/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/24547896/</ref>.
 
-### Statistical Versus Taste-Based Discrimination
+### <span style="background-color:yellow">Statistical Versus Taste-Based Discrimination</span>
 
 When discussing discrimination that exists in many contexts, it is important to separate between statistical and taste-based discrimination. It is most easily understood when discussing a hiring decision, althouhg it applies in essentially all instances of discrimination. In the case of a hiring discrimination, taste-based discrimination occurs when someone chooses to hire or not hire someone based on personal dislike for their characteristics. On the other hand, statistical discrimination occurs when someone chooses to hire or not hire someone based on their belonging to a group which on average has a certain trait. In the absence of perfect information, statistical discrimination can sometimes optimize for a more productive worker. Thus, just because discrimination occurs doesn't mean it undermines productivity, although the question arises as to whether it's just and why group averages differ.
 
 As shown prior, group averages differ in large part due to genetics on many traits, although perhaps not all. As for its morality, even if group averages were heavily or entirely environmental in origin, it may not lie in the obligation of an individual employer to not discriminate if it harm them in the process, although this may differ in other contexts or examples.
 
-#### Stereotype Accuracy
+#### <span style="background-color:yellow">Stereotype Accuracy</span>
 
 There are two major types of stereotypes which are of concern when discussing stereotype accuracy. Generic stereotypes are those which make an assertion about every member of a group. On the other hand, statistical stereotypes are those which make an assertion about group averages. Research suggests that statistical stereotypes are generally accurate and group differences are often underestimated, and have been found across race and gender lines<ref>https://psycnet.apa.org/record/2015-19097-002</ref>. Some statistical stereotypes are nonetheless exaggerated, such as stereotypes about adherents to political ideologies or stereotypes about national character.
 
@@ -235,7 +235,7 @@ There are several moderators to this effect. More educated people tend to at lea
 
 Importantly, however, generic stereotypes tend to predominate the decision-making of individuals, and these tend to be cognitively simpler, are often about infrequent attributes, are based on limited statistical evidence, are not very prone to change, and are often used to generate genetic explanations where they may not necessarily exist<ref>https://www.researchgate.net/publication/313670518_Investigating_the_cognitive_structure_of_stereotypes_Generic_beliefs_about_groups_predict_social_judgments_better_than_statistical_beliefs</ref>. Therefore, it is fair to suggest that generic stereotypes are inaccurate, while statistical stereotypes are. Because generic stereotypes are employed by people more, however, we can reasonably conclude that stereotype accuracy, at least in terms of the ways in which people process stereotypes, is low. Stereotype accuracy appears to be much more complex of an issue than is generally believed. Stereotypes can be accurate or inaccurate depending on the form they manifest and also the way in which they are applied in terms of real-world behavior. Stereotyping thus is not necessarily bad.
 
-### Quantifying Explicit Bias
+### <span style="background-color:yellow">Quantifying Explicit Bias</span>
 
 The implicit association test (IAT) is the major test which aims to measure implicit biases<ref>https://doi.apa.org/doiLanding?doi=10.1037%2F0022-3514.74.6.1464</ref>. This has been used primarily with regards to race, although there are equivalent tests for other biases. Implicit and explicit bias has been decreasing in general against social groups including sexual orientation, race, skin tone, age, disability, and body weight<ref>https://journals.sagepub.com/doi/abs/10.1177/0956797618813087</ref>.
 
@@ -245,7 +245,7 @@ In spite of the lack of predictive power of the IAT on individual behavior, indi
 
 The IAT might be a somewhat useful tool for examining population differences in bias in a particular domain, but it has substantial flaws and should be used with caution.
 
-### Unfair Bias as a Factor in Disparities
+### <span style="background-color:yellow">Unfair Bias as a Factor in Disparities</span>
 
 It is generally asserted that because racial disparities exist that there must be discrimination involved. But understanding group differences in cognitive ability severely undermines this narrative, because of an extremely important set of facts:
 
@@ -263,7 +263,7 @@ To see this, imagine that there were two groups, group A and group B. Group A ha
 
 It should also be noted that much of the research on racism suffers from publication bias. Due to a lack of meta-analytic data in many areas, as well as a lack of tests for publication bias even amongst research which looks at these issues, it is difficult to see how much publication bias affects particular results. However, it is consistently found that after correcting for publication bias, racial disparities go down significantly or are eliminated. Hence, one should take caution in interpreting particular studies as evidence of racism, and should generally assume that a particular study probably exaggerates the true degree of racial bias in a particular domain.
 
-#### Economic
+#### <span style="background-color:yellow">Economic</span>
 
 Seeing as racial earnings gaps appear to be primarily due to differences in IQ, and hence taste-based discrimination is unlikely to account for a large amount of the gap, the information should be cross-checked with research attempting to quantify discrimination, if it occurs at all.
 
@@ -307,7 +307,7 @@ The economic and residential segregation created by redlining persists in many c
 
 Redlining may be mostly a product of geographic discrimination in itself as opposed to racial discrimination<ref>https://sci-hub.ru/https://doi.org/10.2307/2946707</ref>.
 
-#### Criminal
+#### <span style="background-color:yellow">Criminal</span>
 
 The degree to which the criminal justice system unfairly targets black people would have a substantial effect on the labor market outcomes of blacks relative to whites independent of cognitive ability differentials. Being unfairly targeted and thrown in prison, brutalized, etc. would have effects on the ability for blacks to get jobs and disrupt their income streams. Given our prior understanding of how blacks earn the same or more than whites of the same cognitive ability, the default hypothesis should thus be that racial bias is small to nonexistent in the criminal justice system.
 
@@ -355,7 +355,7 @@ Black Lives Matter, or BLM, is a movement which has gained popularity and aims t
 
 However, it is still fighting against an issue which doesn't really exist as demonstrated. Furthermore, it likely in fact harms the black community through promoting policing practices that increase overall homicides and increasing police attrition which has a similar effect. Research suggests that BLM protests have decreased police homicides and property crimes within the areas they are located, but have increased murders in general. However, demographic imbalance in protest variation and treatment timing warrant a cautious interpretation<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767097</ref>. While this study is definitive, it is consistent with previous research suggesting the benefits of policing in reducing homicides in the black community.
 
-#### Educational
+#### <span style="background-color:yellow">Educational</span>
 
 Bias in educational systems, if it exists, would likely have effects on the earnings of blacks relative to whites. As with examining economic and criminal justice disparities, the default hypothesis given prior information should be that there exists little to no bias in the educational system. Here I will look at the possibility of racial bias in school punishment and grading:
 
@@ -383,17 +383,17 @@ Harlem Children's Zone charter schools closed the black-white achievement gap in
 
 Improvements in the relative quality of black schools in terms of pupil-teacher ratios, annual teacher pay, and term length for black and white schools explain some of the narrowing of the black-white earnings gap between 1960 and 1980<ref>https://sci-hub.ru/https://doi.org/10.2307/2118326</ref>.
 
-#### Health
+#### <span style="background-color:yellow">Health</span>
 
 Another question to ask is whether there is racism in health:
 
 - **Healthcare Access: Some Bias -** I would have to quantify the exact effects shown in these studies, but research suggests that there exists low to moderate levels of implicit racial bias among healthcare professionals, which is significantly related to patient-provider interactions and health outcomes<ref>https://pubmed.ncbi.nlm.nih.gov/26469668/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/28249596/</ref>. Furthermore, experimental evidence suggests that there is racial discrimination against middle-class blacks compared to middle-class whites in accessing mental health care, although there is no discrimination between working-class blacks and whites<ref>https://journals.sagepub.com/doi/abs/10.1177/0022146516647098</ref>.
 
-#### Other
+#### <span style="background-color:lightcoral">Other</span>
 
-### Possible Remedying of Disparities
+### <span style="background-color:lightcoral">Possible Remedying of Disparities</span>
 
-#### Affirmative Action
+#### <span style="background-color:yellow">Affirmative Action</span>
 
 Affirmative action has a range of definitions, but is generally understood as referring ot various means by which hiring or admissions processes are changed to increase the number of minorities in institutions. This is done with the intent of equalizing group outcomes, often on the motivation that unequal group outcomes are a product of discrimination. An initial question we can examine is what the effects of affirmative action are in terms of achieving its goals:
 
@@ -412,9 +412,9 @@ However, beyond its direct effects on minority and majority well-being, affirmat
 
 **The Affirmative Action Dilemma -** Mentions of affirmative action can lead people to view groups who benefit from affirmative action more negatively<ref>https://journals.sagepub.com/doi/10.1177/0146167298241005</ref>. Affirmative action by its very nature attempts to hire or admit those who otherwise would not have had as strong of qualifications as their competitors. Such policies necessarily lead to situations whereby people will question whether any minority in their social space got their because of their merit or something else. Affirmative action to its proponents should be viewed as something positive for minorities, yet they hate the suggestion that any individual minority is a beneficiary. This is a product of the dilemma between a sacrifice of merit and an upholding of "equity".
 
-### Debunking False Narratives
+### <span style="background-color:lightcoral">Debunking False Narratives</span>
 
-#### "Reverse Racism Doesn't Exist"
+#### <span style="background-color:lightcoral">"Reverse Racism Doesn't Exist"</span>
 
 #### Diversity, Equity, and Inclusion
 
@@ -424,7 +424,7 @@ Advocates of DEI don't recognize this explicitly, but do implicitly. For example
 
 This contradiction is certainly a function of a tunnel vision of DEI advocates, whose ideology can be boiled down to a disposition in favor of fetishizing minority groups, as opposed to being based on any actual principle. Apartheid between blacks and whites in South Africa is bad because the blacks in South Africa majority believed it was. But apartheid between Amerindians and non-Amerindians in America is good because the Amerindians in North America think it is. Unfortunately this leads to a no-win situation, where any consistent application of standards will be perceived as "racist" by DEI advocates. You're racist and evil no matter what you do, as long as it's consistent.
 
-#### White Privilege
+#### <span style="background-color:yellow">White Privilege</span>
 
 White privilege views being white as a categorical good in society as it confers upon one a number of unearned advantages that those of other races do not get. This has certainly been a very popular narrative in many left-wing circles, but it is flawed from an empirical and a conceptual perspective.
 
@@ -443,7 +443,7 @@ Furthermore, note that advocates of white privilege when talking to a particular
 
 The empirical issue is that white people are not the most privileged group in society on any measure. In terms of income, various groups do better than whites, such as Asians<ref>https://www.jstor.org/stable/1085574?seq=1#metadata_info_tab_contents</ref>. While some of this may be due to immigration selection bias into western countries, much of it is ceertainly also due to the higher mean IQ that asians tend to possess, something demonstrated in earlier sections to be in part genetic in origin. To the extent that empirically "privilege" may exist, it certainly is not whites who have it.
 
-### The Effect of Anti-White Racism
+### <span style="background-color:yellow">The Effect of Anti-White Racism</span>
 
 Much of the mainstream narrative on race concerns the existence of anti-black racism, and oftentimes even the suggestion that anti-white racism exists can be seen as a dog-whistle for some "evil agenda". However, there is evidence that anti-white racism exists to some extent, particularly amongst liberals, even white liberals. As has been discussed before several times, white liberals are the only group of people to have an outgroup preference<ref>https://www.tabletmag.com/sections/news/articles/americas-white-saviors</ref>, suggesting from the outset that white liberals may engage in racism against their own ethnic group. There are numerous documented studies which empirically show that liberal racial bias exists to a fairly large extent:
 
