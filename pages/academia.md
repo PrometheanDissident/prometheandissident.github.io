@@ -4,50 +4,50 @@ title: Academia
 permalink: /academia/
 ---
 
-## Schooling
+## <span style="background-color:lightcoral">Schooling</span>
 
-### Returns to Education
+### <span style="background-color:orange">Returns to Education</span>
 
 **Degrees are Mostly Signalling:** According to Abel & Deitz (2019), the average annual rate of return for a college bachelor's degree, in spite of rising college costs, is around 14%, meaning it is still a good investment<ref>https://libertystreeteconomics.newyorkfed.org/2019/06/despite-rising-costs-college-is-still-a-good-investment/</ref>. Research suggests that there is large variation depending on a number of factors. While college selectivity and where one studies has relatively little effect on a person's long-term financial returns to their education<ref>https://sci-hub.se/https://doi.org/10.1007/BF00992285</ref><ref>https://sci-hub.se/https://doi.org/10.1162/003355302320935089</ref>, what a person studies has a large effect on their financial returns<ref>https://www.economist.com/united-states/2015/03/12/it-depends-what-you-study-not-where</ref>. There exists substantial sheepskin effects on returns to education, where there are increases in earnings due to the credential itself as opposed to the underlying skills or abilities demonstrated by individuals<ref>http://econ.queensu.ca/pub/jdi/deutsch/edu_conf/Ferrer.pdf</ref><ref>https://www.econstor.eu/bitstream/10419/188353/1/pjcss433.pdf</ref>. In 2011, a Russian educational reform shortened the university study period by one year and reduced the content of the curricula but did not change the quality of admitted students. This had no adverse effect on wages and on the probability of being employed, suggesting no returns to higher education<ref>https://wp.hse.ru/data/2020/09/22/1584505319/236EC2020.pdf</ref>.
 
 **Basic Education is Economically Good:** Literacy and numeracy have substantial economic value. More years in education alone does not improve this economic value, but it must be combined with a rigorous evaluation and curriculum<ref>https://wol.iza.org/articles/what-is-economic-value-of-literacy-and-numeracy</ref>.
 
-### Effects of Schooling
+### <span style="background-color:orange">Effects of Schooling</span>
 
 - **Crime: Reduced -** Improved schooling reduces crime rates. The causal link does not appear to be the reverse, as this was researched using randomized treatment, thus in effect acting as an experiment<ref>https://dash.harvard.edu/bitstream/handle/1/12308135/Deming_BSLC_QJE.pdf?sequence=1</ref>.
 - **Class Size: Positive -** Class size increases educational attainment even controlling for IQ<ref>https://sci-hub.ru/https://doi.org/10.2307/1164099</ref>.
 
-### Types of Schooling
+### <span style="background-color:lightcoral">Types of Schooling</span>
 
-#### Homeschooling
+#### <span style="background-color:orange">Homeschooling</span>
 
 **Homeschooling Based** There are a variety of reasons why parents and youth may decide to do homeschooling, including increasing family bonding, to accomplish more academically, to customize or individualize the curriculum and learning environment, to provide a safer environment, or to teach and impart a particular set of values, beliefs, or worldview.The home-educated tend to score above average on achievement tests regardless of their parents' level of formal education and also score above average on SAT and ACT tests. The home-educated typically do above average on measures of social, emotional, and psychological development and tend to engage more in civic life in adulthood. The causality of these relationships is not clear however<ref>https://files.eric.ed.gov/fulltext/ED556234.pdf</ref>.
 
-#### Charter Schools
+#### <span style="background-color:orange">Charter Schools</span>
 
 **Mixed:** Charter schools have very heterogeneous effects depending on the study, although on the net there is a small positive effect of charter schools on elementary reading and math, as well as middle school math. There is no statistically significant effect on middle school reading or high school reading or math<ref>https://files.eric.ed.gov/fulltext/ED526353.pdf</ref>. Charter schools tend to be more fiscally costly for school districts because separate governance arrangements can create excess costs and the financing policies can distribute resources to or away from districts<ref>http://www.columbia.edu/~rr2165/pdfs/nycharterfiscal.pdf</ref>.
 
-### Performance-Related Pay
+### <span style="background-color:orange">Performance-Related Pay</span>
 
 **Based:** Performance-related pay positively affects student test scores, especially those which were group-based as opposed to individual-based<ref>https://fordhaminstitute.org/national/commentary/does-teacher-merit-pay-affect-student-test-scores</ref>.
 
-### School Choice
+### <span style="background-color:orange">School Choice</span>
 
 **Based:** School choice improves academic outcomes for both choice participants and public schools, saves tax dollars, and reduces racial segregation<ref>https://www.edchoice.org/research-library/?report=win-win-solution/</ref>.
 
-### Head Start Program
+### <span style="background-color:orange">Head Start Program</span>
 
 Compared to at-home care, attending a head start center generates significant positive effects on children's development, although the small average effects exist when comparing Head Start to similar programs<ref>https://www.irle.berkeley.edu/files/2016/IRLE-Revisiting-the-impact-of-Head-Start.pdf</ref>. Moreover, head start has a positive effect on years of education, and beneficial impacts on wage income located at the lower end of the distribution<ref>https://www.econstor.eu/bitstream/10419/142354/1/dp9915.pdf</ref>.
 
-### Partisan Bias
+### <span style="background-color:orange">Partisan Bias</span>
 
 There is little evidence of partisan bias in political science grading<ref>https://journals.sagepub.com/doi/abs/10.1177/1532673X14561655?journalCode=aprb</ref>.
 
-### Knowledge Retention
+### <span style="background-color:orange">Knowledge Retention</span>
 
 Across a variety of fields, students lose a large percentage of the knowledge they receive in a course within the first two years following completion<ref>https://sci-hub.ru/https://doi.org/10.2307/1182376</ref><ref>https://sci-hub.ru/https://doi.org/10.1177/0273475306291463</ref><ref>https://sci-hub.ru/https://doi.org/10.1186/1472-6920-6-5</ref><ref>https://sci-hub.ru/https://doi.org/10.1007/s10459-008-9101-y</ref>.
 
-### Tuition
+### <span style="background-color:orange">Tuition</span>
 
 **Spending can be good for student outcomes:** One study finds that per dollar, price cuts are less effective per-dollar than spending increases in terms of increasing postsecondary attainment. Spending has large impacts on enrollment and degree completion<ref>https://scholar.harvard.edu/files/ddeming/files/DW_Aug2017.pdf</ref>. However, a meta-analysis suggests that the mean tuition-enrollment elasticity across studies is close to zero after controlling for publication bias<ref>http://meta-analysis.cz/education/education.pdf</ref>.
 
@@ -59,9 +59,9 @@ Across a variety of fields, students lose a large percentage of the knowledge th
 
 **Higher tuition colleges tend to be better** Attending a relatively high tuition college has a net positive influence on educational attainment, occupational status, and income. This remained significant even after controlling for student background characteristics such as socioeconomic origins, secondary school achievement, and educational and occupational aspirations. It still remained significant after controlling for academic selectivity and private/public control<ref>https://www.researchgate.net/profile/Mark-Smylie/publication/226126111_College_Tuition_Costs_and_Early_Career_Socioeconomic_Achievement_Do_You_Get_What_You_Pay_For/links/55b21bd608aed621ddfd840d/College-Tuition-Costs-and-Early-Career-Socioeconomic-Achievement-Do-You-Get-What-You-Pay-For.pdf</ref>.
 
-## Bad Academia
+## <span style="background-color:lightcoral">Bad Academia</span>
 
-### Peer Review and Publication Bias
+### <span style="background-color:orange">Peer Review and Publication Bias</span>
 
 **Peer reviewers are biased against those they disagree with** Peer reviewers tend to be biased against manuscripts which report results contrary to their theoretical perspective or political orientation, independent of the quality of the paper<ref>Abramowitz, S. I., Gomes, B., & Abramowitz, C. V. (1975). Publish or politic: Referee Bias in Manuscript review1. Journal of Applied Social Psychology, 5(3), 187–200. https://doi.org/10.1111/j.1559-1816.1975.tb00675.x</ref><ref>Mahoney, M. J. (1977). Publication prejudices: An experimental study of confirmatory bias in the peer review system. Cognitive Therapy and Research, 1(2), 161–175. https://doi.org/10.1007/bf01173636</ref>.
 
@@ -87,7 +87,7 @@ Across a variety of fields, students lose a large percentage of the knowledge th
 
 **Competition increases bias** Across all disciplines, papers are more likely to support a tested hypothesis if their corresponding authors work in states that produce more academic papers per capita. This suggests that competitive academic environments may increase scientists' bias<ref>Fanelli, D. (2010). Do Pressures to Publish Increase Scientists’ Bias? An Empirical Support from US States Data. PLoS ONE, 5(4), e10271. https://doi.org/10.1371/journal.pone.0010271</ref>.
 
-### Experts
+### <span style="background-color:orange">Experts</span>
 
 **Few experts produce knowledge** It is only a relatively small number of physicists who contribute substantially to the advance of science through their research. Only about 15-20% of the work cited in significant discoveries is produced by average scientists. Even papers of minor significance tend to disproportionately use the work of eminent scientists. Most articles published even in leading journals receive very few citations. Independent multiple discoveries are extremely common within science, so the work of average scientists can easily be replaced. Major contributions to teaching are also likely done by a small handful of scientists, as the great majority of elite scientists are trained by other members of the elite<ref>https://www.science.org/doi/10.1126/science.178.4059.368</ref>.
 
@@ -100,32 +100,32 @@ Competition among scientists for funding, positions and prestige, among other th
 
 **Prestiege is predicted by complexity of language in paper** There exists a positive correlation between the prestige of a management research article and its reading difficulty. Passages that are more difficult to read but with identical content are rated as higher in research competence. This suggests that management scientists gain prestige through unintelligible writing<ref>https://sci-hub.se/https://doi.org/10.1287/inte.10.2.80</ref>.
 
-### Scientific Progress
+### <span style="background-color:orange">Scientific Progress</span>
 
 **Scientific progress is based on collaborative diversity in hot spots and hot moments** Scientific collaborations are characterized by hot spots and hot moments which are short but intense periods of collaboration which drive scientific and intellectual social movements. Emotions and bonding are essential for the group's growth and development, but increased size and diversity have the potential to erode the affective culture that generated initial successes<ref>https://journals.sagepub.com/doi/abs/10.1177/0003122411433763</ref>.
 
-### Misconduct, Mistakes, and Retractions in Academia
+### <span style="background-color:orange">Misconduct, Mistakes, and Retractions in Academia</span>
 
 **Issues in general are common** Misconduct, mistakes, and retractions are common within academia, although getting precise estimates for its prevalence is difficult<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738</ref><ref>https://sci-hub.hkvisa.net/10.1098/rspa.2020.0538</ref>. Misconduct appears to be rising significantly, although it is not clear whether this is due to improved screening practices or changes in the number of publications which have research containing misconduct<ref>https://sci-hub.ru/https://doi.org/10.1073/pnas.1212247109</ref><ref>https://sci-hub.ru/https://doi.org/10.1136/jme.2010.040923</ref>. Higher journal impact factor is positively associated with misconduct as well, although again it is not clear whether this is a screening issue or a publication quality issue<ref>https://sci-hub.ru/https://doi.org/10.1128/IAI.05661-11</ref>. Much of this fraud appears to be deliberately done<ref>https://sci-hub.ru/https://doi.org/10.1136/jme.2010.038125</ref>. Luckily, retractions which occur as a consequence of misconduct result in the author of the publication getting fewer citations in the future, suggesting there is a degree of self-correction which occurs in academia dealing with this<ref>https://www.nature.com/articles/srep03146</ref>. There are a variety of reasons why misconduct occurs<ref>https://sci-hub.ru/https://doi.org/10.1007/s11948-007-9045-2</ref>. Eichorn & Yankauer (1987) looked at a random sample of 50 references in three public health journals. They found that 31% of the total 150 references had citation errors<ref>https://sci-hub.ru/https://doi.org/10.2105/AJPH.77.8.1011</ref>. Much of this research suggests that academia can be fallible in this domain.
 
-### Political Leanings of Academics
+### <span style="background-color:orange">Political Leanings of Academics</span>
 
 **Left-wing bias in academia exists and is in part due to discrimination/prejudice** Academics lean overwhelmingly left today<ref>https://econjwatch.org/articles/faculty-voter-registration-in-economics-history-journalism-communications-law-and-psychology</ref><ref>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.120.9897&rep=rep1&type=pdf</ref>, although in the past it has been more balanced. This is partially due to differences in intelligence and openness to experience, although this cannot explain all of it. Part of it is also due to self-selection, a hostile climate for right-wingers, and discrimination of right-wingers<ref>https://www.adamsmith.org/research/lackademia-why-do-academics-lean-left</ref><ref>https://psyarxiv.com/qpn57/</ref>. Viewpoint diversity promotes creativity, discovery, and problem-solving, while viewpoint homogeneity promotes confirmation bias and conformity, so having more of a balance of viewpoints will help progress social science<ref>https://sci-hub.hkvisa.net/10.1017/s0140525x15000035</ref>. However, it does not appear that this will affect the political orientation of students, who's political ideology doesn't change with faculty ideology and instead reflects trends of the broader population in their age group<ref>https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/indoctrination-u-faculty-ideology-and-changes-in-student-political-orientation/25ABD9B1A3577F27B5659941CD52D6C9</ref>.
 
-### Replicability in Science
+### <span style="background-color:orange">Replicability in Science</span>
 
 **Replicability crisis is real and bad** There exists a replicability crisis in science, particularly in the social sciences<ref>https://www.science.org/doi/10.1126/science.aac4716</ref><ref>https://www.science.org/doi/10.1126/science.aaf0918</ref><ref>https://www.researchgate.net/publication/325216701_Estimating_the_Reproducibility_of_Experimental_Philosophy</ref><ref>https://sci-hub.se/https://doi.org/10.1038/s41562-018-0399-z</ref>. Still, replicability varies between subsets of the social sciences. The degree to which a publication or finding is replicable can in fact be predicted well by scientists<ref>https://sci-hub.se/https://doi.org/10.1038/s41562-018-0399-z</ref>, but are published by journals because they are more interesting. Journal prestige in fact is negatively correlated to replicability<ref>https://sci-hub.ru/https://doi.org/10.3389/fnhum.2018.00037</ref>. This appears to be due to intense competition and time pressure. Nonreplicable publications are cited more than replicable ones<ref>https://sci-hub.ru/https://doi.org/10.1126/sciadv.abd1705</ref>.
 
-### Statistical Competence of Academics
+### <span style="background-color:orange">Statistical Competence of Academics</span>
 
 **Low** Academics are relatively lacking in their knowledge of data analysis and their ability to accurately interpret statistical information<ref>https://onlinelibrary.wiley.com/doi/abs/10.1080/00207590244000250</ref><ref>https://www.researchgate.net/publication/283175190_Blinding_Us_to_the_Obvious_The_Effect_of_Statistical_Training_on_the_Evaluation_of_Evidence</ref><ref>https://pubmed.ncbi.nlm.nih.gov/24420726/</ref><ref>https://www.researchgate.net/publication/235363101_Contemporary_Issues_in_the_Analysis_of_Data_A_Survey_of_551_Psychologists</ref><ref>https://www.researchgate.net/publication/27262211_Misinterpretations_of_Significance_A_Problem_Students_Share_with_Their_Teachers</ref><ref>https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D1520CFBFEB2C282E93484057D84B6C6/S183449091900028Xa.pdf/beyond_psychology_prevalence_of_p_value_and_confidence_interval_misinterpretation_across_different_fields.pdf</ref>. Statistical significance thresholds dichotomize evidence which is cringe<ref>https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1289846#.YeL28GjMKUk</ref>.
 
-### Censorship in Academia
+### <span style="background-color:orange">Censorship in Academia</span>
 
 **Right-wing stuff is censored** There is a very strong anti right-wing bias in academia in terms of the endorsement of censoring right-wing beliefs. This appears to exist amongst both students and faculty<ref>https://cspicenter.org/wp-content/uploads/2021/03/AcademicFreedom.pdf</ref><ref>https://heterodoxacademy.org/blog/what-the-data-say-about-student-support-for-shout-downs-blockades-and-violence/</ref><ref>https://www.thefire.org/research-learn/academic-mind-2022-what-faculty-think-about-free-expression-and-academic-freedom</ref>. Taking offense is a common experience on campuses and a sizable number of students are in favor of restricting speech on campuses. There is evidence of conformity pressures existing on university campuses. Left-leaning students are less likely to tolerate controversial viewpoints and right-leaning students are more likely to self-censor on politically sensitive issues such as gender, immigration, or sexual and ethnic minorities<ref>https://link.springer.com/article/10.1007/s11577-020-00713-z</ref>.
 
 
-## Scientific Distrust
+## <span style="background-color:orange">Scientific Distrust</span>
 
 Distrust in science has grown significantly since the onset of COVID<ref>https://www.kumc.edu/communications/about/publications/kansas-medicine-and-science/spring-summer-2023/why-do-so-many-americans-distrust-science.html#:~:text=THE%20CAUSES%20OF%20SCIENCE%20DISTRUST&text=It%20can%20be%20particularly%20challenging,understand%20why%2C%E2%80%9D%20Smith%20said</ref>. There are numerous factors behind this<ref>https://www.aamc.org/news/why-do-so-many-americans-distrust-science</ref>:
 *People are overwhelmed by information, and cannot sort out what is true from false
