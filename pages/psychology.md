@@ -4,7 +4,7 @@ title: Psychology
 permalink: /psychology/
 ---
 
-## Heritability
+## <span style="background-color:orange">Heritability</span>
 
 Across a large number of traits analyzed, there was a mean 49% heritability of the traits among populations<ref>https://www.nature.com/articles/ng.3285</ref>.
 
@@ -14,9 +14,9 @@ Heritability is a very misleading concept for several reasons. It is often assum
 * Second, given that all traits are filtered through genetics, it is impossible to actually separate out genetic from environmental effects. Genes turn on and respond in various ways depending on the environment, so the strict separation between genetic and environmental influences is highly dubious.
 * Third, twin studies which are the hallmark of heritability estimates assume that identical twins have no more similar environments than fraternal twins, and thus attribute all differences between groups to genetics. However, identical twins are exposed to demonstrably similar environments than are fraternal twins, starting in the womb. Identical twins often share a placenta while fraternal twins always have two separate placentas. Identical twins that share a placenta have more similar IQs and personalities than identical twins who do not share a placenta. This effect however appears to be small and only limited to a few phenotypes<ref>https://sci-hub.ru/https://doi.org/10.1007/s10519-015-9745-3</ref>. More significantly, it is likely that identical twins will be treated in social interactions more similarly than fraternal twins, increasing the similarity of their environments further. This has been shown to undermine research finding a strong heritability for schizophrenia, as identical twins have a smaller differences in their level of bullying, sexual abuse, physical maltreatment, emotional neglect and abuse, and general trauma compared to fraternal twins<ref>https://pubmed.ncbi.nlm.nih.gov/25972816/</ref>. Only some of those traits could be reasonably suggested to be genetic. This is consistent with research suggesting that the equal environments assumption is not strictly valid for most outcomes, with a likely modest bias<ref>https://sci-hub.hkvisa.net/10.1080/19485565.1968.9987750</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.ssresearch.2013.10.004</ref>.
 
-## Intelligence
+## <span style="background-color:lightcoral">Intelligence</span>
 
-### G Factor
+### <span style="background-color:orange">G Factor</span>
 
 The there exists a general intelligence, or g factor, which is highly heritable<ref>https://pubmed.ncbi.nlm.nih.gov/15651931/</ref><ref>https://sci-hub.hkvisa.net/https://linkinghub.elsevier.com/retrieve/pii/S0160289614000099</ref>. General cognitive ability can predict academic performance, career potential, creativity, and job performance<ref>https://sci-hub.ru/https://doi.org/10.1037/0022-3514.86.1.148</ref>. There is expert consensus that g is an important non-trivial predictor or determinant of important real world outcomes, and that g tests are valid and generally do not have racial bias<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2008.03.007</ref>.
 
@@ -26,13 +26,13 @@ This general factor has been shown to also exist in international cognitive abil
 
 In higher ability populations, cognitive ability tests are less correlated with one another and less g loaded<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5669751/</ref>.
 
-### Heritability
+### <span style="background-color:yellow">Heritability</span>
 
 Intelligence is highly heritable at as high as 0.8<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754247/</ref>. There are a very high number of genetic loci which have been found to be associated with intelligence<ref>https://www.nature.com/articles/ng.3869</ref><ref>https://www.nature.com/articles/s41467-018-04362-x?ref=iqpredictionnews</ref><ref>https://www.biorxiv.org/content/10.1101/2020.04.03.024554v3.full.pdf</ref>. High intelligence is also familial, heritable, and caused by the same genetic and environmental factors responsible for the normal distribution of intelligence<ref>https://files.catbox.moe/xd769q.pdf</ref>. Additionally, intellectual disability is heritable at 51%<ref>https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13560</ref>. Similarly, educational attainment is reasonably heritable<ref>https://www.nature.com/articles/s41598-020-69526-6</ref><ref>https://files.catbox.moe/3t8uvr.pdf</ref>.
 
 **Wilson Effect:** The heritability of IQ increases with age, reaching a maximum of about 0.6-0.8<ref>https://www.researchgate.net/figure/A-meta-analysis-of-11000-pairs-of-twins-shows-that-the-heritability-of-intelligence_fig1_265690996</ref>.
 
-### Bias/Alternative Theories
+### <span style="background-color:yellow">Bias/Alternative Theories</span>
 
 Possible sources of bias:
 
@@ -44,7 +44,7 @@ Alternative views of intelligence:
 - **Emotional Intelligence -** Emotional intelligence can be reduced to g, personality trait agreeableness, and sex<ref>https://sci-hub.ru/https://doi.org/10.1016/j.paid.2003.11.014</ref>.
 - **Multiple Intelligences -** Highly diverse tests of purely cognitive abilities are strongly g-loaded, suggesting that multiple intelligences do not exist<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.02.004</ref>.
 
-### Correlates
+### <span style="background-color:yellow">Correlates</span>
 
 Individual-Level:
 
@@ -64,23 +64,23 @@ Individual-Level:
 
 **National-Level:** National IQ is correlated with a variety of educational, cognitive, economic, political, demographic, sociological, geographic, and climate variables<ref>https://pubmed.ncbi.nlm.nih.gov/27866536/</ref>. National IQ is positively correlated with economic development, and is the best predictor of economic growth<ref>https://pubmed.ncbi.nlm.nih.gov/29328072/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/30191806/</ref>. Education and cognitive ability appear to be more important as developmental factors for GDP than economic freedom. Education and intelligence are more relevant to economic welfare than vice versa, but economic welfare also predicts education and intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/28201577/</ref>. A 1 point increase in a nation's average IQ is associated with a persistent 0.11% annual increase in per-capita GDP<ref>https://sci-hub.ru/https://doi.org/10.1111/j.1467-8721.2006.00439.x</ref>. IQ is also associated with the production and exportation of more sophisticated/complex products<ref>https://www.sciencedirect.com/science/article/pii/S0160289612001134</ref>. IQ is also a significant predictor of financial development<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.03.007</ref>.
 
-### Flynn Effect
+### <span style="background-color:orange">Flynn Effect</span>
 
 The average decadal IQ increase since 1951 has been 2.6 points<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152423/</ref>. The Flynn effect is negatively correlated with g loadings at -0.38, suggesting the Flynn effect is not g loaded and that group differences and the Flynn effect have different causes<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289613000226</ref>. After correcting for increased guessing, the correlation between the flynn effect and g loadings goes down to -0.82<ref>https://www.sciencedirect.com/science/article/pii/S0160289613001761</ref>.
 
-## Political Orientation
+## <span style="background-color:lightcoral">Political Orientation</span>
 
-### Principles
+### <span style="background-color:orange">Principles</span>
 
 - **Conformity -** Individuals tend to conform to the group's opinion or censor their views in situations where people deliberately disagree with them. Conformity and censorship are most frequent among introverted, emotionally stable, and racial minority participants<ref>https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1029&context=honorstheses</ref>.
 - **Knowledge -** Ignorance of policy-specific information leads many to hold political views they wouldn't hold otherwise. This effect is greatest for those with the highest levels of political knowledge<ref>https://www.cambridge.org/core/journals/american-political-science-review/article/abs/political-ignorance-and-collective-policy-preferences/D4E790DE0197D8430A03D9B8993F199B</ref>.
 - **Modelling Ideology -** A unidimensional model of ideology is incomplete when studying political ideology, as economic and social views have different determinants, suggesting that a model of ideology should have at least two dimensions to it<ref>https://onlinelibrary.wiley.com/doi/10.1111/pops.12055</ref>.
 
-### Heritability
+### <span style="background-color:yellow">Heritability</span>
 
 Political views appear to be roughly 40% heritable<ref>https://link.springer.com/article/10.1007/s10519-014-9648-8</ref>, if not more<ref>https://www.pewresearch.org/short-reads/2013/12/09/study-on-twins-suggests-our-political-beliefs-may-be-hard-wired/</ref>. This varies heavily with political sophistication, with people high in political sophistication having an estimated heritability of political views of 74%<ref>https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/genes-ideology-and-sophistication/91C7C343BBA8801732F62E7D55B16676</ref>. There is significant genetic overlap between political views and a variety of psychological traits, such as cognitive ability and personality<ref>https://www.sciencedirect.com/science/article/pii/S2352154620300553</ref>, suggesting that much of these beliefs are byproducts of indirectly related psychological characteristics.
 
-### Correlates
+### <span style="background-color:yellow">Correlates</span>
 
 **Cognitive Correlates:**
 
@@ -108,7 +108,7 @@ Political views appear to be roughly 40% heritable<ref>https://link.springer.com
 - **Age -** Older Americans tend to be more conservative<ref>https://www.pewresearch.org/fact-tank/2014/07/09/the-politics-of-american-generations-how-age-affects-attitudes-and-voting-behavior/</ref>, and this is due to the effect of ageing increasing one's likelihood of being conservative<ref>https://www.sciencedirect.com/science/article/abs/pii/S0261379413000875</ref>.
 - **Physical Appearance -** Right-wingers tend to be more attractive than left-wingers<ref>https://sci-hub.ru/https://doi.org/10.1016/j.jpubeco.2016.12.008</ref><ref>https://sci-hub.ru/https://doi.org/10.1017/pls.2017.18</ref>, partially due to attractive people being more likely to support inequality<ref>https://sci-hub.ru/https://doi.org/10.1016/j.obhdp.2014.03.002</ref>, as they earn more. Appearance is a substantial predictor of political ideology, as facial recognition technology can correctly identify political orientation in liberal-conservative face pairs significantly greater than at random<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7801376/</ref>. Female politicians with stereotypically feminine facial features are more likely to be republican<ref>https://www.sciencedaily.com/releases/2012/09/120927130955.htm</ref>. The facts of politicians judged to be supporters of the Conservative Party are rated as more intelligent, attractive, honest, and of higher social class than the facts of politicians judged to be from the Labor Party. This effect exists regardless of the political allegiances of the observers<ref>https://www.jstor.org/stable/3791063?seq=1#page_scan_tab_contents</ref>. Taller individuals are more likely to support the Conservative Party, support conservative policies and vote Conservative<ref>https://www.cambridge.org/core/journals/british-journal-of-political-science/article/height-income-and-voting/2B6875BFB8B956963D1DBBD510A581CF</ref>. Self-perceived attractiveness is associated with support for group-based dominance and belief in legitimizing ideologies. This effect is mediated by subjective social class. Lower self-perceived attractiveness decreases subjective SES, which leads to a greater tendency to reject social hierarchies and to construe inequality in terms of contextual causes<ref>https://www.sciencedirect.com/science/article/abs/pii/S0749597814000223?via%3Dihub</ref>.
 
-### Behaviors/Thought Patterns
+### <span style="background-color:orange">Behaviors/Thought Patterns</span>
 
 - **Activism -** Consistent liberals and consistent conservatives are the people most likely to engage in activism and the political process<ref>https://www.pewresearch.org/politics/2014/06/12/section-5-political-engagement-and-activism/</ref>. Stereotypes and perceptions about activists reduce people's willingness to affiliate with activists and to adopt the behaviors these activists promote<ref>https://psycnet.apa.org/record/2013-42785-004</ref>.
 - **Genetic Attributions -** Genetic attributions are more likely to be made by liberals, are associated with higher and not lower levels of tolerance of vulnerable individuals, and are unrelated with unseemly racial attitudes<ref>https://www.journals.uchicago.edu/doi/10.1086/696860</ref>. Both conservative economic and social political ideology indirectly predict homophobia through binding foundations<ref>https://pubmed.ncbi.nlm.nih.gov/28466228/#:~:text=Study%202%20found%20that%20both,between%20political%20ideology%20and%20homophobia</ref>.
@@ -116,7 +116,7 @@ Political views appear to be roughly 40% heritable<ref>https://link.springer.com
 - **Discrimination -** Compared to conservatives, moderates and liberals are much less accepting of discriminatory actions. Conservatives tend to value employers' decision rights while others value utilitarian concerns<ref>https://www.nber.org/papers/w30236#fromrss</ref>.
 - **Interracial Interactions -** White liberals but not white conservatives present less competence to black interaction partners than white ones, suggesting that well-intentioned liberal whites may draw on low-status/competence stereotypes to affiliate with minorities<ref>https://osf.io/preprints/psyarxiv/pv2ab</ref>.
 
-## Religious Belief
+## <span style="background-color:yellow">Religious Belief</span>
 
 **Correlates:**
 
@@ -127,7 +127,7 @@ Political views appear to be roughly 40% heritable<ref>https://link.springer.com
 - **Intelligence -** There is a negative relationship between intelligence and religiosity. Possible reasons include that intelligent people are less likely to conform, that intelligent people tend to adopt an analytic rather than intuitive thinking, and that several functions such as compensatory control, self-regulation, self-enhancement, and secure attachment, are also conferred by intelligence<ref>https://journals.sagepub.com/doi/10.1177/1088868313497266</ref>. Scientists are significantly less likely to believe in the existence of a god compared to the general public<ref>https://www.pewforum.org/2009/11/05/scientists-and-belief/</ref>.
 - **Human Rights -** Most human rights practices are worse in societies where citizens are more religious and that muslim majority nations provide less respect for almost all human rights<ref>https://muse.jhu.edu/article/730069/pdfimage</ref>.
 
-## Autism
+## <span style="background-color:orange">Autism</span>
 
 Interesting factoids about autism:
 
@@ -140,22 +140,22 @@ Interesting factoids about autism:
 * People with ASD, primarily males, have more hypersexual and paraphilic fantasies<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789215/</ref>.
 * Individuals with ASD are less able to understand and infer other people's beliefs, intentions, and feelings, less likely to respond to the specific emotions of people in pain, less cognitively aware of the belief in, intention of and feeling for others, and have less immediate response to the special emotions of people in pain. People with ASD are as likely to immediately share and resonate with the emotions of other people, and are more likely to share or become affectively congruent with others' emotional states<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6794557/</ref>.
 
-## Personality
+## <span style="background-color:orange">Personality</span>
 
 **Correlates:**
 
 - **Well-Being -** Neuroticismis the strongest predictor of life satisfaction, happiness, and negative affect. Positive affect is predicted equally well by extraversion and agreeableness<ref>https://sci-hub.se/https://doi.org/10.1037/0033-2909.124.2.197</ref>.
 - **Academic Performance -** Academic performance correlates significantly with agreeableness, conscientiousness, and openness. Correlations between conscientiousness and academic performance were largely independent of intelligence. Conscientiousness is as strong of a predictor of tertiary academic performance as intelligence, after controlling for secondary academic performance<ref>https://sci-hub.se/https://doi.org/10.1037/a0014996</ref>.
 
-## Self Control
+## <span style="background-color:orange">Self Control</span>
 
 Self control has a 60% heritability<ref>https://www.sciencedirect.com/science/article/pii/S0149763418307905</ref>. Low self-control in childhood is associated with unemployment in adulthood, even after adjusting for intelligence, social class, and gender<ref>https://journals.sagepub.com/doi/10.1177/0956797615569001</ref>. It is also associated with lower social responsibility<ref>https://psycnet.apa.org/record/1962-04824-001</ref>, more disciplinary referrals<ref>https://ideas.repec.org/a/eee/pubeco/v95y2011i11p1377-1385.html</ref>, in addition to differences in physical health, substance dependence, personal finances, and criminal offending outcomes<ref>https://www.pnas.org/doi/10.1073/pnas.1010076108</ref>. Assignment to different schooling opportunities is not significantly associated with child time preferences<ref>https://www.sciencedirect.com/science/article/pii/S004727271930091X</ref>.
 
-## Suicide
+## <span style="background-color:orange">Suicide</span>
 
 Suicide is mainly associated with social isolation, such as marital status and living alone, loneliness, alienation, and belongingness<ref>https://pubmed.ncbi.nlm.nih.gov/30445391/</ref>. In terms of cross-country differences in suicide, high unemployment is positviely associated with male suicide, while income is negatively associated with male suicide up until a high threshold of income<ref>https://journals.sagepub.com/doi/10.1177/1069397103253708</ref>. Suicidal acts are significantly more likely to be fatal for men than for women<ref>https://www.acpjournals.org/doi/10.7326/M19-1324</ref>. Between 1963 and 1975 the annual number of suicides in England and Wales showed a sudden and unexpected decline, inconsistent with trends in most other European countries. This appears to have been a result of the progressive removal of carbon monoxide from the public gas supply, which accounted for more than 40% of suicides in 1963. Suicide by domesic gas was essentially eliminated by 1975<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/449144</ref>.
 
-## Tattoos
+## <span style="background-color:orange">Tattoos</span>
 
 People with tattoos tend to be rated as less attractive, more promiscuous, and more heavy drinkers based on their appearance<ref>https://pubmed.ncbi.nlm.nih.gov/18089280/</ref>. While some stereotyping may be negative in this respect, there is a degree of accuracy to negative stereotypes about tattooed people.
 
@@ -163,35 +163,35 @@ People with tattoos are more likely to engage in risk-taking behaviors<ref>https
 
 Moreover, people with tattoos are more likely to have experienced childhood abuse and neglect<ref>https://pubmed.ncbi.nlm.nih.gov/35449026/</ref>, and score about 5 points lower on IQ tests<ref>https://pubmed.ncbi.nlm.nih.gov/15119003/</ref>. They also appear to die earlier than those without tattoos, possibly due to health concerns but also potentially due to higher levels of risk-taking behavior<ref>https://pubmed.ncbi.nlm.nih.gov/24926092/</ref>. Tattoos may signify something traumatic or extreme in someone's life or may signify impulsiveness in itself.
 
-## Trigger Warnings
+## <span style="background-color:orange">Trigger Warnings</span>
 
 Trigger warnings have no net effect on affective responses to material being warned about nor on educational outcomes<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7993791/</ref><ref>https://osf.io/qav9m/</ref>. It doesn't decrease engagement with negative material but can in fact increase engagement with material. Additionally, trigger warnings reinforce trauma survivor’s views of their trauma being central to their identity and increase anticipatory stress<ref>https://journals.sagepub.com/doi/10.1177/2167702620921341</ref>. This suggests that trigger warnings at best do essentially nothing and at worst have small negative effects.
 
-## Physiognomy
+## <span style="background-color:orange">Physiognomy</span>
 
 Facial width-to-height ratio is a predictor of one's propensity for aggressive behavior<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2570531/</ref>.
 
-## Eugenics/Genetic Enhancement
+## <span style="background-color:orange">Eugenics/Genetic Enhancement</span>
 
 Anomaly (2018) defended the concept of eugenics or genetic enhancement and advocated for numerous "eugenic" policy proposals. Policy proposals include free contraception, genetic education and counseling, and incentives and penalties<ref>https://link.springer.com/article/10.1007/s40592-018-0081-2</ref>. Jonathan Anomaly believes that states should apply as little coercion as possible to facilitate the emergence of future people with desirable traits.
 
-## Altruism and Ethics
+## <span style="background-color:orange">Altruism and Ethics</span>
 
 Humans routinely help others to achieve their goals, even when the helper receives no immediate benefit and the person helped is a stranger. Such altruistic behaviors exist in human children as young as 18 months in age and also exist in chimpanzees although with less robust skills and motivations<ref>https://pubmed.ncbi.nlm.nih.gov/16513986/</ref>.
 
-## Weight Loss
+## <span style="background-color:orange">Weight Loss (PROBABLY NEEDS TO GO INTO HEALTH)</span>
 
 Obesity is associated with higher all-cause mortality<ref>https://jamanetwork.com/journals/jama/fullarticle/1555137</ref>. Obesity has a substantial heritability, although there is significant variability in the heritability estimate across studies<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3355836/</ref>. Reduced energy diets and weight loss medications result in some weight loss outcomes, while advice-only and exercise-alone had minimal effects<ref>https://pubmed.ncbi.nlm.nih.gov/17904936/</ref>.
 
-## Delay Gratification
+## <span style="background-color:orange">Delay Gratification</span>
 
 Contrary to expert opinion based on polling, delay of gratification times have been increasing over the past 50 years, with a fifth of a standard increase in ability per decade. These correspond to secular gains in IQ seen, suggesting a possible common cause<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289620300295</ref>.
 
-## Economic Outcomes
+## <span style="background-color:orange">Economic Outcomes</span>
 
 Savings propensities are about 33% heritable, and individuals are born with a persistent genetic predisposition to a specific savings behavior. Parenting has some effect on savings among younger individuals but this effect decays over time<ref>https://www.jstor.org/stable/10.1086/679284#metadata_info_tab_contents</ref>. Lifetime income is 24% heritable in women and 54% heritable in men<ref>https://sci-hub.ru/https://doi.org/10.2139/ssrn.2253264</ref>.
 
-## Belief
+## <span style="background-color:orange">Belief</span>
 
 Although there has been previous research suggesting that correcting misinformation may backfire, causing people to strengthen false misconceptions rather than reduce them, more recent research suggests that by and large citizens heed factual information, even when such information challenges their ideological commitments<ref>https://link.springer.com/article/10.1007/s11109-018-9443-y</ref><ref>https://skepticalscience.com/docs/DebunkingHandbook2020.pdf</ref>.
 
@@ -201,14 +201,14 @@ A 2004 meta-analysis found that there is a sleeper effect, where a discounting p
 
 Confirmation bias is the tendency to seek or interpret evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand<ref>https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</ref>. This has been shown in the case of the evaluation of political arguments, where attitudinally congruent arguments are uncritically supported and evaluated as stronger than attitudinally incongruent arguments, which are counter-argued against<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2006.00214.x</ref>. The latter can be referred to as a disconfirmation bias. This can lead to attitude polarization. Whether a person's prior belief is accompanied by emotional conviction affects the magnitude and form of the disconfirmation bias<ref>https://psycnet.apa.org/record/1996-01782-001</ref>.
 
-## Biorealism
+## <span style="background-color:orange">Biorealism</span>
 
 Misc biorealism factoids:
 - Parental incarceration generally has positive effects on the child through the removal of a negative role model<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3034539</ref><ref>https://www.aeaweb.org/articles?id=10.1257/aer.20190415&from=f</ref>.
 - There exists genetic influences which explain the overlap between low IQ and antisocial behavior in young children<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2254220/</ref>.
 - Frisell et al. (2012) found varying estimates for the heritability of violent crime, with models producing a range from 20-55%<ref>https://link.springer.com/article/10.1007/s10519-011-9483-0</ref>.
 
-## Journalists
+## <span style="background-color:orange">Journalists</span>
 
 Journalists generally prefer parties with more left-wing positions<ref>https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media</ref>.
 
