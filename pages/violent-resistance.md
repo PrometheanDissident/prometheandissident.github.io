@@ -4,6 +4,8 @@ title: Violent Resistance
 permalink: /violent-resistance/
 ---
 
+<span style="background-color:orange">Need to expand on broader thoughts on this issue beyond citing research</span>
+
 Research suggests that nonviolent campaigns to fundamentally restructure societies, whether through advocacy for democratization, expulsion of a military force, or succession, are more successful than violent campaigns in achieving their goals, and create more stability than violent campaigns<ref>https://www.degruyter.com/document/doi/10.1515/peps-2017-0022/html</ref><ref>https://news.harvard.edu/gazette/story/2019/02/why-nonviolent-resistance-beats-violent-force-in-effecting-social-political-change/</ref>.
 
 According to information, pulled from the NAVCO data project, of non-violent protests studied, 47% had fully succeeded, 14% had not fully succeeded, and 30% failed. Of violent protests studied, 23% had fully succeeded, 11% had not fully succeeded, and 56% failed<ref>https://blog.datawrapper.de/are-peaceful-protests-more-successful-than-violent-ones/</ref><ref>https://dataverse.harvard.edu/dataverse/navco</ref>.
