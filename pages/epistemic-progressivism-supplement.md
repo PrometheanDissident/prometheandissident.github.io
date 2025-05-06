@@ -4,7 +4,7 @@ title: Epistemic Progressivism Supplement
 permalink: /epistemic-progressivism-supplement/
 ---
 
-## <span style="background-color:lightcoral">Sociologist's Fallacy</span>
+## <span style="background-color:lightcoral">Sociologist's Fallacyy</span>
 
 ## <span style="background-color:lightcoral">Social Constructions</span>
 
