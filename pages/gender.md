@@ -4,19 +4,19 @@ title: Gender
 permalink: /gender/
 ---
 
-## Understanding Sex Differences
+## <span style="background-color:yellow">Understanding Sex Differences</span>
 
 While it is fair to suggest that gender is distinct from sex, the two concepts are nonetheless inextricably linked. In spite of the narrativizing which suggests that men and women are the same from the neck up, the reality is that men and women are fundamentally different from one another.
 
 A common talking point meant to undermine the notion of sexes being distinct is to argue that sexes aren't binary but bimodal. The rationale for this is that phenotypic traits between men and women exist on a spectrum, thus allowing for a bimodal distribution of traits upon which men and women operate in sexually dimorphic ways. Furthermore, there is a small but substantial percentage of the population who have disorders of sex development, in which they may display traits that would be regarded by some as intersex. While some estimate the number of intersex people to be as high as 1.7%, Sax (2002) argues that to have any meaning, intersex should be restricted to those conditions where chromosomal sex is inconsistent with phenotypic sex, or in which the phenotype is not classifiable as either male or female. Under this definition, the true prevalence is actually about 0.018%<ref>https://pubmed.ncbi.nlm.nih.gov/12476264/</ref>. Any real definition of sex effectively makes sex binary, with some extremely rare exceptions.
 
-### Physical
+### <span style="background-color:yellow">Physical</span>
 
 Physical sex differences are certainly the most obvious of sex differences. Physical sex differences are small but noticeable at birth, and increase significantly during puberty due to differences in testosterone<ref>https://www.sciencedirect.com/science/article/abs/pii/S1521690X07000371?via%3Dihub</ref><ref>https://journals.lww.com/co-endocrinology/Abstract/2009/02000/Effect_of_puberty_on_body_composition.4.aspx</ref>. Sex differences for muscle power are significant even when height, weight, and age are controlled for<ref>https://journals.sagepub.com/doi/10.2466/pms.110.3.714-720</ref> and athletic differences are so large that top level high school boys are better in athletics than top level olympic women in a variety of areas<ref>https://boysvswomen.com/#/</ref>. Men have 61% more muscle mass<ref>https://www.sciencedirect.com/science/article/abs/pii/S1090513809000397?via%3Dihub</ref>, and lower fat mass and higher mineral mass after adjusting for height<ref>https://www.sciencedirect.com/science/article/abs/pii/S1521690X07000371?via%3Dihub</ref>.
 
 Some may attribute these differences to socialization. From any intuitive perspective this view appears absurd, especially when taking into account sex differences in hormones and bone structure which are almost entirely a product of genetics as opposed to environment. Not only are these differences obviously biological, but evidence indicates that these physical differences were sexually selected for over time. Fat free mass and limb muscle volume in men are significant predictors of the numbers of total and past-year self-reported sex partners, as well as age at first intercourse, suggesting that sexual selection may have contributed to these physical sex differences<ref>https://www.sciencedirect.com/science/article/abs/pii/S1090513809000397?via%3Dihub</ref>. Sexual selection creates sexual dimorphism.
 
-### Psychological
+### <span style="background-color:yellow">Psychological</span>
 
 The vast majority of people are fine with acknowledging the existence of physical sex differences. It seems strange to suggest that sexual selection and sexual dimorphism stopped at the neck, but many are uncomfortable with acknowledging that men and women are different temperamentally.
 
@@ -29,13 +29,13 @@ Differential sexual selective pressures for men and women can help to explain ho
 
 While all of this evidence together clearly shows that men and women are naturally different psychologically, specifics have not been discussed. These specifics are essential for understanding why men and women will naturally have different interests and outcomes within society.
 
-#### Brain Differences
+#### <span style="background-color:yellow">Brain Differences</span>
 
 Psychological sex differences naturally manifest themselves in the brain. Men and women have different brain structures which can help to explain the myriad differences between men and women.
 
 Neural networks utilizing neuroimaging can successfully differentiate between a male brain and a female brain with 93.3% accuracy<ref>https://www.frontiersin.org/articles/10.3389/fnins.2019.00185/full</ref>. There is immense overlap between the brains of men and women however<ref>https://www.pnas.org/doi/10.1073/pnas.1509654112</ref>. There are a very wide number of documented sex differences which exist in the brain, many of which are tied to functions which may explain differences between men and women in certain tasks, with men excelling and some and women excelling at others. Moreover, models have been developed which can predict a person's sex based on certain pieces of information about the brain such as MRI scans or electroencephalogram data with up to 96% accuracy, suggesting that these differences are not trivial<ref>https://archive.org/details/pdfy-VLw_XW3rMqu7yygj/mode/1up</ref><ref>https://www.psypost.org/2017/08/study-15847-people-worldwide-uncovers-sex-differences-asymmetry-major-brain-structures-49459</ref><ref>https://www.pennmedicine.org/news/news-releases/2013/december/brain-connectivity-study-revea</ref><ref>https://www.nature.com/articles/s41598-018-21495-7</ref><ref>https://pubmed.ncbi.nlm.nih.gov/29322586/</ref><ref>https://www.pnas.org/doi/10.1073/pnas.1523888113</ref><ref>https://pubmed.ncbi.nlm.nih.gov/29414494/</ref><ref>https://www.frontiersin.org/articles/10.3389/fnhum.2019.00029/full</ref>.
 
-#### Aggression and Motor Control
+#### <span style="background-color:yellow">Aggression and Motor Control</span>
 
 Likely the least controversial of sex differences to talk about concern aggression and motor control. These reflect themselves in the fact that men tend to be larger and have different physiologies compared to women, so even social constructionist extremists are likely more willing to accept these differences.
 
@@ -47,7 +47,7 @@ There is some speculation that the male advantage in throwing might be caused by
 
 Women outperform men in fine motor coordination and perceptual speed<ref>https://stanmed.stanford.edu/how-mens-and-womens-brains-are-different/</ref>.
 
-#### Intelligence
+#### <span style="background-color:yellow">Intelligence</span>
 
 Male and female children tend to have roughly similar overall intelligence with each sex outperforming the other in certain forms of intelligence<ref>https://link.springer.com/article/10.1007/s10648-022-09705-1</ref>. Women have a very small advantage in verbal ability<ref>https://www.researchgate.net/publication/232528001_Gender_Differences_in_Verbal_Ability_A_Meta-Analysis</ref>. They have better reading comprehension and writing ability<ref>https://stanmed.stanford.edu/how-mens-and-womens-brains-are-different/</ref>. Men have an advantage in visuo-spatial abilities<ref>https://sci-hub.ru/https://doi.org/10.1037/0033-2909.117.2.250</ref><ref>https://link.springer.com/article/10.3758/s13423-010-0042-0</ref><ref>https://sci-hub.ru/https://doi.org/10.3758/s13423-016-1085-7</ref><ref>https://tdlc.ucsd.edu/global/images/Levine_et%20al_WIREs_Mental_Rotation_review.pdf</ref><ref>https://link.springer.com/article/10.3758/s13423-019-01633-6</ref>. Women have an advantage in verbal episodic-memory tasks but have a disadvantage in episodic-memory tasks requiring both verbal and visuospatial processing<ref>https://journals.sagepub.com/doi/10.1111/j.1467-8721.2008.00547.x</ref>.
 
@@ -55,7 +55,7 @@ Men have significantly more gray matter in the brain, while women have significa
 
 The differences between men and women in spatial and verbal intelligence, in addition to the difference in variability, have significant implications for disparities between men and women in society. The spatial-verbal divide can help explain some sex differences in occupations, and the higher male variability can help explain why men are overrepresented in fields that are extremely cognitively demanding.
 
-#### Values
+#### <span style="background-color:yellow">Values</span>
 
 Men and women tend to have different values, consistent with sex stereotypes about women caring more about harm, fairness, and purity. Likewise, women also tend to be more egalitarian.
 
@@ -63,7 +63,7 @@ Luoto & Varella (2021) looked at the relationship between policy interventions c
 
 Atari et al. (2020) found that women across cultures consistently score higher than men on care, fairness, and purity moral foundations, with no sex differences on loyalty and authority, which are negligible and highly variable across cultures<ref>https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.1201</ref>. These differences were larger in individualist and gender-equal societies with more flexible social norms. Consistent with this, Benenson et al. (2018) finds that women tend to be more egalitarian than men, a difference which emerges in early childhood<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12750</ref>.
 
-#### Personality
+#### <span style="background-color:yellow">Personality</span>
 
 Sex differences in personality also exist across cultures, and are consistent with sex stereotypes. Women tend to be more neurotic and agreeable compared to men. Personality traits display little overlap between men and women.
 
@@ -84,23 +84,23 @@ Women tend to become more angry in response to transgressions by a same-sex peer
 
 Men tend to be funnier than women<ref>https://www.sciencedirect.com/science/article/abs/pii/S0092656619301072</ref>.
 
-#### Interests
+#### <span style="background-color:yellow">Interests</span>
 
 Men prefer working with things and women prefer working with people. This gender difference is consistent across cultures and time, which suggests there is at least a partially biological cause for it<ref>https://web.archive.org/web/20180831133832/https://pdfs.semanticscholar.org/47af/4a7e87267aba681fb6971590ec80effce0c3.pdf</ref><ref>https://compass.onlinelibrary.wiley.com/doi/full/10.1111/j.1751-9004.2010.00320.x</ref>. Sex differences in people and things orientation are reflected in academic publishing, where women are more prevalent as the first authors of articles in more people-oriented fields compared to fields that are more things-oriented, which have a high proportion of male first authors<ref>https://www.researchgate.net/publication/339507855_Sex_differences_in_people_and_things_orientation_are_reflected_in_sex_differences_in_academic_publishing</ref>.
 
-#### Mental Health
+#### <span style="background-color:yellow">Mental Health</span>
 
 Women tend to have worse mental health than men, having higher levels of anxiety and depression than men<ref>https://www.apa.org/news/press/releases/2011/08/mental-illness</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5532074/</ref>. These differences are largely ubiquitous cross-culturally, although more gender equal countries have larger gender gaps on mental health outcomes<ref>https://www.sciencedirect.com/science/article/pii/S2352827321000173</ref>. Higher GDP per capita is also associated with worse average mental health and a larger gender gap in mental health. In spite of all of this, men have higher suicide rates<ref>https://www.cambridge.org/core/journals/psychological-medicine/article/abs/sociodemographic-psychiatric-and-somatic-risk-factors-for-suicide-a-swedish-national-cohort-study/38C261DEB9A28F6D244169B517227414</ref>. While women attempt suicide more, men have higher levels of completed suicides<ref>https://www.govst.edu/suicide-prevention/</ref>.
 
-#### Ingroup Preference
+#### <span style="background-color:yellow">Ingroup Preference</span>
 
 Women tend to have a stronger in-group bias than men do<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.87.4.494</ref>. While men and women do not differ in number of friends or amount of time spent with friends, nor in the value placed on intimate friendships, there exist sex differences in the nature of interactions with friends. Women tend to emphasize emotional sharing and talking, while men emphasize activities and doing things together<ref>https://link.springer.com/article/10.1007/BF00287568</ref>.
 
-### The Significance of Sex Differences
+### <span style="background-color:lightcoral">The Significance of Sex Differences</span>
 
-## Sex Differences in Attraction and Mating Patterns
+## <span style="background-color:lightcoral">Sex Differences in Attraction and Mating Patterns</span>
 
-## Sex and Gender in Society
+## <span style="background-color:yellow">Sex and Gender in Society</span>
 
 Sex differences, both physical and psychological, are immutable. It is impossible to completely get rid of these differences, although they may be malleable to some degree. Sex differences in many of these domains will necessarily result in different outcomes between men and women on a wide variety of domains. At the same time, it is important to note that many of these differences between men and women have distributions which overlap considerably. Men may be on average taller and more physically capable than women, but some women are taller and more physically capable than some men. Similarly, some men have predispositions more common of women, and some women have predispositions more common of men.
 
@@ -108,7 +108,7 @@ Gender, which is the social structures we have in society to describe sex and pr
 
 At the same time, gender conceptions in society are somewhat malleable, and they should be modified to suit the needs of people. Gender abolitionism can never work, as it is impossible to deny sex differences. However, strict gender roles aren't inevitable either. I suggest that we should be sex conscious, understanding and respect the fact that men and women on average have differences, while also not preventing women or men who have sex-atypical interests from engaging in them. I will examine various examples of "sex atypicality" in future sections which have gained a fair bit of controversy, namely homosexuality and transgenderism.
 
-## Sex Atypicality: Homosexuality
+## <span style="background-color:yellow">Sex Atypicality: Homosexuality</span>
 
 Homosexuality is understood as same-sex attraction. A 2013 survey of US adults found that 96.6% identified as straight,1.6% identified as gay/lesbian, 0.7% identified as bisexual, with 1.1% either not knowing or not answering <ref>Sexual orientation and health among U.S. adults: national health interview survey, 2013. (2014, July 15). PubMed. https://pubmed.ncbi.nlm.nih.gov/25025690/</ref>.
 
@@ -124,7 +124,7 @@ While this research suggests that sexual orientation is at the very least recalc
 
 This does not mean that it can never work in changing homosexual thoughts and/or behavior, however. In fact, self-reporting amongst "dissatisfied homosexuals" reported that those who underwent conversion therapy had decreased in the frequency of homosexual thoughts and fantasies due to their therapy, as well as large improvements in psychological, interpersonal, and spiritual well-being<ref>Nicolosi, J., Byrd, A. D., & Potts, R. W. (2000). Retrospective Self-Reports of Changes in Homosexual Orientation: A consumer survey of conversion therapy clients. Psychological Reports, 86(3_suppl), 1071–1088. https://doi.org/10.2466/pr0.2000.86.3c.1071</ref>. Byrd & Nicolosi (2002) also concluded that after meta-analyzing the research on the efficacy of conversion therapy that there was weak evidence that suggested it may be possible to change a person's sexual orientation<ref>Byrd, A. D., & Nicolosi, J. (2002). A Meta-Analytic Review of Treatment of Homosexuality. Psychological Reports, 1139–1152. https://emilkirkegaard.dk/en/wp-content/uploads/A-meta-analytic-review-of-treatment-of-homosexuality.pdf</ref>. However, the APA concludes that ''"efforts to change sexual orientation are unlikely to be successful and involve some risk of harm, contrary to the claims of SOCE practitioners and advocates,"'' and that ''"the population that undergoes SOCE tends to have strongly conservative religious views that lead them to seek to change their sexual orientation"''<ref>Glassgold, J. M., Beckstead, L., Drescher, J., Greene, B., Miller, R. L., Worthington, R. L., & American Psychological Association. (2009). Appropriate therapeutic responses to sexual orientation. https://www.apa.org/pi/lgbt/resources/therapeutic-response.pdf</ref>. Given the selection bias with people who are conservative and anti-gay disproportionately trying to get conversion therapy, it would make sense that some of them would in fact report it working and being positive. But the fact that even amongst this sample most people end up with significant psychological harm suggests that this would be harmful especially for those who don't share conservative views. The result on dissatisfied homosexuals can be understood in this framework as a sample of people who would be susceptible to conversion therapy potentially working even if it doesn't work on the general gay population.
 
-### Psychological Profile
+### <span style="background-color:yellow">Psychological Profile</span>
 
 Homosexuals appear to suffer at a higher risk of mental health issues, suicidality, sexual risk behaviors, along with other things. Part of this is likely due to the nature of homosexuality being non-normative, meaning by its very nature it will likely correlate with worse well-being. Part of this is also likely due to discrimination.
 
@@ -162,21 +162,21 @@ A common talking point in anti-gay circles is that homosexuals (particularly men
 
 In short, the best treatment broadly by society for homosexuals is tolerance. Homosexuality is relatively unchangeable, and discrimination has been shown to be associated with further psychological harm to this group which already naturally faces worse mental health issues. Tolerance does not mean worship, or people being prideful that they're gay, but those who are gay and engage in associated lifestyles should not be demonized.
 
-### Policy Implications
+### <span style="background-color:yellow">Policy Implications</span>
 
 In accordance with tolerance being the best strategy for helping improve the well-being of homosexuals, policy legalizing same-sex marriage and ensuring legal protection should be promoted. The question of same-sex parents is a bit more complex and will be discussed in turn.
 
-#### Same-Sex Marriage
+#### <span style="background-color:yellow">Same-Sex Marriage</span>
 
 Same-sex married couples have a higher suicide rate relative to opposite-sex married couples<ref>Erlangsen, A., Drefahl, S., Haas, A., Bjorkenstam, C., Nordentoft, M., & Andersson, G. (2019). Suicide among persons who entered same-sex and opposite-sex marriage in Denmark and Sweden, 1989–2016: a binational, register-based cohort study. Journal of Epidemiology and Community Health, 74(1), 78–83. https://doi.org/10.1136/jech-2019-213009</ref>. However, research has also suggested that married LGBT adults are healthier and happier than single LGBT adults<ref>Legal recognition of same-sex relationships in the United States: A social science perspective. (n.d.). https://psycnet.apa.org/doiLanding?doi=10.1037%2F0003-066X.61.6.607</ref><ref>Eckart, K. (2017, April 13). Married LGBT older adults are healthier, happier than singles, study finds. UW News. https://www.washington.edu/news/2017/04/13/married-lgbt-older-adults-are-healthier-happier-than-singles-study-finds/</ref>, which means that marriage likely increases the quality of life of homosexuals even if they still have higher suicidality relative to heterosexuals.
 
 Laws allowing same-sex marriage appear to have general positive health effects. This has been seen with research suggesting positive mental health outcomes of legalizing same-sex marriage<ref>Raifman, J., Moscoe, E., Austin, S. B., & McConnell, M. (2017). Difference-in-Differences Analysis of the association between State Same-Sex Marriage Policies and adolescent Suicide Attempts. JAMA Pediatrics, 171(4), 350. https://doi.org/10.1001/jamapediatrics.2016.4529</ref><ref>Raifman, J., Moscoe, E., & Austin, S. B. (2017). Legalization of Same-Sex Marriage and Drop in Adolescent Suicide Rates: Association But Not Causation—Reply. JAMA Pediatrics, 171(9), 915. https://doi.org/10.1001/jamapediatrics.2017.1958</ref><ref>Kennedy, A., Genç, M., & Owen, P. D. (2021). The Association Between Same-Sex Marriage Legalization and Youth Deaths by Suicide: A multimethod Counterfactual analysis. Journal of Adolescent Health, 68(6), 1176–1182. https://doi.org/10.1016/j.jadohealth.2021.01.033</ref>, negative mental health outcomes of banning same-sex marriage<ref>Lesbian, gay, bisexual individuals risk psychiatric disorders from discriminatory policies. (2010, March 2). EurekAlert! https://www.eurekalert.org/news-releases/544385</ref>, as well as same-sex marriage laws being associated with lower spread of syphilis<ref>Peng, H. (n.d.). The effects of Same-Sex Marriage Laws on public Health and welfare. https://www.academia.edu/446302/The_Effects_of_Same_Sex_Marriage_Laws_on_Public_Health_and_Welfare</ref><ref>Francis, A. M. &. M. H. M. &. P. H. (2012). In sickness and in health: Same-sex marriage laws and sexually transmitted infections. ideas.repec.org. https://ideas.repec.org/a/eee/socmed/v75y2012i8p1329-1341.html</ref>, a proxy for risky homosexual behavior, and lower healthcare use among sexual minorities<ref>Hatzenbuehler, M. L., O’Cleirigh, C., Grasso, C., Mayer, K., Safren, S., & Bradford, J. (2012). Effect of Same-Sex Marriage Laws on health care use and expenditures in Sexual Minority Men: A Quasi-Natural Experiment. American Journal of Public Health, 102(2), 285–291. https://doi.org/10.2105/ajph.2011.300382</ref>. A lot of this likely has to do with increased freedom but it also probably also reflects cultural shifts that emerge following such laws which legitimate same-sex marriage. Moreover, the additional legal and financial rights, benefits, and protections afforded to same-sex couples through legalizing same-sex marriage is another likely culprit for this<ref>Pawelski, J. G., Perrin, E. C., Foy, J. M., Allen, C. E., Crawford, J. E., Del Monte, M., Kaufman, M., Klein, J. D., Smith, K., Springer, S., Tanner, J. L., & Vickers, D. L. (2006). The effects of marriage, civil union, and domestic partnership laws on the health and well-being of children. PEDIATRICS, 118(1), 349–364. https://doi.org/10.1542/peds.2006-1279</ref>.
 
-#### Legal Protection
+#### <span style="background-color:yellow">Legal Protection</span>
 
 Anti-discrimination and anti-bullying laws appear to increase quality of life for sexual minorities by reducing discrimination and bullying<ref>Barron, L. G., & Hebl, M. (2013). The force of law: The effects of sexual orientation antidiscrimination legislation on interpersonal discrimination in employment. Psychology, Public Policy, and Law, 19(2), 191–205. https://doi.org/10.1037/a0028350</ref><ref>Meyer, I. H., Luo, F., Wilson, B. D., & Stone, D. M. (2019). Sexual Orientation Enumeration in State Antibullying Statutes in the United States: Associations with Bullying, Suicidal Ideation, and Suicide Attempts Among Youth. LGBT Health, 6(1), 9–14. https://doi.org/10.1089/lgbt.2018.0194</ref>. However, even with anti-discrimination laws, discrimination against sexual minorities can persist.
 
-#### Same-Sex Parents
+#### <span style="background-color:yellow">Same-Sex Parents</span>
 
 Research on the outcomes of children with same-sex parents compared to heterosexual parents is extremely mixed. Schumm (2016) found that the research in general is of very poor quality and that more research is needed to accurately establish the relationship. Nonetheless, he acknowledged that if one only considers one-time studies of either young children or children who spent very little time in a same-sex household, one would conclude there is no difference in outcomes. On the other hand, if one looks at longitudinal studies and studies that look at adolescents and young adults, one would conclude there are differences, where same-sex parents have worse outcomes<ref>Schumm, W. R. (2016). A review and critique of research on Same-Sex Parenting and adoption. Psychological Reports, 119(3), 641–760. https://doi.org/10.1177/0033294116665594</ref>. 
 
@@ -184,7 +184,7 @@ Looking at meta-analyses, Fedewa et al. (2014) finds that children raised by sam
 
 Therefore, I am skeptical of policies which treat same-sex couples identically in adoption as opposite-sex couples. More research should be done which includes a wide range of controls to see what variables best predict an adopted child's success in life, and whether the sexual orientation of their parents plays any role. Until then, caution should be given to identical treatment.
 
-## Sex Atypicality: Transgenderism
+## <span style="background-color:yellow">Sex Atypicality: Transgenderism</span>
 
 Estimates about the prevalence of a transgender identity range from 0.5-1.5%, depending on the study and age group<ref>Collin, L., Reisner, S. L., Tangpricha, V., & Goodman, M. (2016). Prevalence of transgender depends on the “Case” definition: a Systematic review. The Journal of Sexual Medicine, 13(4), 613–626. https://doi.org/10.1016/j.jsxm.2016.02.001</ref><ref>Zucker, K. J. (2017). Epidemiology of gender dysphoria and transgender identity. Sexual Health, 14(5), 404. https://doi.org/10.1071/sh17067</ref><ref>The Williams Institute at UCLA School of Law. (2023, July 10). How many adults and youth identify as transgender in the United States? - Williams Institute. Williams Institute. https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/</ref>. Among US adults, about 0.5% identify as transgender, compared to about 1.4% among youth ages 13-17<ref>The Williams Institute at UCLA School of Law. (2023, July 10). How many adults and youth identify as transgender in the United States? - Williams Institute. Williams Institute. https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/</ref>.
 
@@ -206,7 +206,7 @@ To my knowledge, research attempting to use alternative ways to treat gender dys
 
 The best evidence suggests that gender transition, medically and socially, appears to have positive health effects on transgender individuals. This will be discussed in later sections.
 
-### Psychological Profile
+### <span style="background-color:yellow">Psychological Profile</span>
 
 Transgender people appear to have worsened mental health and increased suicidality. Some of this is a product of discrimination against transgender people. They also appear to engage in more sexually risky behaviors. Social support is associated with better menta health outcomes.
 
@@ -242,7 +242,7 @@ A large proportion of MTFs engage in risky sexual behaviors and have high rates 
 
 Social support of transgender people from friends and family, as well as self-acceptance, positively predicts quality of life along a variety of metrics<ref>Olson, K. R., Durwood, L., DeMeules, M., & McLaughlin, K. A. (2016). Mental health of transgender children who are supported in their identities. PEDIATRICS, 137(3). https://doi.org/10.1542/peds.2015-3223</ref><ref>Valentine, S. E., & Shipherd, J. C. (2018). A systematic review of social stress and mental health among transgender and gender non-conforming people in the United States. Clinical Psychology Review, 66, 24–38. https://doi.org/10.1016/j.cpr.2018.03.003</ref><ref>Bauer, G. R., Scheim, A. I., Pyne, J., Travers, R., & Hammond, R. (2015). Intervenable factors associated with suicide risk in transgender persons: a respondent driven sampling study in Ontario, Canada. BMC Public Health, 15(1). https://doi.org/10.1186/s12889-015-1867-2</ref><ref>Trans PULSE. (2012). Impacts of strong parental support for trans youth. In A Report Prepared for Children’s Aid Society of Toronto and Delisle Youth Services. https://transpulseproject.ca/wp-content/uploads/2012/10/Impacts-of-Strong-Parental-Support-for-Trans-Youth-vFINAL.pdf</ref><ref>Russell, S. T., Pollitt, A. M., Li, G., & Grossman, A. H. (2018). Chosen name use is linked to reduced depressive symptoms, suicidal ideation, and suicidal behavior among transgender youth. Journal of Adolescent Health, 63(4), 503–505. https://doi.org/10.1016/j.jadohealth.2018.02.003</ref><ref>The What We Know Project. (2021, August 18). What does the scholarly research say about the link between family acceptance and LGBT youth well-being? | What We Know. What We Know. https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-acceptancerejection-of-lgbt-youth-2/</ref><ref>Başar, K., Öz, G., & Karakaya, J. (2016). Perceived discrimination, social support, and quality of life in gender dysphoria. The Journal of Sexual Medicine, 13(7), 1133–1141. https://doi.org/10.1016/j.jsxm.2016.04.071</ref>.
 
-### Gender-Affirming Treatment
+### <span style="background-color:yellow">Gender-Affirming Treatment</span>
 
 As I said before, I am skeptical of whether "gender-affirming treatment" is the best solution to the issue of gender dysphoria, but research that does exist suggests it is. It is unfortunate that alternative treatments have not been meaningfully considered. I will discuss aspects of gender affirming treatment in turn:
 
@@ -264,9 +264,9 @@ There is mixed evidence on whether puberty blockers reduce cognitive ability whi
 
 **Note on Detransition:** Detransition and regret following a gender transition are related but distinct concepts. However, they are often studied alongside each other. Instances of regret and detransition following sex reassignment surgery exist, but research has generally found it to be very rare. Data varies, but the vast majority of research identified in reviewing the literature as well as meta-analysis suggests that the rates of either are less than 5%<ref>Bustos, V. P., Bustos, S. S., Mascaro, A., Del Corral, G., Forte, A. J., Ciudad, P., Kim, E. A., Langstein, H. N., & Manrique, O. J. (2021). Regret after Gender-affirmation Surgery: A Systematic Review and Meta-analysis of Prevalence. Plastic & Reconstructive Surgery Global Open, 9(3), e3477. https://doi.org/10.1097/gox.0000000000003477</ref><ref>The What We Know Project. (2021, August 11). What does the scholarly research say about the effect of gender transition on transgender well-being? | What We Know. What We Know. https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/</ref>.
 
-### Policy Implications
+### <span style="background-color:lightcoral">Policy Implications</span>
 
-#### Public Accommodations
+#### <span style="background-color:yellow">Public Accommodations</span>
 
 Transgender people appear to fare better in terms of mental health when there are public accommodations for them, such as inclusive bathroom policies and inclusive housing. This comes with no clear negative impacts. Sexual assaults do not appear to occur at higher rates when there are inclusive bathroom policies. Funnily enough, it is men who are the most concerned about transgender-inclusive bathroom policies, in spite of the fact that they don’t have to experience the issues they fear women will, of “trans women predators”.
 
@@ -282,7 +282,7 @@ The lack of a positive relationship between inclusive bathroom policy and safety
 
 In unisex washrooms, the story may be a bit different. The vast majority of reported sexual assaults at public swimming pools in the UK take place in unisex changing rooms. Just under 90% of complaints involving sexual assaults, voyeurism, and harassment happen in such changing rooms. This is despite the fact that unisex changing rooms account for less than half of the changing areas across the UK<ref>Hosie, R. (2018, September 15). Unisex changing rooms put women at danger of sexual assault, data reveals | The Independent. The Independent. https://www.independent.co.uk/life-style/women/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html</ref>.
 
-#### Sports
+#### <span style="background-color:yellow">Sports</span>
 
 There are many sports organizations which allow transgender women to compete in the female category, but have certain restrictions with the intent of ensuring fairness. For example, the International Olympic Committee requires total serum testosterone levels to be suppressed below 10 nmol/L for at least 12 months prior to and during competition<ref>Erdener, U., Ljungqvist, A., Bermon, S., Monaco Institute of Sports Medicine & Surgery, IAAF Medical & Scientific Senior Consultant, Beloff, M., Conway, G., Genel, M., Yale University School of Medicine, Harper, J., Prof Angelica Linden Hirschberg Department of Woman & Child Health, Division of Obstetrics & Gynecology, Karolinska Institutet, Martinez Patino, M. J., Faculty of Sport Sciences, University of Vigo, Ritzén, M., Vilain, E., David Geffen School of Medicine at UCLA, Taylor, J., Riley, L., Mitchell, R., Elwani, R., . . . Thill, C. (2015). IOC Consensus Meeting on Sex Reassignment and Hyperandrogenism. In IOC Consensus Meeting on Sex Reassignment and Hyperandrogenism (pp. 1–3). https://stillmed.olympic.org/Documents/Commissions_PDFfiles/Medical_commission/2015-11_ioc_consensus_meeting_on_sex_reassignment_and_hyperandrogenism-en.pdf</ref>. While these policies can be argued to be attempts at being more inclusive towards transgender people, a population which reports generally feeling excluded from sports<ref>Wayback machine. (n.d.). https://web.archive.org/web/20180719224455/https://lra.le.ac.uk/bitstream/2381/38576/6/Transgender%20paper.pdf</ref>, research suggests that they likely inhibit the fairness of many sports overall:
 
@@ -297,21 +297,21 @@ I’m therefore against transgender women being allowed to compete in many elite
 
 SIDENOTE: Jones et al. (2017) is sometimes cited as a literature review suggesting that transgender male or female individuals do not have an athletic advantage at any stage of their transition<ref>Jones, B. A., Arcelus, J., Bouman, W. P., & Haycraft, E. (2016). Sport and Transgender People: A Systematic review of the literature relating to sport participation and competitive sport policies. Sports Medicine, 47(4), 701–716. https://doi.org/10.1007/s40279-016-0621-y</ref>, but the authors later clarified in Jones et al (2020) that the paper suggested that there wasn’t direct evidence at the time that would support the IOC policy or other sporting organizational policies<ref>Jones, B. A., Arcelus, J., Bouman, W. P., & Haycraft, E. (2020). Authors’ reply to Richardson and Chen: Comment on “Sport and Transgender People: A Systematic review of the literature relating to sport participation and Competitive Sport Policies.” Sports Medicine, 50(10), 1861–1862. https://doi.org/10.1007/s40279-020-01324-6</ref>. Rather than the paper being for transgender female inclusion into women’s sports, it is agnostic to the question.
 
-#### Military
+#### <span style="background-color:yellow">Military</span>
 
 Allowing transgender people in the military would allow for a larger military with no negative effects on the effectiveness of such a military force. Moreover, gender-affirming therapy in the military would constitute minimal expenditures and would improve the ability for transgender people to participate effectively in the military<ref>Schaefer, A. G., Radha, I. P., Kadiyala, S., Kavanagh, J., Engel, C. C., Williams, K. M., & Kress, A. M. (2016, June 30). Assessing the implications of allowing transgender personnel to serve openly. RAND. https://www.rand.org/pubs/research_reports/RR1530.html</ref><ref>Okros, A., & Scott, D. (2014). Gender Identity in the Canadian Forces: A review of possible impacts on Operational Effectiveness. Armed Forces & Society, 1–14. https://doi.org/10.1177/0095327X14535371</ref>. There is generally support for transgender people to serve openly in the military amongst military personnel, at least in the United States<ref>Dunlap, S. L., Holloway, I. W., Pickering, C. E., Tzen, M., Goldbach, J. T., & Castro, C. A. (2020). Support for Transgender Military Service from Active Duty United States Military Personnel. Sexuality Research and Social Policy, 18(1), 137–143. https://doi.org/10.1007/s13178-020-00437-x</ref>, although the military nonetheless appears to be less tolerant than the general population of transgender people, due to political ideology and religious affiliation differences<ref>Ender, M. G., Rohall, D. E., & Matthews, M. D. (2015). Cadet and Civilian Undergraduate Attitudes toward Transgender People. Armed Forces & Society, 42(2), 427–435. https://doi.org/10.1177/0095327x15575278</ref>.
 
-#### Prisons
+#### <span style="background-color:yellow">Prisons</span>
 
 Data suggests that transgender women in male prisons are greatly disproportionately sexually abused compared to non-transgender inmates in men’s prisons<ref>just detention international. (2013). Targets for abuse: transgender inmates and prisoner rape. In Just Detention International. https://justdetention.org/wp-content/uploads/2015/10/FS-Targets-For-Abuse-Transgender-Inmates-And-Prisoner-Rape.pdf</ref>. At the same time, data from England and Wales suggests that nearly half of transgender prisoners have been convicted for sexual offenses, compared to 19% of males and 4% of females in the overall prison population<ref>Biggs, M. (2020, May 17). The Transition from Sex to Gender in English Prisons: Human Rights and Queer Theory. https://doi.org/10.31235/osf.io/43f2t</ref>. This lends credence to the hypothesis that there may be male inmates who insincerely attempt to identify as transgender to enter women’s spaces where they can engage in predatory behavior. Thus there is a very difficult dilemma posed. If however, we do hold that we should try and ensure that sincere transgender women do enter women’s prisons where they’ll be safe from sexual assault, we must take great care in rooting out false positives as not doing so could have disastrous consequences.
 
-## The Modern Narrative on Sexism
+## <span style="background-color:yellow">The Modern Narrative on Sexism</span>
 
 A common assumption, similar to race, is that all disparities that exist on the basis of gender must necessarily be due to discrimination. As shown in earlier sections, this is clearly not true. Men and women have different interests, different comparative advantages cognitively, different personalities. Thus, they should have different outcomes in nearly every domain of society. Nonetheless, it is possible that bias, or "sexism", can play a role in some of these disparities to some degree.
 
-### Economic Disparities
+### <span style="background-color:lightcoral">Economic Disparities</span>
 
-#### Workplace: Some Bias (Ambiguous Direction)
+#### <span style="background-color:yellow">Workplace: Some Bias (Ambiguous Direction)</span>
 
 Over time, as women have increasingly entered high-status occupations, occupations' people-things orientation became an increasingly strong predictor of women's participation in occupations<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095960</ref>. Men tend to show interest in more scientific occupations, while women tend to show interest in more social occupations<ref>https://psycnet.apa.org/record/1934-01297-001</ref><ref>https://pubmed.ncbi.nlm.nih.gov/27505283/</ref><ref>https://www.tandfonline.com/doi/full/10.1080/21683603.2018.1521759</ref>. This is in part due to differences in sex hormones, which affect a person's things-people orientation<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166361/</ref>.
 
@@ -337,7 +337,7 @@ Hiring experiments have shown that for mixed-gender and male stereotypical jobs 
 
 A Finnish study found that women and men worked approximately equal hours, but that the women devoted 50% more time to domestic work. Irrespective of gender, negative work-family spillover (work demands interfering with family affairs) was associated with health problems. Paid work hours per week for women (men) were 41.7 (42.8), domestic hours per week were 29.8 (20.6), and total work hours per week were 71.2 (63.5). Women were significantly more negatively affected by negative family-work spillover than men (family affairs interfering with work demands). Only for men, there was a positive association between sickness absence and domestic work hours. Women had slightly higher psychological distress and men had slightly higher suboptimal health. Both of these differences were only a few percentage points<ref>https://www.tandfonline.com/doi/pdf/10.1300/J013v40n03_01</ref>.
 
-#### STEM: Little Bias
+#### <span style="background-color:yellow">STEM: Little Bias</span>
 
 Stewart-Williams & Halsey (2021) found that there are a number of reasons why women are underrepresented in STEM, a mix of biological and social causes<ref>https://sci-hub.ru/https://doi.org/10.1177/0890207020962326</ref>:
 
@@ -356,11 +356,11 @@ Isungset et al. (2021) finds that as gender equality has increased over the 20th
 
 Attempting to counter a biological explanation for gender inequality, Breda et al. (2020) finds that the stereotype associating math to men is stronger in more egalitarian and developed countries, and is strongly associated with various measures of female underrepresentation in math-intensive fields<ref>https://www.pnas.org/content/117/49/31063</ref>. Therefore, the gender paradox if it exists is instead due to the reassertion of gender stereotypes occurring as societies become more gender equal. Economic development reshapes rather than suppresses gender norms, with an emergence of new or more forms of social differentiation across genders. However, the causality of this isn't clear. It may for instance be the case that people are observing the biological reality that women aren't attending STEM careers in spite of increased gender equality and forming those stereotypes as a consequence of that initial observation. Thus, this isn't inconsistent with biological explanations for gender inequality.
 
-#### Housing: Pro-Female Bias
+#### <span style="background-color:yellow">Housing: Pro-Female Bias</span>
 
 Men are disproportionately discriminated against in terms of housing, due to preferences rather than statistical discrimination<ref>https://crese.univ-fcomte.fr/uploads/wp/WP-2018-04.pdf</ref>. This suggests that these are irrational and unjust biases rather than justified actions undertaken by rental agents.
 
-### Schooling: Little Bias
+### <span style="background-color:yellow">Schooling: Little Bias</span>
 
 There is a small female advantage in general scholastic achievement. This is largest for language courses and smallest for math courses<ref>https://www.researchgate.net/publication/261953087_Gender_Differences_in_Scholastic_Achievement_A_Meta-Analysis</ref>. Lindberg et al. (2010) in fact found no gender difference in mathematical performance<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3057475/</ref>.
 
@@ -370,17 +370,17 @@ Female education reduces fertility<ref>https://www.sciencedirect.com/science/art
 
 Boys tend to have a relative strength in technical/numerical subjects and girls tend to have a relative strength in verbal/language ones. Boys and girls largely pursued careers cognitively matching their initial academic strengths, although men and women matched on these strengths made different career choices. In particular, women with technical/numerical strengths largely avoided careers demanding these skills<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289617302167</ref>.
 
-### Criminal Justice: Pro-Female Bias
+### <span style="background-color:yellow">Criminal Justice: Pro-Female Bias</span>
 
 All else equal, men are more likely to be arrested, are more aggressively policed on average than women, and are more likely to have force initiated on them. Some of these results when tested have been found to be robust to publication bias, and these results are consistently found in a variety of studies. Women appear to be held to much lower standards by police in a variety of circumstances<ref>https://www.sciencedirect.com/science/article/abs/pii/S0047235214000890</ref><ref>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.848.1523&rep=rep1&type=pdf</ref><ref>https://www.tandfonline.com/doi/abs/10.1080/07418820400095741</ref><ref>https://www.researchgate.net/profile/Volkan-Topalli/publication/247744878_The_Impact_of_Implicit_Stereotyping_on_Offender_ProfilingUnexpected_Results_From_an_Observational_Study_of_Shoplifting/links/00b49534d42678e6fd000000/The-Impact-of-Implicit-Stereotyping-on-Offender-ProfilingUnexpected-Results-From-an-Observational-Study-of-Shoplifting.pdf</ref><ref>https://domesticviolenceresearch.org/pdf/PASK.Tables12.Revised.pdf</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0047235204000637?via%3Dihub</ref><ref>https://link.springer.com/article/10.1007/s12103-014-9278-y</ref><ref>https://www.tandfonline.com/doi/abs/10.1080/07418820701485601</ref>.
 
 Sentencing judgements and related court activities, such as the death penalty, all appear to favor women over men even when controlling for relevant factors. This holds for all kinds of crimes, including murder, sexual offenses, drug offenses, and more. These effects are much more consistent than racial effects in sentencing. Cases involving a female victim are more likely to result in a harsher sentence, and this effect is especially bad when the defendant is male<ref>https://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.1994.tb01552.x</ref><ref>https://core.ac.uk/download/pdf/35464079.pdf</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0047235215000665</ref><ref>https://journals.sagepub.com/doi/abs/10.1177/0011128703256265</ref><ref>https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=1001&context=gang_lee</ref><ref>https://files.deathpenaltyinfo.org/legacy/files/pdf/FemDeathDec2005.pdf</ref><ref>https://link.springer.com/article/10.1007/s10940-019-09416-x</ref><ref>https://www.jstor.org/stable/10.1525/sp.2004.51.2.222?seq=1</ref><ref>https://journals.sagepub.com/doi/10.1177/088740349900900305</ref><ref>https://www.tandfonline.com/doi/abs/10.1080/07418829500092601#:~:text=Sex%20effects%20and%20sentencing:%20An%20analysis%20of%20the,composition,%20and%20to%20conceptual%20dimensions%20of%20the%20research</ref><ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1767508</ref>.
 
-### Healthcare: Anti-Female Bias
+### <span style="background-color:yellow">Healthcare: Anti-Female Bias</span>
 
 There exists a gender bias in research<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1761670/</ref>. Research funding disproportionately goes into dealing with male medical issues. Early clinical trials until 1994 mostly excluded women for safety reasons which led to it being reported in 2005 that eight out of ten prescription drugs were withdrawn from the US market because of women's health issues. Women more recently have not been recruited much into trial results, in part because women using hormonal contraception must be considered a separate analytical group, a study requirement which creates access burdens for women. Researchers and ethics committees ignored risks of contraceptives, interference with drug metabolism by hormonal contraception, that partners may be sterile, that fetal harm may also affect men, that the risk of fetal exposure to one dose of a drug was minimal and that women could make their own decisions. There is also a lack of incorporation of gender data into evidence-based medicine, with often a lack of gender specific management guidelines.
 
-### General Anti-Male Bias
+### <span style="background-color:yellow">General Anti-Male Bias</span>
 
 Although men do tend to be seen as more favorable in terms of agency stereotyping<ref>https://www.apa.org/pubs/journals/releases/amp-amp0000494.pdf</ref>, attitudes and stereotypes either tend to be equal for men and women or favor women over men, with there being a larger female advantage in communion-related stereotyping and equality in competence<ref>https://journals.sagepub.com/doi/abs/10.1177/0146167289154008?journalCode=pspc</ref><ref>https://journals.sagepub.com/doi/10.1111/j.1471-6402.1991.tb00792.x</ref><ref>https://www.tandfonline.com/doi/abs/10.1080/00223989709603527</ref><ref>https://www.apa.org/pubs/journals/releases/amp-amp0000494.pdf</ref>.
 
@@ -388,7 +388,7 @@ Generally speaking it is only those gaps which favor men that are discussed. Dis
 
 Research suggests that men in the media today are overwhelmingly portrayed as negative, being frequently associated with violence and aggression. With the exception of a small minority of positive media portrayals of male heroes such as war veterans, firefighters, and rescuers, and portrayals of men as good fathers, husbands, and citizens, the only males presented positively are men and boys who have been feminized<ref>https://link.springer.com/chapter/10.1057%2F9780230625679_7</ref>. Women's violence is more likely to be reported as irrational or emotional, while men's violence is more likely to be presented as normal or rational<ref>https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-2311.00200</ref>. Articles depicting men with mental illnesses are significantly more likely to have stigmatizing content and violence as themes. Articles depicting mentally ill women are significantly more likely to quote mental health experts, discuss mental health interventions, and have recovery and inadequate resources as themes<ref>https://link.springer.com/article/10.1007%2Fs00127-014-0902-4</ref>.
 
-### Politics: The Woman Question
+### <span style="background-color:yellow">Politics: The Woman Question</span>
 
 Women perform just as well when they run for public office, but there is a gender gap in political ambition. This is due to a combination of women being less likely to be encouraged or recruited for office, and that public office careers have traits which women tend to find undesirable<ref>https://www.brookings.edu/wp-content/uploads/2016/06/05_women_lawless_fox.pdf</ref><ref>https://www.american.edu/spa/wpi/upload/2012-men-rule-report-web.pdf</ref>.
 
@@ -404,9 +404,9 @@ Gender quotas help to normalize women in politics, having a cultural effect sepa
 
 Female legislators tend to place higher emphasis on women's issues and children/family concerns, but also on general economic and health issues. They are more likely to cause increases in government expenditures towards public health and decreases in government expenditures towards military and other areas<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2006.00202.x</ref><ref>http://uu.diva-portal.org/smash/get/diva2:1246248/FULLTEXT01</ref>.
 
-## Attraction
+## <span style="background-color:lightcoral">Attraction</span>
 
-### Social Factors
+### <span style="background-color:yellow">Social Factors</span>
 
 - **Mental Illness -** Strong genetic selection exists against schizophrenia, autism, and anorexia nervosa<ref>Power, R. A., Kyaga, S., Uher, R., MacCabe, J. H., Långström, N., Landen, M., McGuffin, P., Lewis, C. M., Lichtenstein, P., & Svensson, A. C. (2013). Fecundity of Patients With Schizophrenia, Autism, Bipolar Disorder, Depression, Anorexia Nervosa, or Substance Abuse vs Their Unaffected Siblings. JAMA Psychiatry, 70(1), 22. https://doi.org/10.1001/jamapsychiatry.2013.268</ref>, and there appears to be genetic selection for ADHD<ref>Rokeach, A., & Wiener, J. (2014). The romantic relationships of adolescents with ADHD. Journal of Attention Disorders, 22(1), 35–45. https://doi.org/10.1177/1087054714538660</ref><ref>Østergaard, S. D., Dalsgaard, S., Faraone, S. V., Munk-Olsen, T., & Laursen, T. M. (2017). Teenage Parenthood and birth rates for individuals with and without Attention-Deficit/Hyperactivity Disorder: a nationwide cohort study. Journal of the American Academy of Child & Adolescent Psychiatry, 56(7), 578-584.e3. https://doi.org/10.1016/j.jaac.2017.05.003</ref>.
 - **Dark Triad -** Tinder users tend to be higher on dark triad traits and sociosexuality, and those with higher dark triad traits and sociosexuality are more motivated to use Tinder for short-term mating<ref>Sevi, B. (2019). The dark side of Tinder. Journal of Individual Differences, 40(4), 242–246. https://doi.org/10.1027/1614-0001/a000297</ref>. McDonald et al. (2012) found that there are two distinct factors of dark triad life history strategies. First is a fast life strategy factor that includes the impulsive antisociality facet of psychopathy, the entitlement/exploitativeness facet of narcissism, machiavellianism, unrestricted sociosexuality, and aggression. Second is a slow life strategy factor that includes the fearless dominance facet of psychopathy and the leadership/authority and grandiose exhibitionism facets of narcissism<ref>McDonald, M. M., Donnellan, M. B., & Navarrete, C. D. (2012). A life history approach to understanding the Dark Triad. Personality and Individual Differences, 52(5), 601–605. https://doi.org/10.1016/j.paid.2011.12.003</ref>. Davis et al. (2018) found that narcissism predicted a slow strategy, while psychopathy and status-driven risk taking predicted a fast strategy. Machiavellianism and everyday sadism were not predictors of life history strategy<ref>Davis, A. C., Visser, B. A., Volk, A. A., Vaillancourt, T., & Arnocky, S. (2018). The Relations between Life History Strategy and Dark Personality Traits among Young Adults. Evolutionary Psychological Science, 5(2), 166–177. https://doi.org/10.1007/s40806-018-0175-3</ref>. Dark triad personalities are significantly more attractive to women<ref>The Dark Triad personality: Attractiveness to women. (n.d.). ResearchGate. https://www.researchgate.net/publication/273809664_The_Dark_Triad_personality_Attractiveness_to_women</ref>.
@@ -417,7 +417,7 @@ Female legislators tend to place higher emphasis on women's issues and children/
 - **Status -** Male status has a positive effect on reproductive success<ref>Von Rueden, C. R., & Jaeggi, A. V. (2016). Men’s status and reproductive success in 33 nonindustrial societies: Effects of subsistence, marriage system, and reproductive strategy. Proceedings of the National Academy of Sciences, 113(39), 10824–10829. https://doi.org/10.1073/pnas.1606800113</ref>. However, only high status men and not high status women are seen as more attractive<ref>Dewall, C. N., & Maner, J. K. (2008). High status men (but not women) capture the eye of the beholder. Evolutionary Psychology, 6(2), 147470490800600. https://doi.org/10.1177/147470490800600209</ref>.
 - **Wealth -** High-income men have more biological children than do low-income men and high-income women. However, intelligence decreases the number of offspring and frequency of sex for both men and women<ref>Hopcroft, R. L. (2006). Sex, status, and reproductive success in the contemporary United States. Evolution and Human Behavior, 27(2), 104–120. https://doi.org/10.1016/j.evolhumbehav.2005.07.004</ref>. Greater income does not buy more sex, nor more sexual partners<ref>Blanchflower, D. G., & Oswald, A. J. (2004, May 24). Money, Sex, and Happiness: An Empirical study. NBER. https://web.archive.org/web/20170109063039/https://www.nber.org/papers/w10499</ref>. However, while men tend not to care about income in online dating, women do<ref>Ong, D., & Wang, J. (2015). Income attraction: An online dating field experiment. Journal of Economic Behavior & Organization, 111, 13–22. https://doi.org/10.1016/j.jebo.2014.12.011</ref>. Women are 1000 times more sensitive to a man's salary than the other way around when it comes to rating attractiveness<ref>Wang, G., Cao, M., Sauciuvenaite, J., Bissland, R., Hacker, M., Hambly, C., Vaanholt, L. M., Niu, C., Faries, M. D., & Speakman, J. R. (2018). Different impacts of resources on opposite sex ratings of physical attractiveness by males and females. Evolution and Human Behavior, 39(2), 220–225. https://doi.org/10.1016/j.evolhumbehav.2017.12.008</ref>.
 
-### Physical Factors
+### <span style="background-color:yellow">Physical Factors</span>
 
 - **Health -** Physiological measures of health such as immune function, oxidative stress and semen quality do not appear to be strongly related to mating success<ref>Foo, Y. Z., Simmons, L. W., & Rhodes, G. (2017). The relationship between health and mating success in humans. Royal Society Open Science, 4(1), 160603. https://doi.org/10.1098/rsos.160603</ref>. Only female waist-to-hip ratio and weight appear to predict both attractiveness and health. Attractiveness has an overall relationship with health among women, but male attractiveness does not appear to be related to male health<ref>Wayback machine. (n.d.). https://web.archive.org/web/20140905115735/https://femininebeauty.info/f/weeden.sabini.pdf</ref>.
 - **Shoulder-Hip-Waist Ratios -** Men with higher shoulder to hip ratios and women with low waist to hip ratios have sexual intercourse at an earlier age, more sexual partners, more extrapair copulations, and having themselves been extrapair copulation partners<ref>Hughes, S. M., & Gallup, G. G. (2003). Sex differences in morphological predictors of sexual behavior. Evolution and Human Behavior, 24(3), 173–178. https://doi.org/10.1016/s1090-5138(02)00149-6</ref>. A low waist-hip ratio is viewed cross-culturally as attractive<ref>Singh, D., Dixson, B., Jessop, T., Morgan, B., & Dixson, A. (2010). Cross-cultural consensus for waist–hip ratio and women’s attractiveness. Evolution and Human Behavior, 31(3), 176–181. https://doi.org/10.1016/j.evolhumbehav.2009.09.001</ref>. Even blind men prefer a low waist-top-hip ratio<ref>Karremans, J. C., Frankenhuis, W. E., & Arons, S. (2010). Blind men prefer a low waist-to-hip ratio. Evolution and Human Behavior, 31(3), 182–186. https://doi.org/10.1016/j.evolhumbehav.2009.10.001</ref>.
@@ -428,11 +428,11 @@ Female legislators tend to place higher emphasis on women's issues and children/
 - **Facial Shape -** Across cultures, facial averageness, symmetry, and sexual dimorphism are attractive in both male and female faces<ref>Rhodes, G. (2006). The Evolutionary Psychology of Facial Beauty. Annual Review of Psychology, 57(1), 199–226. https://doi.org/10.1146/annurev.psych.57.102904.190208</ref>. This suggests that there exists some good candidates for biologically based standards of beauty.
 - **Race -** Men of all races tend to rate Asian women as being relatively attractive and black women as being relatively unattractive, although tend to also be biased in favor of their own race. Numbers are mixed for white women and latina women. Women tend to rate their own race as being the most attractive<ref>Rudder, C. (n.d.). Race and Attraction, 2009 – 2014. OkTrends. https://gwern.net/doc/psychology/okcupid/raceandattraction20092014.html</ref>. Europeans living in countries with a large foreign-born population have an increased preference for minority groups<ref>Racial Preferences in Online Dating across European Countries. (n.d.). ResearchGate. https://www.researchgate.net/publication/271837870_Racial_Preferences_in_Online_Dating_across_European_Countries</ref>. Physical attractiveness and race are the strongest predictors of decisions in a swiping experiment<ref>Chopik, W. J., & Johnson, D. J. (2021). Modeling dating decisions in a mock swiping paradigm: An examination of participant and target characteristics. Journal of Research in Personality, 92, 104076. https://doi.org/10.1016/j.jrp.2021.104076</ref>.
 
-### Heritability of Attraction
+### <span style="background-color:yellow">Heritability of Attraction</span>
 
 Identical twins have more similar preferences for traits such as height, skin color, hair color and length, chest hair, facial hair, and breast size, suggesting genetic effects. Heritability estimates range from zero to 57%<ref>Evidence for genetic variation in human mate preferences for sexually dimorphic physical traits. (n.d.). ResearchGate. https://www.researchgate.net/publication/233725541_Evidence_for_Genetic_Variation_in_Human_Mate_Preferences_for_Sexually_Dimorphic_Physical_Traits</ref>.
 
-### Correlates with Attractiveness
+### <span style="background-color:yellow">Correlates with Attractiveness</span>
 
 - **Finding a Partner -** For men, being unattractive decreases the likelihood of finding a partner or finding a partner of a higher educational level, but not for women<ref>Wayback machine. (n.d.). https://web.archive.org/web/20170824000252/https://reis.cis.es//REIS/PDF/REIS_159_07_ENGLISH1499424514902.pdf</ref>.
 - **Health -** There is a robust association between physical attractiveness and various measures of health. This suggests that physical attractiveness is a phenotypic marker for health<ref>Nedelec, J. L., & Beaver, K. M. (2014). Physical attractiveness as a phenotypic marker of health: an assessment using a nationally representative sample of American adults. Evolution and Human Behavior, 35(6), 456–463. https://doi.org/10.1016/j.evolhumbehav.2014.06.004</ref>.
@@ -441,23 +441,23 @@ Identical twins have more similar preferences for traits such as height, skin co
 - **Criminality -** More attractive people are less likely to be arrested and convicted<ref>Beaver, K. M., Boccio, C., Smith, S., & Ferguson, C. J. (2019). Physical attractiveness and criminal justice processing: results from a longitudinal sample of youth and young adults. Psychiatry Psychology and Law, 26(4), 669–681. https://doi.org/10.1080/13218719.2019.1618750</ref>.
 - **Confidence -** Physically attractive workers are more confident, have better oral skills, and are independently considered more able by employers, increasing their wages<ref>Mobius, M. M., & Rosenblat, T. S. (2006). Why beauty matters. American Economic Review, 96–1, 222–235. https://dash.harvard.edu/bitstream/handle/1/3043406/mobius_beauty.pdf?s</ref>.
 
-## Relationships
+## <span style="background-color:lightcoral">Relationships</span>
 
-### Beauty
+### <span style="background-color:orange">Beauty</span>
 
 There is interrater reliability in terms of who people find is and is not attractive both within and across cultures. Moreover, attractive children and adults are judged and treated more positively than unattractive children and adults, even by those who know them, and attractive children and adults exhibit more positive behaviors and traits<ref>Langlois, J. H., Kalakanis, L., Rubenstein, A. J., Larson, A., Hallam, M., & Smoot, M. (2000). Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin, 126(3), 390–423. https://doi.org/10.1037/0033-2909.126.3.390</ref>. People assessed as more physically attractive at age 15 had higher socioeconomic status at age 36 and were more likely to be married, even after controlling for other factors<ref>Benzeval, M., Green, M. J., & Macintyre, S. (2013). Does Perceived Physical Attractiveness in Adolescence Predict Better Socioeconomic Position in Adulthood? Evidence from 20 Years of Follow Up in a Population Cohort Study. PLoS ONE, 8(5), e63975. https://doi.org/10.1371/journal.pone.0063975</ref>.
 
-### Asking Out
+### <span style="background-color:orange">Asking Out</span>
 
 Men tend to prefer to ask out women and ask out women more. On the other hand, women tend to prefer to be asked out and ask out men less. This has not changed in spite of great changes in gender relations over the past few decades. This may be because women evolutionarily want to demonstrate sexual fidelity to attract an ideal partner<ref>Mills, M., PhD. (2024, June 17). Despite greater equality, women still don’t ask. Why? Psychology Today. https://www.psychologytoday.com/us/blog/the-how-and-why-of-sex-differences/201104/why-dont-women-ask-men-out-on-first-dates</ref>.
 
-### Creepiness and Sexual Harassment
+### <span style="background-color:orange">Creepiness and Sexual Harassment</span>
 
 Men are perceived as being more creepy than women and women are more likely to associate sexual threat with creepiness. Unusual nonverbal behavior and unpredictability were also predictors of creepiness. This is consistent with the hypothesis that being creeped out is an evolved adaptive emotional response<ref>McAndrew, F. T., & Koehnke, S. S. (2016). On the nature of creepiness. New Ideas in Psychology, 43, 10–15. https://doi.org/10.1016/j.newideapsych.2016.03.003</ref>.
 
 Attractiveness and high social status are predictive of tolerance for sexual harassment<ref>Wuensch, K. L., & Moore, C. H. (2004). Effects of physical attractiveness on evaluations of a male employee’s allegation of sexual harassment by his female employer. The Journal of Social Psychology, 144(2), 207–217. https://doi.org/10.3200/socp.144.2.207-217</ref><ref>Angelone, D. J., Mitchell, D., & Carola, K. (2008). Tolerance of Sexual Harassment: a laboratory paradigm. Archives of Sexual Behavior, 38(6), 949–958. https://doi.org/10.1007/s10508-008-9421-2</ref>.
 
-### Monogamy/Promiscuity
+### <span style="background-color:orange">Monogamy/Promiscuity</span>
 
 Having multiple sex partners is not related to increased anxiety or depression but is related to alcohol and drug dependence issues<ref>Abpp, S. K. W. P. (2024, May 24). Less may be more. Psychology Today. https://www.psychologytoday.com/intl/blog/fulfillment-at-any-age/201304/the-long-term-psychological-effects-of-having-multiple-sex</ref>.
 
@@ -473,19 +473,19 @@ Sexual and emotional infidelity are related to sexual and emotional promiscuity<
 
 Across cultures, women's virginity is viewed as a gift and women are viewed as sexually submissive to men. On the other hand, male virginity was seen as a failure to men's masculinity<ref>Tejada, A. M. & Humboldt State University. (2020). Like a Virgin: Comparing Cross-Cultural Virginity. In Communication Senior Capstones [Thesis]. https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1008&context=senior_comm</ref>.
 
-### Sex Drive/Sociosexuality
+### <span style="background-color:orange">Sex Drive/Sociosexuality</span>
 
 Men tend to have a higher sex drive and greater sociosexuality than women across countries<ref>Baumeister, R., Catanese, K. R., & Vohs, K. (2001). Is there a gender difference in strength of sex drive? theoretical views, conceptual distinctions, and a review of relevant evidence. https://www.semanticscholar.org/paper/Is-There-a-Gender-Difference-in-Strength-of-Sex-and-Baumeister-Catanese/5f8446340d4ed375007351539e7993fa44e2e31b?p2df</ref><ref>Lippa, R. A. (2007). Sex Differences in Sex Drive, Sociosexuality, and Height across 53 Nations: Testing Evolutionary and Social Structural Theories. Archives of Sexual Behavior, 38(5), 631–651. https://doi.org/10.1007/s10508-007-9242-8</ref>. The evidence on sociosexuality consistent with a hybrid model in which both biological and social structural influences contribute to sex differences, while sex drive is consistent with a biological model.
 
-### Virginity
+### <span style="background-color:orange">Virginity</span>
 
 Female adolescents who had sex had significant decreases in peer acceptance over time, while male adolescents who had sex had significant increases in peer acceptance. Interestingly however, findings for making out suggested that female adolescents had increases in peer acceptance and male adolescents had decreases in peer acceptance<ref>Kreager, D. A., Staff, J., Gauthier, R., Lefkowitz, E. S., & Feinberg, M. E. (2016). The double standard at sexual debut: gender, sexual behavior and adolescent peer acceptance. Sex Roles, 75(7–8), 377–392. https://doi.org/10.1007/s11199-016-0618-x</ref>.
 
-### Sexual Activity
+### <span style="background-color:orange">Sexual Activity</span>
 
 Penile-vaginal intercourse is associated with a wide range of better psychological and physiological health indices. Other activities have weaker, null, or inverse associations with health indices<ref>Brody, S. (2010). The relative health benefits of different sexual activities. The Journal of Sexual Medicine, 7(4_Part_1), 1336–1361. https://doi.org/10.1111/j.1743-6109.2009.01677.x</ref>.
 
-### Loneliness and Rejection
+### <span style="background-color:orange">Loneliness and Rejection</span>
 
 Social rejection is reflected in the part of the brain that experiences physical pain, suggesting that experiencing rejection is neurologically analogous to experiencing physical pain<ref>Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D. (2011). Social rejection shares somatosensory representations with physical pain. Proceedings of the National Academy of Sciences, 108(15), 6270–6275. https://doi.org/10.1073/pnas.1102693108</ref>. Greater social connection is associated with a reduced risk of early death. Social isolation and loneliness significantly increase premature mortality<ref>Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social Relationships and Mortality Risk: A Meta-analytic review. PLoS Medicine, 7(7), e1000316. https://doi.org/10.1371/journal.pmed.1000316</ref><ref>So lonely I could die. (2017, August 5). https://www.apa.org. https://www.apa.org/news/press/releases/2017/08/lonely-die</ref>.
 
@@ -495,11 +495,11 @@ Individuals who have poor mating performance experience more negative emotions, 
 
 Warm partner contact is related to lower cardiovascular reactivity, suggesting that affectionate relationships with a partner may contribute to someone being less reactive to stressful life events<ref>Grewen, K. M., Anderson, B. J., Girdler, S. S., & Light, K. C. (2003). Warm partner contact is related to lower cardiovascular reactivity. Behavioral Medicine, 29(3), 123–130. https://doi.org/10.1080/08964280309596065</ref>.
 
-### Single Motherhood
+### <span style="background-color:orange">Single Motherhood</span>
 
 The less time fathers spend with their children,, the more conduct problems their children had, but only if fathers did not engage in antisocial behavior. If they are high in anti-social behavior, time spent with their children increases the conduct problems of their children<ref>Jaffee, S. R., Moffitt, T. E., Caspi, A., & Taylor, A. (2003). Life with (or without) father: The benefits of living with two biological parents depend on the father’s antisocial behavior. Child Development, 74(1), 109–126. https://doi.org/10.1111/1467-8624.t01-1-00524</ref>.
 
-### Marriage and Divorce
+### <span style="background-color:orange">Marriage and Divorce</span>
 
 There is a positive relationship between premarital sex and risk of divorse. This is not a direct causal effect, but rather due to prior unobserved differences such as the willingness to break traditional norms<ref>Kahn, J. R., & London, K. A. (1991). Premarital sex and the risk of divorce. Journal of Marriage and Family, 53(4), 845. https://doi.org/10.2307/352992</ref>.
 
@@ -513,7 +513,7 @@ Age gaps in relationships are natural and exist cross-culturally<ref>https://www
 
 Legalizing unilateral divorce increases female labor force, decreases marriages but increases marriage quality, may reduce child well-being, increases household saving rates, and reduces domestic violence and female suicide. Unilateral divorce combined with equal division of property may depress female employment. Because there is some evidence that children can be harmed by unilateral divorce, easy divorce should be accompanied by policies aimed at supporting children in vulnerable families<ref>https://wol.iza.org/articles/should-divorce-be-easier-or-harder</ref>.
 
-### Politics and Sexuality
+### <span style="background-color:orange">Politics and Sexuality</span>
 
 Attractive candidates tend to get more votes. Politically unpopular parties tend to be represented by physically unattractive candidates<ref>Voters vote beautiful: The effect of physical appearance on a national election. (n.d.). ResearchGate. https://www.researchgate.net/publication/232586298_Voters_Vote_Beautiful_The_Effect_of_Physical_Appearance_on_a_National_Election</ref>.
 
@@ -525,79 +525,79 @@ Price et al. (2017) found that sociopolitical egalitarianism is negatively relat
 
 Both self-rated attractiveness and attractiveness rated by other people predict the endorsement of a belief in a just world and are related to a person's level of life satisfaction<ref>Westfall, R. S., Millar, M. G., & Lovitt, A. (2018). The influence of physical attractiveness on belief in a just world. Psychological Reports, 122(2), 536–549. https://doi.org/10.1177/0033294118763172</ref>.
 
-### Sexism
+### <span style="background-color:orange">Sexism</span>
 
 Women tend to approve of benevolent sexist men but disapprove of hostile sexist men<ref>Wanting it both ways: Do women approve of benevolent sexism? (n.d.). ResearchGate. https://www.researchgate.net/publication/251261112_Wanting_It_Both_Ways_Do_Women_Approve_of_Benevolent_Sexism</ref>. Women tend to also prefer men with benevolent sexist attitudes over those without them, despite also perceiving them as patronizing and undermining<ref>Bohner, G., Ahlborn, K., & Steiner, R. (2009). How Sexy are Sexist Men? Women’s Perception of Male Response Profiles in the Ambivalent Sexism Inventory. Sex Roles, 62(7–8), 568–582. https://doi.org/10.1007/s11199-009-9665-x</ref><ref>Gul, P., & Kupfer, T. R. (2018). Benevolent sexism and mate preferences: Why do women prefer benevolent men despite recognizing that they can be undermining? Personality and Social Psychology Bulletin, 45(1), 146–161. https://doi.org/10.1177/0146167218781000</ref>. Benevolent sexism in women is associated with greater preferences for high-resource partners, while hostile sexism in men is associated with stronger preferences for physically attractive partners. This along with other evidence suggests that women's desire for high-resource partners is related to a protection and security-provision motive, while men's desire for attractive partners is related to a dominance-based status-marker motive<ref>Sibley, C. G., & Overall, N. C. (2011). A dual process motivational model of ambivalent sexism and gender differences in romantic partner preferences. Psychology of Women Quarterly, 35(2), 303–317. https://doi.org/10.1177/0361684311401838</ref>.
 
 Women's sex role ideology, but not men's, is negatively related to marital happiness and stability, with nontraditional women being less happy and more likely to be separated or divorced<ref>Lueptow, L. B., Guss, M. B., & Hyden, C. (1989). Sex role ideology, marital status, and happiness. Journal of Family Issues, 10(3), 383–400. https://doi.org/10.1177/019251389010003005</ref>.
 
-### Criminality
+### <span style="background-color:orange">Criminality</span>
 
 Typical perpetrators of mass killings are low- or mid-status men with relatively low educational attainment and in a history of relationship problems. The trigger in most cases of these is a status loss or threat. This suggests that autogenic murderous rampages, although clearly psychopathological, may be rooted in a biological male desire to defend status<ref>Autogenic massacre as a maladaptive response to status threat. (n.d.). ResearchGate. https://www.researchgate.net/publication/233146324_Autogenic_massacre_as_a_maladaptive_response_to_status_threat</ref>.
 
-### Biorealism
+### <span style="background-color:lightcoral">Biorealism</span>
 
-#### Life History
+#### <span style="background-color:orange">Life History</span>
 
 Women who engage in short-term mating in the form of extra-pair liaisons tend to do so to acquire a better mate and to accrue immediate resources<ref>Greiling, H., & Buss, D. M. (2000). Women’s sexual strategies: the hidden dimension of extra-pair mating. Personality and Individual Differences, 28(5), 929–963. https://doi.org/10.1016/s0191-8869(99)00151-8</ref>.
 
-#### Sexual Selection
+#### <span style="background-color:orange">Sexual Selection</span>
 
 While in modern times, actual male fertility is uncorrelated with social status, social status is highly correlated with potential fertility as estimated from copulation frequency<ref>Pérusse, D. (1993). Cultural and reproductive success in industrial societies: Testing the relationship at the proximate and ultimate levels. Behavioral and Brain Sciences, 16(2), 267–283. https://doi.org/10.1017/s0140525x00029939</ref>. This suggests that evolutionary explanations of human behavior are still relevant in modern societies.
 
-## Abortion
+## <span style="background-color:lightcoral">Abortion (NEED TO DISCUSS PHILOSOPHY OF ABORTION)</span>
 
-### Fetal Consciousness and Pain Perception
+### <span style="background-color:orange">Fetal Consciousness and Pain Perception</span>
 
 Evidence Primarily suggests that the fetus does not display consciousness/pain reception until at least around 23-24 gestation weeks when the necessary parts for pain perception are established<ref>Lee, S. J., Ralston, H. J. P., Drey, E. A., Partridge, J. C., & Rosen, M. A. (2005). Fetal pain. JAMA, 294(8), 947. https://doi.org/10.1001/jama.294.8.947</ref><ref>Lagercrantz, H., & Changeux, J. (2009). The emergence of human consciousness: from fetal to neonatal life. Pediatric Research, 65(3), 255–260. https://doi.org/10.1203/pdr.0b013e3181973b0d</ref><ref>Lagercrantz, H. (2014). The emergence of consciousness: Science and ethics. Seminars in Fetal and Neonatal Medicine, 19(5), 300–305. https://doi.org/10.1016/j.siny.2014.08.003</ref>.
 
-### Effects of Abortion Law
+### <span style="background-color:lightcoral">Effects of Abortion Law</span>
 
-#### Abortion Rate
+#### <span style="background-color:orange">Abortion Rate</span>
 
 The evidence overall suggests that abortion restrictions reduce the incidence of abortion, although there is some research suggesting otherwise. Research which compares countries with different levels of abortion restrictions over a single period of time or over long periods of time suggest that abortion restrictions have no effect on the incidence of abortion<ref>Bearak, J., Popinchalk, A., Ganatra, B., Moller, A., Tunçalp, Ö., Beavin, C., Kwok, L., & Alkema, L. (2020). Unintended pregnancy and abortion by income, region, and the legal status of abortion: estimates from a comprehensive model for 1990–2019. The Lancet Global Health, 8(9), e1152–e1161. https://doi.org/10.1016/s2214-109x(20)30315-6</ref><ref>Singh, S., Remez, L., Sedgh, G., Kwok, L., Onda, T., & GUTTMACHER INSTITUTE. (n.d.). Uneven progress and unequal access. In J. Rosenberg, M. Moran, & K. Randall (Eds.), GUTTMACHER INSTITUTE. https://www.guttmacher.org/sites/default/files/report_pdf/abortion-worldwide-2017.pdf</ref>. The main problem with these is that they don’t longitudinally look at changes in laws, but rather hold the laws themselves constant, ultimately hiding many of the effects that such laws could have. When looking at studies which look at changes in abortion laws, research generally indicates that at least some abortion restrictions do result in lower rates of abortions<ref>Analyzing the effect of Anti-Abortion U.S. state legislation in the Post-Casey era. (n.d.). ResearchGate. https://www.researchgate.net/publication/258188757_Analyzing_the_Effect_of_Anti-Abortion_US_State_Legislation_in_the_Post-Casey_Era</ref><ref>New, M. J. (2014). Analyzing the impact of U.S. antiabortion legislation in the Post-CaseyEra: A Reassessment. State Politics & Policy Quarterly, 14(3), 228–268. https://doi.org/10.1177/1532440014535477</ref>. There is variation in study results depending on what type of restriction is being examined, but changing the number of clinics in an area<ref>Jones, R. K., & Jerman, J. (2017). Abortion incidence and service availability in the United States, 2014. Perspectives on Sexual and Reproductive Health, 49(1), 17–27. https://doi.org/10.1363/psrh.12015</ref><ref>Cunningham, S., Lindo, J. M., Myers, C., Schlosser, A., & National Bureau of Economic Research. (2017). HOW FAR IS TOO FAR? NEW EVIDENCE ON ABORTION CLINIC CLOSURES, ACCESS, AND ABORTIONS (Working Paper 23366). https://www.nber.org/system/files/working_papers/w23366/revisions/w23366.rev2.pdf?sy=366</ref><ref>The U.S. abortion rate continues to drop: once again, state abortion restrictions are not the main driver. (2022, August 30). Guttmacher Institute. https://www.guttmacher.org/gpr/2019/09/us-abortion-rate-continues-drop-once-again-state-abortion-restrictions-are-not-main</ref>, increasing the effective price of an abortion or reducing medicaid funding<ref>Blank, R. M., George, C. C., & London, R. A. (1996). State abortion rates the impact of policies, providers, politics, demographics, and economic environment. Journal of Health Economics, 15(5), 513–553. https://doi.org/10.1016/s0167-6296(96)00494-8</ref><ref>Medoff, M. H. (2007). Price, restrictions and abortion demand. Journal of Family and Economic Issues, 28(4), 583–599. https://doi.org/10.1007/s10834-007-9080-9</ref>, and implementing parental consent requirements<ref>Cartoof, V. G., & Klerman, L. V. (1986). Parental consent for abortion: Impact of the Massachusetts Law. In American Journal of Public Health (Vol. 76, Issue 4, pp. 397–400) [Journal-article]. https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.76.4.397</ref><ref>Medoff, M. H. (2007). Price, restrictions and abortion demand. Journal of Family and Economic Issues, 28(4), 583–599. https://doi.org/10.1007/s10834-007-9080-9</ref>, all reduce the incidence of abortion. Additionally, Myers (2017) used difference-in-difference estimates to show that it was not increased access to the birth control pill which led to substantial changes in family formation<ref>Myers, C. K. (2017). The Power of Abortion Policy: Reexamining the effects of young women’s access to reproductive control. Journal of Political Economy, 125(6), 2178–2224. https://doi.org/10.1086/694293</ref>. Rather liberalized, access to abortion that allowed large numbers of women in the 1960s and 1970s to delay marriage and motherhood. All of this evidence taken together suggests that it is likely the case that a hard ban on abortion in any area would reduce the incidence of abortion.
 
-#### Birth Rate
+#### <span style="background-color:orange">Birth Rate</span>
 
 The evidence on the effects of abortion restrictions on the birth rate is fairly mixed, with some research suggesting that abortion restrictions increase birth rates<ref>Joyce, T., Kaestner, R., & Colman, S. (2006). Changes in abortions and births and the Texas Parental Notification law. New England Journal of Medicine, 354(10), 1031–1038. https://doi.org/10.1056/nejmsa054047</ref>, and other research suggesting abortion restrictions have no effect or even decrease birth rates due to decreased pregnancies<ref>Levine, P. B., Trainor, A. B., & Zimmerman, D. J. (1996). The effect of Medicaid abortion funding restrictions on abortions, pregnancies and births. Journal of Health Economics, 15(5), 555–578. https://doi.org/10.1016/s0167-6296(96)00495-x</ref>. This discrepancy, however, can be solved through considering the distinction between hard restrictions (banning vs legalizing) and soft restrictions. Changing from hard restrictions to liberal abortion laws appears to drastically reduce births, which suggests that the reverse would increase births. However, modest changes in restrictions appear to have no effect on births<ref>Abortion policy and fertility Outcomes: the Eastern European Experience. (2004). Dartmouth Scholarship. https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=3361&context=facoa</ref>. Therefore, it appears that hard restrictions do increase birth rates, while soft restrictions may not.
 
-#### Maternal Mortality
+#### <span style="background-color:orange">Maternal Mortality</span>
 
 Research unanimously shows that bans on abortion lead to increases in maternal mortality, which are often very large<ref>Haddad, L. B., & Nour, N. M. (2009, January 1). Unsafe abortion: unnecessary maternal mortality. PubMed Central (PMC). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2709326/</ref><ref>Benson, J., Andersen, K., & Samandari, G. (2011). Reductions in abortion-related mortality following policy reform: evidence from Romania, South Africa and Bangladesh. Reproductive Health, 8(1). https://doi.org/10.1186/1742-4755-8-39</ref><ref>Latt, S. M., Milner, A., & Kavanagh, A. (2019). Abortion laws reform may reduce maternal mortality: an ecological study in 162 countries. BMC Women S Health, 19(1). https://doi.org/10.1186/s12905-018-0705-y</ref><ref>Study: Banning abortion would boost maternal mortality by. (2024, April 10). CU Boulder Today. https://www.colorado.edu/today/2021/09/08/study-banning-abortion-would-boost-maternal-mortality-double-digits</ref>. This also appears to be the case with simple restrictions on abortion<ref>Study finds higher maternal mortality rates in states with more abortion restrictions | Tulane School of Public Health and Tropical Medicine. (n.d.). https://sph.tulane.edu/study-finds-higher-maternal-mortality-rates-states-more-abortion-restrictions</ref>.
 
-### When Life Begins
+### <span style="background-color:orange">When Life Begins</span>
 
 95% of biologists affirm that life begins at conception<ref>Jacobs, S. A. (2018). Biologists’ consensus on “When Life Begins.” SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3211703</ref>.
 
-### Mental Health
+### <span style="background-color:orange">Mental Health</span>
 
 Coleman (2011) did a meta-analysis on the effects of abortion on mental health and found that it increased the risk of mental health problems<ref>Coleman, P. K. (2011). Abortion and mental health: quantitative synthesis and analysis of research published 1995–2009. The British Journal of Psychiatry, 199(3), 180–186. https://doi.org/10.1192/bjp.bp.110.077230</ref>, but there have been numerous flaws which render the study invalid<ref>Steinberg, J. R., Trussell, J., Hall, K. S., & Guthrie, K. (2012). Fatal flaws in a recent meta-analysis on abortion and mental health. Contraception, 86(5), 430–437. https://doi.org/10.1016/j.contraception.2012.03.012</ref>. There appears to be a significant amount of conflicting research in the area<ref>Mental health and abortion: review and analysis. (1989, November 1). PubMed. https://pubmed.ncbi.nlm.nih.gov/2682716/</ref><ref>Long-Term Physical and Psychological health Consequences of . . . : Obstetrical & Gynecological Survey. (n.d.). LWW. https://journals.lww.com/obgynsurvey/fulltext/2003/01000/long_term_physical_and_psychological_health.23.aspx</ref><ref>Fergusson, D. M., Horwood, L. J., & Boden, J. M. (2013). Does abortion reduce the mental health risks of unwanted or unintended pregnancy? A re-appraisal of the evidence. Australian & New Zealand Journal of Psychiatry, 47(9), 819–827. https://doi.org/10.1177/0004867413484597</ref><ref>Reardon, D. C. (2018). The abortion and mental health controversy: A comprehensive literature review of common ground agreements, disagreements, actionable recommendations, and research opportunities. SAGE Open Medicine, 6, 205031211880762. https://doi.org/10.1177/2050312118807624</ref>.
 
-### Abortion Law and Crime
+### <span style="background-color:orange">Abortion Law and Crime</span>
 
 There is conflicting research on whether abortion availability increases, decreases, or has no effect on crime<ref>7HG -R\H. (n.d.). RUNNING SCHEDULE. https://www.nber.org/system/files/working_papers/w8319/w8319.pdf</ref><ref>Lott, J. R., School of Law, Yale University, & School of Economics, University of Adelaide. (2001). Abortion and Crime: Unwanted Children and Out-of-Wedlock Births. https://openyls.law.yale.edu/bitstream/handle/20.500.13051/5452/SSRN_ID270126_code010515560.pdf?sequence=2&isAllowed=y</ref><ref>Donohue, J. J., Levitt, S. D., University of Chicago, NBER, & Stanford Law School. (2019). The impact of legalized abortion on crime over the last two decades. https://bfi.uchicago.edu/wp-content/uploads/BFI_WP_201975.pdf</ref>.
 
-### Misc Abortion Policy
+### <span style="background-color:orange">Misc Abortion Policy</span>
 
 States that fund abortion have a significantly higher rate of abortions and significantly lower rates of teen pregnancy, low-birthweight babies, premature births, and births with late or no prenatal care<ref>Meier, K. J., & McFarlane, D. R. (1994). State family planning and abortion expenditures: Their effect on Public health. In Public Health (Vols. 84–84, Issue 9, pp. 1375–1384). https://ajph.aphapublications.org/doi/pdfplus/10.2105/AJPH.84.9.1468</ref>.
 
 Abortion rates are slightly lower in states with medicaid funding restrictions on abortion, although there is no effect on birth rates<ref>Haas-Wilson, D. (1997). Women’s Reproductive Choices: The impact of Medicaid funding restrictions. Family Planning Perspectives, 29–29(5), 228–233. https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1007&context=eco_facpubs</ref>.
 
-### Argument
+### <span style="background-color:orange">Argument</span>
 
 Stem cells can remain alive in human corpses for at least 17 days after death<ref>Choi, C. Q. (2012, June 12). Living stem cells discovered in 17-Day-Old human corpses. livescience.com. https://www.livescience.com/20897-living-stem-cells-discovered-human-corpse.html</ref>. However, cremation in most cases is done between 24 and 72 hours after death<ref>Admin. (2024, January 11). Cremation 101 - Commonly asked questions about cremation. Cremation London & Middlesex. https://cremationlondon.com/resources/cremation-101/</ref>. Thus, cellular life is generally not regarded as a defining factor in whether a human life should be valued.
 
-## Sex
+## <span style="background-color:lightcoral">Sex</span>
 
-### Sperm Count
+### <span style="background-color:orange">Sperm Count</span>
 
 Across North America, Europe, Australia and New Zealand, there has been a 50-60% decline in sperm counts between 1973 and 2011<ref>Levine, H., Jørgensen, N., Martino-Andrade, A., Mendiola, J., Weksler-Derri, D., Mindlis, I., Pinotti, R., & Swan, S. H. (2017). Temporal trends in sperm count: a systematic review and meta-regression analysis. Human Reproduction Update, 23(6), 646–659. https://doi.org/10.1093/humupd/dmx022</ref>.
 
-### Fertility
+### <span style="background-color:orange">Fertility</span>
 
 Pronatalist policies are only modestly effective in increasing births<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=731766</ref><ref>https://wol.iza.org/articles/can-government-policies-reverse-undesirable-declines-in-fertility</ref>. Thus, pronatalist policies need to be combined with openness to increased immigration if they are to have any substantial effect on births. Socioeconomic factors in themselves such as job insecurity appear to only slightly affect fertility<ref>https://direct.mit.edu/rest/article-abstract/104/2/386/97750/A-Natural-Experiment-on-Job-Insecurity-and</ref>.
 
-### Casual Sex
+### <span style="background-color:orange">Casual Sex</span>
 
 While people report more positive than negative emotional reactions about their most recent casual sex experience, they are associated with less positive emotional outcomes than sexual behavior in the context of romantic relationships. Moreover, longitudinal studies suggest that people who engage in casual sex have worse emotional health. This effect only appears to be short-run, however. Women tend to feel worse and have more negative emotional outcomes than men<ref>https://www.tandfonline.com/doi/full/10.1080/00224499.2020.1821163</ref>.
 
@@ -607,9 +607,9 @@ Women are significantly less likely to be receptive to sexual offers<ref>https:/
 
 Predictors of within-sex variation in casual sexual regret include worry about sexual reputation, experienced gratification during the encounter, and sociosexual orientation<ref>https://journals.sagepub.com/doi/10.1177/1474704916682903</ref>.
 
-### Pornography
+### <span style="background-color:lightcoral">Pornography</span>
 
-#### Mental Health Effects
+#### <span style="background-color:orange">Mental Health Effects</span>
 
 Research suggests that there is a correlation between pornography consumption and anxiety, depression, and psychosomatic symptoms<ref>https://doi.org/10.1080/03009734.2018.1534907</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7835260/</ref><ref>https://doi.org/10.1097/NMD.0000000000001669</ref>. However, it is not clear whether this is due to pornography consumption increasing these things or if pornography consumption serves as a coping mechanism. Men who view pornography as immoral tend to have worse mental health when consuming it, but those who don't view pornography as immoral experience no negative mental health effects unless it is at a high frequency<ref>https://doi.org/10.1177/2156869317728373</ref>. Low scrupulosity buffers but does not get rid of the negative relationship between problematic pornography viewing and depression, anxiety, and stress<ref>https://doi.org/10.1080/10720162.2019.1567410</ref>. Perceived addiction to pornography is also related to psychological distress<ref>https://doi.org/10.1037/adb0000114</ref>.
 
@@ -617,11 +617,11 @@ Those who use pornography have higher depressive symptoms, poorer quality of lif
 
 Higher pornography use is associated with body dissatisfaction, poor body appreciation, negative affect, and lower emotional bonding with partners<ref>https://psycnet.apa.org/record/2014-04664-001</ref>.
 
-#### Cognitive Effects
+#### <span style="background-color:orange">Cognitive Effects</span>
 
 There is a negative association between pornography consumption and gray matter volume in various parts of the brain<ref>https://doi.org/10.1001/jamapsychiatry.2014.93</ref><ref>https://www.semanticscholar.org/paper/Pornography%E2%80%99s-Effect-on-the-Brain%3A-A-Review-of-in-Muller/881c62a5bc147d5e8d34ffcbb7962e0c5d904263</ref>. Men with and without problematic pornography usage differed in their striatal responses to cues predicting erotic subjects but not for cues predicting monetary gains, suggesting that problematic pornography usage may represent a behavioral addiction<ref>https://doi.org/10.1038/npp.2017.78</ref>.
 
-#### Relationship Effects
+#### <span style="background-color:orange">Relationship Effects</span>
 
 Pornography use is not related to the intrapersonal domains of body and self-satisfaction in relationships but is negatively related to the interpersonal domains of sexual and relational satisfaction<ref>https://www.researchgate.net/publication/314197900_Pornography_Consumption_and_Satisfaction_A_Meta-Analysis_Pornography_and_Satisfaction</ref>. This appears to only affect men however.
 
@@ -633,21 +633,21 @@ Pornography use is either unassociated or negatively associated with nearly all 
 
 Adults who had watched pornographic films in the past year were more likely to be divorced, have had an extramarital affair, and report less marital and overall happiness<ref>https://link.springer.com/article/10.1007/s10834-014-9391-6</ref>.
 
-#### Violence
+#### <span style="background-color:orange">Violence</span>
 
 Pornography is related to sexual aggression, particularly verbal as opposed to physical aggression<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/jcom.12201</ref>. However, as pornography availability increased, sex crimes either decreased or did not increase<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160252709000715</ref>.
 
-#### Actor Health
+#### <span style="background-color:orange">Actor Health</span>
 
 Porn actresses had more sexual partners, were more concerned about STDs, and enjoyed sex more. They also had higher levels of self-esteem, positive feelings, social support, sexual satisfaction, and spirituality. They were however more likely to have used drugs<ref>https://pubmed.ncbi.nlm.nih.gov/23167939/</ref>.
 
-### Sex Work
+### <span style="background-color:orange">Sex Work</span>
 
 Repressive policing of sex workers is associated with increased risk of sexual/physical violence from clients or other partners, also increasing risk of STIs for sex workers. It also disrupted sex workers' work environments, support networks, safety and risk reduction strategies, and access to health services and justice<ref>https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002680</ref>.
 
 Decriminalization of prostitution, while increasing the size of the sex market, also led to a significant decline in reported rape offences<ref>https://conference.iza.org/conference_files/riskonomics2015/kastoryano_s6317.pdf</ref><ref>https://www.eurekalert.org/news-releases/718952</ref>.
 
-### Polygamy
+### <span style="background-color:orange">Polygamy</span>
 
 Women in polygamous marriage have worsened mental health as compared with women in monogamous marriages<ref>https://files.catbox.moe/18e4px.pdf</ref>. Children with polygamous parents had significantly worse mental health than those with monogamous parents<ref>https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-021-04301-7</ref>.
 
@@ -655,41 +655,41 @@ The vast majority of human societies have permitted polygamous marriages, but no
 
 Polygamy, through creating a social imbalance where a few economically well-off men marry many wives and many poor men marry late or never, results in more intergroup conflict<ref>https://journals.sagepub.com/doi/10.1177/0022002719859636</ref>. Polygamy helps to partially explain sex differences in mortality rates in some nations due to the intensity of male mating competition<ref>https://journals.sagepub.com/doi/full/10.1177/147470491000800205</ref>.
 
-### Birth Control
+### <span style="background-color:orange">Birth Control</span>
 
 Publicly funded family planning has been shown to generate significant cost savings for the government<ref>https://doi.org/10.2307/2135837</ref><ref>https://doi.org/10.1111/J.1475-6773.2007.00702.X</ref><ref>https://doi.org/10.1353/hpu.0.0060</ref><ref>https://doi.org/10.2105/AJPH.2007.129353</ref>. For example, Foster et al. (2014) found that for every dollar spent on the family planning program it saved taxpayers $7.09. This was due to lower expenditures from STD testing and prevention of unplanned births<ref>https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.12080</ref>.
 
-### Sexual Education
+### <span style="background-color:orange">Sexual Education</span>
 
 Abstinence-only education does not appear to protect against pregnancy and STIs<ref>https://pubmed.ncbi.nlm.nih.gov/16387256/</ref>, and also contains scientifically inaccurate information on the issues of condom efficacy and gender stereotypes<ref>https://doi.org/10.1097/GCO.0b013e3282efdc0b</ref>. Moreover, abstinence-only interventions only have a very small overall effect on abstinent behavior<ref>https://doi.org/10.1093/HER/17.4.471</ref>. Abstinence-only programs have negative impacts on youth's willingness to use contraception to prevent negative sexual health outcomes related to sexual intercourse<ref>https://www.advocatesforyouth.org/wp-content/uploads/storage/advfy/documents/stateevaluations.pdf</ref>. Abstinence-only education is positively correlated with teenage pregnancy and birth rates compared to comprehensive sex education<ref>http://sciencedirect.com/science/article/abs/pii/S1054139X07004260?casa_token=mFeMFmZjXkMAAAAA:spyxC9wfLo0BY-CHKfH1QcR5ED_1spgDO41FrKxzK_0NEw3Bz11QXCA68xV_eiWH8nZlTc8</ref><ref>https://www.apha.org/policies-and-advocacy/public-health-policy-statements/policy-database/2015/01/23/09/37/sexuality-education-as-part-of-a-comprehensive-health-education-program-in-k-to-12-schools</ref>.
 
 Comprehensive sex education appears to successfully delay sexual initiation<ref>https://doi.org/10.1097/GCO.0b013e3282efdc0b</ref>. Moreover, abstinence-only interventions only have a very small overall effect on abstinent behavior<ref>https://doi.org/10.1093/HER/17.4.471</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818029/</ref>, as well as the development of healthy relationships, prevention of partner violence, prevention of child sex abuse, improved social/emotional learning, and increased media literacy<ref>https://www.jahonline.org/article/S1054-139X(20)30456-0/fulltext</ref>. Teaching about contraception is not associated with increased risk of adolescent sexual activity or STDs<ref>http://sciencedirect.com/science/article/abs/pii/S1054139X07004260?casa_token=mFeMFmZjXkMAAAAA:spyxC9wfLo0BY-CHKfH1QcR5ED_1spgDO41FrKxzK_0NEw3Bz11QXCA68xV_eiWH8nZlTc8</ref>.
 
-## Miscellaneous
+## <span style="background-color:lightcoral">Miscellaneous</span>
 
-### Matriarchy
+### <span style="background-color:orange">Matriarchy</span>
 
 A matriarchy is a social system in which the mother or a female elder has absolute authority over the family group, and by extension, one or more women exert a similar level of authority over the community as a whole. Under this definition, matriarchal societies have never existed<ref>https://www.britannica.com/topic/matriarchy</ref>. Dube & Harish (2017) looked at the effect of female rule on war among European polities between the 15th and 20th centuries. They found that polities led by queens are more likely to engage in war than polities led by kings<ref>https://www.nber.org/papers/w23337</ref>.
 
-### Toxic Masculinity
+### <span style="background-color:orange">Toxic Masculinity</span>
 
 Conformity to masculine norms of self-reliance, power over women, and playboy are related to worse mental health outcomes, while conformity to the masculine norm of the primacy of work is not significantly related to any mental health related outcome<ref>https://www.apa.org/pubs/journals/releases/cou-cou0000176.pdf</ref>. Girls' adherence to masculinity norms is also associated with less psychosocial well-being<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/jora.12475</ref>.
 
-### Declining Female Happiness
+### <span style="background-color:orange">Declining Female Happiness</span>
 
 The happiest combination of traits for a worker tends to be male, middle-aged, married, high household income, in a senior management position, in a senior management position, with one young child at home and a wife who works part-time. The unhappiest combination of traits for a worker tends to be female, middle-aged, unmarried and without children, with a household income below $100,000, and in a professional position. Men tend to be consistently happier than women in and out of the office<ref>https://www.psychologytoday.com/us/blog/high-octane-women/201109/meet-the-least-happy-people-in-america</ref>. Part of this is likely due to the double burden that women have nowadays of being expected to both work and do household labor, as well as the fact that women tend to worry more about the well-being of their families. From the 1970s to around 2010 at least, women's subjective well-being has declined both absolutely speaking and also relative to men<ref>https://www.nber.org/system/files/working_papers/w14969/w14969.pdf</ref>. This has led to a reversal of the gender gap in happiness, where in the 1970s women were happier than men, and now men are happier than women.
 
-### Sexual Assault
+### <span style="background-color:orange">Sexual Assault</span>
 
 Survey data suggests that about one out of five undergraduate women experience an attempted or completed sexual assault during their college years<ref>https://www.ojp.gov/pdffiles1/nij/grants/221153.pdf</ref>.
 
-### Male Disposability
+### <span style="background-color:orange">Male Disposability</span>
 
 Empathic sadness was higher in women, but both men and women display higher empathic sadness toward women than toward men<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5112287/</ref>.
 
 There exists a greater moral condemnation of men's assaults on women and the belief that the victims of these assaults are in greater danger. This does not depend on gender, age, level of education, or political ideology of the respondent<ref>https://pubmed.ncbi.nlm.nih.gov/19746441/</ref>.
 
-### Attitudes/Stereotypes
+### <span style="background-color:orange">Attitudes/Stereotypes</span>
 
 Women have a higher in-group bias than men<ref>https://rutgerssocialcognitionlab.weebly.com/uploads/1/3/9/7/13979590/rudmangoodwin2004jpsp.pdf</ref><ref>https://link.springer.com/chapter/10.1007/978-3-030-04384-1_9</ref>.
 
@@ -697,11 +697,11 @@ Feminist activist women have a more masculine 2d:4d digit ratio and tend to be m
 
 Women tend to prefer benevolent sexist men to nonsexist men<ref>https://files.catbox.moe/r4e3eb.pdf</ref><ref>https://files.catbox.moe/1scdcp.pdf</ref>.
 
-### Rape Accusations
+### <span style="background-color:orange">Rape Accusations</span>
 
 The rate of false reports of sexual assault tends to be found to be about 5%. However, the total false reporting rate, including both confirmed and equivocal cases would be greater than this 5% rate<ref>https://link.springer.com/article/10.1007/s10508-015-0666-2</ref>.
 
-### Feminists
+### <span style="background-color:orange">Feminists</span>
 
 Feminists tend to report lower levels of hostility toward men than nonfeminists<ref>https://journals.sagepub.com/doi/10.1111/j.1471-6402.2009.01491.x</ref>.
 
