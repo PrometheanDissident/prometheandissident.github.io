@@ -307,7 +307,7 @@ The economic and residential segregation created by redlining persists in many c
 
 Redlining may be mostly a product of geographic discrimination in itself as opposed to racial discrimination<ref>https://sci-hub.ru/https://doi.org/10.2307/2946707</ref>.
 
-#### <span style="background-color:yellow">Criminal</span>
+#### Criminal
 
 The degree to which the criminal justice system unfairly targets black people would have a substantial effect on the labor market outcomes of blacks relative to whites independent of cognitive ability differentials. Being unfairly targeted and thrown in prison, brutalized, etc. would have effects on the ability for blacks to get jobs and disrupt their income streams. Given our prior understanding of how blacks earn the same or more than whites of the same cognitive ability, the default hypothesis should thus be that racial bias is small to nonexistent in the criminal justice system.
 
