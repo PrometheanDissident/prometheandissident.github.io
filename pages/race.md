@@ -441,7 +441,11 @@ Furthermore, note that advocates of white privilege when talking to a particular
 
 **The Empirical Issues**
 
-The empirical issue is that white people are not the most privileged group in society on any measure. In terms of income, various groups do better than whites, such as Asians<ref>https://www.jstor.org/stable/1085574?seq=1#metadata_info_tab_contents</ref>. While some of this may be due to immigration selection bias into western countries, much of it is ceertainly also due to the higher mean IQ that asians tend to possess, something demonstrated in earlier sections to be in part genetic in origin. To the extent that empirically "privilege" may exist, it certainly is not whites who have it.
+The empirical issue is that white people are not the most privileged group in society on any measure. In terms of income, various groups do better than whites, such as Asians<ref>https://www.jstor.org/stable/1085574?seq=1#metadata_info_tab_contents</ref>. While some of this may be due to immigration selection bias into western countries, much of it is certainly also due to the higher mean IQ that asians tend to possess, something demonstrated in earlier sections to be in part genetic in origin. To the extent that empirically "privilege" may exist, it certainly is not whites who have it.
+
+But furthermore, even with disparities in outcomes, that does not imply that the group with the better outcomes is privileged. If, for instance, the entirety of the white advantage in income relative to blacks is a function of mean IQ differentials, this would be a difference in outcome that wouldn't be considered a "privilege", at least not a privilege in environmental conditions. Previous sections have indicated that existing disparities between groups are likely heavily a function of genes, with genes possibly causing environmental differences as well, putting into question the degree to which a white privilege could exist relative to other groups. If any disparity due to environment was considered to be a privilege, it would be a small one at best.
+
+Because of these issues, "white privilege" should be abandoned as a term. Its linguistic usage essentializes groups in situations where essentialism doesn't apply, it ignores the existence of groups which outperform whites, and it doesn't properly account for the causes of existing disparities between groups.
 
 ### <span style="background-color:yellow">The Effect of Anti-White Racism</span>
 
