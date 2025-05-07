@@ -424,7 +424,7 @@ Advocates of DEI don't recognize this explicitly, but do implicitly. For example
 
 This contradiction is certainly a function of a tunnel vision of DEI advocates, whose ideology can be boiled down to a disposition in favor of fetishizing minority groups, as opposed to being based on any actual principle. Apartheid between blacks and whites in South Africa is bad because the blacks in South Africa majority believed it was. But apartheid between Amerindians and non-Amerindians in America is good because the Amerindians in North America think it is. Unfortunately this leads to a no-win situation, where any consistent application of standards will be perceived as "racist" by DEI advocates. You're racist and evil no matter what you do, as long as it's consistent.
 
-#### <span style="background-color:yellow">White Privilege</span>
+#### White Privilege
 
 White privilege views being white as a categorical good in society as it confers upon one a number of unearned advantages that those of other races do not get. This has certainly been a very popular narrative in many left-wing circles, but it is flawed from an empirical and a conceptual perspective.
 
