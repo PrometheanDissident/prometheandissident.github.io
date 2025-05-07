@@ -432,8 +432,8 @@ White privilege views being white as a categorical good in society as it confers
 
 Whenever discussions of white privilege come up, a common line of argument comes out from those skeptical about the idea, and it goes like this:
 
-***White Privilege Skeptic:** "I don't think white privilege exists. I'm white and poor, how can I be privileged?"
-***White Privilege Advocate:** "White privilege means that on average, white people are advantaged, not that all white people will have advantages over every black person. Furthermore, you may be poor, but you'll never be poor because you're white. If you are poor and black however, it's often because they're black and have been discriminated against."
+- **White Privilege Skeptic:** "I don't think white privilege exists. I'm white and poor, how can I be privileged?"
+- **White Privilege Advocate:** "White privilege means that on average, white people are advantaged, not that all white people will have advantages over every black person. Furthermore, you may be poor, but you'll never be poor because you're white. If you are poor and black however, it's often because they're black and have been discriminated against."
 
 The advocate of white privilege when challenged on the presuppositions of the concept generally falls back on the notion that white people are only privileged on average. First, from the outset it appears intuitively extremely unlikely that there has never been any situation where a white person has been discriminated against because they are white, and hence has been harmed to some degree. So suggesting that at no point will a white person be poor or screwed over because they're white appears absurd on its face.
 
