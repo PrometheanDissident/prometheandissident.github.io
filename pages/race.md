@@ -153,17 +153,21 @@ Nonetheless, there are behaviors which are seen as clearly going too far when it
 
 While some may view this as being a particularly radical position, this is in some sense a description of what already occurs in general. People tend to associate with those who are similar to them, and this is merely an argument for that being normal and acceptable.
 
-### <span style="background-color:yellow">Research on the Effects of Ethnic Diversity</span>
+### Research on the Effects of Ethnic Diversity
 
 Understanding ethnocentrism as relatively natural, this can help to understand why research on ethnic diversity suggests that it can oftentimes have negative effects on society. Several broad themes emerge from examining the effects of ethnic diversity:
 
-*People generally feel a greater sense of community when those around them are of a similar ethnic group. This can have downstream effects on social trust, altruism, conflict, economic growth, health, and poverty.
+- People generally feel a greater sense of community when those around them are of a similar ethnic group. This can have downstream effects on social trust, altruism, conflict, economic growth, health, and poverty.
 
-*This effect can be moderated with more intergroup contact, and contexts where cleavages are less salient, either due to lower economic divides or a sense of need for unification.
+- This effect can be moderated with more intergroup contact, and contexts where cleavages are less salient, either due to lower economic divides or a sense of need for unification.
 
-*Ethnic diversity also works differently with different people. Those who are higher in openness to experience are less likely to experience negative side effects of diversity.
+- Furthermore, the big meta-analysis done in this research strongly suggests that these effects, while significant, are going to have little explanatory power when discussing disparities in outcomes across countries or other study groups.
 
-*Diversity, when it brings about greater levels of experience and ideas generation can have positive effects in terms of innovation.
+- Ethnic diversity also works differently with different people. Those who are higher in openness to experience are less likely to experience negative side effects of diversity.
+
+- Diversity, when it brings about greater levels of experience and ideas generation can have positive effects in terms of innovation.
+
+In sum, there is a small tradeoff between ethnic diversity qua ethnic diversity, and diversity in experience and education that is often associated with ethnic diversity, and there are many complexities present with this tradeoff and the research in general. These complexities will be discussed in turn below.
 
 #### <span style="background-color:yellow">Social Effects: Mixed</span>
 
@@ -179,7 +183,7 @@ Ethnic diversity appears to be negatively related to altruism as well, with rese
 
 Moving from a homogenous school district to one in which two racial groups have equal population shares is associated with lower school performance, holding educational spending constant<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1536-7150.2010.00721.x</ref>. Ethnic diversity also appears to increase the probability of classroom disruption in schools, although in countries with a more inclusive migration policy students are at least less harmed by the ethnic diversity effect<ref>https://www.tandfonline.com/doi/abs/10.1080/03055698.2015.955750</ref>.
 
-So much of the research on the social effects suggests that ethnic diversity can increase conflict.
+So much of the research on the social effects suggests that ethnic diversity can increase conflict and decrease social trust. However, these effects appear on the whole small. The most substantial quantitative overview of the literature is from Dinesen et al. (2020) who conducted a meta-analysis of the effects of ethic diversity on social trust. While the relationship was negative, the meta-estimate of the partial correlation was −0.0256, suggesting a very small but still signficant relationship between diversity and social trust<ref>https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052918-020708</ref>. This should occur similarly with other relationships like the conflict relationship should sufficient research be done to warrant meta-analyzing the data.
 
 #### <span style="background-color:yellow">Economic Effects: Mixed</span>
 
