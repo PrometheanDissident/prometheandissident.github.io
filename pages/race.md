@@ -4,6 +4,8 @@ title: Race
 permalink: /race/
 ---
 
+Testing to see where this shows up in the website.
+
 ## The Ethics of Investigating Race and Racial Differences
 
 There is an extremely large taboo against looking at issues surrounding race from a biological perspective. A recent study by researchers investigating the comparative taboo of various topics found that the issue of a genetic relationship between race and intelligence was a more taboo topic than issues such as incest and pedophilia<ref>Pesta, B., Kirkegaard, E. O. W., & Bronski, J. (2024). Is research on the genetics of race / IQ gaps “Mythically taboo?” OpenPsych. https://doi.org/10.26775/op.2024.04.15</ref>. Much of the strong aversion exhibited by many regarding this topic comes from the fear that such investigation will ultimately lead to a legitimization of racial prejudice, or claims that one group is superior to another. Admittedly, dividing people into races and implying that they may have differing characteristics is oftentimes a necessary condition by which oppression or claims of superiority can occur. However, that does not mean that suggesting that groups exist and have differing characteristics ultimately legitimates said thing. There are numerous examples in the context of people's everyday lives in which acknowledging differences does not lead or legitimate oppression or claims of superiority:
