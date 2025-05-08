@@ -29,7 +29,7 @@ Differential sexual selective pressures for men and women can help to explain ho
 
 While all of this evidence together clearly shows that men and women are naturally different psychologically, specifics have not been discussed. These specifics are essential for understanding why men and women will naturally have different interests and outcomes within society.
 
-#### <span style="background-color:yellow">Brain Differences</span>
+#### Brain Differences
 
 Psychological sex differences naturally manifest themselves in the brain. Men and women have different brain structures which can help to explain the myriad differences between men and women.
 
@@ -47,7 +47,7 @@ There is some speculation that the male advantage in throwing might be caused by
 
 Women outperform men in fine motor coordination and perceptual speed<ref>https://stanmed.stanford.edu/how-mens-and-womens-brains-are-different/</ref>.
 
-#### <span style="background-color:yellow">Intelligence</span>
+#### Intelligence
 
 Male and female children tend to have roughly similar overall intelligence with each sex outperforming the other in certain forms of intelligence<ref>https://link.springer.com/article/10.1007/s10648-022-09705-1</ref>. Women have a very small advantage in verbal ability<ref>https://www.researchgate.net/publication/232528001_Gender_Differences_in_Verbal_Ability_A_Meta-Analysis</ref>. They have better reading comprehension and writing ability<ref>https://stanmed.stanford.edu/how-mens-and-womens-brains-are-different/</ref>. Men have an advantage in visuo-spatial abilities<ref>https://sci-hub.ru/https://doi.org/10.1037/0033-2909.117.2.250</ref><ref>https://link.springer.com/article/10.3758/s13423-010-0042-0</ref><ref>https://sci-hub.ru/https://doi.org/10.3758/s13423-016-1085-7</ref><ref>https://tdlc.ucsd.edu/global/images/Levine_et%20al_WIREs_Mental_Rotation_review.pdf</ref><ref>https://link.springer.com/article/10.3758/s13423-019-01633-6</ref>. Women have an advantage in verbal episodic-memory tasks but have a disadvantage in episodic-memory tasks requiring both verbal and visuospatial processing<ref>https://journals.sagepub.com/doi/10.1111/j.1467-8721.2008.00547.x</ref>.
 
@@ -55,7 +55,7 @@ Men have significantly more gray matter in the brain, while women have significa
 
 The differences between men and women in spatial and verbal intelligence, in addition to the difference in variability, have significant implications for disparities between men and women in society. The spatial-verbal divide can help explain some sex differences in occupations, and the higher male variability can help explain why men are overrepresented in fields that are extremely cognitively demanding.
 
-#### <span style="background-color:yellow">Values</span>
+#### Values
 
 Men and women tend to have different values, consistent with sex stereotypes about women caring more about harm, fairness, and purity. Likewise, women also tend to be more egalitarian.
 
@@ -84,7 +84,7 @@ Women tend to become more angry in response to transgressions by a same-sex peer
 
 Men tend to be funnier than women<ref>https://www.sciencedirect.com/science/article/abs/pii/S0092656619301072</ref>.
 
-#### <span style="background-color:yellow">Interests</span>
+#### Interests
 
 Men prefer working with things and women prefer working with people. This gender difference is consistent across cultures and time, which suggests there is at least a partially biological cause for it<ref>https://web.archive.org/web/20180831133832/https://pdfs.semanticscholar.org/47af/4a7e87267aba681fb6971590ec80effce0c3.pdf</ref><ref>https://compass.onlinelibrary.wiley.com/doi/full/10.1111/j.1751-9004.2010.00320.x</ref>. Sex differences in people and things orientation are reflected in academic publishing, where women are more prevalent as the first authors of articles in more people-oriented fields compared to fields that are more things-oriented, which have a high proportion of male first authors<ref>https://www.researchgate.net/publication/339507855_Sex_differences_in_people_and_things_orientation_are_reflected_in_sex_differences_in_academic_publishing</ref>.
 
@@ -100,7 +100,7 @@ Women tend to have a stronger in-group bias than men do<ref>https://psycnet.apa.
 
 ## <span style="background-color:lightcoral">Sex Differences in Attraction and Mating Patterns</span>
 
-## <span style="background-color:yellow">Sex and Gender in Society</span>
+## Sex and Gender in Society
 
 Sex differences, both physical and psychological, are immutable. It is impossible to completely get rid of these differences, although they may be malleable to some degree. Sex differences in many of these domains will necessarily result in different outcomes between men and women on a wide variety of domains. At the same time, it is important to note that many of these differences between men and women have distributions which overlap considerably. Men may be on average taller and more physically capable than women, but some women are taller and more physically capable than some men. Similarly, some men have predispositions more common of women, and some women have predispositions more common of men.
 
