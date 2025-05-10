@@ -399,7 +399,7 @@ Another question to ask is whether there is racism in health:
 
 ### <span style="background-color:lightcoral">Possible Remedying of Disparities</span>
 
-#### <span style="background-color:yellow">Affirmative Action</span>
+#### Affirmative Action
 
 Affirmative action has a range of definitions, but is generally understood as referring ot various means by which hiring or admissions processes are changed to increase the number of minorities in institutions. This is done with the intent of equalizing group outcomes, often on the motivation that unequal group outcomes are a product of discrimination. An initial question we can examine is what the effects of affirmative action are in terms of achieving its goals:
 
@@ -418,7 +418,9 @@ However, beyond its direct effects on minority and majority well-being, affirmat
 
 **The Affirmative Action Dilemma -** Mentions of affirmative action can lead people to view groups who benefit from affirmative action more negatively<ref>https://journals.sagepub.com/doi/10.1177/0146167298241005</ref>. Affirmative action by its very nature attempts to hire or admit those who otherwise would not have had as strong of qualifications as their competitors. Such policies necessarily lead to situations whereby people will question whether any minority in their social space got their because of their merit or something else. Affirmative action to its proponents should be viewed as something positive for minorities, yet they hate the suggestion that any individual minority is a beneficiary. This is a product of the dilemma between a sacrifice of merit and an upholding of "equity".
 
-### <span style="background-color:lightcoral">Debunking False Narratives</span>
+### Debunking False Narratives
+
+The following few sections are dedicated to discussing and debunking narratives that often crop up in the "modern narrative on racism" that are false. The reasons why they are false can be for conceptual or empirical reasons, and include ideas surrounding "reverse racism" not existing, the whole DEI notion which is completely incoherent, and the notion of "white privilege".
 
 #### <span style="background-color:lightcoral">"Reverse Racism Doesn't Exist"</span>
 
