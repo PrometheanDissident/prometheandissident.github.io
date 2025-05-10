@@ -213,7 +213,7 @@ These issues likely arise for two reasons. First, people are genetically incline
 - US students of mixed race are more likely than others to suffer from depression, substance abuse, sleep problems, and various aches and pains<ref>https://archive.ph/Js25I</ref>.
 - Those of mixed black-white ancestry fall between blacks and whites in regard to self-rated overall health and have the worst self-rated mental health<ref>https://archive.ph/0Ezku</ref>.
 
-This is likely due to selection bias amongst those who choose ot be interracial parents, as well as possible identity issues related to being mixed-race. Research on admixture and IQ suggests that outbreeding depression is not a major factor in explaining these outcomes. Similarly, there is mixed evidence on whether mixed-race children are more or less likely to have malformations from birth. Some congenital malformations are more common amongst births to parents of mixed race-ethnicity, while others are less common<ref>https://archive.ph/5kPn1</ref>.
+This is likely due to selection bias amongst those who choose to be interracial parents, as well as possible identity issues related to being mixed-race. Research on admixture and IQ suggests that outbreeding depression is not a major factor in explaining these outcomes. Similarly, there is mixed evidence on whether mixed-race children are more or less likely to have malformations from birth. Some congenital malformations are more common amongst births to parents of mixed race-ethnicity, while others are less common<ref>https://archive.ph/5kPn1</ref>.
 
 ### <span style="background-color:lightcoral">How to Accommodate for Ethnic Diversity</span>
 
