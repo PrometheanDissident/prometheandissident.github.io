@@ -221,13 +221,15 @@ This is likely due to selection bias amongst those who choose ot be interracial 
 
 ### <span style="background-color:lightcoral">Identity Politics is Inevitable</span>
 
-## <span style="background-color:yellow">The Modern Narrative on Racism</span>
+## The Modern Narrative on Racism
 
 In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatment in the past 5 years due to their race or skin color, compared to 13.8% of First Nations, Metis, or Inuit, 19% of other groups designated as visible minorities, and 2.8% of non-Indigenous, non-visible minorities<ref>https://www150.statcan.gc.ca/n1/pub/85-002-x/2022001/article/00002/tbl/tbl01-eng.htm</ref>. While this doesn't by itself imply that racism disproportionately negatively affects one group or another, it does suggest it may be the case and regardless the perception can have effects. Perceived discrimination has a significant negative effect on both mental and physical health, also increasing stress<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747726/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/24547896/</ref>.
 
+That said, as this broad section will demonstrate, the evidence that racism is a significant issue in modern society which explains many of the disparities seen is lacking. Evidence suggests that these disparities are entirely a function of IQ differences between groups, which are largely genetic with a portion potentially being explained by historical factors such as past "racism" or meta-level cultural differences. To the extent that racism explains any of these disparities, it is a function of past actions which have proportionately little impact on the disparities today.
+
 ### <span style="background-color:yellow">Statistical Versus Taste-Based Discrimination</span>
 
-When discussing discrimination that exists in many contexts, it is important to separate between statistical and taste-based discrimination. It is most easily understood when discussing a hiring decision, althouhg it applies in essentially all instances of discrimination. In the case of a hiring discrimination, taste-based discrimination occurs when someone chooses to hire or not hire someone based on personal dislike for their characteristics. On the other hand, statistical discrimination occurs when someone chooses to hire or not hire someone based on their belonging to a group which on average has a certain trait. In the absence of perfect information, statistical discrimination can sometimes optimize for a more productive worker. Thus, just because discrimination occurs doesn't mean it undermines productivity, although the question arises as to whether it's just and why group averages differ.
+When discussing discrimination that exists in many contexts, it is important to separate between statistical and taste-based discrimination. It is most easily understood when discussing a hiring decision, although it applies in essentially all instances of discrimination. In the case of a hiring discrimination, taste-based discrimination occurs when someone chooses to hire or not hire someone based on personal dislike for their characteristics. On the other hand, statistical discrimination occurs when someone chooses to hire or not hire someone based on their belonging to a group which on average has a certain trait. In the absence of perfect information, statistical discrimination can sometimes optimize for a more productive worker. Thus, just because discrimination occurs doesn't mean it undermines productivity, although the question arises as to whether it's just and why group averages differ.
 
 As shown prior, group averages differ in large part due to genetics on many traits, although perhaps not all. As for its morality, even if group averages were heavily or entirely environmental in origin, it may not lie in the obligation of an individual employer to not discriminate if it harm them in the process, although this may differ in other contexts or examples.
 
@@ -385,9 +387,9 @@ Harlem Children's Zone charter schools closed the black-white achievement gap in
 
 Improvements in the relative quality of black schools in terms of pupil-teacher ratios, annual teacher pay, and term length for black and white schools explain some of the narrowing of the black-white earnings gap between 1960 and 1980<ref>https://sci-hub.ru/https://doi.org/10.2307/2118326</ref>.
 
-#### <span style="background-color:yellow">Health</span>
+#### Health
 
-Another question to ask is whether there is racism in health:
+Another question to ask is whether there is racism in health. Evidence suggests there may be some level of bias in the healthcare system, although its actual net effect on health outcomes appears difficult to ascertain. Consistent with evidence presented prior, it likely has little to no effect on actual health outcomes:
 
 - **Healthcare Access: Some Bias -** I would have to quantify the exact effects shown in these studies, but research suggests that there exists low to moderate levels of implicit racial bias among healthcare professionals, which is significantly related to patient-provider interactions and health outcomes<ref>https://pubmed.ncbi.nlm.nih.gov/26469668/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/28249596/</ref>. Furthermore, experimental evidence suggests that there is racial discrimination against middle-class blacks compared to middle-class whites in accessing mental health care, although there is no discrimination between working-class blacks and whites<ref>https://journals.sagepub.com/doi/abs/10.1177/0022146516647098</ref>.
 
