@@ -375,10 +375,6 @@ In summary, there may be some bias in the education system, specifically with gr
 
 There is a positive effect of having an own race teacher on student achievement<ref>https://www.brookings.edu/research/the-importance-of-a-diverse-teaching-force/</ref>.
 
-Prior knowledge of race/ethnic background, education-related deficiencies, physical unattractiveness and poor quality of prior performance all have substantial and roughly equal effect sizes in determining grading, suggesting heavy bias exists<ref>https://journals.sagepub.com/doi/abs/10.1177/0004944116664618</ref>.
-
-Diversity in a classroom setting can be good in that it fosters greater social trust, a better learning environment, and more open-minded students<ref>https://drexel.edu/soe/resources/student-teaching/advice/importance-of-cultural-diversity-in-classroom/</ref>.
-
 Students taught under faculty who underwent diversity training experienced a greater sense of community, personal growth, and conflict resolution skills<ref>https://files.eric.ed.gov/fulltext/EJ1134528.pdf</ref>.
 
 School desegregation has had positive effects on both educational and occupational attainments, college quality and adult earnings, reduced the probability of incarceration, and improved adult health status<ref>https://www.nber.org/papers/w16664</ref>.
