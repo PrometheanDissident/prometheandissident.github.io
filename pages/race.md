@@ -416,7 +416,7 @@ There is mixed evidence on the effect of gentrification on crime<ref>https://onl
 
 The following few sections are dedicated to discussing and debunking narratives that often crop up in the "modern narrative on racism" that are false. The reasons why they are false can be for conceptual or empirical reasons, and include ideas surrounding "reverse racism" not existing, the whole DEI notion which is completely incoherent, and the notion of "white privilege".
 
-#### "Reverse Racism Doesn't Exist"
+#### "Reverse Racism Doesn't Exist" or "Black people can't be racist"
 
 While I generally advocate against using the word racism and think it has little utility, the underlying reasoning behind the notion of reverse racism not existing is fundamentally flawed. It firstly presupposes that racism, whatever it is, is defined such that only those with power can engage in such behavior. The problem with this is that it assumes that power is a matter of absolutes as opposed to degrees, and also assumes that all white people have power and all black people don't. Both of these assumptions are clearly wrong. Power is a question of degree, not of kind, and due to the distributions of black and white people on all sorts of traits overlapping heavily, there are many cases in which a black person will have more "power" than a white person due to their net advantages in one or more traits. This false narrative is another manifestation of the "expanding moral circle" leading to errors in judgment, errors so great that even Ibram X Kendi rejects the notion that black people can't be racist<ref>https://www.cnn.com/2019/09/22/us/kendi-book-anti-racist-blake/index.html</ref>.
 
