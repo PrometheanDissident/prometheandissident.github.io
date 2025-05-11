@@ -26,7 +26,7 @@ But this only suggests that the investigation of races and racial differences do
 
 None of this should be used as a case to lie about pieces of information should they appear to make people feel good. That being said, these arguments demonstrate that the acknowledgement of groups and group differences does not have to be something to legitimate oppression and racial superiority claims, and in many cases can be the exact opposite.
 
-## Classifying Racial Groups
+## <span style="background-color:yellow">Classifying Racial Groups</span>
 
 The first issue which should be examined is the question of the degree to which racial classifications are themselves legitimate. The first objection academics often give to those studying group differences is that racial groups are simply arbitrary, and thus that it is useless to study race as a category. Oftentimes, this is done with an appeal to a supposed academic consensus amongst those who study race, who universally tend to reject race as a biological category. Race is said to be a social construct, and human population differentiation is said to exist amongst a gradient as opposed to discrete categories.
 
@@ -45,6 +45,8 @@ Oftentimes, an academic consensus on an issue can be a strong indicator of the t
 All of this suggests that from a biological or population genetics perspective, there is a level of use to using race as a category. It is simple, it corresponds already to most people's folk understandings of race, and it also corresponds to actual genetic differences between populations. There is a second argument against the usage of race as a category in science, and that is the concern that it can be used to legitimate oppression and claims of superiority. This argument was already addressed in a previous section.
 
 Additionally, from a medical perspective, having consistent racial classifications can provide some value. Pharmacogenetics research has very inconsistent race and ethnic classification due to racial definitions differing between various studies. Common taxonomy of geographic ancestry could produce reproducible research and clinical implementation of its results<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612983/</ref>. There may be some benefit in using traditional folk categories if they allow for good identification by a doctor or good self-identification of one's ethnic origin, and hence of one's genetic propensities from a medical perspective.
+
+*<span style="background-color:lightcoral">Discuss research which uses k-means clustering and what groups emerge from adding more k-means to genetic data. https://thuletide.wordpress.com/2020/06/29/a-race-by-race-breakdown-of-human-genetic-diversity-illustrated-guide-for-novices/</span>
 
 ## Implications
 
