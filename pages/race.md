@@ -345,7 +345,7 @@ Black Lives Matter, or BLM, is a movement which has gained popularity and aims t
 
 However, it is still fighting against an issue which doesn't really exist as demonstrated. Furthermore, it likely in fact harms the black community through promoting policing practices that increase overall homicides and increasing police attrition which has a similar effect. Research suggests that BLM protests have decreased police homicides and property crimes within the areas they are located, but have increased murders in general. However, demographic imbalance in protest variation and treatment timing warrant a cautious interpretation<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767097</ref>. While this study is not definitive, it is consistent with previous research suggesting the benefits of policing in reducing homicides in the black community.
 
-#### <span style="background-color:yellow">Educational</span>
+#### Educational
 
 Bias in educational systems, if it exists, would likely have effects on the earnings of blacks relative to whites. As with examining economic and criminal justice disparities, the default hypothesis given prior information should be that there exists little to no bias in the educational system. Here I will look at the possibility of racial bias in school punishment and grading:
 
@@ -354,20 +354,6 @@ Bias in educational systems, if it exists, would likely have effects on the earn
 ***Grading: Little Bias -** Malouff & Thorsteinsson (2016) meta-analyzed research examining whether there exists a racial bias in grading<ref>https://journals.sagepub.com/doi/full/10.1177/0004944116664618</ref>. They found a small but statistically effect of race on grading which was robust to publication bias testing. Specifically, there was 26% of a standard deviation in score differences between students in the hypothesized-bias condition and students not in that condition. In IQ terms, this would amount to one ethnic group being assessed as being on average 4 IQ points below what they actually are. There is bias, but it is small.
 
 In summary, there may be some bias in the education system, specifically with grading, but its actual net effect is likely to be small.
-
-**Other Education Info:**
-
-There is a positive effect of having an own race teacher on student achievement<ref>https://www.brookings.edu/research/the-importance-of-a-diverse-teaching-force/</ref>.
-
-Students taught under faculty who underwent diversity training experienced a greater sense of community, personal growth, and conflict resolution skills<ref>https://files.eric.ed.gov/fulltext/EJ1134528.pdf</ref>.
-
-School desegregation has had positive effects on both educational and occupational attainments, college quality and adult earnings, reduced the probability of incarceration, and improved adult health status<ref>https://www.nber.org/papers/w16664</ref>.
-
-Comprehensive school reform programs tend to lower the black-white achievement gap more than matched traditional schools, and their effects substantially to completely eliminated this gap in elementary middle schools<ref>https://epaa.asu.edu/ojs/index.php/epaa/article/view/708</ref>.
-
-Harlem Children's Zone charter schools closed the black-white achievement gap in mathematics<ref>https://www.aeaweb.org/articles?id=10.1257/app.3.3.158</ref>.
-
-Improvements in the relative quality of black schools in terms of pupil-teacher ratios, annual teacher pay, and term length for black and white schools explain some of the narrowing of the black-white earnings gap between 1960 and 1980<ref>https://sci-hub.ru/https://doi.org/10.2307/2118326</ref>.
 
 #### Health
 
@@ -408,6 +394,20 @@ However, beyond its direct effects on minority and majority well-being, affirmat
 
 **The Affirmative Action Dilemma -** Mentions of affirmative action can lead people to view groups who benefit from affirmative action more negatively<ref>https://journals.sagepub.com/doi/10.1177/0146167298241005</ref>. Affirmative action by its very nature attempts to hire or admit those who otherwise would not have had as strong of qualifications as their competitors. Such policies necessarily lead to situations whereby people will question whether any minority in their social space got their because of their merit or something else. Affirmative action to its proponents should be viewed as something positive for minorities, yet they hate the suggestion that any individual minority is a beneficiary. This is a product of the dilemma between a sacrifice of merit and an upholding of "equity".
 
+#### <span style="background-color:orange">Other Educational Interventions</span>
+
+There is a positive effect of having an own race teacher on student achievement<ref>https://www.brookings.edu/research/the-importance-of-a-diverse-teaching-force/</ref>.
+
+Students taught under faculty who underwent diversity training experienced a greater sense of community, personal growth, and conflict resolution skills<ref>https://files.eric.ed.gov/fulltext/EJ1134528.pdf</ref>.
+
+School desegregation has had positive effects on both educational and occupational attainments, college quality and adult earnings, reduced the probability of incarceration, and improved adult health status<ref>https://www.nber.org/papers/w16664</ref>.
+
+Comprehensive school reform programs tend to lower the black-white achievement gap more than matched traditional schools, and their effects substantially to completely eliminated this gap in elementary middle schools<ref>https://epaa.asu.edu/ojs/index.php/epaa/article/view/708</ref>.
+
+Harlem Children's Zone charter schools closed the black-white achievement gap in mathematics<ref>https://www.aeaweb.org/articles?id=10.1257/app.3.3.158</ref>.
+
+Improvements in the relative quality of black schools in terms of pupil-teacher ratios, annual teacher pay, and term length for black and white schools explain some of the narrowing of the black-white earnings gap between 1960 and 1980<ref>https://sci-hub.ru/https://doi.org/10.2307/2118326</ref>.
+
 ### <span style="background-color:orange">Separation or Integration?</span>
 
 There is mixed evidence on the effect of gentrification on crime<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9906.2010.00506.x</ref><ref>https://academic.oup.com/socpro/article/58/4/615/1667054</ref><ref>https://journals.sagepub.com/doi/full/10.1177/0011128714549652</ref><ref>https://www.tandfonline.com/doi/full/10.1080/07418825.2014.943799</ref><ref>https://www.nber.org/system/files/working_papers/w23914/w23914.pdf</ref>. Some of these differences can be resolved through noting that gentrification appears to increase crime in the short run and decrease crime in the long-run, but also that its negative effects on crime is primarily concentrated in the frontier of where gentrification occurs in a neighborhood.
@@ -416,7 +416,9 @@ There is mixed evidence on the effect of gentrification on crime<ref>https://onl
 
 The following few sections are dedicated to discussing and debunking narratives that often crop up in the "modern narrative on racism" that are false. The reasons why they are false can be for conceptual or empirical reasons, and include ideas surrounding "reverse racism" not existing, the whole DEI notion which is completely incoherent, and the notion of "white privilege".
 
-#### <span style="background-color:lightcoral">"Reverse Racism Doesn't Exist"</span>
+#### "Reverse Racism Doesn't Exist"
+
+While I generally advocate against using the word racism and think it has little utility, the underlying reasoning behind the notion of reverse racism not existing is fundamentally flawed. It firstly presupposes that racism, whatever it is, is defined such that only those with power can engage in such behavior. The problem with this is that it assumes that power is a matter of absolutes as opposed to degrees, and also assumes that all white people have power and all black people don't. Both of these assumptions are clearly wrong. Power is a question of degree, not of kind, and due to the distributions of black and white people on all sorts of traits overlapping heavily, there are many cases in which a black person will have more "power" than a white person due to their net advantages in one or more traits. This false narrative is another manifestation of the "expanding moral circle" leading to errors in judgment, errors so great that even Ibram X Kendi rejects the notion that black people can't be racist<ref>https://www.cnn.com/2019/09/22/us/kendi-book-anti-racist-blake/index.html</ref>.
 
 #### Diversity, Equity, and Inclusion
 
