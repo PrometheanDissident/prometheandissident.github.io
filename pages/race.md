@@ -255,7 +255,7 @@ The IAT, the main way that bias is quantified, might be a somewhat useful tool f
 
 It is generally asserted that because racial disparities exist that there must be discrimination involved. But understanding group differences in cognitive ability severely undermines this narrative, because of an extremely important set of facts:
 
-The racial disparity in wages is entirely explained by differences in skills and abilities<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/262045</ref>. In fact, not only does research suggest that the racial disparity in earnings disappears once cognitive ability itself is controlled for, but the returns to cognitive ability are higher for blacks than for nonblacks<ref>https://personal.lse.ac.uk/kanazawa/pdfs/MDE2005.pdf</ref><ref>https://psyarxiv.com/qty3n/</ref><ref>https://www.researchgate.net/publication/229357056_Occupation_and_income_related_to_psychometric_g</ref>.
+The racial disparity in wages is entirely explained by differences in skills and abilities<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/262045</ref>. In fact, not only does research suggest that the racial disparity in earnings disappears once cognitive ability itself is controlled for, but the returns to cognitive ability are higher for blacks than for nonblacks<ref>https://personal.lse.ac.uk/kanazawa/pdfs/MDE2005.pdf</ref><ref>https://psyarxiv.com/qty3n/</ref><ref>https://www.researchgate.net/publication/229357056_Occupation_and_income_related_to_psychometric_g</ref>. In fact, the racial wealth gap can be almost entirely explained by differences in observable factors, such as life cycle patterns, educational attainment, inheritance, attitudes toward saving and investing, and more<ref>https://www.federalreserve.gov/econresdata/feds/2015/files/2015076pap.pdf</ref>.
 
 This has MASSIVE implications for the notion that bias is a factor in group disparities. One might see this information and suggest that this only suggests that there exists no racial discrimination in economics, but this would naturally translate into other areas. Gaps in education, crime, or health naturally have effects on economics independent of intelligence which if were a product of discrimination would translate into black people having lower wages and wealth for the same IQ score. And yet we don't see this. Two major inferences can be drawn from this:
 
@@ -271,7 +271,7 @@ It should also be noted that much of the research on racism suffers from publica
 
 In short, evidence we have prior to investigating particular studies strongly suggests that unfair bias will not be a significant factor in particular racial disparities in outcomes, and it will at most play a relatively small role. Past circumstances might apply for some proportion of the disparity, as those could account for IQ differences that explain existing disparities, but given the evidence against environment playing a major role in these disparities, while past circumstances might explain more of the gaps in outcome than present discrimination, it is unlikely to be a significant factor either. Research investigating this issue in all domains will be discussed in turn.
 
-#### <span style="background-color:yellow">Economic</span>
+#### Economic
 
 Seeing as racial earnings gaps appear to be primarily due to differences in IQ, and hence taste-based discrimination is unlikely to account for a large amount of the gap, the information should be cross-checked with research attempting to quantify discrimination, if it occurs at all.
 
@@ -289,31 +289,13 @@ Seeing as racial earnings gaps appear to be primarily due to differences in IQ, 
 
 - In response to the discrimination that minorities face in the labor market, many racial minorities attempt to make their resumes more "white" in appearance. However, when applying for jobs with employers who present themselves as valuing diversity, minorities engage less in this. Unfortunately, organizational diversity statements are not actually associated with reduced discrimination against unwhitened resumes so pro-diversity employers are actually more discriminatory in effect<ref>http://www-2.rotman.utoronto.ca/facbios/file/Whitening%20MS%20R2%20Accepted.pdf</ref>.
 
-- Overall, there appears to be some degree of hiring discrimination, which may mean that a black person on average has to submit slightly more job applications to get the same number of callbacks as a white person, although a lot of this is statistical as opposed to taste-based.
+- Overall, there appears to be some degree of hiring discrimination, which may mean that a black person on average has to submit slightly more job applications to get the same number of callbacks as a white person, although a lot of this is statistical as opposed to taste-based. This especially seems likely given that there exists ethic group differences in measures of job performance where blacks perform worse than whites, differences which are in fact larger on objective measures as opposed to subjective measures<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-9010.88.4.694</ref>.
 
 - **Mortgages and Loans: No Bias -** There is evidence of mortgage discrimination occurring against blacks who have identical credit profiles, in terms of rejecting more profiles and having higher mortgage interest rates<ref>https://link.springer.com/article/10.1007/s12552-019-09276-x</ref><ref>https://www.jstor.org/stable/25764804</ref><ref>https://sci-hub.ru/https://doi.org/10.1007/s11146-014-9473-0</ref><ref>https://ia601406.us.archive.org/32/items/cfljuly1995-95-pdf/cfljuly1995-95-pdf.pdf</ref><ref>https://www.pewresearch.org/fact-tank/2017/01/10/blacks-and-hispanics-face-extra-challenges-in-getting-home-loans/</ref>. However, even controlling for credit score, black people are more likely to default on their mortgage/loan, meaning it makes sense to accept fewer applicants<ref>https://sci-hub.ru/https://doi.org/10.1007/BF01099279</ref><ref>https://www.federalreserve.gov/boarddocs/rptcongress/creditscore/creditscore.pdf</ref>. Racial disparities in mortgage costs completely go away when accounting for differences in discount points, which black borrowers pay fewer of. On net, mortgage costs appear to be identical<ref>https://academic.oup.com/rfs/article/34/2/763/5827007#226627786</ref>. Further evidence that whatever discrimination occurs is statistical discrimination comes from the fact that profits are equal or less from black borrowers compared to white borrowers, suggesting that black people are not being systematically disadvantaged from the lending policy<ref>https://www.jstor.org/stable/25764804</ref><ref>https://academic.oup.com/rfs/article/34/2/763/5827007#226627786</ref>.
 
 - **Rental Market: Little to no Bias -** Research suggests that there is discrimination in the rental housing market. These results are inflated by publication bias, but even after correcting for publication bias there is evidence of discrimination. Importantly however, much of this discriminatory behavior can be attributed to missing information about the social status of applicants, which suggests that much of this disparity is due to statistical discrimination<ref>https://www.tandfonline.com/doi/full/10.1080/1369183X.2018.1489223</ref>. Therefore, the degree to which bias plays a role is likely small.
 
-**Other Economic/Housing Info:**
-
-Blacks and hispanics engage in more conspicuous consumption than whites<ref>https://sci-hub.ru/https://doi.org/10.1162/qjec.2009.124.2.425</ref>.
-
-The racial wealth gap can be almost entirely explained by differences in observable factors, such as life cycle patterns, educational attainment, inheritance, attitudes toward saving and investing, and more<ref>https://www.federalreserve.gov/econresdata/feds/2015/files/2015076pap.pdf</ref>.
-
-There is very little intergenerational mobility in net wealth for both black and white families according to data between 1984 and 2013<ref>https://ia601708.us.archive.org/9/items/source-872-toney-2016/Source872%20Toney2016.pdf</ref>.
-
-There exist ethnic group differences in measures of job performance. These differences are larger on objective measures compared to subjective measures<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-9010.88.4.694</ref>.
-
-When comparing former slaves and free blacks (free before 1865), it took roughly 2 generations for the descendents of slaves to catch up economically and educationally with the descendents of free black men and women<ref>https://www.nber.org/system/files/working_papers/w9227/w9227.pdf</ref>.
-
-A black family's long-run economic progress after slavery depended strongly on the location they were freed. Black families freed in states with more intensive Jim Crow institutions made less economic progress after slavery<ref>https://irs.princeton.edu/events/2022/Fall-Althoff-Lukas</ref>.
-
-There is mixed evidence on the effect of gentrification on crime<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9906.2010.00506.x</ref><ref>https://academic.oup.com/socpro/article/58/4/615/1667054</ref><ref>https://journals.sagepub.com/doi/full/10.1177/0011128714549652</ref><ref>https://www.tandfonline.com/doi/full/10.1080/07418825.2014.943799</ref><ref>https://www.nber.org/system/files/working_papers/w23914/w23914.pdf</ref>. Some of these differences can be resolved through noting that gentrification appears to increase crime in the short run and decrease crime in the long-run, but also that its negative effects on crime is primarily concentrated in the frontier of where gentrification occurs in a neighborhood.
-
-The economic and residential segregation created by redlining persists in many cities, and inequality is much higher in cities which had redlining. Gentrification appears to be related to some lessening of segregation, but also with increased economic inequality<ref>https://ncrc.org/wp-content/uploads/dlm_uploads/2018/02/NCRC-Research-HOLC-10.pdf</ref>.
-
-Redlining may be mostly a product of geographic discrimination in itself as opposed to racial discrimination<ref>https://sci-hub.ru/https://doi.org/10.2307/2946707</ref>.
+In short, bias plays little to no role in explaining racial gaps in economic outcomes.
 
 #### Criminal
 
@@ -393,6 +375,16 @@ Another question to ask is whether there is racism in health. Evidence suggests 
 
 - **Healthcare Access: Some Bias -** I would have to quantify the exact effects shown in these studies, but research suggests that there exists low to moderate levels of implicit racial bias among healthcare professionals, which is significantly related to patient-provider interactions and health outcomes<ref>https://pubmed.ncbi.nlm.nih.gov/26469668/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/28249596/</ref>. Furthermore, experimental evidence suggests that there is racial discrimination against middle-class blacks compared to middle-class whites in accessing mental health care, although there is no discrimination between working-class blacks and whites<ref>https://journals.sagepub.com/doi/abs/10.1177/0022146516647098</ref>.
 
+### <span style="background-color:orange">The Possibility of Historical Factors</span>
+
+When comparing former slaves and free blacks (free before 1865), it took roughly 2 generations for the descendents of slaves to catch up economically and educationally with the descendents of free black men and women<ref>https://www.nber.org/system/files/working_papers/w9227/w9227.pdf</ref>.
+
+A black family's long-run economic progress after slavery depended strongly on the location they were freed. Black families freed in states with more intensive Jim Crow institutions made less economic progress after slavery<ref>https://irs.princeton.edu/events/2022/Fall-Althoff-Lukas</ref>.
+
+The economic and residential segregation created by redlining persists in many cities, and inequality is much higher in cities which had redlining. Gentrification appears to be related to some lessening of segregation, but also with increased economic inequality<ref>https://ncrc.org/wp-content/uploads/dlm_uploads/2018/02/NCRC-Research-HOLC-10.pdf</ref>.
+
+Redlining may be mostly a product of geographic discrimination in itself as opposed to racial discrimination<ref>https://sci-hub.ru/https://doi.org/10.2307/2946707</ref>.
+
 ### Possible Remedying of Disparities
 
 Given that existing disparities between groups are not a function of "racism" primarily, this suggests no strong reason exists to actively remedy them. While there may be some value associated with trying to remedy them, either due to an inherent aversion to inequality even if it's natural or due to other benefits associated with remedies, these are not immediately obvious. I will discuss possible remedies of disparities, their effects so we can understand them better, and also whether they actually have good reasons for their implementation.
@@ -415,6 +407,10 @@ So affirmative action in college may achieve its expected aims in some cases, bu
 However, beyond its direct effects on minority and majority well-being, affirmative action can also have effects through how it changes the demographic makeup of an institution. Research suggests that there appears to be positive externalities derived from the increased student diversity created as a consequence of affirmative action. Most notably, it appears to improve school performance for all groups in general, meaning that affirmative action can cause boosts for non-minority students who aren't discriminated against<ref>https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action</ref><ref>https://diversity.berkeley.edu/sites/default/files/understanding_affrirmative_action.pdf</ref><ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref>. This however is likely a product of intellectual diversity as opposed to demographic diversity in itself, so if this is one's aim one should seek to directly promote intellectual diversity over demographic diversity.
 
 **The Affirmative Action Dilemma -** Mentions of affirmative action can lead people to view groups who benefit from affirmative action more negatively<ref>https://journals.sagepub.com/doi/10.1177/0146167298241005</ref>. Affirmative action by its very nature attempts to hire or admit those who otherwise would not have had as strong of qualifications as their competitors. Such policies necessarily lead to situations whereby people will question whether any minority in their social space got their because of their merit or something else. Affirmative action to its proponents should be viewed as something positive for minorities, yet they hate the suggestion that any individual minority is a beneficiary. This is a product of the dilemma between a sacrifice of merit and an upholding of "equity".
+
+### <span style="background-color:orange">Separation or Integration?</span>
+
+There is mixed evidence on the effect of gentrification on crime<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9906.2010.00506.x</ref><ref>https://academic.oup.com/socpro/article/58/4/615/1667054</ref><ref>https://journals.sagepub.com/doi/full/10.1177/0011128714549652</ref><ref>https://www.tandfonline.com/doi/full/10.1080/07418825.2014.943799</ref><ref>https://www.nber.org/system/files/working_papers/w23914/w23914.pdf</ref>. Some of these differences can be resolved through noting that gentrification appears to increase crime in the short run and decrease crime in the long-run, but also that its negative effects on crime is primarily concentrated in the frontier of where gentrification occurs in a neighborhood.
 
 ### Debunking False Narratives
 
