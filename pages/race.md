@@ -227,11 +227,11 @@ In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatm
 
 That said, as this broad section will demonstrate, the evidence that racism is a significant issue in modern society which explains many of the disparities seen is lacking. Evidence suggests that these disparities are entirely a function of IQ differences between groups, which are largely genetic with a portion potentially being explained by historical factors such as past "racism" or meta-level cultural differences. To the extent that racism explains any of these disparities, it is a function of past actions which have proportionately little impact on the disparities today.
 
-### <span style="background-color:yellow">Statistical Versus Taste-Based Discrimination</span>
+### Statistical Versus Taste-Based Discrimination
 
 When discussing discrimination that exists in many contexts, it is important to separate between statistical and taste-based discrimination. It is most easily understood when discussing a hiring decision, although it applies in essentially all instances of discrimination. In the case of a hiring discrimination, taste-based discrimination occurs when someone chooses to hire or not hire someone based on personal dislike for their characteristics. On the other hand, statistical discrimination occurs when someone chooses to hire or not hire someone based on their belonging to a group which on average has a certain trait. In the absence of perfect information, statistical discrimination can sometimes optimize for a more productive worker. Thus, just because discrimination occurs doesn't mean it undermines productivity, although the question arises as to whether it's just and why group averages differ.
 
-As shown prior, group averages differ in large part due to genetics on many traits, although perhaps not all. As for its morality, even if group averages were heavily or entirely environmental in origin, it may not lie in the obligation of an individual employer to not discriminate if it harm them in the process, although this may differ in other contexts or examples.
+As shown prior, group averages differ in large part due to genetics on many traits, although perhaps not all. As for its morality, even if group averages were heavily or entirely environmental in origin, it may not lie in the obligation of an individual employer to not discriminate if it harm them in the process, although this may differ in other contexts or examples. This distinction will become important in discussions later where the type of discrimination will determine whether it is just. Many forms of statistical discrimination may be seen as justifiable even if it may mean judging a person based on their group average so long as it optimizes for particular outcomes, such as statistically finding the most productive person for a job.
 
 #### Stereotype Accuracy
 
@@ -393,7 +393,9 @@ Another question to ask is whether there is racism in health. Evidence suggests 
 
 - **Healthcare Access: Some Bias -** I would have to quantify the exact effects shown in these studies, but research suggests that there exists low to moderate levels of implicit racial bias among healthcare professionals, which is significantly related to patient-provider interactions and health outcomes<ref>https://pubmed.ncbi.nlm.nih.gov/26469668/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/28249596/</ref>. Furthermore, experimental evidence suggests that there is racial discrimination against middle-class blacks compared to middle-class whites in accessing mental health care, although there is no discrimination between working-class blacks and whites<ref>https://journals.sagepub.com/doi/abs/10.1177/0022146516647098</ref>.
 
-### <span style="background-color:lightcoral">Possible Remedying of Disparities</span>
+### Possible Remedying of Disparities
+
+Given that existing disparities between groups are not a function of "racism" primarily, this suggests no strong reason exists to actively remedy them. While there may be some value associated with trying to remedy them, either due to an inherent aversion to inequality even if it's natural or due to other benefits associated with remedies, these are not immediately obvious. I will discuss possible remedies of disparities, their effects so we can understand them better, and also whether they actually have good reasons for their implementation.
 
 #### Affirmative Action
 
