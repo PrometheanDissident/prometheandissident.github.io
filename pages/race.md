@@ -227,6 +227,10 @@ In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatm
 
 That said, as this broad section will demonstrate, the evidence that racism is a significant issue in modern society which explains many of the disparities seen is lacking. Evidence suggests that these disparities are entirely a function of IQ differences between groups, which are largely genetic with a portion potentially being explained by historical factors such as past "racism" or meta-level cultural differences. To the extent that racism explains any of these disparities, it is a function of past actions which have proportionately little impact on the disparities today.
 
+### <span style="background-color:orange">The Utility of the Word "Racism"</span>
+
+- I don't think it should be used, but I'm gonna use it to discuss the issue in a way that makes sense
+
 ### Statistical Versus Taste-Based Discrimination
 
 When discussing discrimination that exists in many contexts, it is important to separate between statistical and taste-based discrimination. It is most easily understood when discussing a hiring decision, although it applies in essentially all instances of discrimination. In the case of a hiring discrimination, taste-based discrimination occurs when someone chooses to hire or not hire someone based on personal dislike for their characteristics. On the other hand, statistical discrimination occurs when someone chooses to hire or not hire someone based on their belonging to a group which on average has a certain trait. In the absence of perfect information, statistical discrimination can sometimes optimize for a more productive worker. Thus, just because discrimination occurs doesn't mean it undermines productivity, although the question arises as to whether it's just and why group averages differ.
@@ -408,6 +412,8 @@ Harlem Children's Zone charter schools closed the black-white achievement gap in
 
 Improvements in the relative quality of black schools in terms of pupil-teacher ratios, annual teacher pay, and term length for black and white schools explain some of the narrowing of the black-white earnings gap between 1960 and 1980<ref>https://sci-hub.ru/https://doi.org/10.2307/2118326</ref>.
 
+#### <span style="background-color:orange">Reparations</span>
+
 ### <span style="background-color:orange">Separation or Integration?</span>
 
 There is mixed evidence on the effect of gentrification on crime<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9906.2010.00506.x</ref><ref>https://academic.oup.com/socpro/article/58/4/615/1667054</ref><ref>https://journals.sagepub.com/doi/full/10.1177/0011128714549652</ref><ref>https://www.tandfonline.com/doi/full/10.1080/07418825.2014.943799</ref><ref>https://www.nber.org/system/files/working_papers/w23914/w23914.pdf</ref>. Some of these differences can be resolved through noting that gentrification appears to increase crime in the short run and decrease crime in the long-run, but also that its negative effects on crime is primarily concentrated in the frontier of where gentrification occurs in a neighborhood.
@@ -474,6 +480,10 @@ Much of the diversity education industry likely harms white people as well throu
 White guilt isn't necessarily a big problem now, but that doesn't mean that these types of courses don't contribute to it and thus harm white people. On average, white guilt amongst white people is low, but there is large range and variability. White guilt is associated with more negative personal evaluations of whites and theoretical antecedents of stronger beliefs in the existence of white privilege. White guilt mediates the relationship from white privilege and beliefs about the prevalence of discrimination to attitudes toward affirmative action, and both white guilt and prejudice independently predict attitudes toward affirmative action<ref>https://journals.sagepub.com/doi/abs/10.1177/0146167299025004008</ref>.
 
 Furthermore, education about white privilege increases anti-white bias. Social liberals show more sympathy for a poor black person than a poor white person after reading about white privilege, while for social conservatives there is no difference. However, relative to conservatives, liberals are just as sympathetic to the poor white person<ref>https://www.researchgate.net/publication/332749635_Complex_Intersections_of_Race_and_Class_Among_Social_Liberals_Learning_About_White_Privilege_Reduces_Sympathy_Increases_Blame_and_Decreases_External_Attributions_for_White_People_Struggling_With_Pover</ref>.
+
+## <span style="background-color:orange">Conclusion: The Unfortunate Tragedy</span>
+
+- Discuss how basically none of this can be discussed in polite conversation because all of it builds off of a race realist base which is extremely stigmatized
 
 ## References
 
