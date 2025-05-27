@@ -81,7 +81,7 @@ IQ gaps between races, although the specifics have been debated, have generally 
 
 It should be noted that the most recent polling that I am aware of suggests that only 16% of experts on intelligence believe in a 100% environmental explanation for the black-white difference in IQ<ref>Rindermann, H., Becker, D., & Coyle, T. R. (2020). Survey of expert opinion on intelligence: Intelligence research, experts’ background, controversial issues, and the media. Intelligence, 78, 101406. https://doi.org/10.1016/j.intell.2019.101406</ref>. This should strongly imply from the outset that an explanation for the gaps which involves genetics is potentially plausible, given the expert opinion on the issue. I believe that the cause for racial differences in intelligence is a mix of genetics and environment. It may be possible to quantify the relative influence of both, but I do not have sufficient knowledge in order to do it myself. I simply suggest that the preponderance of evidence suggests that both genes and environment play a role.
 
-#### Why a Partial Genetic Perspective is Possible
+#### Why a Partial Genetic Perspective is Possiblet
 
 The cultural loading that we are subjected to within modern societies primes people to be less sympathetic to genetic explanations for psychological differences between groups. From a pure evolutionary perspective, any two populations which are isolated from one another or reproduce independently from one another for a sufficiently long period of time will develop significant differences, some of which will be cognitive. 
 
