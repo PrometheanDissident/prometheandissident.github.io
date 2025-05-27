@@ -26,7 +26,7 @@ But this only suggests that the investigation of races and racial differences do
 
 None of this should be used as a case to lie about pieces of information should they appear to make people feel good. That being said, these arguments demonstrate that the acknowledgement of groups and group differences does not have to be something to legitimate oppression and racial superiority claims, and in many cases can be the exact opposite.
 
-## <span style="background-color:yellow">Classifying Racial Groups</span>
+## Classifying Racial Groups
 
 The first issue which should be examined is the question of the degree to which racial classifications are themselves legitimate. The first objection academics often give to those studying group differences is that racial groups are simply arbitrary, and thus that it is useless to study race as a category. Oftentimes, this is done with an appeal to a supposed academic consensus amongst those who study race, who universally tend to reject race as a biological category. Race is said to be a social construct, and human population differentiation is said to exist amongst a gradient as opposed to discrete categories.
 
