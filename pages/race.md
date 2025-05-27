@@ -44,7 +44,7 @@ Oftentimes, an academic consensus on an issue can be a strong indicator of the t
 
 With an understanding of how cluster analysis shows the existence of races that correspond with self-identified ancestry to a strong degree, we can discuss what clustering finds about human populations. Empirically, this is done through k-means clustering, which divides genetic data into k clusters. Doing this with human genomes reveals the following<ref>https://thuletide.wordpress.com/2020/06/29/a-race-by-race-breakdown-of-human-genetic-diversity-illustrated-guide-for-novices/</ref>:
 
-<img src="https://i.imgur.com/1Iw16MT.jpg" alt="K-Cluster Analysis">
+<img src="https://i.imgur.com/1Iw16MT.jpg" alt="K-Cluster Analysis" width="500">
 
 - At K=2, the divide is between Sub-Saharan Africans and everyone else.
 - At K=3, everyone else splits into West Eurasians (whites and MENAs) and Eastern Non-Africans.
@@ -87,7 +87,7 @@ The cultural loading that we are subjected to within modern societies primes peo
 
 Chimpanzees and gorillas have different cognitive abilities, in spite of them being in identical environments in some cases, due to them having different sexual selective patterns and/or different natural selective pressures. Certainly, this took a longer time than it did for racial groups to differentiate from one another. Humans started travelling out of Africa about 70,000 to 50,000 years ago<ref>Global Human Journey. (n.d.). https://education.nationalgeographic.org/resource/global-human-journey/</ref>, which is much shorter than the millions of years of separation chimpanzees had from gorillas.
 
-<img src="[https://i.imgur.com/1Iw16MT.jpg](https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638889806/EducationHub/photos/global-human-journey.jpg)" alt="Map of the Global Human Journey">
+<img src="https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638889806/EducationHub/photos/global-human-journey.jpg" alt="Map of the Global Human Journey" width="500">
 
 Map of the Global Human Journey<ref>Global Human Journey. (n.d.). https://education.nationalgeographic.org/resource/global-human-journey/</ref>.
 
