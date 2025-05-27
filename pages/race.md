@@ -42,11 +42,33 @@ Oftentimes, an academic consensus on an issue can be a strong indicator of the t
 
 - I do not mean to argue that we should consider races to be different subspecies of humans. There may be some use in doing so, and there may be some use in not doing so. The question of whether it would be useful goes beyond the scope of this article.
 
+With an understanding of how cluster analysis shows the existence of races that correspond with self-identified ancestry to a strong degree, we can discuss what clustering finds about human populations. Empirically, this is done through k-means clustering, which divides genetic data into k clusters. Doing this with human genomes reveals the following<ref>https://thuletide.wordpress.com/2020/06/29/a-race-by-race-breakdown-of-human-genetic-diversity-illustrated-guide-for-novices/</ref>:
+
+<img src="[pic_trulli.jpg](https://i.imgur.com/1Iw16MT.jpg)" alt="K-Cluster Analysis">
+
+- At K=2, the divide is between Sub-Saharan Africans and everyone else.
+- At K=3, everyone else splits into West Eurasians (whites and MENAs) and Eastern Non-Africans.
+- At K=4, Amerindians split from Eastern Non-Africans.
+- At K=5, Sub-Saharan Africans split into two groups, what have been called in the past "Congoids" and "Capoids".
+- At K=6, South Eurasians (Indians, Adamanese, Australians) split from East Asians.
+- At K=7, Siberians split from East Asians.
+- At K=8, South Asians split from South Eurasians.
+- At K=9, West Eurasians split into Europeans and West Asians (MENAs)
+- At K=10, the Hadza, a tiny African population of hunter-gatherers numbering less than 1500 people, split from other Africans.
+- At K=11, Adamanese islanders split from other South Asians.
+- At K=12, Amerindians split into North and South populations.
+- At K=13, Pygmies diverge from other Sub-Saharan African groups.
+- At K=14, Paleo-Siberians split from other Amerindians.
+- At K=15, a 'Caucasian and Iranian' component appears in nearly every West Eurasian and Central/South Asian population.
+- At K=16, the East African or Nilotic population splits from other Sub-Saharan Africans.
+- At K=17, the Southern Amerindians split into Amazonians and other Southern Amerindians.
+- At K=18, Ju'Hoansi people split from other Sub-Saharan Africans.
+- At K=19, West Eurasian ancestry is split into four groups: North European, Mediterranean European, Semitic, and Caucasian and Iranian.
+- At K=20, the Kalash separate from other Central/South Asians.
+
 All of this suggests that from a biological or population genetics perspective, there is a level of use to using race as a category. It is simple, it corresponds already to most people's folk understandings of race, and it also corresponds to actual genetic differences between populations. There is a second argument against the usage of race as a category in science, and that is the concern that it can be used to legitimate oppression and claims of superiority. This argument was already addressed in a previous section.
 
 Additionally, from a medical perspective, having consistent racial classifications can provide some value. Pharmacogenetics research has very inconsistent race and ethnic classification due to racial definitions differing between various studies. Common taxonomy of geographic ancestry could produce reproducible research and clinical implementation of its results<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612983/</ref>. There may be some benefit in using traditional folk categories if they allow for good identification by a doctor or good self-identification of one's ethnic origin, and hence of one's genetic propensities from a medical perspective.
-
-*<span style="background-color:lightcoral">Discuss research which uses k-means clustering and what groups emerge from adding more k-means to genetic data. https://thuletide.wordpress.com/2020/06/29/a-race-by-race-breakdown-of-human-genetic-diversity-illustrated-guide-for-novices/</span>
 
 ## Implications
 
