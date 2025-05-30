@@ -304,11 +304,11 @@ Allowing transgender people in the military would allow for a larger military wi
 
 Data suggests that transgender women in male prisons are greatly disproportionately sexually abused compared to non-transgender inmates in men’s prisons<ref>just detention international. (2013). Targets for abuse: transgender inmates and prisoner rape. In Just Detention International. https://justdetention.org/wp-content/uploads/2015/10/FS-Targets-For-Abuse-Transgender-Inmates-And-Prisoner-Rape.pdf</ref>. At the same time, data from England and Wales suggests that nearly half of transgender prisoners have been convicted for sexual offenses, compared to 19% of males and 4% of females in the overall prison population<ref>Biggs, M. (2020, May 17). The Transition from Sex to Gender in English Prisons: Human Rights and Queer Theory. https://doi.org/10.31235/osf.io/43f2t</ref>. This lends credence to the hypothesis that there may be male inmates who insincerely attempt to identify as transgender to enter women’s spaces where they can engage in predatory behavior. Thus there is a very difficult dilemma posed. If however, we do hold that we should try and ensure that sincere transgender women do enter women’s prisons where they’ll be safe from sexual assault, we must take great care in rooting out false positives as not doing so could have disastrous consequences.
 
-## <span style="background-color:yellow">The Modern Narrative on Sexism</span>
+## The Modern Narrative on Sexism
 
-A common assumption, similar to race, is that all disparities that exist on the basis of gender must necessarily be due to discrimination. As shown in earlier sections, this is clearly not true. Men and women have different interests, different comparative advantages cognitively, different personalities. Thus, they should have different outcomes in nearly every domain of society. Nonetheless, it is possible that bias, or "sexism", can play a role in some of these disparities to some degree.
+A common assumption, similar to race, is that all disparities that exist on the basis of gender must necessarily be due to discrimination. As shown in earlier sections, this is clearly not true. Men and women have different interests, different comparative advantages cognitively, different personalities. Thus, they should have different outcomes in nearly every domain of society. Nonetheless, it is possible that bias, or "sexism", can play a role in some of these disparities to some degree. These disparities will be discussed in turn, and with each disparity discussion may also center on what policy implications may exist with the results.
 
-### <span style="background-color:lightcoral">Economic Disparities</span>
+### Economic Disparities
 
 #### <span style="background-color:yellow">Workplace: Some Bias (Ambiguous Direction)</span>
 
