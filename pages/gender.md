@@ -379,7 +379,7 @@ Sentencing judgements and related court activities, such as the death penalty, a
 
 There exists a gender bias in research<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1761670/</ref>. Research funding disproportionately goes into dealing with male medical issues. Early clinical trials until 1994 mostly excluded women for safety reasons which led to it being reported in 2005 that eight out of ten prescription drugs were withdrawn from the US market because of women's health issues. Women more recently have not been recruited much into trial results, in part because women using hormonal contraception must be considered a separate analytical group, a study requirement which creates access burdens for women. Researchers and ethics committees ignored risks of contraceptives, interference with drug metabolism by hormonal contraception, that partners may be sterile, that fetal harm may also affect men, that the risk of fetal exposure to one dose of a drug was minimal and that women could make their own decisions. There is also a lack of incorporation of gender data into evidence-based medicine, with often a lack of gender specific management guidelines.
 
-### <span style="background-color:yellow">General Anti-Male Bias</span>
+### General Anti-Male Bias
 
 Although men do tend to be seen as more favorable in terms of agency stereotyping<ref>https://www.apa.org/pubs/journals/releases/amp-amp0000494.pdf</ref>, attitudes and stereotypes either tend to be equal for men and women or favor women over men, with there being a larger female advantage in communion-related stereotyping and equality in competence<ref>https://journals.sagepub.com/doi/abs/10.1177/0146167289154008?journalCode=pspc</ref><ref>https://journals.sagepub.com/doi/10.1111/j.1471-6402.1991.tb00792.x</ref><ref>https://www.tandfonline.com/doi/abs/10.1080/00223989709603527</ref><ref>https://www.apa.org/pubs/journals/releases/amp-amp0000494.pdf</ref>.
 
@@ -438,8 +438,6 @@ Therefore, a number of factors which are to varying degrees within or not within
 - **Criminality -** More attractive people are less likely to be arrested and convicted<ref>Beaver, K. M., Boccio, C., Smith, S., & Ferguson, C. J. (2019). Physical attractiveness and criminal justice processing: results from a longitudinal sample of youth and young adults. Psychiatry Psychology and Law, 26(4), 669–681. https://doi.org/10.1080/13218719.2019.1618750</ref>.
 - **Confidence -** Physically attractive workers are more confident, have better oral skills, and are independently considered more able by employers, increasing their wages<ref>Mobius, M. M., & Rosenblat, T. S. (2006). Why beauty matters. American Economic Review, 96–1, 222–235. https://dash.harvard.edu/bitstream/handle/1/3043406/mobius_beauty.pdf?s</ref>.
 
-## <span style="background-color:lightcoral">Relationships</span>
-
 ### <span style="background-color:orange">Asking Out</span>
 
 Men tend to prefer to ask out women and ask out women more. On the other hand, women tend to prefer to be asked out and ask out men less. This has not changed in spite of great changes in gender relations over the past few decades. This may be because women evolutionarily want to demonstrate sexual fidelity to attract an ideal partner<ref>Mills, M., PhD. (2024, June 17). Despite greater equality, women still don’t ask. Why? Psychology Today. https://www.psychologytoday.com/us/blog/the-how-and-why-of-sex-differences/201104/why-dont-women-ask-men-out-on-first-dates</ref>.
@@ -490,7 +488,7 @@ Warm partner contact is related to lower cardiovascular reactivity, suggesting t
 
 ### <span style="background-color:orange">Single Motherhood</span>
 
-The less time fathers spend with their children,, the more conduct problems their children had, but only if fathers did not engage in antisocial behavior. If they are high in anti-social behavior, time spent with their children increases the conduct problems of their children<ref>Jaffee, S. R., Moffitt, T. E., Caspi, A., & Taylor, A. (2003). Life with (or without) father: The benefits of living with two biological parents depend on the father’s antisocial behavior. Child Development, 74(1), 109–126. https://doi.org/10.1111/1467-8624.t01-1-00524</ref>.
+The less time fathers spend with their children, the more conduct problems their children had, but only if fathers did not engage in antisocial behavior. If they are high in anti-social behavior, time spent with their children increases the conduct problems of their children<ref>Jaffee, S. R., Moffitt, T. E., Caspi, A., & Taylor, A. (2003). Life with (or without) father: The benefits of living with two biological parents depend on the father’s antisocial behavior. Child Development, 74(1), 109–126. https://doi.org/10.1111/1467-8624.t01-1-00524</ref>.
 
 ### <span style="background-color:orange">Marriage and Divorce</span>
 
