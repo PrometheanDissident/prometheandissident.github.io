@@ -79,6 +79,8 @@ permalink: /articles-and-data/
 * [https://ninapower.substack.com/p/are-you-now-or-have-you-ever-been Are you now or have you ever been a member of the Nazi Party in my head?]
 * [https://transhumanista4all.substack.com/p/dangerous-women?utm_source=cross-post&publication_id=2243166&post_id=143667142&utm_campaign=2294090&isFreemail=true&r=42w68t&triedRedirect=true&utm_medium=email Dangerous Women: Modern adaptations subvert the true meaning of classic fairy tales]
 * [https://karlin.blog/p/oliver-d-smith-interview-with-a-stalker Oliver D. Smith: Interview with a Stalker How RationalWiki Enabled One Man's Peculiar Hobby]
+* [https://fiddlersgreene.substack.com/p/an-age-of-illiteracy An Age of Illiteracy The Blessings of Babel, Part 1]
+* [https://akarlin.com/ods/hbd-culture/ HBD/IQ Culture]
 
 ## Other
 
