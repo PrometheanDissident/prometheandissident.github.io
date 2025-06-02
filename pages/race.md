@@ -255,9 +255,11 @@ In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatm
 
 That said, as this broad section will demonstrate, the evidence that racism is a significant issue in modern society which explains many of the disparities seen is lacking. Evidence suggests that these disparities are entirely a function of IQ differences between groups, which are largely genetic with a portion potentially being explained by historical factors such as past "racism" or meta-level cultural differences. To the extent that racism explains any of these disparities, it is a function of past actions which have proportionately little impact on the disparities today.
 
-### <span style="background-color:orange">The Utility of the Word "Racism"</span>
+### The Utility of the Word "Racism"
 
-- I don't think it should be used, but I'm gonna use it to discuss the issue in a way that makes sense
+Prior to any actual discussion of racism, it is important to discuss what it means, and whether the term has any utility. There are an infinite number of definitions of "racism" that are used, which are [continuously debated and discussed](https://prometheandissident.github.io/race/#%E2%80%9Creverse-racism-doesn%E2%80%99t-exist%E2%80%9D-or-%E2%80%9Cblack-people-can%E2%80%99t-be-racist%E2%80%9D). The reason why this occurs is because racism is seen as something evil and abhorrent, so there is an impulse to define whatever behavior you dislike under that definition, and throw any behavior you don't dislike out of that definition. This results in a definition which is extremely nebulous and fails to actually describe anything other than the person's attitude towards a behavior or system regarding how it treats race. Racism when invokved says nothing about the degree or kind of whatever is given the label. It is also effectively monopolized by those who would seek to suppress research into racial differences, [something which is ultimately harmful](https://prometheandissident.github.io/race/#the-ethics-of-investigating-race-and-racial-differences). Thus, I don't see the word as having much use value in general discussion, and thus tend to avoid its usage.
+
+However, I will make an exception here to simplicity's sake, and define racism as any unjust treatment based on race. This is an extremely vague definition, but it will become apparent that regardless of the extent of vagueness I'll still be able to analyze racial disparities using this tool.
 
 ### Statistical Versus Taste-Based Discrimination
 
