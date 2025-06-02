@@ -86,3 +86,5 @@ permalink: /research-questions/
 * Effects of Sensitivity training/training for working with women/poc
 * Racial differences in visual accuity
 * Racial differences in maturation
+* The causes of genocide - Is an oppressor-oppressed narrative inherent to them?
+* Rent-seeking behavior
