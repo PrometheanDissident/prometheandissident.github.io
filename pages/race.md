@@ -189,7 +189,7 @@ While some may view this as being a particularly radical position, this is in so
 
 Understanding ethnocentrism as relatively natural, this can help to understand why research on ethnic diversity suggests that it can oftentimes have negative effects on society. Several broad themes emerge from examining the effects of ethnic diversity:
 
-- People generally feel a greater sense of community when those around them are of a similar ethnic group. This can have downstream effects on social trust, altruism, conflict, economic growth, health, and poverty.
+- People generally feel a greater sense of community when those around them are of a similar ethnic group. This can have downstream effects on social trust, altruism, conflict, economic growth, health, birth rates, and poverty.
 
 - This effect can be moderated with more intergroup contact, and contexts where cleavages are less salient, either due to lower economic divides or a sense of need for unification.
 
@@ -214,6 +214,8 @@ This doesn't mean that in all contexts ethnic diversity will necessarily promote
 Ethnic diversity appears to be negatively related to altruism as well, with research suggesting that ethnic diversity is associated with lower levels of charitable giving<ref>https://www.nber.org/system/files/working_papers/w17618/w17618.pdf</ref>.
 
 Moving from a homogenous school district to one in which two racial groups have equal population shares is associated with lower school performance, holding educational spending constant<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1536-7150.2010.00721.x</ref>. Ethnic diversity also appears to increase the probability of classroom disruption in schools, although in countries with a more inclusive migration policy students are at least less harmed by the ethnic diversity effect<ref>https://www.tandfonline.com/doi/abs/10.1080/03055698.2015.955750</ref>.
+
+Finally, some research suggests that ethnic diversity has a small negative effect on birth rates, with _"one standard deviation decrease in racial concentration (having people of many different races nearby) or increase in racial isolation (being from a numerically smaller race in that area) is associated with 0.064 and 0.044 fewer children, respectively, after controlling for many other drivers of birth rates"_<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4881921</ref>. Since 1970 and 2024, the researchers estimated that the rise in racial diversity in the US explained between 20% and 44% of the decline in birth rates during that period.
 
 So much of the research on the social effects suggests that ethnic diversity can increase conflict and decrease social trust. However, these effects appear on the whole small. The most substantial quantitative overview of the literature is from Dinesen et al. (2020) who conducted a meta-analysis of the effects of ethic diversity on social trust. While the relationship was negative, the meta-estimate of the partial correlation was −0.0256, suggesting a very small but still signficant relationship between diversity and social trust<ref>https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-052918-020708</ref>. This should occur similarly with other relationships like the conflict relationship should sufficient research be done to warrant meta-analyzing the data.
 
