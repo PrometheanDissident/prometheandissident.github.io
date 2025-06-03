@@ -258,8 +258,6 @@ Intuitively, it makes sense why interracial relationships will be less common. O
 - Private-public distinction
 - In public goods arguments, just advocate for only having public goods for natives
 
-### <span style="background-color:lightcoral">Why Ethnostates and Racialism are Cringe and Dumb</span>
-
 ### <span style="background-color:lightcoral">Identity Politics is Inevitable</span>
 
 ## The Modern Narrative on Racism
