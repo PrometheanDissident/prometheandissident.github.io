@@ -154,21 +154,21 @@ It should be acknowledged that the distributional effects of the minimum wage wh
 
 In short, price increases are important to consider but not sufficient to justify the notion that the minimum wage is inherently bad. While I did not find any data pertaining to how price levels would change as a minimum wage continues to increase, I would imagine it'd be roughly similar to the 59% of median wage number that a study found on employment. I suspect this because if employment effects don't become notable until 59% of the median wage, it is likely the case that some monopsonistic effects are operating until roughly that threshold, in which case not only is there less of a necessity to decrease employment at lower minimum wage levels, but there is less of a necessity to engage in other profit-maximizing measures, such as price hikes either. Due to this, I would consider this literature consistent with the idea that a minimum wage should be hiked to be roughly 59% of the median hourly wage.
 
-#### <span style="background-color:skyblue">Labor Market Changes</span>
+#### Labor Market Changes
 
 Consistent with the notion that neither the monopsony nor the competitive model can fully explain minimum wage effects, I found fairly contradictory evidence on how labor market flows are affected by the minimum wage, with some research suggesting increased labor market flows<ref>http://sarkoups.free.fr/dustmann719.pdf</ref> and some suggesting decreased labor market flows<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/685449</ref>. My suspicion is that the effects likely vary by industry and also by location as most minimum wage effects appear to vary. Ku (2020) suggests that the minimum wage increases labor productivity, which could arguably be due to either a monopsony or competitive model<ref>https://docs.iza.org/dp13369.pdf</ref>. I think in either case it makes sense why workers would want to improve their productivity, as they are potentially at risk of being squeezed out of the market, even in some cases with a monopsony model. Research on the levels of absenteeism is also consistent with the idea that workers are likely pressured to some extent as a consequence of minimum wage increases, as they often risk getting unemployed<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1588294</ref>. The minimum wage also has a variety of other effects on the labor market, which are also due to cost pressures<ref>https://www.cato.org/sites/cato.org/files/pubs/pdf/PA701.pdf</ref>:
 
-*Increasing the likelihood and duration of unemployment for low-wage workers, particularly during economic downturns
-*Encouraging employers to cut worker training
-*Increasing job turnover
-*Discouraging part-time work and reducing school attendance
-*Driving workers into uncovered jobs, reducing wages in those sectors
-*Encouraging employers to cut back on fringe benefits
-*Encouraging employers to install labor-saving devices
-*Increasing inflationary pressure
-*Increasing teenage crime rates as a result of higher unemployment
-*Encouraging workers to hire illegal aliens.
-*Another channel of adjustment is labor-labor substitution within businesses, where some employers will replace their lowest-skilled workers with somewhat higher-skilled workers in response to increases in the minimum wage. Unions are strong supporters of minimum wages because of this reduction in competition.
+- Increasing the likelihood and duration of unemployment for low-wage workers, particularly during economic downturns
+- Encouraging employers to cut worker training
+- Increasing job turnover
+- Discouraging part-time work and reducing school attendance
+- Driving workers into uncovered jobs, reducing wages in those sectors
+- Encouraging employers to cut back on fringe benefits
+- Encouraging employers to install labor-saving devices
+- Increasing inflationary pressure
+- Increasing teenage crime rates as a result of higher unemployment
+- Encouraging workers to hire illegal aliens.
+- Another channel of adjustment is labor-labor substitution within businesses, where some employers will replace their lowest-skilled workers with somewhat higher-skilled workers in response to increases in the minimum wage. Unions are strong supporters of minimum wages because of this reduction in competition.
 
 Much of this research is consistent with the competitive model, although results from the monopsonistic model creep in as well. It does appear, however, that the competitive model is better at explaining how channels of adjustment operate following minimum wage hikes.
 
