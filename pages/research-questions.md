@@ -78,9 +78,7 @@ permalink: /research-questions/
 * Social wealth fund
 * Cultural capital
 * Effects of Sensitivity training/training for working with women/poc
-* Racial differences in maturation
 * The causes of genocide - Is an oppressor-oppressed narrative inherent to them?
-* Rent-seeking behavior
 * Public vs private housing
 * Most effective interventions to reduce homelessness
 * Effects of carbon tax
@@ -107,3 +105,4 @@ permalink: /research-questions/
 * Peak of laffer curve?
 * Do capitalist economies trend towards worsening of workers QOL
 * Do capitalist economies trend towards lower social spending?
+* Rent-seeking behavior
