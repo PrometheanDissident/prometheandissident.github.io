@@ -4,7 +4,7 @@ title: Economics
 permalink: /economics/
 ---
 
-## <span style="background-color:lightcoral">On Private Ownership</span>
+## On Private Ownership
 
 One of the biggest debates that has occurred in history is whether Capitalism or Socialism is preferable. This debate has taken numerous forms, as both systems can be defined in various ways, but they are most popularly defined according to what system they use to allocate resources. Under the traditional definition of Capitalism, resources are allocated according to a market mechanism, while under the traditional definition of Socialism resources are allocated according to a central authority.
 
@@ -12,7 +12,7 @@ The debate on market versus central planning is exemplified in what is called th
 
 While this "Economic Calculation Problem" or ECP as it is often called is fairly convincing, it only provides a theory for why central planning might actually be more effective. If we want more concrete evidence on the comparative merits of central planning versus market planning, we will need to look to empirical research.
 
-### <span style="background-color:lightcoral">The Literature on Free Markets Versus Central Planning</span>
+### The Literature on Free Markets Versus Central Planning
 
 The most comprehensive evidence actually comes from research utilizing "economic freedom" indices. These attempt to quantify the degree of economic freedom across countries around the world, with the most prominent index being the Heritage Foundation's Economic Freedom Index. They define economic freedom as _"the fundamental right of every human to control his or her own labor and property. In an economically free society, individuals are free to work, produce, consume, and invest in any way they please. In economically free societies, governments allow labor, capital, and goods to move freely, and refrain from coercion or constraint of liberty beyond the extent necessary to protect and maintain liberty itself"_<ref>https://www.heritage.org/index/pages/about</ref>. They measure economic freedom based on 12 quantitative and qualitative factors grouped into four groups: rule of law, government size, regulatory efficiency, and open markets. While not limited to central planning, we can take a higher level of economic freedom as generally indicative of an economy being more oriented towards market planning as opposed to central planning. Thus, research on the effects of economic freedom can be used to look at the effects of market versus central planning.
 
