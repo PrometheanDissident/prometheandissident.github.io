@@ -38,24 +38,9 @@ There are two exceptions to this trend of economic growth producing positive out
 
 - **Air Quality -** Economic freedom appears to create incentives to abate local air pollution such as fine particulate matter, although such incentives do not appear to be created for carbon dioxide emissions which are more global in nature<ref>https://www.fraserinstitute.org/sites/default/files/economic-freedom-and-air-quality.pdf</ref>. This would make sense given the difficulty of coordination on an international scale which is required to reduce carbon dioxide emissions.
 
+This should not be seen as an unabashed endorsement of free markets in every context. Certainly, there are some contexts in which some level of regulation or even central planning may be required in an economy. This can be to address concerns about air quality, or concerns where particular policies may be harmful to things like economic growth. Just because economic freedom _in general_ is good for growth and quality of life, doesn't mean that every regulation or form of central planning is bad. It's just to say that there is a general trend of economic freedom being good, and we should keep that in mind when considering good policy.
 
-
-
-### The Question of Worker Cooperatives
-
-
-
-
-
-
-
-## <span style="background-color:orange">Socialism</span>
-
-Socialism is gay and cringe.
-
-### <span style="background-color:yellow">Efficiency</span>
-
-Capitalism and its associated legal and cultural institutions are associated with much higher economic efficiency:
+While I think that the research on economic freedom, due to its comprehensiveness, is one of the strongest pieces of evidence to suggest that market planning is generally preferable to central planning, we can also just examine comparative research on capitalism versus socialism which does not utilize economic freedom indices. Several pieces of research/evidence strongly suggest that Capitalism and its associated legal and cultural institutions are associated with much higher economic efficiency:
 
 - Economic institutions, such as well-specific property rights, the rule of law, economic freedom, and the quality of government, are positively related with human well-being<ref>https://college.holycross.edu/eej/Volume29/V29N1P23_40.pdf</ref>.
 - Individualism is positively related to long-run growth and innovation<ref>https://www.sciencedirect.com/science/article/abs/pii/S0165176512006362</ref><ref>https://eml.berkeley.edu/~ygorodni/gorrol_culture.pdf</ref>.
@@ -64,11 +49,25 @@ Capitalism and its associated legal and cultural institutions are associated wit
 - Developing countries that score better in protecting economic rights tend to grow faster, score higher in human development, and economic rights are associated with democratic government and higher levels of average national income<ref>https://link.springer.com/article/10.1007/BF02687323</ref>.
 - Privately owned firms are more efficient and more profitable than otherwise comparable state-owned firms<ref>https://www.aeaweb.org/articles?id=10.1257/jel.39.2.321</ref>.
 - Market economies tend to have more productive efficiency compared to state socialist economies<ref>https://www.researchgate.net/publication/256353073_Productive_efficiency_under_capitalism_and_state_socialism</ref>.
+- Xiaogang farmers, who agreed in 1978 to have personal property and no longer have collectivization, immediately had a massive increase in their agricultural productivity. This was used as a model for the rest of the Chinese economy to move to a market system<ref>https://www.npr.org/sections/money/2012/01/20/145360447/the-secret-document-that-transformed-china</ref>.
+
+
+### The Question of Worker Cooperatives
+
+
+## <span style="background-color:orange">Socialism</span>
+
+### <span style="background-color:yellow">Efficiency</span>
+
+
 
 Specific cases:
 
 - The Soviet Union initially had high economic growth due to the fact that as a developing economy it could adopt western technology while forcibly mobilizing resources to use such technology. Once the country began to catch up with the west, it could no longer do this and its productivity diminished. Various piecemeal reforms it attempted undermined its institutions and failed to improve the situation<ref>https://www.investopedia.com/articles/investing/021716/why-ussr-collapsed-economically.asp#citation-2</ref>.
-- Xiaogang farmers, who agreed in 1978 to have personal property and no longer have collectivization, immediately had a massive increase in their agricultural productivity. This was used as a model for the rest of the Chinese economy to move to a market system<ref>https://www.npr.org/sections/money/2012/01/20/145360447/the-secret-document-that-transformed-china</ref>.
+
+
+
+
 - Delayed economic reform in India because of its prolonged experiment with socialism led to over ten million "missing children", amongst other negative effects on quality of life<ref>https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7</ref>.
 
 ### <span style="background-color:yellow">Quality of Life</span>
