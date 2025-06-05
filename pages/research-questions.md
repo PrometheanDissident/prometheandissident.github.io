@@ -102,3 +102,13 @@ permalink: /research-questions/
 * Hypergamy
 * Unemployment insurance
 * Reparations
+* Top policies to maximize economic growth?
+* Structural adjustment programs
+* Georgism
+* Types of taxes (income, capital gains, sales, etc)
+* Healthcare
+* Telecommunications
+* Electricity
+* Economic effects of antidiscrimination legislation?
+* Types of welfare programs, which are based and which are cringe?
+* Peak of laffer curve?
