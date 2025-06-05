@@ -80,6 +80,8 @@ The problems with worker cooperatives don't start there. While they can be more 
 
 Worker cooperatives tend to succeed as small firms in which most jobs are the same or can be performed by all members, where little capital is required, member motivation is at least partly ideological, the product market favors high quality over low cost products, and most employees enjoy full and equal voting rights <ref>Blackwell Encyclopedia of Sociology: Management, Workers’ Participation in</ref>. Many of these conditions inhibit worker cooperatives from ever becoming large-scale firms which are necessary to have in a capitalist society due to economies of scale among other reasons. Such firms can be successful in certain contexts, but it can never be adopted as a universal model. There may be a case for encouraging their use either culturally or through subsidies in certain industries, such as agriculture or grocers where they are more common as is, but ultimately this will be at most a mixed-market economy and will never amount to a "socialist" society that many advocates of such firm models envision.
 
+## Corrupting Influence of Capitalism?
+
 ## How Should Different Goods/Services be Allocated in General?
 
 ## The Importance of Growth
