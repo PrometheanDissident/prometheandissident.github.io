@@ -19,10 +19,7 @@ permalink: /research-questions/
 * Microaggressions
 * Ethnostates
 * Cause for high male suicidality
-* Do cops think they are racist?
-* Best course of action statistically speaking with the police
 * Microcredit
-* Break-up rate of same-sex couples and reasons for it
 * Psychological results of children in adoption homes
 * Cultivation Theory
 * Fair trade
@@ -38,7 +35,6 @@ permalink: /research-questions/
 * Indigenous health disparities/discrimination
 * Education disparities indigenous peoples
 * Race realism with indigenous people
-* Intersectionality in the climate crisis
 * Indigenous sovereignty
 * Rural access to healthcare
 * Gentrification
@@ -49,9 +45,7 @@ permalink: /research-questions/
 * Equality of opportunity policy
 * Do petitions work?
 * Microstamping gun control
-* Eco-anxiety
 * socialism and the aral sea
-* the great gatsby curve
 * Limited liability corporations
 * Deficit spending
 * Functionalism (Talcott Parsons)
