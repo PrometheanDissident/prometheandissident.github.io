@@ -14,22 +14,11 @@ While this "Economic Calculation Problem" or ECP as it is often called is fairly
 
 ### <span style="background-color:lightcoral">The Literature on Free Markets Versus Central Planning</span>
 
+The most comprehensive evidence actually comes from research utilizing "economic freedom" indices. These attempt to quantify the degree of economic freedom across countries around the world, with the most prominent index being the Heritage Foundation's Economic Freedom Index. They define economic freedom as _"the fundamental right of every human to control his or her own labor and property. In an economically free society, individuals are free to work, produce, consume, and invest in any way they please. In economically free societies, governments allow labor, capital, and goods to move freely, and refrain from coercion or constraint of liberty beyond the extent necessary to protect and maintain liberty itself"_<ref>https://www.heritage.org/index/pages/about</ref>. They measure economic freedom based on 12 quantitative and qualitative factors grouped into four groups: rule of law, government size, regulatory efficiency, and open markets. While not limited to central planning, we can take a higher level of economic freedom as generally indicative of an economy being more oriented towards market planning as opposed to central planning. Thus, research on the effects of economic freedom can be used to look at the effects of market versus central planning.
 
-
-### The Question of Worker Cooperatives
-
-
-
-
-## <span style="background-color:yellow">Economic Freedom</span>
-
-**Economic freedom = based**
-
-A 2013 systematic literature review on the effects of economic freedom found that in the vast majority of studies that cite the economic freedom index, it is associated with mostly good outcomes<ref>https://doi.org/10.1111/coep.12010</ref>. The only main exception to this is that some of the negative studies suggested that economic freedom increases income inequality. There is a vast literature of studies which look at the effects of economic freedom in a wide variety of domains:
+Many studies, primarily relying on the Heritage Foundation's index, have assessed the effects of economic freedom on various outcomes. A 2013 systematic literature review on the effects of economic freedom found that in the vast majority of studies that cite the economic freedom index, it is associated with mostly good outcomes<ref>https://doi.org/10.1111/coep.12010</ref>. The only main exception to this is that some of the negative studies suggested that economic freedom increases income inequality. Looking at a range of domains, we can see that economic freedom is overwhelmingly associated with positive outcomes, including higher economic growth, lower poverty, higher social mobility, greater innovation, lower unemployment, higher labor force participation and employment-population ratios, lower debt risk, higher quality of life, greater democracy, political freedom and tolerance, and lower corruption. These will be discussed in turn:
 
 - **Economic Growth -** Doucouliagos & Ulubasoglu (2006) used meta-analytic techniques to the literature on economic freedom and economic growth and found that there is a positive association between the two<ref>https://doi.org/10.1016/j.ejpoleco.2005.06.003</ref>. Granger causality analysis suggests that for both industrial and nonindustrial countries, this is a positive feedback loop in which both variables cause one another<ref>https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.8647&rep=rep1&type=pdf</ref>. This effect operates through a number of channels, which include low money growth rate, small role played by government enterprises, rare negative real interest rates, small difference between the official and black-market exchange rates, large size of the trade sector, and the freedom of citizens to engage in capital transactions with foreigners<ref>https://www.jstor.org/stable/30025774</ref>.
-
-- **Inequality -** Consistent with Hall & Lawson (2013), some research does suggest that economic freedom increases income inequality<ref>https://link.springer.com/article/10.1007/s11127-006-9078-0</ref>, although there is no clear consensus<ref>https://doi.org/10.1111/j.1465-7287.2012.00343.x</ref><ref>https://ideas.repec.org/a/ipf/finteo/v39y2015i4p349-370.html</ref>. This is consistent with the well-known hypothesized tradeoff between equity and efficiency<ref>https://www.jstor.org/stable/30025774</ref>, in which countries with higher economic growth have to sacrifice a level of economic inequality. However, many studies which find that economic freedom increases inequality have notable caveats to it. For example, Ahmed (2017) finds that this effect is attenuated with democratic regimes, and Bauer (2016) finds that this is balanced out by an overall higher quality of life among citizens who live under conditions of higher economic freedom<ref>https://www.mdpi.com/2227-7099/5/2/18</ref><ref>https://digitalcommons.liberty.edu/honors/597/</ref>.
 
 - **Poverty and Social Mobility -** Economic freedom is associated with both lower poverty<ref>https://www.researchgate.net/publication/5021345_Poverty_and_Economic_Freedom_Evidence_from_Cross-Country_Data</ref>, and increased social mobility<ref>https://diginole.lib.fsu.edu/islandora/object/fsu:204636/datastream/PDF/view</ref>.
 
@@ -43,7 +32,22 @@ A 2013 systematic literature review on the effects of economic freedom found tha
 
 - **Civil Society -** Economic freedom is associated with greater democracy<ref>https://core.ac.uk/download/pdf/231765996.pdf</ref>, greater political freedom<ref>https://www.sciencedirect.com/science/article/abs/pii/S0167268110000430</ref>, lower governmental corruption<ref>https://uca.edu/cahss/files/2020/07/02-Cramer-CLA-2020.pdf</ref>, a reduction in conflict<ref>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651&rep=rep1&type=pdf</ref>, and greater tolerance of different groups of people<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2045577#:~:text=Regression%20analysis%20of%20up%20to,by%20how%20free%20markets%20are</ref><ref>https://www.cato.org/sites/cato.org/files/2021-01/economic-freedom-of-the-world-2020-chapter-3.pdf</ref>.
 
+There are two exceptions to this trend of economic growth producing positive outcomes. The first is inequality, which might be greater with higher economic freedom. The second is poorer air quality, particularly with regard to carbon dioxide emissions:
+
+- **Inequality -** Consistent with Hall & Lawson (2013), some research does suggest that economic freedom increases income inequality<ref>https://link.springer.com/article/10.1007/s11127-006-9078-0</ref>, although there is no clear consensus<ref>https://doi.org/10.1111/j.1465-7287.2012.00343.x</ref><ref>https://ideas.repec.org/a/ipf/finteo/v39y2015i4p349-370.html</ref>. This is consistent with the well-known hypothesized tradeoff between equity and efficiency<ref>https://www.jstor.org/stable/30025774</ref>, in which countries with higher economic growth have to sacrifice a level of economic inequality. However, many studies which find that economic freedom increases inequality have notable caveats to it. For example, Ahmed (2017) finds that this effect is attenuated with democratic regimes, and Bauer (2016) finds that this is balanced out by an overall higher quality of life among citizens who live under conditions of higher economic freedom<ref>https://www.mdpi.com/2227-7099/5/2/18</ref><ref>https://digitalcommons.liberty.edu/honors/597/</ref>.
+
 - **Air Quality -** Economic freedom appears to create incentives to abate local air pollution such as fine particulate matter, although such incentives do not appear to be created for carbon dioxide emissions which are more global in nature<ref>https://www.fraserinstitute.org/sites/default/files/economic-freedom-and-air-quality.pdf</ref>. This would make sense given the difficulty of coordination on an international scale which is required to reduce carbon dioxide emissions.
+
+
+
+
+### The Question of Worker Cooperatives
+
+
+
+
+
+
 
 ## <span style="background-color:orange">Socialism</span>
 
