@@ -112,3 +112,5 @@ permalink: /research-questions/
 * Economic effects of antidiscrimination legislation?
 * Types of welfare programs, which are based and which are cringe?
 * Peak of laffer curve?
+* Do capitalist economies trend towards worsening of workers QOL
+* Do capitalist economies trend towards lower social spending?
