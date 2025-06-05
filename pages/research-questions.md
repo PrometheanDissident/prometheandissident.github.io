@@ -88,3 +88,17 @@ permalink: /research-questions/
 * Racial differences in maturation
 * The causes of genocide - Is an oppressor-oppressed narrative inherent to them?
 * Rent-seeking behavior
+* Public vs private housing
+* Most effective interventions to reduce homelessness
+* Effects of carbon tax
+* Carbon tax versus cap and trade
+* Effects of industrial policy
+* University innovation and economic growth
+* Economics of patents/copyright laws
+* Performance based funding in general
+* Defund the police
+* Police worn body cameras
+* Community policing
+* Hypergamy
+* Unemployment insurance
+* Reparations
