@@ -461,6 +461,10 @@ Improvements in the relative quality of black schools in terms of pupil-teacher 
 
 #### <span style="background-color:orange">Reparations</span>
 
+#### <span style="background-color:orange">Anti-Discrmination Legislation</span>
+
+Following the implemtation of Title VII in the United States, which prohibited race-based employment discrimination, the black-white income gap narrowed from about 60% to 74% for males, and 61% to 96% for females<ref>https://www.nber.org/system/files/working_papers/w11631/w11631.pdf#:~:text=following%20the%20implementation%20of%20Title,and%20even%20narrowed</ref>. This strongly suggests that such legislation subatantially reduced the earnings gap between blacks and whites.
+
 ### Separation or Integration?
 
 When discussing separation or integration it is important to understand the various models that exist for how to deal with race in societies. There are two main models, with the latter splitting into two more, totalling three models. The first is the "multinational" model, whereby cultural pluralism and distinct forms of governance are maintained (ex. Amerindians), and the second is the "polyethnic" model which has anti-discrimination laws and pluralism in private life (ex. immigrants to western countries), with "reasonable accommodation" for differences. The polyethnic model can then be split into process-oriented (ex. Canada for the most part) or outcome-oriented (ex. Singapore)<ref>Cooperation and Social Justice by Joseph Heath, Chapter 6</ref>.
