@@ -401,6 +401,10 @@ There are many corporate benefits from rent seeking and lobbying. Firms that spe
 
 Combating negative rent seeking will require incorporating private and public transparency, monitoring and enforcement. Public investment in government staff and resources may make them less dependent on corporate input related to increasingly large and technical legislative actions. Reorienting and resourcing federal antitrust actions may address rising corporate concentration. Increasing coalition advocacy can also assist with preventing rent-seeking behavior<ref>https://www.law.georgetown.edu/denny-center/blog/the-corporate-government-dynamic/</ref>.
 
+A long period of democratic rule and high per capita income are associated with less rent extraction among public policy-makers. Furthermore, a higher ratio of electorally accountable decision-makers to electorally unaccountable decision-makers, by altering voters’ evaluation of incumbent competency, changes the incentives that policy-makers who wish to remain in office have to minimize their short-term level of rent extraction in order to signal their competency and hopefully retain office. This means that countries with institutions which allow for more democratically accountable decision-makers have lower levels of rent extraction through constraining rent-seeking<ref>https://doi.org/10.1596%2F1813-9450-6305</ref>.
+
+Rent-seeking contributes significantly to American income inequality through lobbying for government policies that let the wealthy and powerful get income by grabbing a larger share of the wealth than they would have earned as a reward in a free market<ref>The Price of Inequality by Joseph Stiglitz</ref>.
+
 ## References
 
 <references />
