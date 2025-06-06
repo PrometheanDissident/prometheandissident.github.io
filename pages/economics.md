@@ -239,9 +239,11 @@ The effects of an expanded welfare state, usually measured in the form of social
 
 **EITC > Minimum Wage** The minimum wage is worse at affecting poverty compared to an earned income tax credit, because it does not target households in need as well and the EITC increases labor force participation and employment<ref>https://wol.iza.org/articles/minimum-wage-versus-earned-income-tax-credit-for-reducing-poverty</ref>.
 
-**The Universality Question** Universal benefits from an accounting perspective are effectively the same as means-tested benefits because they can always do a progressive income tax which has the same effect as a progressive means-tested income distribution program<ref>https://www.peoplespolicyproject.org/2022/11/11/universal-benefits-cost-less-than-means-tested-benefits/</ref>.
+<span style="background-color:orange">**The Universality Question** Universal benefits from an accounting perspective are effectively the same as means-tested benefits because they can always do a progressive income tax which has the same effect as a progressive means-tested income distribution program<ref>https://www.peoplespolicyproject.org/2022/11/11/universal-benefits-cost-less-than-means-tested-benefits/</ref>.</span>
 
 **Unified Analysis** The marginal value of public funds of various government policies is highest in direct investments on low-income children, including child health insurance expansions and college policies. These tend to pay for themselves. For policies targeting adults, they tend to involve budgetary tradeoffs as they cost the government on net. Expenditures on adults can have high MVPFs if they have spillover effects on children<ref>https://www.policyinsights.org/</ref>.
+
+Across OECD countries, public social spending is about 20% of GDP as of 2019, remaining about the same since 2010. Public spending significantly increased between 1960 and 1990 across countries, and then increased substantially between 1990 and 2010, albeit at a slower rate. This is because budgtary constraints led many countries to tighten eligibility criteria to access social support and/or curtail the real growth of payment rates and/or privatize social spending by increasing the responsibility of workers for supporting sick and disabled workers<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/11/social-spending-makes-up-20-of-oecd-gdp_4afe7b22/89e34d81-en.pdf</ref>.
 
 ## <span style="background-color:orange">Monetary/Fiscal Policy</span>
 
