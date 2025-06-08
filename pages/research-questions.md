@@ -40,8 +40,6 @@ permalink: /research-questions/
 * Community policing
 * Hypergamy
 * Unemployment insurance
-* Reparations
-* Top policies to maximize economic growth?
 * Structural adjustment programs
 * Georgism
 * Types of taxes (income, capital gains, sales, etc)
