@@ -28,14 +28,12 @@ permalink: /research-questions/
 * Most effective interventions to reduce homelessness
 * Effects of carbon tax
 * Carbon tax versus cap and trade
-* Effects of industrial policy
 * Economics of patents/copyright laws
 * Performance based funding in general
 * Defund the police
 * Police worn body cameras
 * Community policing
 * Hypergamy
-* Unemployment insurance
 * Structural adjustment programs
 * Types of taxes (income, capital gains, sales, etc)
 * Healthcare
