@@ -84,7 +84,15 @@ Worker cooperatives tend to succeed as small firms in which most jobs are the sa
 
 ## How Should Different Goods/Services be Allocated in General?
 
-## The Importance of Growth
+## The Importance of Economic Growth
+
+Many don't realize how important the level of economic growth is to the improvement of living standards. What they don't recognize is that unlike many other variables, such as inequality, growth doesn't simply change linearly but rather exponentially. Therefore, growth as a variable is incredibly important to the well-being of society.
+
+Exponential forms of growth are difficult for people to conceptualize, as we generally weren't required to engage in such calculations. For example, suppose we had a piece of paper that we could fold in half a theoretically infinite number of times. How many times would you have to fold the peice of paper for it to be so wide that it fits the difference between the earth and the moon. One might think this would require a person to fold the paper hundreds, thousands, or even millions of times. But no, it actually only requires one to fold the paper 42 times<ref>https://www.cleverlearning.co.uk/foldingPaper.php#:~:text=Incredibly%2C%2042%20folds%20would%20make,That's%20384%2C400km.</ref>!
+
+To tie this into economic growth, there is a general rule of thumb used to relate the growth rate of a variable with how long it takes to double in size, called the rule of 70. This rule says that the amount of time it takes for a variable to double in size is 70 divided by the growth rate. For example, if the growth rate is 1%, it would take 70 units of time, 2% would take 35, 3% would take about 23, 4% would take 17.5. Suppose we had two countries. Country A has an annual GDP growth rate of 1%, while country B has an annual GDP growth rate of 2%. In 70 years, country A's GDP would be double what it is now, but country B's GDP would have doubled twice, meaning that a simple 1 percentage point increase in the GDP growth rate caused country B to become four times wealthier than country A in less than a century. Now suppose we add a third country, country C with a GDP growth rate of 4%. This country's economy would double in size every 17.5 years, and with exponential growth this would mean that by year 70, its GDP would be 16 times larger than that of country A. Even tiny increases in the growth rate of a country's economy can have drastic effects on its quality of life in the long run. But if growth is so important, how can we achieve it?
+
+As shown in the previous sections, a centrally planned economy fails to deliver economic growth, while relatively freer markets tend to. But this doesn't explain how growth can be maximized _within_ a capitalist economy, only that capitalism is the paradigm within which we can maximize growth.
 
 ### Maximizing Innovation and Technology
 
