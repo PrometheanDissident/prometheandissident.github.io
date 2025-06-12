@@ -96,7 +96,7 @@ An article by Cremieux Recueil illustrates the importance of this in practice<re
 
 <img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6d871e7-a8c9-4124-9466-1000c5268c3d_3900x3600.png" alt="Rich Country, Poor Country" width="500">
 
-But if growth is so important, how can we achieve it? As shown in the previous sections, a centrally planned economy fails to deliver economic growth, while relatively freer markets tend to. But this doesn't explain how growth can be maximized _within_ a capitalist economy, only that capitalism is the paradigm within which we can maximize growth.
+But if growth is so important, how can we achieve it? As shown in the previous sections, a centrally planned economy fails to deliver economic growth, while relatively freer markets tend to. But this doesn't explain how growth can be maximized _within_ a capitalist economy, only that capitalism is the best paradigm within which we can maximize growth. Accumulation of capital and labor, while important to economic growth, can only increase linearly, and often struggle to generate increasing returns to scale on their own. Therefore, they cannot by themselves achieve high levels of economic growth. Rather, as history has consistently shown, and research has empirically demonstrated, technological progress is the main driver of long-run growth<ref>https://www.stlouisfed.org/on-the-economy/2015/june/what-drives-long-run-economic-growth</ref>. Therefore, the most important political instruments to maximizing economic growth in the long-run are those which maximize innovation and technology.
 
 ### Maximizing Innovation and Technology
 
