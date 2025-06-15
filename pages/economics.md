@@ -399,7 +399,25 @@ While there is publication bias in the literature, even correcting for publicati
 
 **Reducing wait times is important**
 
-Longer healthcare wait times are associated with greater risk of mortality<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955366/</ref><ref>https://www.fraserinstitute.org/sites/default/files/effect-of-wait-times-on-mortality-in-canada.pdf</ref><ref>https://jamanetwork.com/journals/jama/fullarticle/2664460</ref>.
+- Longer healthcare wait times are associated with greater risk of mortality<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955366/</ref><ref>https://www.fraserinstitute.org/sites/default/files/effect-of-wait-times-on-mortality-in-canada.pdf</ref><ref>https://jamanetwork.com/journals/jama/fullarticle/2664460</ref>.
+
+**Singapore's Healthcare**
+
+A Ipsos 2023 survey found that 63% of Singapore residents rated their quality of healthcare as "good" or "very good", above countries like Canada, the United States, the UK, Sweden, and many others. The only countries it was below were Malaysia and Australia. However, 81% of Singaporeans said they were "fairly satisfied" or "very satisfied" with the government's healthcare policies, more than any other country surveyed<ref>https://www.ipsos.com/sites/default/files/ct/news/documents/2023-07/ipsos-global-perceptions-of-healthcare-2023.pdf#:~:text=satisfied%20with%20their%20government%E2%80%99s%20policies,most%20likely%20to%20be%20dissatisfied</ref>, suggesting that Singaporeans are more satisfied with their healthcare system than residents of any other country in the world are of theirs.
+
+In per capita terms and as a percentage of GDP, Singapore's healthcare expenditures are the lowest of all the high-income countries in the world<ref>https://www.brookings.edu/wp-content/uploads/2016/07/affordableexcellence_chapter.pdf#:~:text=Singapore%20has%20achieved%20extraordinary%20results,income%20countries%20in%20the%20world</ref>.
+
+Singapore's healthcare system can be summarized in the 3 M's<ref>https://www.commonwealthfund.org/international-health-policy-center/countries/singapore#:~:text=Hospital%20Inpatient%20Care</ref>:
+
+- Medishield Life is a mandatory universal basic healthcare insurance which provides lifelong protection against large hospital bills.
+- Medisave is a national medical earnings scheme which helps cover out-of-pocket payments. Personal and employer salary contributions are mandatory for all working citizens and permanant residents. These tax-exempt, interest-bearing accounts can be used to pay for family members healthcare.
+- MediFund is the government's safety net for needy Singaporeans who cannot cover their out-of-pocket expenses, even with medisave.
+
+Singapore's healthcare system is underpinned by the belief that all stakeholders have responsibility for attaining sustainable universal health coverage. The government relies on competition and market forces to improve service and raise efficiency but intervenes directly when the market fails to keep health care costs down. The government provides various subsidies to keep healthcare affordable in the country<ref>https://www.commonwealthfund.org/international-health-policy-center/countries/singapore#:~:text=Hospital%20Inpatient%20Care</ref>.
+
+In 2016, total health expenditures represented 4.47 percent of Singapore’s GDP, with nearly 41 percent financed through public sources<ref>https://www.commonwealthfund.org/sites/default/files/2020-12/2020_IntlOverview_SING.pdf#:~:text=December%202020%20Singapore%20has%20achieved,not%20cover%20primary%20care%20or</ref>.
+
+Researchers using a Healthcare Access and Quality Index found that Singapore ranked at 86.2 overall, which was lower than a number of high-income countries including Canada, Australia, Ireland, Italy, Luxembourg, Netherlands, Norway, Spain, Sweden, and Switzerland, but was higher than New Zealand, the UK, and the USA<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC9666426/#cesec110</ref>.
 
 ## <span style="background-color:orange">Inheritance Taxation</span>
 
