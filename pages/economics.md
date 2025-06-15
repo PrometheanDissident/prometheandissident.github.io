@@ -466,6 +466,20 @@ A long period of democratic rule and high per capita income are associated with 
 
 Rent-seeking contributes significantly to American income inequality through lobbying for government policies that let the wealthy and powerful get income by grabbing a larger share of the wealth than they would have earned as a reward in a free market<ref>The Price of Inequality by Joseph Stiglitz</ref>.
 
+## Unemployment Insurance
+
+Ony study found a fiscal multiplier effect of 1.92 for unemployment insurance (UI) benefit extensions, similar to estimates for other types of spending, pointing to strong demand-side effects<ref>https://www.imf.org/en/Publications/WP/Issues/2021/03/12/Supply-and-Demand-Effects-of-Unemployment-Insurance-Benefit-Extensions-Evidence-from-U-S-50112#:~:text=transfers,for%20other%20types%20of%20spending</ref>. Another study found a multiplier of 2.15<ref>https://www.nelp.org/app/uploads/2015/03/UI-Benefits-Workers-Employers-and-the-Struggling-Economy.pdf#:~:text=15,the%20recession%20of%20the%201980s</ref>. Another estimate puts it as 1.9<ref>https://www.hbs.edu/ris/Publication%20Files/17-009_e68959ed-8e3d-4e06-95d1-3985f4e73ebb.pdf#:~:text=We%20assess%20the%20extent%20to,Consistent%20with%20a%20local</ref>.
+
+Over the past 5 recessions as of 1999 in the USA, UI greatly reduced the negative impact. UI saved an average of 131,000 jobs in each downturn and quelled the drop in GDP by 15%. During the last recession (as of 2002), UI prevented tens of thousands of workers from falling into poverty. Without regular and extended UI benefits, over 70% of UI recipients would have fallen into poverty, compared to the 40% who experienced poverty after exhausting their regular UI benefits UI maintains worker’s earnings after unemployment, as it enables workers to find jobs that match their previous skills and earnings. Thus, it leads to a substantially higher re-employment wage<ref>https://www.nelp.org/app/uploads/2015/03/UI-Benefits-Workers-Employers-and-the-Struggling-Economy.pdf#:~:text=15,the%20recession%20of%20the%201980s</ref>.
+
+Unemployment benefits alone absorb 19% of unemployment shocks in Europe and 7% in the US<ref>https://cepr.org/voxeu/columns/automatic-stabilisers-and-economic-crisis-europe-and-us#:~:text=1%29,considered%20to%20be%20drastically%20higher</ref>. This suggests that generous unemployment insurance in Europe in particular plays a key role in the stabilization of disposable incomes.
+
+A meta-analysis examining the link between unemployment insurance and unemployment found that the optimal replacement rate of UI is 28% in the US<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929511#:~:text=We%20systematically%20review%20studies%20of,equal%20to%20the%20%E2%80%9Cmacro%E2%80%9D%20elasticity</ref>.
+
+A Polish natural experiment found that increasing benefit levels or benefit durations by 10% both lead to a 3% increase in unemployment duration. As extending benefit durations has a larger impact on total benefits paid, this comes with a higher direct cost for taxpayers. Tracking workers over five years after their initial unemployment spell, they found no evidence that workers benefit from more stable job matches as there was no decreased unemployment probability over the five-year horizon. A 10% increase in potential benefit duration increases unemployment inflow by 1.2%, while a 10% icnrease in benefit level increases unemployment inflow by 13-16%<ref>https://cepr.org/voxeu/columns/rethinking-unemployment-insurance-new-evidence-hidden-costs#:~:text=Leveraging%20the%20policy%20variations%20in,higher%20direct%20cost%20for%20taxpayers</ref>.
+
+A study utilizing RDD in Austria found a positive UI wage effect through improving reemployment firm quality and attenuating wage drops<ref>https://www.aeaweb.org/articles?id=10.1257/aer.20150528#:~:text=UI%20raises%20wages%20by%20improving,quality%20and%20attenuating%20wage%20drops</ref>.
+
 ## References
 
 <references />
