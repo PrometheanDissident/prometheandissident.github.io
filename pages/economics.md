@@ -480,6 +480,28 @@ A Polish natural experiment found that increasing benefit levels or benefit dura
 
 A study utilizing RDD in Austria found a positive UI wage effect through improving reemployment firm quality and attenuating wage drops<ref>https://www.aeaweb.org/articles?id=10.1257/aer.20150528#:~:text=UI%20raises%20wages%20by%20improving,quality%20and%20attenuating%20wage%20drops</ref>.
 
+## Land Value Tax
+
+Many Pacific Rim Asian countries had substantial land value taxation, including Singapore and Hong Kong<ref>https://blog.p2pfoundation.net/successfull-examples-of-land-value-tax-reforms/2011/02/05#:~:text=success%20stories%20began%20on%20a,and%20the%20freest%20for%20residents</ref>.
+
+There are many pros of a land value tax<ref>https://blog.p2pfoundation.net/successfull-examples-of-land-value-tax-reforms/2011/02/05#:~:text=success%20stories%20began%20on%20a,and%20the%20freest%20for%20residents</ref>:
+
+- It eliminates the need for income and sales taxes
+- It only taxes what no person can claim an exclusive right to
+- It can also eliminate property taxes
+- It puts people to work and allows them to escape poverty as it gives individuals and businesses more access to land and the opportunity to do business
+- It reduces tax evasion
+- It eliminates the tax collection bureaucracy
+- It eliminates land speculation as the market rental value of the land is paid as tax annually whether the land is sitting idle or in productive use.
+
+The top 1% of wealthiest U.S. citizens own 14.7% of all real estate value. The top 10% own 44.8%, and the top 50% own 88.5%<ref>https://www.economicpossibility.org/insights/the-top-1-of-wealthiest-u-s-citizens-own-14-7-of-all-real-estate-value-the-top-10</ref>.
+
+A land value tax is a recurrent tax on landowners based on the value of unimproved land. There is a widely held view that a land value tax is an economically efficient means of taxing wealth and of encouraging land development. Reasons for why it isn't implemented include the need for a comprehensive up-to-date land registry and forward planning of land use at plot level; the provision of a well-resourced and informed valuation profession; resources to undertake robust valuations which separate the value of land from the value of improvements for developed plots and do so on the basis of highest and best use; and the need for widespread political support for the introduction of a new tax. Furthermore, across countries including South Africa, Estonia, Australia, Denmark, New Zealand, and Namibia, there is no strong evidence that LVT was an effective tool for bringing land forward for development, undermining its rationale. Furthermore, there is technical difficulty, although not insurmountable, that is involved when figuring out how to value unimproved land<ref>https://www.economicpossibility.org/sources/implementing-a-land-value-tax-considerations-on-moving-from-theory-to-practice</ref>.
+
+Britain in the early 1900s experimented with an LTV but it failed as administrative complexity derailed the effective implementation of the policy. Administration costs for valuing and taxing land were significant and the country ended up doing away with it<ref>https://marginalrevolution.com/marginalrevolution/2025/03/the-failure-of-the-land-value-tax.html#:~:text=,for%20modern%20Georgist%20sympathizers%20who</ref>.
+
+The reason why LVT is not taken up appears to primarily due to administrative costs. Measuring the value of land requires strong land valuation practices, teams of assessors, and high-quality data, although improvements in statistical methods are making valuation easier. Where applied, land value taxes generally promote building activity, reduce land speculation, and provide municipalities with an efficient source of funding for public services. Econometric models predict that replacing some portion of existing taxes with land value taxation would increase GDP. LVTs incentivize compact building growth. Depending on context, however land value taxation may not always be a good tool for encouraging development of vacant land. Land value taxation may in some cases be undesirable as it can promote overdevelopment. According to both theory and real-world evidence, landlords would not be able to pass the tax burden of higher LVTs onto tenants in the form of higher rents. LVTs were originally proposed as a “single tax” at a rate of nearly 100% of land value. In practice, however, the high end of rates in recent LVT implementations have only reached 39.6%<ref>https://www.economicpossibility.org/reports/land-value-tax</ref>.
+
 ## References
 
 <references />
