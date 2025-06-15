@@ -12,6 +12,22 @@ permalink: /academia/
 
 **Basic Education is Economically Good:** Literacy and numeracy have substantial economic value. More years in education alone does not improve this economic value, but it must be combined with a rigorous evaluation and curriculum<ref>https://wol.iza.org/articles/what-is-economic-value-of-literacy-and-numeracy</ref>.
 
+RDD shows that university admission yields earnings gains of 22% between 8 and 14 years after HS completion, which outstrip the costs of college attendance<ref>https://econpapers.repec.org/article/ucpjlabec/doi_3a10.1086_2f676661.htm#:~:text=the%20returns%20to%20college%20admission,lunch%20recipients</ref>.
+
+Educational returns for tertiary education have declined over time, although the gap between the educated and less educated has remained similar in most countries. This means that for younger cohorts, tertiary education has become more necessary to survive in the labor market, but the actual economic returns have decreased making tertiary education less sufficient than before<ref>https://link.springer.com/article/10.1007/s10734-018-0353-z#:~:text=we%20analyze%20trends%20over%20three,education%20less%20sufficient%20than%20before</ref>.
+
+From 1997 to 2019, the graduate premium has declined by as much as 20% in some regions, with a country-wide decrease of 10%. On top of a declining premium, graduates are increasingly underemployed. One third of non-recent graduates (those who graduated more than five years ago) are employed in non-graduate roles. This trend is set to worsen, with graduates born in the last two decades considerably more likely to be overeducated relative to their employment<ref>https://www.if.org.uk/2024/01/17/the-state-of-the-graduate-premium/#:~:text=Over%20time%20a%20worrying%20downward,for%20the%201990%20cohort</ref>.
+
+About 40 percent of recent college graduates are “underemployed,” often for a long time. In the mid-1970s, far less than 1 percent of taxi drivers were college graduates; by 2010 more than 15 percent were<ref>https://opportunityamericaonline.org/wp-content/uploads/2017/06/THE-DIMINISHING-RETURNS-OF-A-COLLEGE-DEGREE.pdf#:~:text=not%20be%20better%20for%20more,jobs%20that%20pay%20much%20better</ref>.
+
+Over the period 1995-1998 Italy experienced an expansion of its higher education supply with the aim of reducing regional differences in educational attainment. Findings suggest that enrollment rose as well as the probability of being retained in the university system. The decline in passed exams, especially experienced in Southern regions, casts doubt on the policy effectiveness in reducing regional disparities<ref>https://eric.ed.gov/?id=EJ936139#:~:text=This%20paper%20evaluates%20the%20effects,7%20tables%20and%202%20figures</ref>.
+
+A percentage point increase in the supply of college graduates raises high school dropouts wages by 1.9%, high school graduates' wages by 1.6%, and college graduates wages by 0.4%. This suggests spillovers and supply-demand pressures exist in labor markets<ref>https://eml.berkeley.edu/~moretti/socret.pdf#:~:text=college,supply%20of%20college%20graduates%20increases</ref>.
+
+Increases in the number of universities are positively associated with future GDP per capita, a relationship that is robust to a host of observables and unobserved regional trends. More specifically, doubling the number of universities per capita is associated with 4% higher future GDP per capita. Furthermore, there are positive spillover effects from universities to grographically close regions due to an increased supply of human capital and higher innovation<ref>https://www.nber.org/papers/w22501#:~:text=We%20develop%20a%20new%20dataset,spillover%20effects%20from%20universities%20to</ref>.
+
+In the United States, research has shown that some investments in university education have substantial positive growth effects<ref>https://web.archive.org/web/20160705042552/https://www.brookings.edu/economics/bpea/~/media/Files/Programs/ES/BPEA/2009_spring_bpea_papers/2009_spring_bpea_aghion_etal.pdf</ref>.
+
 ### <span style="background-color:orange">Effects of Schooling</span>
 
 - **Crime: Reduced -** Improved schooling reduces crime rates. The causal link does not appear to be the reverse, as this was researched using randomized treatment, thus in effect acting as an experiment<ref>https://dash.harvard.edu/bitstream/handle/1/12308135/Deming_BSLC_QJE.pdf?sequence=1</ref>.
