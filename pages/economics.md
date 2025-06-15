@@ -154,6 +154,15 @@ Causes of Income Inequality:
 
 - **Regulation -** Research suggests that a 10% increase in federal regulation is associated with an approximate 0.5 percent increase in income inequality as measured by the Gini coefficient<ref>https://www.mercatus.org/system/files/chambers-regulation-inequality-mercatus-working-paper-v1.pdf</ref>.
 
+
+As of 2020, in OECD countries income inequality is at its peak for the last 50 years. The richest 10% of the population in the income distribution possess about 50% of the entire wealth, while the bottom 40% hold just 3% of the total wealth<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC9340753/#:~:text=Income%20inequality%20in%20many%20OECD,of%20the</ref>. Inequality as measured by the Gini coefficient rose in OECD countries from 0.29 in the 1980s to 0.316 in 2015. Furthermore, the average top tax rates in member nations declined from 66% in 1981 to 41% in 2008<ref>https://www.weforum.org/stories/2015/02/how-inequality-became-a-global-problem/#:~:text=inequality%20has%20grown%20within%20nations,in%20those%20years%2C%20reaching%2020</ref>.
+
+Research on inequality suggests that both globalization and skill-biased technological change increase it<ref>https://iseak.eu/wp-content/uploads/2023/01/the-rise-of-income-inequality-in-oecd-countries-2023-01-18.pdf#:~:text=technological%20change%20has%20been%20the,1998%3B%20Autor%20et%20al%2C%201998</ref>.
+
+Trade liberalization between an industrialized country and a developing country leads to large inequality in the industrialized country in both the short-run and the long-run. In the short run, inequality is mainly driven by intersectoral wage inequality that arises due to the slow allocation of workers across industries. In the long run, inequality is driven by an increase in the skill premiums as specialization in the skill-intensive sector raises the demand for skilled workers. Taxes and transfers will  be effective in dealing with this in the short-run, but in the long run the most suitable instrument to fight inequality is a subsidy for training instruments, which reduces the skill premium by increasing the supply of skilled workers<ref>https://www.intereconomics.eu/contents/year/2015/number/6/article/trade-with-china-inequality-and-policy-responses.html#:~:text=The%20integration%20of%20China%E2%80%99s%20huge,the%20increased%20demand%20for</ref>.
+
+Income inequality has increased in most OECD countries over the past two decades, both because incomes before taxes and transfers have become more unequal, and because the extent of redistribution through taxes and transfers has fallen<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/02/income-redistribution-across-oecd-countries_f2d12a2b/3b63e61c-en.pdf#:~:text=Since%20the%20mid,crisis%20period%20and%20was</ref>.
+
 ## <span style="background-color:yellow">Minimum Wage</span>
 
 Minimum wage in developed countries of about 60% of the local median income has a net positive effect. It does have many limitations however and does not suffice as an efficient anti-poverty tool.
