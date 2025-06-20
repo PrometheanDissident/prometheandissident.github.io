@@ -18,6 +18,14 @@ permalink: /research-questions/
 * Euthanasia
 * GMOs
 * Peak of laffer curve?
+* Gold standard?
+* Effects of academia on society
+* No fault divorce
+* Min voting age
+* Elitist forms of democracy
+* Ideological turing test
+* Sex and culture book
+
 
 
 
