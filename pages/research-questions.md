@@ -25,7 +25,8 @@ permalink: /research-questions/
 * Elitist forms of democracy
 * Ideological turing test
 * Sex and culture book
-
+* Can Material desires ever be fully satiated in people
+* Psychology of conspiracism
 
 
 
