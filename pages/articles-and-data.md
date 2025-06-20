@@ -53,6 +53,11 @@ permalink: /articles-and-data/
 * [https://www.unz.com/wp-content/uploads/2020/10/ErectusWalksAmongstUs-Unz.pdf Erectus Walks Amongst Us: The evolution of modern humans]
 * [https://leeconomics.com/Literature/Henry%20Hazlitt%20Economics%20in%20One%20Lesson.pdf Economics in One Lesson]
 * [https://archive.org/details/pdfy-VLw_XW3rMqu7yygj/mode/1up Sex Differences: Summarizing More Than a Century of Scientific Research]
+* The Machiavellians Defenders of Freedom James Burnham
+* Paul Gottfried Multiculturalism and the Politics of Guilt
+* Lawrence H Keeley's War Before Civilization
+* The Moral Basis of a Backward Society Edward Banfield
+
 
 ## Articles
 
