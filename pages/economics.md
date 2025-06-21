@@ -517,6 +517,16 @@ The EU Artificial Intelligence Act, implemented in 2024, classifies and regulate
 
 Due to disparities in the data available for AI systems that each group has collected, AI can exhibit certain biases in its capacity to make judgments. For example, automated speech recognition systems, due to being trained on fewer African American voices, are less effective in converting their spoken language to text compared to white voices<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC7149386/</ref>. Similar issues appear to occur with job hiring AI systems when they are trained on data that mostly accepts male job applicants<ref>https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/</ref>. This type of thing can be particularly dangerous in certain medical contexts. For example, and AI-driven pulse oximeter was found to overestimate blood oxygen levels in patients with darker skin, resulting in undertreatment of their hypoxia<ref>https://gh.bmj.com/content/8/5/e010435</ref>.
 
+## Marxism
+
+Joseph Heath points to a number of drivers explaining why Marxism declined in academic discourse<ref>https://josephheath.substack.com/p/key-stages-in-the-decline-of-academic</ref>:
+
+- The labor theory of value was undermined because it ignored the influence of demand in determining prices, what was an important contribution that marginalist analysis made and was neglected in classical theory.
+- The theory of crises that Marx had did not meaningfully explain when and why crises occurred. Keynes showed that the shortfall in demand observable during a recession was not caused by overproduction, but by a shortage of money, and was a problem of adjustment as opposed to contradictions. Marx couldn't explain basic facts of recessions such as that they were generally preceded by banking crises.
+- Historical materialism couldn't anticipate or puersuasively explain the rise of nationalism in the 20th century.
+- The notion of post-scarcity conditions was undermined by Veblen who pointed out that general satiation is impossible because much of our material consumption is instrumental to the attainment of outcomes that are zero-sum at the population level.
+- Socialist calculation debate undermined alternatives to capitalism.
+
 ## References
 
 <references />
