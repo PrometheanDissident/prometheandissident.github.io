@@ -515,7 +515,7 @@ The EU Artificial Intelligence Act, implemented in 2024, classifies and regulate
 - Inferring emotions in workplaces or educational institutions
 - 'Real time' remote biometric identification in publicly accessible places for law enforcement, with few exceptions
 
-Due to disparities in the data available for AI systems that each group has collected, AI can exhibit certain biases in its capacity to make judgments. For example, automated speech recognition systems, due to being trained on fewer African American voices, are less effective in converting their spoken language to text compared to white voices<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC7149386/</ref>.
+Due to disparities in the data available for AI systems that each group has collected, AI can exhibit certain biases in its capacity to make judgments. For example, automated speech recognition systems, due to being trained on fewer African American voices, are less effective in converting their spoken language to text compared to white voices<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC7149386/</ref>. Similar issues appear to occur with job hiring AI systems when they are trained on data that mostly accepts male job applicants<ref>https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/</ref>. This type of thing can be particularly dangerous in certain medical contexts. For example, and AI-driven pulse oximeter was found to overestimate blood oxygen levels in patients with darker skin, resulting in undertreatment of their hypoxia<ref>https://gh.bmj.com/content/8/5/e010435</ref>.
 
 ## References
 
