@@ -502,6 +502,21 @@ Britain in the early 1900s experimented with an LTV but it failed as administrat
 
 The reason why LVT is not taken up appears to primarily due to administrative costs. Measuring the value of land requires strong land valuation practices, teams of assessors, and high-quality data, although improvements in statistical methods are making valuation easier. Where applied, land value taxes generally promote building activity, reduce land speculation, and provide municipalities with an efficient source of funding for public services. Econometric models predict that replacing some portion of existing taxes with land value taxation would increase GDP. LVTs incentivize compact building growth. Depending on context, however land value taxation may not always be a good tool for encouraging development of vacant land. Land value taxation may in some cases be undesirable as it can promote overdevelopment. According to both theory and real-world evidence, landlords would not be able to pass the tax burden of higher LVTs onto tenants in the form of higher rents. LVTs were originally proposed as a “single tax” at a rate of nearly 100% of land value. In practice, however, the high end of rates in recent LVT implementations have only reached 39.6%<ref>https://www.economicpossibility.org/reports/land-value-tax</ref>.
 
+## Artificial Intelligence
+
+The EU Artificial Intelligence Act, implemented in 2024, classifies and regulates AI systems. Unacceptable risk is prohibited, high-risk AI is regulated, limited risk AI is subject to lighter transparency obligations, and minimal risk is unregulated. Prohibited AI systems include<ref>https://artificialintelligenceact.eu/high-level-summary/</ref>:
+
+- Deploying deceptive techniques to manipulate behavior
+- Exploiting vulnerabilities related to age, disability, or socioeconomic circumstances to distort behavior, causing harm
+- Biometric categorization systems inferring demographic attributes, with few exceptions
+- Social scoring
+- Assessing risk of individual committing criminal offenses
+- Compiling facial recognition databases
+- Inferring emotions in workplaces or educational institutions
+- 'Real time' remote biometric identification in publicly accessible places for law enforcement, with few exceptions
+
+Due to disparities in the data available for AI systems that each group has collected, AI can exhibit certain biases in its capacity to make judgments. For example, automated speech recognition systems, due to being trained on fewer African American voices, are less effective in converting their spoken language to text compared to white voices<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC7149386/</ref>.
+
 ## References
 
 <references />
