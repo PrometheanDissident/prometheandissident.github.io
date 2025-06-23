@@ -75,6 +75,10 @@ Across a variety of fields, students lose a large percentage of the knowledge th
 
 **Higher tuition colleges tend to be better** Attending a relatively high tuition college has a net positive influence on educational attainment, occupational status, and income. This remained significant even after controlling for student background characteristics such as socioeconomic origins, secondary school achievement, and educational and occupational aspirations. It still remained significant after controlling for academic selectivity and private/public control<ref>https://www.researchgate.net/profile/Mark-Smylie/publication/226126111_College_Tuition_Costs_and_Early_Career_Socioeconomic_Achievement_Do_You_Get_What_You_Pay_For/links/55b21bd608aed621ddfd840d/College-Tuition-Costs-and-Early-Career-Socioeconomic-Achievement-Do-You-Get-What-You-Pay-For.pdf</ref>.
 
+### Misc
+
+A study injected 100% AI written submissions into the examinations system in five undergraduate modules for a BsC degree in Psychology at a reputable UK university for all years. 94% of AI submissions were undetected, and the grades awarded to AI submissions were on average half a grade boundary higher than that achieved by real students. Across modules, there was an 83.4% chance that an AI paper would outperform a real student submission<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305354</ref>.
+
 ## <span style="background-color:lightcoral">Bad Academia</span>
 
 ### <span style="background-color:orange">Peer Review and Publication Bias</span>
