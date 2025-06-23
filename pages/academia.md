@@ -144,6 +144,8 @@ Among university students in American universities, there is a consistent asymme
 
 <img src="https://content.heterodoxacademy.org/cdn-cgi/image/w=1200,h=1182,q=60,f=auto,dpr=2.5,g=0.5x0.5,fit=cover/uploads/Picture2_2023-11-30-014528_wshc.png" alt="Censorship" width="500">
 
+Only 8% of students at Top 20 American universities and 14% of lower-ranked universities are more tolerant of conservative speakers than liberal speakers<ref>https://themissingdatadepot.substack.com/p/ideology-and-intolerance-at-americas</ref>. Interestingly, students are much more intolerant of speakers than faculty are.
+
 The size of a DEI bureaucracy in a university is not related to students' level of tolerance for a liberal speaker, but it is negatively related to tolerance for a conservative speaker. Furthermore, larger DEI bureaucracies are associated with higher levels of support for shouting down a speaker to prevent them from speaking, blocking other students from attending a campus speech, and using violence to stop a campus speech. This suggests that DEI bureaucracies may contribute to a culture of censorship<ref>https://heterodoxacademy.org/blog/is-dei-causing-the-crisis-of-free-speech-on-campus/</ref>. Larger DEI bureaucracies are also associated with lower student comfort with expression outside of classrooms and a greater perceived difficulty to have open and honest conversations<ref>https://themissingdatadepot.substack.com/p/is-dei-destroying-free-speech-on</ref>.
 
 ## <span style="background-color:orange">Scientific Distrust</span>
