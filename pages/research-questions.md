@@ -4,13 +4,8 @@ title: Research Questions
 permalink: /research-questions/
 ---
 
-**Domain-Specific**
-
 * Fossil Fuel Subsidies in Canada
 * Equalization payments
-
-**Short Topics/Need to Look at More to Assess**
-
 * Psychological results of children in adoption homes
 * Microcredit
 * Food deserts
@@ -27,11 +22,8 @@ permalink: /research-questions/
 * Sex and culture book
 * Can Material desires ever be fully satiated in people
 * Psychology of conspiracism
-
-
-
-
-
-
-
-
+* Positivism Dispute
+* Handbook of Political Fallacies by Bentham
+* Authoritarian personality
+* Psychology/economics of "buying local"
+* The 48 Laws of Power
