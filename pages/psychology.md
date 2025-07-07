@@ -212,6 +212,16 @@ Misc biorealism factoids:
 
 Journalists generally prefer parties with more left-wing positions<ref>https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media</ref>.
 
+## Cancel Culture
+
+The term "cancel culture" has its political roots on black Twitter, where it referred to attempts to use it to call out behavior deemed racist or offensive and put it on blast into the news. Since then, the term has expanded and has no universally agreed upon definition. In identifying how individuals define cancel culture, research has revealed ten themes that are most commonly mentioned. They are overblown disagreement, financial consequences, withdrawing support, job and visibility loss, mob punishment, rewriting history, accountability, freedom of speech, silencing opposition, and social media call out. Republicans appear to be less supportive of cancelling than democrats<ref>https://journals.sagepub.com/doi/10.1177/10659129241261374</ref>.
+
+Cancel culture, through disempowering opposition, can feel collectively empowering and validating for the group feeling targeted by the individual being cancelled<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC10399695/#abstract1</ref>.
+
+Contrary to the estimates of Americans, only a minority of individuals actually engage in sanctioning behaviors often defined under the umbrella of "cancel culture". While some claim that cancelling behavior is primarily driven by personal dislike of individuals, particularly members of the other party, rather than principled disagreements, Americans tend to sanction statements that offend their ideology regardless of who says them. When presented with comparable scenarios, Democrats and Republicans appear to cancel others at similar rates. The real-world difference where Democrats cancel more may be due to them being exposed to more "cancellable" statements<ref>https://ubwp.buffalo.edu/jopblog/2025/04/01/unraveling-a-cancel-culture-dynamic-when-why-and-which-americans-sanction-offensive-speech/</ref>.
+
+About 40% of Americans report keeping quiet and holding back their true beliefs for fear of reprisal, significantly higher than during McCarthyism when only 13% of Americans reported censorship. Nearly one in four Americans are afraid to state certain opinions for fear of losing their jobs or standings in school<ref>https://americansforprosperity.org/blog/cancel-culture-fire-survey-results/</ref>.
+
 ## References
 
 <references />
