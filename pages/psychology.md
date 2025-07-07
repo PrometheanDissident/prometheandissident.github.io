@@ -222,6 +222,10 @@ Contrary to the estimates of Americans, only a minority of individuals actually 
 
 About 40% of Americans report keeping quiet and holding back their true beliefs for fear of reprisal, significantly higher than during McCarthyism when only 13% of Americans reported censorship. Nearly one in four Americans are afraid to state certain opinions for fear of losing their jobs or standings in school<ref>https://americansforprosperity.org/blog/cancel-culture-fire-survey-results/</ref>.
 
+Cancel culture can constitute a means of norm enforcement, particularly when other forms of enforcement such as legal ones are absent or unapplicable.
+
+However, the extremeness of the punishment means that there's few behaviors which should probably be considered cancellable which wouldn't be addressed through some other means, such as legally or otherwise.
+
 ## References
 
 <references />
