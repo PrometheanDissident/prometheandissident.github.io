@@ -63,6 +63,18 @@ permalink: /articles-and-data/
 * Proudhon La Pornocratie
 * Bryan Caplan The Myth of the Rational Voter
 * Civil disobedience essay by Henry David Thoreau
+* In the Know: Debunking 35 Myths About Human Intelligence (2020)
+* Economic Facts and Fallacies (2011), by Thomas Sowell
+* Intellectuals and Society (2008), by Thomas Sowell
+* More Guns, Less Crime: Understanding Crime and Gun-Control Laws, Third Edition (2010)
+* The Rhythm of the West: A Biohistory of the Modern Era (2017) by Michael Woodley et al
+* Sick Societies: Challenging the Myth of Primitive Harmony by Robert Edgerton
+* The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous
+* Expert Political Judgement: How Good is it? How Can We Know? (2004)
+* Tetlock’s 2015 book Superforcasters
+* Brainwashed: The Seductive Appeal of Mindless Neuroscience (2013)
+* The Progressive Era (2017), by Murray Rothbard
+* The Economic Laws of Scientific Research (1996), by Terence Kealey
 
 
 ## Articles
