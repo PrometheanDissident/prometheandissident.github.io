@@ -57,6 +57,12 @@ permalink: /articles-and-data/
 * Paul Gottfried Multiculturalism and the Politics of Guilt
 * Lawrence H Keeley's War Before Civilization
 * The Moral Basis of a Backward Society Edward Banfield
+* The Poverty of Historicism by Karl Popper
+* Lyotard the differend
+* Pareto The Mind and Society
+* Proudhon La Pornocratie
+* Bryan Caplan The Myth of the Rational Voter
+* Civil disobedience essay by Henry David Thoreau
 
 
 ## Articles
