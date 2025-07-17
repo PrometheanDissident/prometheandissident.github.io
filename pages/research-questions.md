@@ -27,3 +27,7 @@ permalink: /research-questions/
 * Authoritarian personality
 * Psychology/economics of "buying local"
 * The 48 Laws of Power
+* Planned obsolescence
+* Positivist churches
+* Neuroplasticity
+
