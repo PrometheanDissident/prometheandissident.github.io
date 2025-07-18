@@ -33,3 +33,4 @@ permalink: /research-questions/
 * Mertons four norms of science
 * Did ubersoy get his idea of vertical and horizontal progress from somewhere else?
 * Could technological lock in apply with leftist beliefs?
+* Right-wing authoritarianism
