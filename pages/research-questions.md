@@ -34,3 +34,4 @@ permalink: /research-questions/
 * Did ubersoy get his idea of vertical and horizontal progress from somewhere else?
 * Could technological lock in apply with leftist beliefs?
 * Right-wing authoritarianism
+* Intergeneration trauma: Is it a real thing? Does it affect indigenous population and to what degree toes it do so?
