@@ -36,3 +36,5 @@ permalink: /research-questions/
 * Right-wing authoritarianism
 * Intergeneration trauma: Is it a real thing? Does it affect indigenous population and to what degree toes it do so?
 * Rape culture
+* Direct instruction
+* Phonics vs whole word approach
