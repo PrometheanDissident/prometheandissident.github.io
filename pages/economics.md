@@ -333,6 +333,10 @@ Immigration often comes with a tradeoff between positive economic effects and (t
 
 **Note on effects of immigration enforcement: It works, but undoes the positive economic effects of immigration.** Regulations on immigration in general have a significant effect on immigration flows, suggesting that states are able to control their borders<ref>https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12279</ref>. Enforcement of immigration, whether it be on the border or interior of a country, reduces the probability that an individual will decide to illegally migrate<ref>https://wol.iza.org/articles/enforcement-and-illegal-migration</ref>. However, immigration enforcement is costly to the government, decreases the labor force, reduces real GDP, and has no meaningful effects on crime<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/680935?journalCode=jle</ref><ref>https://www.americanactionforum.org/research/the-budgetary-and-economic-costs-of-addressing-unauthorized-immigration-alt/</ref>.
 
+**Assimilation**
+
+Among immigrants, there is a racially-differentiated pattern of earnings assimilation where black and Hispanic immigrants are less able to catch up with native whites' earnings compared to white and Asian immigrants, but are able to almost reach earnings parity with natives of their same race and ethnicity, at about 90% of native earnings for all groups for the exception of black immigrants who on average earn slightly more than native blacks<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC6290669/</ref>.
+
 ### <span style="background-color:yellow">Public Opinion</span>
 
 Facts about public opinion:
