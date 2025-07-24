@@ -337,6 +337,8 @@ Immigration often comes with a tradeoff between positive economic effects and (t
 
 Among immigrants, there is a racially-differentiated pattern of earnings assimilation where black and Hispanic immigrants are less able to catch up with native whites' earnings compared to white and Asian immigrants, but are able to almost reach earnings parity with natives of their same race and ethnicity within 20 years, at about 90% of native earnings for all groups for the exception of black immigrants who on average earn slightly more than native blacks<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC6290669/</ref>.
 
+In the US, children of immigrants from nearly every sending country have higher levels of upward economic mobility than natives do, and this advantage is similar today and historically despite significant variance in immigration policy. This is in part because immigrants settle in places that offer better prospects for their children<ref>https://www.aeaweb.org/articles?id=10.1257/aer.20191586</ref>.
+
 ### <span style="background-color:yellow">Public Opinion</span>
 
 Facts about public opinion:
