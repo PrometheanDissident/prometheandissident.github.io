@@ -424,6 +424,10 @@ Another question to ask is whether there is racism in health. Evidence suggests 
 
 ### <span style="background-color:orange">The Possibility of Historical Factors</span>
 
+One way to test whether historical factors may play a role in racial disparities is to examine the earnings of immigrants of a particular race relative to natives of that race. Villarreal & Tamborini (2018) examined the earnings assimilation of various immigrant cohorts spanning from 1980-2000. They found that within 20 years, white, Hispanic, and Asian immigrants were able to reach 90% of the earnings levels of their respective native counterparts, while black immigrants actually ended up outearning native blacks within that period of time<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC6290669/</ref>. Considering that these immigrants would have endured significantly different historical factors which would have affected their economic prospects compared to natives within each racial group, the fact that their earnings in the end essentially matched those of natives of their own race suggests that variance in historical factors cannot explain racial earnings differences.
+
+
+
 When comparing former slaves and free blacks (free before 1865), it took roughly 2 generations for the descendents of slaves to catch up economically and educationally with the descendents of free black men and women<ref>https://www.nber.org/system/files/working_papers/w9227/w9227.pdf</ref>.
 
 A black family's long-run economic progress after slavery depended strongly on the location they were freed. Black families freed in states with more intensive Jim Crow institutions made less economic progress after slavery<ref>https://irs.princeton.edu/events/2022/Fall-Althoff-Lukas</ref>.
