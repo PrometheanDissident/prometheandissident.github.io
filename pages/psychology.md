@@ -140,6 +140,8 @@ Interesting factoids about autism:
 * People with ASD, primarily males, have more hypersexual and paraphilic fantasies<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789215/</ref>.
 * Individuals with ASD are less able to understand and infer other people's beliefs, intentions, and feelings, less likely to respond to the specific emotions of people in pain, less cognitively aware of the belief in, intention of and feeling for others, and have less immediate response to the special emotions of people in pain. People with ASD are as likely to immediately share and resonate with the emotions of other people, and are more likely to share or become affectively congruent with others' emotional states<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6794557/</ref>.
 
+Individuals with ASD on average appear to have more vulnerable narcissistic traits but not more grandiose narcissism traits. Autistic individuals have higher neuroticism and lower conscientiousness, agreeableness, openness, and extraversion on average. Because vulnerable narcissism is correlated with higher neuroticism, the association between autism and narcissism could be mediated by neuroticism. Narcissistic vulnerability may also mediate internalizing symptoms such as anxiety and depression in individuals with ASD<ref>https://pubmed.ncbi.nlm.nih.gov/37983956/</ref>.
+
 ## <span style="background-color:orange">Personality</span>
 
 **Correlates:**
