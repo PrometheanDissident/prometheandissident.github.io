@@ -107,6 +107,8 @@ A study injected 100% AI written submissions into the examinations system in fiv
 
 **Competition increases bias** Across all disciplines, papers are more likely to support a tested hypothesis if their corresponding authors work in states that produce more academic papers per capita. This suggests that competitive academic environments may increase scientists' bias<ref>Fanelli, D. (2010). Do Pressures to Publish Increase Scientists’ Bias? An Empirical Support from US States Data. PLoS ONE, 5(4), e10271. https://doi.org/10.1371/journal.pone.0010271</ref>.
 
+Meta-analyses after controlling for observable biases generally show that the empirical economic effects that are considered “conventional wisdom” are typically much closer to zero and sometimes switch signs. Typically, the relative reduction in effect sizes is 45-60%<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/joes.12630</ref>.
+
 ### <span style="background-color:orange">Experts</span>
 
 **Few experts produce knowledge** It is only a relatively small number of physicists who contribute substantially to the advance of science through their research. Only about 15-20% of the work cited in significant discoveries is produced by average scientists. Even papers of minor significance tend to disproportionately use the work of eminent scientists. Most articles published even in leading journals receive very few citations. Independent multiple discoveries are extremely common within science, so the work of average scientists can easily be replaced. Major contributions to teaching are also likely done by a small handful of scientists, as the great majority of elite scientists are trained by other members of the elite<ref>https://www.science.org/doi/10.1126/science.178.4059.368</ref>.
