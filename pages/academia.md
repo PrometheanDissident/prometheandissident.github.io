@@ -109,6 +109,8 @@ A study injected 100% AI written submissions into the examinations system in fiv
 
 Meta-analyses after controlling for observable biases generally show that the empirical economic effects that are considered “conventional wisdom” are typically much closer to zero and sometimes switch signs. Typically, the relative reduction in effect sizes is 45-60%<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/joes.12630</ref>.
 
+For an identical paper, peer reviewers are more likely to accept it if the name it is attributed to is a Nobel laureate compared to an early career research associate<ref>https://www.pnas.org/doi/epub/10.1073/pnas.2205779119</ref>.
+
 ### <span style="background-color:orange">Experts</span>
 
 **Few experts produce knowledge** It is only a relatively small number of physicists who contribute substantially to the advance of science through their research. Only about 15-20% of the work cited in significant discoveries is produced by average scientists. Even papers of minor significance tend to disproportionately use the work of eminent scientists. Most articles published even in leading journals receive very few citations. Independent multiple discoveries are extremely common within science, so the work of average scientists can easily be replaced. Major contributions to teaching are also likely done by a small handful of scientists, as the great majority of elite scientists are trained by other members of the elite<ref>https://www.science.org/doi/10.1126/science.178.4059.368</ref>.
