@@ -183,6 +183,28 @@ Distrust in science has grown significantly since the onset of COVID<ref>https:/
 *Contradicting findings undermine trust
 *Some groups profit from disinformation
 
+## <span style="background-color:orange">Wokeness</span>
+
+Zagrebbi on wokeness<ref>https://graymirror.substack.com/p/the-origin-of-woke-a-george-mason</ref>:
+
+* Cofnas’s model of wokeness conflicts with one of the stylized facts in traditional sociology: that people generally form their beliefs not from an analytical weighing of relevant issues but based on what will help them as social creatures. This was shown in the 2017 book “The Elephant in the Brain”. The authors argue that while many beliefs are adaptive because they help us model the world accurately, many others are valuable through convincing others that you believe them. 
+
+* This is especially true in the case of ideology. In a market setting, if someone holds implausible beliefs and acts economically based on those beliefs, they tend to lose their money. But in the case of politics, for a political actor the cost of acting on beliefs that incorrectly model the world is very low. But your choice of what political team to support still has an impact, as people socially reward or punish others for their beliefs. So one function of the mind may be to choose beliefs that bring the holder the greatest number of supporters as opposed to those that are most likely to be true. One of the best ways to convince others of one’s belief is to actually believe it, which can result in people believing false or ill-considered things but still have it be in their best interest to do so.
+
+* Wokeness and the equality thesis signals high status and also signals that on average you’re going to behave better towards others. This takes the form of signalling both general niceness as well as how effectively you can avoid offending minorities. Things like land acknowledgements signal that one takes care to promote the interests of those different from oneself, because they are nice. The worse a group behaves, the more the left likes it as being nice to the group is an even stronger signal of one’s closely-held morality. On a micro level, this works for individuals who wish to promote themselves. But on a macro level, it reduces efficiency and is not prosocial.
+
+* Wokeness is a great signal for high status. Elites can continuously distinguish themselves from non-elites through having wokeness continuously evolve to alienate them, making the signal preserve its status even when non-elites may want to be high-status. It also demands things like denigrating your ingroup and praising outgroups which go against natural human impulses, which elites are more willing to accept and swallow aversions to because they are smart and sophisticated enough to intuit that wokeness is high status. Non-elites aren’t as ambitious and so consequently care less about seeming high status in the first place. Woke pushes for homosexuality and transgenderism also have similar dynamics occurring.
+
+* Most anti-wokes are stupid, as Cofnas has shown that whites who attribute lower black SES to genes have verbal IQs of 8.5 points lower than whites who espouse environmentalism. While there are smart race realists, their attachment to this belief signals anti-social things. They are either terrible at self-deception or don’t care enough about signalling identification with the high status ingroup. Noticing that a group is dumb is a powerful signal that you dislike them and mistreat them, while assuming all groups have equal intellectual potential is a powerful signal that you like them and will treat them well. Race realists will naturally tend to be maladjusted, hateful and crazy because of this signal.
+
+* The signalling view can help explain why woke beliefs and leftist beliefs existed before 1960. They were originally meant to signal class-based tolerance when marxism was in fashion and the US was mostly white. But as racial minorities became more common, signalling tolerance for minorities became more important and class-based tolerance became less relevant. 
+
+* Literature as a medium is important in world history because it is so good at coordinating ideological movements. Books today can be used to have a public relations campaign, to power a media blitz about your ideas. Rufo misses that Marxists are familiar with Marx, but basically no woke person has heard of Marcuse, Adorno or even Angela Davis. That’s because class-based ideas became irrelevant. This relative ideological incoherence hinders the possibility of a woke version of the USSR, as there is no clear vision unlike with marxism. Ditching marxism’s literature tactic may have led to woke’s confusion, but it allows it to become a mass ideology which doesn’t require one to read tons of theory.
+
+* Ultimately doing more race and iq research will not win people because it assumes that people believe things because they are true, when in reality they believe things because they signal high status. This signalling view also suggests that wokeness is very sticky and will naturally be ubiquitous. Hanania, pointing to civil rights law for why society became woke, cannot explain why the judges who did caselaw for the new legislation were woke.
+
+<img src="https://substackcdn.com/image/fetch/$s_!ZjEl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d72a0e9-4091-410c-a817-f765b5844c00_1282x1232.png" alt="Four Models of Wokeness" width="500">
+
 ## References
 
 <references />
