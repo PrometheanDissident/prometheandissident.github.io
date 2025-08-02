@@ -525,6 +525,16 @@ Due to disparities in the data available for AI systems that each group has coll
 
 LLM users consistently underperform at neural, linguistic and behavioral levels over four months<ref>https://arxiv.org/abs/2506.08872</ref>.
 
+AI chatbots as of late 2023 and 2024 have had at best minimal economic impacts in the labor market, in terms of productivity, earnings or recorded hours<ref>http://nber.org/papers/w33777</ref>. This contradicts the notion that there will be imminent labor market transformation due to generative AI.
+
+A report from the International Data Corporation projected that investments in AI solutions and services will yield a global cumulative impact of $22.3 trillion by 2030, representing approximately 3.7 of global GDP. Every new dollar spent on AI solutions and services by adopters is expected to generate an additional $4.9 in the global economy, suggesting significant multiplier productivity and business acceleration from AI investments in the coming years<ref>https://www.bigdatawire.com/this-just-in/idc-ai-investments-to-represent-3-7-of-global-gdp-by-2030/</ref>. Similar large GDP effects have been found by others<ref>https://www.privatebank.bankofamerica.com/articles/economic-impact-of-ai.html</ref>.
+
+Thus far (as of 2023) there is little evidence of significant negative employment effects due to AI<ref>https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-and-jobs-no-signs-of-slowing-labour-demand-yet_5aebe670.html</ref>. Despite concerns of AI taking high-skilled jobs, job growth has disproportionately been in high-skilled professions over the past decade.
+
+AI in the future may increase inequality and threaten the jobs of many workers. According to results from an IMF-designed AI preparedness index, more prepared countries tend to be wealthier and have higher employment in high-skill professions where AI is likely to take more jobs<ref>https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity</ref>.
+
+Many facts imply significant wage and productivity gains in industries affected by AI. Industries more exposed to AI have 3x higher growth in revenue per employee; wages are rising 2x faster in the most AI-exposed industries; and workers with AI skills command a 56% wage premium<ref>https://www.pwc.com/gx/en/issues/artificial-intelligence/ai-jobs-barometer.html</ref>.
+
 ## Marxism
 
 Joseph Heath points to a number of drivers explaining why Marxism declined in academic discourse<ref>https://josephheath.substack.com/p/key-stages-in-the-decline-of-academic</ref>:
