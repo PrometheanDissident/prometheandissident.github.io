@@ -214,6 +214,8 @@ Misc biorealism factoids:
 
 Journalists generally prefer parties with more left-wing positions<ref>https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media</ref>.
 
+Americans’ trust in media is currently very low<ref>https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx</ref>.
+
 ## Cancel Culture
 
 The term "cancel culture" has its political roots on black Twitter, where it referred to attempts to use it to call out behavior deemed racist or offensive and put it on blast into the news. Since then, the term has expanded and has no universally agreed upon definition. In identifying how individuals define cancel culture, research has revealed ten themes that are most commonly mentioned. They are overblown disagreement, financial consequences, withdrawing support, job and visibility loss, mob punishment, rewriting history, accountability, freedom of speech, silencing opposition, and social media call out. Republicans appear to be less supportive of cancelling than democrats<ref>https://journals.sagepub.com/doi/10.1177/10659129241261374</ref>.
