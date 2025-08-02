@@ -535,6 +535,8 @@ AI in the future may increase inequality and threaten the jobs of many workers. 
 
 Many facts imply significant wage and productivity gains in industries affected by AI. Industries more exposed to AI have 3x higher growth in revenue per employee; wages are rising 2x faster in the most AI-exposed industries; and workers with AI skills command a 56% wage premium<ref>https://www.pwc.com/gx/en/issues/artificial-intelligence/ai-jobs-barometer.html</ref>.
 
+There is some evidence coming to light that AI can engage in deception, although this generally occurs in a minority of cases<ref>https://time.com/7202784/ai-research-strategic-lying/</ref><ref>https://time.com/7202312/new-tests-reveal-ai-capacity-for-deception/</ref>.
+
 ## Marxism
 
 Joseph Heath points to a number of drivers explaining why Marxism declined in academic discourse<ref>https://josephheath.substack.com/p/key-stages-in-the-decline-of-academic</ref>:
