@@ -541,6 +541,8 @@ Many facts imply significant wage and productivity gains in industries affected 
 
 There is some evidence coming to light that AI can engage in deception, although this generally occurs in a minority of cases<ref>https://time.com/7202784/ai-research-strategic-lying/</ref><ref>https://time.com/7202312/new-tests-reveal-ai-capacity-for-deception/</ref>.
 
+Researchers trained an AI to align with the stylistic conventions, unspoken norms, and persuasion patterns of r/changemyview. The original poster on average changes their mind in about 3% of cases for human generated arguments. But with the AI, the arguments succeeded 9-18% of the time, meaning they were 3-6 times better at changing the minds of redditors. The AI succeeded not through better reasoning or information, but through effectively hacking the mechanics of persuasion, such as with appeals to emotion and identity, generalities, personal experiences, rhetorical questions, informational overload, conclusions based on sentiments, narrativizing, and assumption of ill intent<ref>https://www.aporiamagazine.com/p/why-reddit-is-no-longer-needed</ref>.
+
 ## Marxism
 
 Joseph Heath points to a number of drivers explaining why Marxism declined in academic discourse<ref>https://josephheath.substack.com/p/key-stages-in-the-decline-of-academic</ref>:
