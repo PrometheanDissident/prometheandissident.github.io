@@ -70,6 +70,20 @@ The average decadal IQ increase since 1951 has been 2.6 points<ref>https://www.n
 
 ## <span style="background-color:lightcoral">Political Orientation</span>
 
+Whites who attribute lower black socioeconomic status to genes (ie are race realists) have on average 8.5 lower WORDSUM IQ points than whites who espouse environmentalism<ref>https://ncofnas.com/p/why-we-need-to-talk-about-the-rights</ref>.
+
+Conservatism has a small negative relationship with IQ, but this effect is non-linear. Individuals with an IQ above 115 tend to score higher in conservatism than those with an IQ of 115, although still not as much as those with an IQ below 100<ref>https://www.emilkirkegaard.com/p/does-intelligence-have-nonlinear</ref>.
+
+Republicans tend to have a wider range of beliefs in terms of attitude networks<ref>https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12665</ref>:
+
+<img src="https://bpspsychub.onlinelibrary.wiley.com/cms/asset/0ecbdd65-e5d7-462c-bb8d-a9664dcda6b6/bjso12665-fig-0002-m.jpg" alt="Attitude Network" width="500">
+
+Vertical cultural transfer effects, the notion that parents through teaching their children pass down their values onto their children independently of genetics or assortative mating, is mostly untrue. Political interests are somewhat copied from parents when living at home, but quickly disappear when people get into adulthood<ref>https://emilkirkegaard.dk/en/2018/09/vertical-cultural-transfer-effects-plausible-but-mostly-not-real/</ref>.
+
+Conservatives tend to view liberals as more immature in terms of mental representations, while liberals tend to view conservatives as more savage in terms of mental representations<ref>https://pubmed.ncbi.nlm.nih.gov/37415508/#:~:text=Results%20suggest%20that%20partisans%20indeed,more%20strongly%20emphasizes%20savagery%20</ref>.
+
+There is a positive link between increased paternal age and leftism, at r=0.12<ref>https://sociobiology.org/post/a-paternal-age-effect-on-leftism-is-detect</ref>. Traits that are changing due to mutational pressure are expected to be much more common with offspring from older fathers, suggesting that this implies a mutational load effect of leftism. Furthermore, older fathers themselves are not more leftist than younger fathers, meaning the paternal age effect is not due to differences in breeding patterns between leftists and non-leftists<ref>https://sociobiology.org/post/evidence-for-a-paternal-age-effect-on-left</ref>.
+
 ### <span style="background-color:orange">Principles</span>
 
 - **Conformity -** Individuals tend to conform to the group's opinion or censor their views in situations where people deliberately disagree with them. Conformity and censorship are most frequent among introverted, emotionally stable, and racial minority participants<ref>https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1029&context=honorstheses</ref>.
