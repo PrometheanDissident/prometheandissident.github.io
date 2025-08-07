@@ -82,8 +82,6 @@ Vertical cultural transfer effects, the notion that parents through teaching the
 
 Conservatives tend to view liberals as more immature in terms of mental representations, while liberals tend to view conservatives as more savage in terms of mental representations<ref>https://pubmed.ncbi.nlm.nih.gov/37415508/#:~:text=Results%20suggest%20that%20partisans%20indeed,more%20strongly%20emphasizes%20savagery%20</ref>.
 
-There is a positive link between increased paternal age and leftism, at r=0.12<ref>https://sociobiology.org/post/a-paternal-age-effect-on-leftism-is-detect</ref>. Traits that are changing due to mutational pressure are expected to be much more common with offspring from older fathers, suggesting that this implies a mutational load effect of leftism. Furthermore, older fathers themselves are not more leftist than younger fathers, meaning the paternal age effect is not due to differences in breeding patterns between leftists and non-leftists<ref>https://sociobiology.org/post/evidence-for-a-paternal-age-effect-on-left</ref>.
-
 ### <span style="background-color:orange">Principles</span>
 
 - **Conformity -** Individuals tend to conform to the group's opinion or censor their views in situations where people deliberately disagree with them. Conformity and censorship are most frequent among introverted, emotionally stable, and racial minority participants<ref>https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1029&context=honorstheses</ref>.
