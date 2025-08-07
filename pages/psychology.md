@@ -82,6 +82,21 @@ Vertical cultural transfer effects, the notion that parents through teaching the
 
 Conservatives tend to view liberals as more immature in terms of mental representations, while liberals tend to view conservatives as more savage in terms of mental representations<ref>https://pubmed.ncbi.nlm.nih.gov/37415508/#:~:text=Results%20suggest%20that%20partisans%20indeed,more%20strongly%20emphasizes%20savagery%20</ref>.
 
+There is a positive link between increased paternal age and leftism, at r=0.12<ref>https://sociobiology.org/post/a-paternal-age-effect-on-leftism-is-detect</ref>. Traits that are changing due to mutational pressure are expected to be much more common with offspring from older fathers, suggesting that this implies a mutational load effect of leftism. Furthermore, older fathers themselves are not more leftist than younger fathers, meaning the paternal age effect is not due to differences in breeding patterns between leftists and non-leftists<ref>https://sociobiology.org/post/evidence-for-a-paternal-age-effect-on-left</ref>. However, this correlation goes away once controlling for age, sex and paternal education implying the mutational load hypothesis may be incorrect, although the sample size may mean the controls caused the test to be underpowered<ref>https://arctotherium.substack.com/p/against-the-mutational-load-hypothesis</ref>.
+
+Cognitive ability mediates part of the link between genes and political orientations<ref>https://sci-hub.ru/https://doi.org/10.1111/pops.12230</ref>.
+
+Many of the neurobiological correlates of politics as the same as those of religion<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC5180221/</ref><ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC7195862/</ref>, suggesting that religion and politics are neurologically the same thing or very similar.
+
+
+A large proportion of college students and college graduates will agree with statements made by Hitler about Jews if the words about Jews are replaced with words about whites<ref>https://unsafescience.substack.com/p/who-agrees-with-hitler</ref>.
+
+Conservatives are worse at discerning true from false information in the news<ref>https://academic.oup.com/poq/article/87/2/267/7147091</ref>.
+
+Left-leaning individuals are more likely to donate to charities in general as well as donate internationally<ref>https://www.pnas.org/doi/10.1073/pnas.2219676120</ref>.
+
+There is substantial change in people’s individual-level moral foundations over time, and these do not appear to account for changes in political attitudes nor are they heritable to any significant degree<ref>https://onlinelibrary.wiley.com/doi/10.1111/ajps.12255</ref>.
+
 ### <span style="background-color:orange">Principles</span>
 
 - **Conformity -** Individuals tend to conform to the group's opinion or censor their views in situations where people deliberately disagree with them. Conformity and censorship are most frequent among introverted, emotionally stable, and racial minority participants<ref>https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=1029&context=honorstheses</ref>.
