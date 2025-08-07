@@ -203,6 +203,10 @@ A 2004 meta-analysis found that there is a sleeper effect, where a discounting p
 
 Confirmation bias is the tendency to seek or interpret evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand<ref>https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</ref>. This has been shown in the case of the evaluation of political arguments, where attitudinally congruent arguments are uncritically supported and evaluated as stronger than attitudinally incongruent arguments, which are counter-argued against<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2006.00214.x</ref>. The latter can be referred to as a disconfirmation bias. This can lead to attitude polarization. Whether a person's prior belief is accompanied by emotional conviction affects the magnitude and form of the disconfirmation bias<ref>https://psycnet.apa.org/record/1996-01782-001</ref>.
 
+On average, people had a harder time distinguishing between real and fake news if they were generation Z, non-male, less educated, and more conservative<ref>https://news.ubc.ca/2025/04/misinformation-susceptibility-who-falls-for-fake-news/</ref>.
+
+Some argue that misinformation is something that you can be inoculated from by teaching people to identify surface-level fingerprints such as use of emotional language to detect misinformation. However, whether a claim is true or false is independent from these “fingerprints” and instead deals with whether it corresponds to reality, it’s in the interests of misinformation communicators to avoid these fingerprints, and the most widespread and effective misinformation techniques do that, these techniques are not inherently bad, and these fingerprints can risk detecting false positives. Evidence suggests that attempts to inoculate people against misinformation in general make people more likely to rate all information as false or manipulative, and fails to translate into generalized misinformation inoculation<ref>https://www.conspicuouscognition.com/p/misinformation-isnt-a-contagious</ref>.
+
 ## <span style="background-color:orange">Biorealism</span>
 
 Misc biorealism factoids:
