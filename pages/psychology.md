@@ -265,6 +265,18 @@ However, the extremeness of the punishment means that there's few behaviors whic
 
 Individuals exposed to mobbing often develop trauma-related PTSD<ref>https://dergipark.org.tr/tr/download/article-file/4040932</ref>.
 
+## Dunbar's Number
+
+Analysis of a dataset of twitter conversations involving 1.7 million individuals suggests that users can entertain a maximum of about 100-200 stable relationships<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022656</ref>.
+
+Maximum network size as measured by the exchange of Christmas cards was 153.5 individuals, with a mean network size of 124.9 for those individuals explicitly contacted. Dunbar’s number of 150 is based on the relative size of human’s neocortexes relative to other primates and extrapolating the social group size of those primates to humans indexed by neocortex size. This implies there may be cognitive constraints on network size<ref>https://pubmed.ncbi.nlm.nih.gov/26189988/</ref>.
+
+The number of friends a person has reliably predicts grey matter density in areas of the brain implicated in social perception and associative memory, suggesting that brain structure heavily contributes to the way in which social cognition operates in humans<ref>https://royalsocietypublishing.org/doi/10.1098/rspb.2011.1959</ref>.
+
+There exists layers of friend circles, where the emotionally closest circles are the smallest, and the least emotionally close circles are the largest<ref>https://www.researchgate.net/publication/301879177_Calling_Dunbar's_Numbers</ref><ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/</ref>.
+
+The size of online egocentric social networks, indexed as the number of Facebook friends, is similar to that of offline face-to-face networks, suggesting a cognitive constraint on the size of social networks that even communications advantages of online media are unable to overcome<ref>https://pubmed.ncbi.nlm.nih.gov/26909163/</ref>.
+
 ## References
 
 <references />
