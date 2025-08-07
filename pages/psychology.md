@@ -261,6 +261,10 @@ Cancel culture can constitute a means of norm enforcement, particularly when oth
 
 However, the extremeness of the punishment means that there's few behaviors which should probably be considered cancellable which wouldn't be addressed through some other means, such as legally or otherwise.
 
+## Mobbing
+
+Individuals exposed to mobbing often develop trauma-related PTSD<ref>https://dergipark.org.tr/tr/download/article-file/4040932</ref>.
+
 ## References
 
 <references />
