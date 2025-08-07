@@ -312,6 +312,10 @@ Housing regulation is a significant contributor to high house prices<ref>https:/
 
 Immigration often comes with a tradeoff between positive economic effects and (to some degree) negative social effects, especially when accounting for research on ethnic diversity in cases where immigration is non-white.
 
+Border walls are effective in keeping illegal immigrants out<ref>https://x.com/cremieuxrecueil/status/1655779599958114310</ref>.
+
+One study suggests that immigration decisions are not made on the basis of the relative generosity of the receiving nation’s social benefits, contradicting the welfare magnet hypothesis<ref>https://wol.iza.org/uploads/articles/37/pdfs/welfare-magnet-hypothesis-and-welfare-take-up-of-migrants.pdf</ref>. Furthermore, some evidence suggests that immigrants exhibit less welfare dependency than natives despite facing a higher risk of poverty.
+
 ### <span style="background-color:yellow">Economic/Social Effects</span>
 
 **Economic Effects: Generally Positive**
