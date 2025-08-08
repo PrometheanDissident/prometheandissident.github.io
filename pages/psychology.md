@@ -362,6 +362,18 @@ Trends supporting the emergence of a post-truth world<ref>https://cssn.org/wp-co
 
 One role of post-truth statements is to distract the public from unwanted information or potentially unpopular policy actions There is also an increasing fluidity of allegiances: not only do facts not matter, but anyone can be turned into a friend or foe, even if it implies a departure from long-standing beliefs and principles<ref>https://cssn.org/wp-content/uploads/2020/12/Beyond-Misinformation-Understanding-and-Coping-with-the-Post-Truth-Era-Stephan-Lewandowsky.pdf</ref>.
 
+## Epigenetics
+
+Epigenetics examines how cells control gene activity without changing the DNA sequence. Epigenetic changes are modifications to DNA that regulate whether genes are turned on or off. The epigenome is all of the modifications that regulate the activity/expression of the genes within the complete set of DNA in a cell/genome. Environmental influences, such as a person’s diet and exposure to pollutants can impact the epigenome. Epigenetic modifications can be maintained from cell to cell as cells divide and in some cases can be inherited through the generations<ref>https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome/</ref>.
+
+Epigenetic effects contribute to depression. Environmental stressors such as childhood adversity and recent life stress are associated with major depression (MDD), an effect which is mediated by a number of epigenetic modifications<ref>https://www.nature.com/articles/s41392-023-01519-z?error=cookies_not_supported&code=301d0659-aa9c-4a77-b5bc-110c8ed6a658</ref>.
+
+Prenatal exposure to famine can cause epigenetic changes in a child that can last many decades<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC2579375/</ref>.
+
+Evidence for intergenerational transmission of stress in humans is supported empirically by data from holocaust survivor offspring cohorts and other populations<ref>https://www.nature.com/articles/npp2015247?error=cookies_not_supported&code=ee1ed8e1-bb26-413e-a85c-3d3f8cc3d0bd</ref>.
+
+Epigenetic inheritance may account for a significant portion of “missing heritability” in GWAS studies<ref>https://humgenomics.biomedcentral.com/articles/10.1186/s40246-015-0041-3</ref>.
+
 ## References
 
 <references />
