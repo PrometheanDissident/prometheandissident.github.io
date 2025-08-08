@@ -374,6 +374,26 @@ Evidence for intergenerational transmission of stress in humans is supported emp
 
 Epigenetic inheritance may account for a significant portion of “missing heritability” in GWAS studies<ref>https://humgenomics.biomedcentral.com/articles/10.1186/s40246-015-0041-3</ref>.
 
+## Crime vs Thought
+
+Liberals are more likely to feel comfortable sharing their political beliefs, while conservatives are most likely to self-censor. Democrats are more likely to favor banning hate speech, saying offensive or insulting things about a group more than republicans, even when it’s about things that republicans favor such as the military and police<ref>https://www.cato.org/survey-reports/state-free-speech-tolerance-america#overview</ref>.
+
+Leftists are more concerned with avoiding offending others when they speak<ref>https://www.pewresearch.org/global/2021/05/05/4-political-correctness-and-offensive-speech/</ref>.
+
+Liberals are cognitively speaking more flexible and tolerant of complexity and novelty, while conservatives are more rigid, more resistant to change and prefer clear answers. Liberals solve significantly more problems through insight instead of a step-by-step analytic fashion<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4869693/</ref>.
+
+Conservatives tend to show more intolerance to groups perceived as more liberal, while liberals tend to show more intolerance to groups perceived as more conservative<ref>https://research.tilburguniversity.edu/en/publications/the-ideological-conflict-hypothesis-intolerance-among-both-libera</ref>.
+
+Conservatives had less favorable impressions than liberals of groups that were identified as liberal (e.g., African Americans, homosexuals), but more favorable impressions than liberals of groups identified as conservative (e.g., Christian fundamentalists, businesspeople). This suggests that prejudice exists across the ideological spectrum<ref>https://journals.sagepub.com/doi/10.1177/0956797612447820?icid=int.sj-abstract.citing-articles.137</ref>.
+
+In reacting to victims of crimes, liberals tend to have a reparative mindset that directly addresses the needs and concerns of victims, while conservative responses are at least equally reflective of a punitive mindset that addresses victim harm through offender punishment<ref>https://www.researchgate.net/publication/228281541_Political_Ideology_and_Reactions_to_Crime_Victims_Preferences_for_Restorative_and_Punitive_Responses#:~:text=,associated%20with%20decreased%20confidence%20and</ref>.
+
+Right-wing authoritarianism predicts both the extent to which people worry about social threats and the extent to which they support harsh punitive measures<ref>https://www.academia.edu/14032546/Authority_and_punishment_on_the_ideological_basis_of_punitive_attitudes_towards_criminals</ref>.
+
+Liberals tend to be more empathetic than conservatives according to self reporting. This is corroborated by higher neural empathy responses in liberals compared to conservatives<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC10281241/</ref>.
+
+Harm and Fairness are considered individualizing because they emphasize the protection of individual wellbeing and rights. Authority, Loyalty, and Purity are considered binding because they emphasize duty, interdependence, tradition, and adherence to cultural and religious practices. Endorsement of group-oriented moral concerns was associated with more punitive and conservative attitudes, while endorsement of individual-oriented moral concerns was associated with less punitive and less conservative attitudes<ref>https://pubmed.ncbi.nlm.nih.gov/28150974/</ref>.
+
 ## References
 
 <references />
