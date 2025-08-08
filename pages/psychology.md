@@ -285,6 +285,48 @@ However, the extremeness of the punishment means that there's few behaviors whic
 
 Individuals exposed to mobbing often develop trauma-related PTSD<ref>https://dergipark.org.tr/tr/download/article-file/4040932</ref>.
 
+Academic mobbing is a non-violent, sophisticated ganging up behavior adopted by academics to emotionally wear a colleague down through unjustified accusation, humiliation, general harassment and emotional abuse. These are directed at the target under a veil of lies and justifications so they are hidden to others and difficult to prove. Campuses are common places for academic mobbing to occur, and is done through shunning, gossip, ridicule, bureaucratic hassles and withholding of deserved awards. Bullies use mobbing activities to hide their weaknesses and incompetence. Targets are often innovative high achievers with good integrity and principles<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>.
+
+One in 30 people is a serial bully with sociopathic traits, whose behavior profile includes compulsive lying, a Jekyll and Hyde nature, superficial charm, considerable capacity to deceive, arrested emotional development and a compulsive need to control<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>.
+
+In extreme cases, mobbing can result in suicide or murder-suicide. The targets’ position and influence in the organization is destroyed. Because the workplace has a web of social connections, targets tend to get ostracized and isolated, and colleagues shy away from the target out of fear of guilt by association. Targets exhibit profound feelings of self doubt, shame, worthlessness, humiliation, unhappiness and desperation. They become withdrawn and alienated from their colleagues, friends and sometimes families. Academic mobbing can be responsible for anxiety, depression and somatization syndrome. Target's obsessive preoccupation with the mobbing experience can have a negative impact on communication, intimacy and sex, work, parenting and household management within the family. One study estimated that 15% of suicides in Sweden were directly attributed to workplace mobbing<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>.
+
+Mobbing is rooted in the impulses we share with many other species. It is the coming to the surface, the expression in distinctly human ways, of instincts we are born with, tendencies to which we are genetically, physically inclined. This doesn’t mean that it’s inevitable or desirable, but it does mean that mobbing cannot easily be legislated out of existence, as if it were purely cultural<ref>https://www.kwesthues.com/graz0701.htm</ref>.
+
+Mobbing is best understood as a social contagion, where people surrender their independence of mind. Pooling of people’s judgments is often a step toward truth, but it is only when the judgments are independent and uninfluenced by one another. In crowds, people can be irrational in their judgments. The main perpetrators of mobbing are unlikely to ever change their minds about the target, especially when ambiguity is involved<ref>https://www.kwesthues.com/takeaways240723.html</ref>.
+
+In a typical mobbing case, apologies do not dampen but rather inflame the hostility of mobbers. Mobbers will generally either misconstrue the apology as a confession of worse wrongdoing than the target intends, or reject the apology as inadequate, insincere, misdirected or a said too late<ref>https://www.kwesthues.com/takeaways240723.html</ref>.
+
+The more an academic discipline has been influenced by postmodernism, which elevates subjectivity and puts objective truth into doubt, the more likely mobbing is to occur in it<ref>https://www.kwesthues.com/takeaways240723.html</ref>.
+
+There are a number of conditions that increase a person’s vulnerability to mobbing, that are either inside or outside the control of the target<ref>https://www.kwesthues.com/unkindlyart.htm</ref>:
+
+* Being different from most colleagues in an elemental way such as sex or race
+* Being exceptionally high-achieving in teaching or research such that colleagues’ envy is aroused
+* Publicly dissenting from politically incorrect ideas
+* Defending a pariah on campus or the larger cultural arena
+
+Ordinarily, targets of mobbing are scarred for life<ref>https://www.kwesthues.com/unkindlyart.htm</ref>.
+
+Checklist of 16 mobbing indicators<ref>https://www.kwesthues.com/checklist.htm</ref>:
+
+* By standard criteria of job performance, the target is at least average, probably above average.
+* Rumours and gossip circulate about the target’s misdeeds: “Did you hear what she did last week?”
+* The target is not invited to meetings or voted onto committees, is excluded or excludes self.
+* Collective focus on a critical incident that “shows what kind of man he really is.”
+* Shared conviction that the target needs some kind of formal punishment, “to be taught a lesson.”
+* Unusual timing of the decision to punish, e. g., apart from the annual performance review.
+* Emotion-laden, defamatory rhetoric about the target in oral and written communications.
+* Formal expressions of collective negative sentiment toward the target, e. g. a vote of censure, signatures on a petition, meeting to discuss what to do about the target.
+* High value on secrecy, confidentiality, and collegial solidarity among the mobbers.
+* Loss of diversity of argument, so that it becomes dangerous to “speak up for”or defend the target.
+* The adding up of the target’s real or imagined venial sins to make a mortal sin that cries for action.
+* The target is seen as personally abhorrent, with no redeeming qualities; stigmatizing, exclusionary labels are applied.
+* Disregard of established procedures, as mobbers take matters into their own hands.
+* Resistance to independent, outside review of sanctions imposed on the target.
+* Outraged response to any appeals for outside help the target may make.
+* Mobbers’ fear of violence from target, target’s fear of violence from mobbers, or both.
+
 ## Dunbar's Number
 
 Analysis of a dataset of twitter conversations involving 1.7 million individuals suggests that users can entertain a maximum of about 100-200 stable relationships<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022656</ref>.
