@@ -332,6 +332,14 @@ Refugees have a lower employment rate and income level than family reunion migra
 
 In OECD countries, immigrants are generally not taking up more benefits than the native-born, and contribute more in taxes and contributions than governments spend on their social protection, health and education. The average net fiscal contribution is about 0.9% of GDP<ref>https://www.oecd.org/en/topics/sub-issues/economic-impact-of-migration.html</ref>.
 
+Immigration, especially among high-skilled entrepreneurial immigrants, increases innovation, firm startups, patent counts, and general economic dynamism<ref>https://www.cato.org/cato-journal/fall-2021/effects-immigration-entrepreneurship-innovation</ref>.
+
+In 2015, refugees earned more than $77 billion in household income and paid almost $21 billion in taxes in the US, meaning they more than pay what they get from the country. Furthermore, refugees being young can help with the negative impacts of population ageing which will put a strain on the workforce and entitlement programs in the absence of young people<ref>https://www.americanimmigrationcouncil.org/press-release/refugees-in-the-u-s-had-more-than-56-billion-in-spending-power-in-2015-new-study-shows/</ref>.
+
+Research suggests that a sudden and significant influx of refugees has no statistically significant effect on social trust, general perceptions of society, or concerns about crime. The only significant effect is on donations to charity, which reduce with more refugees<ref>https://newsroom.iza.org/en/archive/research/does-immigration-undermine-social-cohesion-in-the-receiving-country/</ref>.
+
+Refugees and asylees had a positive fiscal impact at the federal, state and local levels in the US from 2005-2019<ref>https://aspe.hhs.gov/sites/default/files/documents/28fe4e756499bdab08b4e6cb3b952e22/aspe-report-refugee-fiscal-impact.pdf</ref>.
+
 ### <span style="background-color:yellow">Economic/Social Effects</span>
 
 **Economic Effects: Generally Positive**
