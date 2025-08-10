@@ -340,6 +340,33 @@ Research suggests that a sudden and significant influx of refugees has no statis
 
 Refugees and asylees had a positive fiscal impact at the federal, state and local levels in the US from 2005-2019<ref>https://aspe.hhs.gov/sites/default/files/documents/28fe4e756499bdab08b4e6cb3b952e22/aspe-report-refugee-fiscal-impact.pdf</ref>.
 
+Assimilation (at least perfect assimilation) is not possible with many ethnic groups. For example, there are large black-white disparities which have persisted in domains including economics, education and crime and have not converged in many cases for many decades, despite African Americans living in the US for centuries<ref>https://inquisitivebird.xyz/p/the-assimilation-myth-america?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true</ref>.
+
+Immigrants who succeed versus those who don’t succeed generally do so because of pre-arrival characteristics. For example, immigrant earnings are strongly associated with per capita GNP in the source country. Variation in educational attainment across immigrant groups is strongly associated with human capital possessed by their ancestors<ref>https://journals.sagepub.com/doi/10.1177/0002716214548396</ref><ref>https://www.nber.org/papers/w29418</ref>.
+
+Based on the analysis of surnames in England from 1170-2012, researchers have found that educational status is intergenerationally correlated at around 0.7-0.9, suggesting it is more heritable than even height. People with surnames overrepresented in the Oxbridge universities had descendants that were overrepresented centuries later<ref>https://link.springer.com/article/10.1007/s12110-014-9219-y</ref>.
+
+Social status in Florence Italy was very sticky intergenerationally from 1427-2011<ref>https://academic.oup.com/restud/article-abstract/88/4/1863/5958123</ref>.
+
+Despite a vast change in social regimes and the composition of political elites, social mobility in Hungary from 1949-2017 was relatively nonexistent<ref>https://link.springer.com/article/10.1007/s00148-021-00875-w</ref>.
+
+Other studies have found similarly high stickiness of social mobility across generations in a range of societies<ref>https://faculty.econ.ucdavis.edu/faculty/gclark/papers/Sweden%202012%20AUG.pdf</ref><ref>https://faculty.econ.ucdavis.edu/faculty/gclark/The%20Son%20Also%20Rises/Japan%202012.pdf</ref><ref>https://doi.org/10.1016/j.eeh.2020.101327</ref>.
+
+Even in the face of external shocks and perturbations, the inheritance of social status is highly stable<ref>https://inquisitivebird.xyz/p/the-assimilation-myth-america?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true</ref>:
+
+* People sent to Gulag camps in the USSR had persistent human capital across generations<ref>https://www.aeaweb.org/articles?id=10.1257/mac.20220231</ref>.
+* Inequality before the Chinese communist revolutions persisted through such revolutions<ref>https://scholar.harvard.edu/files/yangyou/files/revolutions_draft.pdf</ref>.
+* Despite slave wealth being nullified after the US civil war, the sons of white southern households that owned slaves almost entirely recovered in wealth ranking, and their grandsons fully jumped back by 1940<ref>https://www.aeaweb.org/articles?id=10.1257/aer.20191422</ref>. Similar findings occurred in the Danish West Indies<ref>https://www.sciencedirect.com/science/article/pii/S0014498324000627</ref>.
+* Sons of lottery winners do not do better in terms of wealth, income, literacy or drug consumption<ref>https://academic.oup.com/qje/article/131/2/687/2606947</ref><ref>https://academic.oup.com/qje/article-abstract/131/3/1455/2461173</ref>.
+
+Research looking at immigrant grandfathers in 1880 and grandsons in 1940 shows that European ethnic disparities in occupational income were very persistent<ref>https://www.aeaweb.org/articles?id=10.1257/app.20170382</ref>.
+
+Technology and productivity tend to be highly persistent even at very long time horizons. Neolithic and/or historical advantages continue to have effects on contemporary income per capita, consistent with Diamond’s hypothesis. Countries using the most advanced technologies in the year 1000 BC tend to remain the users of the most advanced technologies in 1500 and today. This long-term persistence holds at the level of populations rather than locations. Long-term genealogical links across populations play an important role in explaining the transmission of technological and institutional knowledge and the diffusion of economic development. Nonetheless, there is still room for development policies to reduce barrier effects and to accelerate the spread of ideas and innovations across populations, especially in the contexts of a globalized world which allows these to be diffused more rapidly than ever<ref>https://www.aeaweb.org/articles?id=10.1257/jel.51.2.325</ref>.
+
+Improved language training for refugees has a significant, permanent and positive effect on their earnings<ref>https://direct.mit.edu/rest/article-abstract/106/4/1157/111513/Language-Training-and-Refugees-Integration?redirectedFrom=fulltext</ref>.
+
+Better access to language training improves local language fluency for refugees and increases their integration as measured by lower exit rates from those communities and lower mobility to immigrant-dense cities<ref>https://www.sciencedirect.com/science/article/pii/S0927537123000416</ref>.
+
 ### <span style="background-color:yellow">Economic/Social Effects</span>
 
 **Economic Effects: Generally Positive**
