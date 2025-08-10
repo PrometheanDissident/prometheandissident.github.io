@@ -367,6 +367,14 @@ Improved language training for refugees has a significant, permanent and positiv
 
 Better access to language training improves local language fluency for refugees and increases their integration as measured by lower exit rates from those communities and lower mobility to immigrant-dense cities<ref>https://www.sciencedirect.com/science/article/pii/S0927537123000416</ref>.
 
+Sanctuary policies reduce deporations without increasing crime<ref>https://www.pnas.org/doi/10.1073/pnas.2014673117</ref>. These reduce deportations of people with no criminal convictions by half without affecting the deportations of people with violent convictions.
+
+Undocumented immigrants have lower crime rates than legal immigrants and native-born US citizens<ref>https://www.pnas.org/doi/10.1073/pnas.2014704117</ref>.
+
+Undocumented immigration has a negative link to violent crime<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC6241529/</ref>.
+
+Legalizing unauthorized immigrants allows them greater labor market and geographic mobility, access to health and social services and equal protection under the law. It can also bring undocumented immigrants out of the informal sector and into the formal one, increasing tax revenues<ref>https://wol.iza.org/articles/legalizing-undocumented-immigrants</ref>.
+
 ### <span style="background-color:yellow">Economic/Social Effects</span>
 
 **Economic Effects: Generally Positive**
