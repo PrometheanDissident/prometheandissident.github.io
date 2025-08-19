@@ -394,6 +394,14 @@ Liberals tend to be more empathetic than conservatives according to self reporti
 
 Harm and Fairness are considered individualizing because they emphasize the protection of individual wellbeing and rights. Authority, Loyalty, and Purity are considered binding because they emphasize duty, interdependence, tradition, and adherence to cultural and religious practices. Endorsement of group-oriented moral concerns was associated with more punitive and conservative attitudes, while endorsement of individual-oriented moral concerns was associated with less punitive and less conservative attitudes<ref>https://pubmed.ncbi.nlm.nih.gov/28150974/</ref>.
 
+## Impact of Nationalism
+
+National pride is correlated with greater personal well-being, but civic nationalists are on the whole happier than ethnic nationalists<ref>https://www.sciencedaily.com/releases/2011/12/111209171944.htm</ref>.
+
+Nationalism can improve social cohesion but can also increase protectionism and intolerance. There is an inverted U-shaped relationship between nationalism and government effectiveness, with most countries having a higher than optimal level of nationalism. Nationalism may also mitigate the effects of ethnic heterogeneity in former colonies through creating a new identity where there wasn’t one prior<ref>https://ideas.repec.org/a/eee/jcecon/v39y2011i3p431-451.html</ref>.
+
+Group-based relative deprivation in New Zealand was found to be negatively associated with well-being. However, it was associated with higher nationalism which was itself associated with higher well-being. This suggests that endorsing beliefs about national identity or superiority can help a dominant ethnic group cope with perceiving that their group is deprived<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12563</ref>.
+
 ## References
 
 <references />
