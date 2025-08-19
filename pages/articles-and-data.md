@@ -115,10 +115,6 @@ permalink: /articles-and-data/
 
 ## To Look at Later
 
-* [https://docs.google.com/document/d/1GWsc0ZZb1SNPqrfltILmZ6ANG2ylAfFK9Nvq9Qxw7g0/edit Death penalty]
-* [https://files.catbox.moe/q511hd.pdf The Model for Intelligence]
-* [https://www.yourbrainonporn.com/research/ Your Brain on Porn]
-* [https://docs.google.com/document/d/1DMJmApJ0ueMKn5viHJlLA2t4WyKF4T0P/edit#h Free Markets Work]
 * [https://equalitytrust.org.uk The Equality Trust]
 * [https://en.wikipedia.org/wiki/Climate_change_mitigation Climate change mitigation]
 * [https://en.wikipedia.org/wiki/Climate_change_adaptation Climate change adaptation]
@@ -128,10 +124,7 @@ permalink: /articles-and-data/
 * [https://citizendium.org Citizendium]
 * [https://gwern.net Gwern]
 * [https://typeset.io SciSpace]
-* [https://fairplayforwomen.com/transgender-male-criminality-sex-offences/https://fairplayforwomen.com/transgender-male-criminality-sex-offences/ Transgender women exhibit a male-type pattern of criminality: Implications for legislators and policy makers]
 * [https://openborders.info Open Borders]
-* [https://plato.stanford.edu/entries/thomas-kuhn/ Thomas Kuhn]
-* [https://plato.stanford.edu/entries/lakatos/ Imre Lakatos]
 * [https://infogalactic.com/info/Main_Page Infogalactic]
 * [https://darkempressofthevoid.substack.com The Void]
 * [https://therabbithole84.substack.com The Rabbit Hole]
