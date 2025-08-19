@@ -125,7 +125,6 @@ permalink: /articles-and-data/
 * [https://en.wikipedia.org/wiki/Politics_of_climate_change Politics of climate change]
 * [https://nap.nationalacademies.org/collection/ National Academies Press]
 * [https://www.philosophybasics.com Philosophy Basics]
-* [https://hbr.org Harvard Business Review]
 * [https://infrawiki.us/index.php/Main_Page InfraWiki]
 * [https://www.scholarpedia.org/article/Main_Page Scholarpedia]
 * [https://citizendium.org Citizendium]
