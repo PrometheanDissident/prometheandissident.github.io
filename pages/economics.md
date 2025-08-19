@@ -612,6 +612,24 @@ Joseph Heath points to a number of drivers explaining why Marxism declined in ac
 - The notion of post-scarcity conditions was undermined by Veblen who pointed out that general satiation is impossible because much of our material consumption is instrumental to the attainment of outcomes that are zero-sum at the population level.
 - Socialist calculation debate undermined alternatives to capitalism.
 
+## Woke Capitalism
+
+Brands committed to diversity and representation build better consumer relationships and also experience significant financial gains, suggesting the “go woke go broke” idea is false. Inclusive advertising content led to a 3.5% increase in short-term sales and a 16% boost in long-term revenue<ref>https://www.unilever.com/news/news-search/2024/new-study-shows-inclusive-advertising-is-better-for-business/</ref>.
+
+However, not all “woke” advertising increases profits, such as in the Bud Light situation which led to boycotts against the brand. This led to significantly lower sales and purchasing of Bud Light beer. Several factors can explain why the Bud Light situation was worse, including<ref>https://hbr.org/2024/03/lessons-from-the-bud-light-boycott-one-year-later</ref>:
+
+* The brand’s consumer base was less in line with the brand’s stance on social and political issues due to them skewing slightly right. Because of this, the left stance alienated a big chunk of right-wing consumers of Bug Light. In general, brands that appeal to people closer to the center are at higher risk when they engage in any political advertising as they’ll always alienate some large chunk of their consumer base.
+
+* Bud Light was highly substitutable, meaning boycotts were not as personally costly to consumers.
+
+* Consumption of Bud Light is often done in social events, meaning that drinking or not drinking it following the woke advertising is seen as a political signal. Thus, people will be more weary of drinking it.
+
+While Bud Light’s sales dip was particularly bad, boycotts in general due to social media trends are often short lived as research shows<ref>https://www.npr.org/2023/04/27/1172299478/bud-light-sales-fall-trans-influencer-boycott</ref>.
+
+LGBT-friendly corporate policies are positively associated with firm performance in the form of profitability and stock market valuations<ref>https://onlinelibrary.wiley.com/doi/10.1111/acfi.12787#:~:text=,Our%20results</ref>.
+
+Corporate social performance, a business’s outcomes in terms of how they relate to its social relationships, has become increasingly important with the rise of social media and its corresponding forms of activism. Research suggests that corporate virtue in the form of social responsibility and to a lesser extent environmental responsibility is likely to pay off<ref>https://www.researchgate.net/publication/241180100_Corporate_Social_and_Financial_Performance_A_Meta-Analysis</ref><ref>https://www.sciencedirect.com/science/article/pii/S0148296325000414</ref>.
+
 ## References
 
 <references />
