@@ -14,6 +14,19 @@ Heritability is a very misleading concept for several reasons. It is often assum
 * Second, given that all traits are filtered through genetics, it is impossible to actually separate out genetic from environmental effects. Genes turn on and respond in various ways depending on the environment, so the strict separation between genetic and environmental influences is highly dubious.
 * Third, twin studies which are the hallmark of heritability estimates assume that identical twins have no more similar environments than fraternal twins, and thus attribute all differences between groups to genetics. However, identical twins are exposed to demonstrably similar environments than are fraternal twins, starting in the womb. Identical twins often share a placenta while fraternal twins always have two separate placentas. Identical twins that share a placenta have more similar IQs and personalities than identical twins who do not share a placenta. This effect however appears to be small and only limited to a few phenotypes<ref>https://sci-hub.ru/https://doi.org/10.1007/s10519-015-9745-3</ref>. More significantly, it is likely that identical twins will be treated in social interactions more similarly than fraternal twins, increasing the similarity of their environments further. This has been shown to undermine research finding a strong heritability for schizophrenia, as identical twins have a smaller differences in their level of bullying, sexual abuse, physical maltreatment, emotional neglect and abuse, and general trauma compared to fraternal twins<ref>https://pubmed.ncbi.nlm.nih.gov/25972816/</ref>. Only some of those traits could be reasonably suggested to be genetic. This is consistent with research suggesting that the equal environments assumption is not strictly valid for most outcomes, with a likely modest bias<ref>https://sci-hub.hkvisa.net/10.1080/19485565.1968.9987750</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.ssresearch.2013.10.004</ref>.
 
+Top 10 replicated findings from behavioral genetics<ref>https://journals.sagepub.com/doi/full/10.1177/1745691615617439</ref>:
+
+* Finding 1. All psychological traits show significant and substantial genetic influence
+* Finding 2. No traits are 100% heritable
+* Finding 3. Heritability is caused by many genes of small effect
+* Finding 4. Phenotypic correlations between psychological traits show significant and substantial genetic mediation
+* Finding 5. The heritability of intelligence increases throughout development
+* Finding 6. Age-to-age stability is mainly due to genetics
+* Finding 7. Most measures of the “environment” show significant genetic influence
+* Finding 8. Most associations between environmental measures and psychological traits are significantly mediated genetically
+* Finding 9. Most environmental effects are not shared by children growing up in the same family
+* Finding 10. Abnormal is normal
+
 ## <span style="background-color:lightcoral">Intelligence</span>
 
 ### <span style="background-color:orange">G Factor</span>
