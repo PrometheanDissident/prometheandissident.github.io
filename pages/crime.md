@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Crime
+title: Crimetesting
 permalink: /crime/
 ---
 
@@ -116,6 +116,9 @@ The strongest evidence is consistent with the claim that the Australian 1996 Nat
 
 Research from 130 studies in 10 different countries suggests that in some countries the simultaneous implementation of laws targeting multiple firearms restrictions is associated with reductions in firearms deaths, as well as background check and safer storage laws<ref>https://pubmed.ncbi.nlm.nih.gov/26905895/</ref>.
 
-## <f>References</f>
+<f>
+
+## References
+</f>
 
 <references />
