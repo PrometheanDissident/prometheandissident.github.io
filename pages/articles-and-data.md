@@ -133,7 +133,6 @@ permalink: /articles-and-data/
 * [https://www.core-econ.org CORE-Econ]
 * [https://gwern.net Gwern]
 * [https://typeset.io SciSpace]
-* [https://sci-hub.ru/https://doi.org/10.1007/BF02693231 Egalitarian fiction and collective fraud]
 * [https://fairplayforwomen.com/transgender-male-criminality-sex-offences/https://fairplayforwomen.com/transgender-male-criminality-sex-offences/ Transgender women exhibit a male-type pattern of criminality: Implications for legislators and policy makers]
 * [https://openborders.info Open Borders]
 * [https://plato.stanford.edu/entries/thomas-kuhn/ Thomas Kuhn]
