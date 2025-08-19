@@ -129,8 +129,6 @@ permalink: /articles-and-data/
 * [https://infrawiki.us/index.php/Main_Page InfraWiki]
 * [https://www.scholarpedia.org/article/Main_Page Scholarpedia]
 * [https://citizendium.org Citizendium]
-* [https://raceandconflicts.home.blog Race & Conflicts]
-* [https://www.core-econ.org CORE-Econ]
 * [https://gwern.net Gwern]
 * [https://typeset.io SciSpace]
 * [https://fairplayforwomen.com/transgender-male-criminality-sex-offences/https://fairplayforwomen.com/transgender-male-criminality-sex-offences/ Transgender women exhibit a male-type pattern of criminality: Implications for legislators and policy makers]
