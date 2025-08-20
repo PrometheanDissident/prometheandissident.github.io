@@ -116,16 +116,10 @@ permalink: /articles-and-data/
 ## To Look at Later
 
 * [https://equalitytrust.org.uk The Equality Trust]
-* [https://en.wikipedia.org/wiki/Climate_change_mitigation Climate change mitigation]
-* [https://en.wikipedia.org/wiki/Climate_change_adaptation Climate change adaptation]
-* [https://en.wikipedia.org/wiki/Politics_of_climate_change Politics of climate change]
 * [https://nap.nationalacademies.org/collection/ National Academies Press]
 * [https://www.philosophybasics.com Philosophy Basics]
 * [https://citizendium.org Citizendium]
-* [https://gwern.net Gwern]
 * [https://typeset.io SciSpace]
-* [https://openborders.info Open Borders]
 * [https://infogalactic.com/info/Main_Page Infogalactic]
 * [https://darkempressofthevoid.substack.com The Void]
 * [https://therabbithole84.substack.com The Rabbit Hole]
-* [https://teoriaevolutiva.wordpress.com/wp-content/uploads/2014/02/edward_o-_wilson_sociobiology_the_abridged_editbookos-org.pdf Sociobiology THE ABRIDGED EDITION]
