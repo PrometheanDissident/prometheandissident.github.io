@@ -11,3 +11,4 @@ permalink: /ai-tools/
 - [https://julius.ai/ Julius AI] - For AI data analytics
 - [https://www.vondy.com/ Vondy] - For making bots, automization
 - [https://www.removepaywall.com/ Remove Paywall] - For removing paywalls from news articles
+  [https://typeset.io SciSpace] - For research tasks
