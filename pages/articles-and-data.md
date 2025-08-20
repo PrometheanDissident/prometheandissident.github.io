@@ -112,14 +112,3 @@ permalink: /articles-and-data/
 * [https://freelearning.carrd.co/#databases Libraries/Databases]
 * [https://freelearning.carrd.co/#mooc MOOCs (Massive Open Online Course)]
 * [https://freelearning.carrd.co/#ocw OCWs (OpenCourseWare)]
-
-## To Look at Later
-
-* [https://equalitytrust.org.uk The Equality Trust]
-* [https://nap.nationalacademies.org/collection/ National Academies Press]
-* [https://www.philosophybasics.com Philosophy Basics]
-* [https://citizendium.org Citizendium]
-* [https://typeset.io SciSpace]
-* [https://infogalactic.com/info/Main_Page Infogalactic]
-* [https://darkempressofthevoid.substack.com The Void]
-* [https://therabbithole84.substack.com The Rabbit Hole]
