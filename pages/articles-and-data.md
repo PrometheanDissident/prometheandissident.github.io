@@ -25,6 +25,7 @@ permalink: /articles-and-data/
 * [https://temora.neocities.org/b/TALAU3.pdf Leaving the Cathedral]
 * [https://www.humanbiologicaldiversity.com HBD]
 * [https://docs.google.com/document/d/1I2CiV8fGWVMFgt2enjysCmdOBhAxfb-ZgvcDXGFn9KE/edit 4 Steps (100s of sources) Showing How Criminal Justice System's Racial Bias Is Non-Existent or Negligible]
+* [https://positions.destiny.gg Destiny's Positions]
 
 ## Books 
 
@@ -104,11 +105,3 @@ permalink: /articles-and-data/
 * [https://karlin.blog/p/oliver-d-smith-interview-with-a-stalker Oliver D. Smith: Interview with a Stalker How RationalWiki Enabled One Man's Peculiar Hobby]
 * [https://fiddlersgreene.substack.com/p/an-age-of-illiteracy An Age of Illiteracy The Blessings of Babel, Part 1]
 * [https://akarlin.com/ods/hbd-culture/ HBD/IQ Culture]
-
-## Other
-
-* [https://commoncausefoundation.org Common Cause Foundation]
-* [https://positions.destiny.gg Destiny's Positions]
-* [https://freelearning.carrd.co/#databases Libraries/Databases]
-* [https://freelearning.carrd.co/#mooc MOOCs (Massive Open Online Course)]
-* [https://freelearning.carrd.co/#ocw OCWs (OpenCourseWare)]
