@@ -6,6 +6,17 @@ permalink: /academia/
 
 ## On the Significance of Academia
 
+Academic institutions as an ideal aim to pursue and produce knowledge across a wide variety of subjects. Across both the hard sciences as well as the humanities, they have been unparalleled in their influence on thought within societies today on a technological as well as a cultural level. Such institutions, regardless of one's thoughts on how well they achieve their aims, have nonetheless done a lot of good for the society, and such institutions are invaluable. This is for the following reasons:
+
+- Knowledge is crucial for the advancement of society in terms of its quality of life, and a lot of research that has such effects is unlikely to be immediately profitable. Because of this lack of profitability, private firms cannot be expected to engage in the perfectly optimal level of innovation that would increase societal well-being. For this, governments as well as academic institutions have to take up the responsibility, after which firms can reap the benefits of the knowledge which would not have been produced otherwise (see [Maximizing Innovation and Technology](https://prometheandissident.github.io/economics/#maximizing-innovation-and-technology)).
+- Due to transaction costs, it is difficult for individual researchers to collaborate with one another on large-scale research projects which involve more than one individual's resources and/or expertise. Academic institutions provide an easier means by which researchers can communicate with one another, either through informal networks that are created or physical proximity if the researchers are a part of the same institution. The latter is essential for the production of knowledge, as research suggests that researchers who are part of in-person teams are more likely to make scientific breakthroughs than researchers who are collaborating remotely<ref>https://www.nature.com/articles/d41586-023-03618-x</ref>.
+- Academic institutions also serve the role of educating the workforce of tomorrow. While many including myself would argue that there is a problem with overcredentialization that has been created through an excess number of individuals attending university, some level of education is crucial for a number of jobs. A person shouldn't be able to become a doctor without basic medical training, for instance, and universities provide such educational opportunities.
+
+
+
+
+
+
 
 
 
