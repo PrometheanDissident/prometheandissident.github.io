@@ -21,6 +21,19 @@ University degrees, the primary credential that individuals receive following po
 
 But just because there are positives to academia doesn't mean that such institutions have not also done bad things or operated in optimal ways. I aim to show both the benefits of academic institutions as they exist today, as well as their limitations. In doing so, I will draw upon research looking at the validity of expert judgment, the validity of peer review, broader problems with academic research, as well as biases that academic institutions can exhibit. While discussing these limitations where they exist, it is important to always remember that academia is crucial for the functioning of society, and that some institution needs to take the role that current academic institutions do. So while some may advocate for reform of the current system in addressing its issues, or even the creation of alternative institutions (which is my view), completely getting rid of any possible system which fulfills the functions of academia would be extremely imprudent.
 
+### The Validity of Experts
+
+Much of academic discourse implicitly or explicitly premises itself on the notion that experts constitute some elite class of individuals who simply know so much more than the average person. There is some truth to this notion. In general, an expert will have more knowledge about the subject they have studied relative to the average person. Therefore, it is perfectly reasonable to take the fact that an expert on subject X makes proposition Y on that subject as evidence that proposition Y is true or likely to be true. However, many fail to recognize the limitations of expertise, and how the actual difference between experts and laymen is not as large as might be initially assumed. Thus, many autodidacts can likely outperform experts in their own field, at least on particular tasks which the autodidact has specialized within.
+
+Expertise, defined by having some graduate or professional degree, is associated with an above-average level of intelligence, although the difference is relatively small. Research suggests that the average IQ of an individual with a graduate or professional degree is only 108, which is just over half a standard deviation above the population IQ mean in any industrialized country. Not terrible, but not super impressive either<ref>https://www.researchgate.net/figure/Distribution-of-IQs-as-a-function-of-highest-degree-completed-in-MTFS-sample-N2593_fig1_353203996</ref>:
+
+<img src="https://www.researchgate.net/profile/Emily-Willoughby/publication/353203996/figure/fig1/AS:1060372534554624@1629823921068/Distribution-of-IQs-as-a-function-of-highest-degree-completed-in-MTFS-sample-N2593.png" alt="Distribution of IQs as a function of highest degree completed in MTFS sample" width="500">
+
+
+
+
+
+
 
 
 
