@@ -76,6 +76,12 @@ Despite this belief in the validity of journals with a higher impact factor, evi
 
 However, the most damning piece of evidence on this question is a study which found that the replicability and research quality of a paper in a journal decreases as the journal ranking increases as measured by the impact factor<ref>https://www.frontiersin.org/articles/10.3389/fnhum.2018.00037/full</ref>. In other words, a higher impact factor for a journal actually predicts worse quality of papers, contrary to the assumptions of researchers in general. In short, expert measures of the quality of academic research in journals is poor and may if anything may produce exact opposite ordinal rankings than exist when assessing the actual quality of papers.
 
+### Research Misconduct
+
+## Political Bias in Academia
+
+## The Incentive Structures of Academia
+
 ## ================================================================ TO ADD BELOW ================================================================
 
 
