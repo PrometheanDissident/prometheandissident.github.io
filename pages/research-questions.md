@@ -44,3 +44,5 @@ permalink: /research-questions/
 * Look into whether jobs are being lost due to AI
 * Look into what right-wing authoritarianism is
 * Role that urbanization plays in fertility
+* Competition policy
+* Effects of daycare on psychological well-being of children
