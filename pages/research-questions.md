@@ -38,3 +38,9 @@ permalink: /research-questions/
 * Rape culture
 * Direct instruction
 * Phonics vs whole word approach
+* Look into Milei's economic policy and its effects
+* Effects of vigilanteism on crime
+* Any studies suggesting differential economic/criminal/etc effects of immigrants depending on country of origin?
+* Look into whether jobs are being lost due to AI
+* Look into what right-wing authoritarianism is
+* Role that urbanization plays in fertility
