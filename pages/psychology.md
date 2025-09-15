@@ -442,6 +442,26 @@ The Moral Foundations Theory attempts to explain why despite vast differences ac
 
 Fairness was later split into equality and proportionality, which suggests six foundations. Other possible foundations may be liberty, honor and ownership<ref>https://moralfoundations.org/</ref>.
 
+Kohlberg’s theory of moral development consists of six stages arranged sequentially in successive tiers of complexity. The first two are in level 1, the preconventional level; the next two are in level 2, the conventional level; and the last two are in level 3, the postconventional level<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+
+At the preconventional level, morality is externally controlled<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+- Stage 1: Punishment/obedience orientation - Behaviour is determined by consequences. The individual will obey in order to avoid punishment.
+- Stage 2: Instrumental purpose orientation - Behaviour is determined again by consequences. The individual focuses on receiving rewards or satisfying personal needs.
+
+At the conventional level, conformity to social rules remains important, but the emphasis shifts from self-interest to relationships with other people and social systems<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+- Stage 3: Good Boy/Nice Girl orientation - Behaviour is determined by social approval. The individual wants to maintain or win the affection and approval of others by being a “good person.”
+- Stage 4: Law and order orientation - Social rules and laws determine behaviour. The individual now takes into consideration a larger perspective, that of societal laws. Moral decision making becomes more than consideration of close ties to others. The individual believes that rules and laws maintain social order that is worth preserving.
+
+At the postconventional or principled level, the individual moves beyond the perspective of their own society, and defines morality in terms of abstract principles and values that apply to all situations and societies. The individual attempts to take the perspective of all individuals<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+- Stage 5: Social contract orientation - Individual rights determine behaviour. The individual views laws and rules as flexible tools for improving human purposes. That is, given the right situation, there are exceptions to rules. When laws are not consistent with individual rights and the interests of the majority, they do not bring about good for people and alternatives should be considered.
+- Stage 6: Universal ethical principle orientation - According to Kohlberg, this is the highest stage of functioning. However, he claimed that some individuals will never reach this level. At this stage, the appropriate action is determined by one’s self-chosen ethical principles of conscience. These principles are abstract and universal in application. This type of reasoning involves taking the perspective of every person or group that could potentially be affected by the decision.
+
+Data shows that older individuals tend to use higher stages of moral reasoning when compared with younger individuals, and there is “upward” progression in accordance with the theoretical order of stages. Studies have revealed that comprehension of the stages is cumulative (i.e. someone at stage 4 understands the lower stages but not necessarily the higher stages)<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+
+Kohlberg’s scheme should not be interpreted in terms of increasing degrees of moral maturity, but rather in terms of personality style and political preferences<ref>https://www.psychologytoday.com/us/blog/cui-bono/202506/do-liberals-protest-more-than-conservatives</ref>.
+
+Persons whose moral appraisals are grounded on considerations which regularly transcend the dictates of law and custom may be unconventional, liberal, and progressive; however, they may also be capricious, undependable, and anticonforming. On the other hand, persons whose moral judgments are guided by rational and legal considerations are often thoughtful, considerate, and honest; yet, they may also be conventional and overconforming. They have a strong need for structure and order and tend to gravitate to positions where support of rules of conduct is viewed as positive behavior. Low scorers, on the other hand, often seem to delight in changing the "system." Thus, both high and low scorers on the test possess unique virtues and drawbacks, and an effective society undoubtedly requires both kinds of persons; that is, high scorers to provide stability and order, low scorers to provide the stimulus for evolution and change<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0030095</ref>.
+
 ## References
 
 <references />
