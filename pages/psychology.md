@@ -431,6 +431,17 @@ Research across 21 nations shows that the propensity for ecological threat corre
 
 Human societies exist as they do today because of group members enforcing moral behaviors and social rules on each other. Social punishment ultimately shaped the group’s survival, which led to advantageous evolutionary strategies that foster conscience and altruism. Acts such as cheating, stealing or killing were dealt with systematically early in the dawn of Homo Sapiens through the use of shame, ostracism or other punitive actions, which has led to an adaptive genetic inheritance of “social self controls”. The biological advantage of imposing rules of behavior in the first place is that groups survive better than single individuals. This social selection is certainly not as strong as sexual selection or natural selection is, as countless people today violate social norms nonetheless. One possible reason is that it has not been around long enough<ref>https://dwz.psych.ucla.edu/wp-content/uploads/sites/114/2016/11/MoralBookReview.pdf</ref>.
 
+Some elements of morality clearly evolved, but the specifics are unclear, which underlines the implications that ecopsych people take when using this to discuss moral philosophy. A small body of evidence suggests that normative cognition, the ability to grasp and apply norms, evolved. This provides weak evidence that moral cognition evolved. Some argue that if morality evolved then it is undermined in its legitimacy, but if normative cognition evolved in general then under that same logic other norms such as epistemic norms would then be equally undermined<ref>https://web.ics.purdue.edu/~drkelly/MacheryMallonEvolutionMorality2010.pdf</ref>.
+
+The Moral Foundations Theory attempts to explain why despite vast differences across cultures, morality often has shared themes and similarities across populations by suggesting there are several innate psychological systems at the core of our “intuitive ethics”. The original framework identified five foundations that were strongly supported by evidence across various cultures<ref>https://moralfoundations.org/</ref>:
+- Care: Comes from ability to feel and dislike pain of others, underlies virtues of kindness, gentleness and nurturance
+- Fairness: Comes from reciprocal altruism, underlies virtues of justice and rights. 
+- Loyalty: Active when people feel attached to coalitions, underlies patriotism and self-sacrifice for the group
+- Authority: Deference to prestigious authority figures and respect for traditions
+- Purity: Underlies idea that the body is a temple that can be desecrated by immoral activities and contaminants, underlies self-discipline, self-improvement, naturalness and spirituality
+
+Fairness was later split into equality and proportionality, which suggests six foundations. Other possible foundations may be liberty, honor and ownership<ref>https://moralfoundations.org/</ref>.
+
 ## References
 
 <references />
