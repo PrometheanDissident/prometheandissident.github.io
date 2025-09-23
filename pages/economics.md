@@ -707,6 +707,34 @@ LGBT-friendly corporate policies are positively associated with firm performance
 
 Corporate social performance, a business’s outcomes in terms of how they relate to its social relationships, has become increasingly important with the rise of social media and its corresponding forms of activism. Research suggests that corporate virtue in the form of social responsibility and to a lesser extent environmental responsibility is likely to pay off<ref>https://www.researchgate.net/publication/241180100_Corporate_Social_and_Financial_Performance_A_Meta-Analysis</ref><ref>https://www.sciencedirect.com/science/article/pii/S0148296325000414</ref>.
 
+## Homelessness
+
+**Permanent Supportive Housing**
+
+- Permanent supportive housing is long-term housing in the community combined with support services tailored to the person’s needs, following the principles of “housing first” where housing is not contingent on abstinence from substance use. There is some evidence to suggest that it can increase housing stability, with a potential sustained benefit for up to 5.4 years. Some evidence suggests that it can also reduce visits to the emergency department and admission to the hospital. These benefits were seen in studies which included individuals who were mentally ill or had substance use disorders<ref>https://globalageing.cochrane.org/blog/13-housing-income-assistance-and-case-management-improve-housing-outcomes-persons-lived</ref>.
+- Randomized trials comparing HUD-VA Supported Housing (HUD-VASA) to rent subsidies and intensive case management found that HUD-VASH veterans with psychiatric and/or substance use disorders had superior housing outcomes, with no significant differences on any measures of psychiatric or substance abuse status or community adjustment, although HUD-VASH clients had larger social networks<ref>https://jamanetwork.com/journals/jamapsychiatry/fullarticle/207801</ref>. HUD-VASH veterans had 25% more days housed than those in standard care, but it was $6200 (15%) more costly than standard care.
+- Uptake of voluntary services that permanent supportive housing programs offer, such as case management, employment support and community based healthcare, increase when individuals have housing stability, and uptake of those increases housing stability itself<ref>https://community.solutions/what-is-housing-first/</ref>.
+- Furthermore, the majority of housing first tenants do not return to homelessness, remaining stably housed at rates that often exceed those at traditional treatment first programs<ref>https://community.solutions/what-is-housing-first/</ref>.
+- In Finland, beginning in 2007 national policies shifted toward reducing long-term homelessness through housing first programs. This shift in part led to the number of homeless individuals residing in hostels or boarding houses decreasing by 76 percent from 2008-2017<ref>https://housingfirsteurope.eu/country/finland/</ref>.
+
+**Rapid Re-Housing**
+
+- The second of the two types of “housing first” interventions, rapid re-housing offers short-term assistance for individuals and families<ref>https://community.solutions/what-is-housing-first/</ref>.
+- Comparing rapid re-housing, emergency shelters, and transitional housing, rapid re-housing was by far the least expensive intervention ($6,578 per stay compared to over $16,000 and $32,000 respectively), and was as if not more effective than the other crisis interventions<ref>https://endhomelessness.org/resources/research-and-analysis/findings-and-implications-of-the-family-options-study/</ref>.
+- Long-term housing subsidies had a significantly positive impact on housing stability relative to usual care, reducing the proportion of families being homeless or doubled-up in the previous six months by 50% and reducing the proportion of families who experienced a shelter stay by 75%. Project-based transitional housing was less effective, and community-based rapid rehousing had no discernible impact on housing stability after 37 months. Regarding child well-being, long-term housing subsidies reduced behavior problems, the number of schools attended, and sleep problems. They reduced the proportion of families that were food insecure, but also slightly reduced labor force participation<ref>https://nlihc.org/resource/follow-family-options-study-long-term-housing-subsidies-are-most-effective-intervention</ref>.
+
+**Housing Subsidies**
+
+- Temporary financial assistance for individuals and families at imminent risk of homelessness averaging nearly $2000 significantly reduced homelessness by 3.8 percentage points from a base rate of 4.1 percent, largely driven by a reduction in emergency shelter use. Estimates suggest this is cost-saving, as the net public cost is $1822 per person, while the benefits to recipients are greater through income transfers, to landlords who do not have to turnover vacant units, and to members of the public from defusing violence. The effects of temporary financial assistance are larger for people with a history of homelessness and no children<ref>https://sites.nd.edu/james-sullivan/files/2023/04/SCC_homelessness_prevention-8-1.pdf</ref>.
+
+**Unconditional Cash Transfers**
+
+- In an RCT that provided $7500 to individuals, cash recipients spent fewer days homeless, increased savings and spending with no increase in temptation goods spending, and generated societal net savings of $777 per recipient via reduced time in shelters<ref>https://hpri.usc.edu/homeless_research/unconditional-cash-transfers-reduce-homelessness/</ref>.
+
+**Employment and Skills-Based Programs**
+
+- The Individual Placement and Support (IPS) is a model of supported employment that focuses on competitive employment in integrated work settings with supervision provided by personnel employed at the business. It is not exclusively focused on homeless people but a substantial proportion of those who undertake such programs have recently experienced homelessness. Those who are part of IPS programs have significantly better employment outcomes<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4417652/</ref>.
+
 ## References
 
 <references />
