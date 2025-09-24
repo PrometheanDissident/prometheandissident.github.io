@@ -749,6 +749,14 @@ Corporate social performance, a business’s outcomes in terms of how they relat
 
 - Vienna’s social housing system uses rent cross subsidization, whereby the rents of tenants with higher incomes offset the lower rents paid by people who earn less. In the city, 60 percent of the population live in social housing, and the program is widely popular among its residents. This public option competes with the private market to drive down housing costs of private units<ref>https://www.socialhousingcenter.org/reports-3</ref>.
 
+## Urbanism
+
+Urban sprawl, which is a pattern of uncontrolled development among city peripheries, is increasingly common and negatively affects public health and the environment. For example, research suggests it contributes to obesity, diabetes, cardiovascular disease, and respiratory disease<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC2936977/</ref>. Sprawl patterns, such as “loops and lollipops”, often require car access which puts a strain on affordability and limits the ability for lower-income people to easily access jobs and services<ref>https://www.sciencedirect.com/science/article/abs/pii/S0169204618300744</ref>.
+
+Smart growth is a policy framework recommended to combat sprawl. It promotes high population density, walkable and bikeable neighborhoods, preserved green spaces, mixed-use development, available mass transit and limited road construction<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC2936977/</ref>.
+
+Transit-oriented development (TOD) is an approach to transport and land use planning that aims to make walking, cycling and transit use convenient and desirable. Research suggests that TOD results in lower levels of car use, higher levels of public transport use, and much higher levels of walking. It is however difficult to implement because of organizational fragmentation between the various regional and local authorities, as well as private and public sector actors<ref>https://www.k2centrum.se/sites/default/files/fields/field_uppladdad_rapport/k2_research_2020_2_0.pdf</ref>.
+
 ## References
 
 <references />
