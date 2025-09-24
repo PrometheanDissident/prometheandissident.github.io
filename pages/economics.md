@@ -735,6 +735,20 @@ Corporate social performance, a business’s outcomes in terms of how they relat
 
 - The Individual Placement and Support (IPS) is a model of supported employment that focuses on competitive employment in integrated work settings with supervision provided by personnel employed at the business. It is not exclusively focused on homeless people but a substantial proportion of those who undertake such programs have recently experienced homelessness. Those who are part of IPS programs have significantly better employment outcomes<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4417652/</ref>.
 
+## Housing (combine)
+
+**Drivers of housing unaffordability**
+
+- Welfare regimes are important in determining housing outcomes, but many advanced economies have been experiencing welfare retrenchment and a move toward a market-driven housing system. The reduction of publicly subsidized housing removes some of the most affordable housing from the market, affecting the availability of housing for those in need<ref>https://www.tandfonline.com/doi/full/10.1080/02673037.2022.2123623</ref>. Over the past two decades, in OECD countries public investment in housing has declined substantially<ref>https://www.oecd.org/en/topics/sub-issues/affordable-housing.html</ref>.
+
+- Not-in-my-backyard (NIMBY) anti-development pressures have grown which lead to increasingly strict municipal policies and regulations, making building new high-density housing very difficult<ref>https://docs.iza.org/pp203.pdf</ref>.
+
+**Approaches**
+
+- The United States’s housing choice voucher program is the country’s largest rental assistance program and helps more than 2 million low-income families rent modest units of their choice in the private market. It has been shown to be very effective in reducing homelessness, housing instability, and overcrowding and at improving other outcomes for families and children. In the United States, they lift more than a million people out of poverty. There is mixed evidence on how rental assistance affects employment and earnings<ref>https://www.cbpp.org/research/research-shows-housing-vouchers-reduce-hardship-and-provide-platform-for-long-term-gains</ref>.
+
+- Vienna’s social housing system uses rent cross subsidization, whereby the rents of tenants with higher incomes offset the lower rents paid by people who earn less. In the city, 60 percent of the population live in social housing, and the program is widely popular among its residents. This public option competes with the private market to drive down housing costs of private units<ref>https://www.socialhousingcenter.org/reports-3</ref>.
+
 ## References
 
 <references />
