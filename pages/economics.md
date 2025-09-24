@@ -757,6 +757,8 @@ Smart growth is a policy framework recommended to combat sprawl. It promotes hig
 
 Transit-oriented development (TOD) is an approach to transport and land use planning that aims to make walking, cycling and transit use convenient and desirable. Research suggests that TOD results in lower levels of car use, higher levels of public transport use, and much higher levels of walking. It is however difficult to implement because of organizational fragmentation between the various regional and local authorities, as well as private and public sector actors<ref>https://www.k2centrum.se/sites/default/files/fields/field_uppladdad_rapport/k2_research_2020_2_0.pdf</ref>.
 
+High-quality public transport increases accessibility for people, which has a range of effects. It increases economic activity on both an aggregate and household level, it boosts employment although it increases housing prices. Public transportation improves social connections, especially for older people in isolated rural areas<ref>https://discovery.ucl.ac.uk/id/eprint/10203891/1/Alhassan%20and%20Anciaes%202025%20Public%20transport%20investments%20as%20generators%20of%20economic%20and%20social%20activity.pdf</ref>. Land value uplift from public transport varies in estimates across studies, but is generally found to be about 10 percent<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/02/the-future-of-public-transport-funding_d0cbc29f/82a4ba65-en.pdf</ref>.
+
 ## References
 
 <references />
