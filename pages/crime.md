@@ -144,6 +144,22 @@ Police are rarely trained to address the human, medical or social conditions tha
 
 One way to improve police responses to welfare checks, especially when it’s necessary in cases which involve weapons or threats of violence, is to offer Crisis Intervention Team (CIT) training<ref>https://www.safetyreimagined.org/papers/welfare-checks</ref>. Co-response which involves pairing police with mental health clinicians may have improved outcomes compared to police-only models<ref>https://pubmed.ncbi.nlm.nih.gov/35103364/</ref>. Some responses to welfare checks may not require any police intervention at all. A 2020 review of 911 calls in 8 major cities found that up to 68% of calls could be handled without sending an armed officer<ref>https://www.themarshallproject.org/2024/07/25/police-mental-health-alternative-911</ref>.
 
+## Defund the Police
+
+Police station closures in London between 2010 and 2016 as a consequence of austerity led to an 11 percent increase in violent crimes<ref>https://cepr.org/voxeu/columns/policing-budget-understanding-impacts-austerity-cuts-crime-police-effectiveness-and</ref>.
+
+Curtailing proactive policing in New York City was associated with a decrease in civilian complaints of major crimes shortly after<ref>https://ideas.repec.org/a/nat/nathum/v1y2017i10d10.1038_s41562-017-0211-5.html</ref>.
+
+## Recidivism, Rehabilitation and Deterrence
+
+The certainty of being caught for a crime is a vastly more powerful deterrent than the punishment. Furthermore, while prisons are good for keeping criminals off the street, prison sentences and particularly long sentences are unlikely to deter future crime. It can actually have the opposite effect, as those who are incarcerated can learn more effective crime strategies from one another, and it may desensitize someone to the threat of future imprisonment<ref>https://nij.ojp.gov/topics/articles/five-things-about-deterrence</ref>.
+
+Greater amounts of police deter crime by increasing the perception that criminals will be caught and punished, while increasing the severity of punishment does little to deter crime<ref>https://nij.ojp.gov/topics/articles/five-things-about-deterrence</ref>.
+
+A meta-analysis found that cognitive behavioral therapy (CBT) has on average significant positive effects on recidivism. The odds of not having recidivism for the next 12 months after release was 1.53 for those receiving CBT, or an implied recidivism reduction of 25 percent<ref>https://pdfs.semanticscholar.org/8305/612f8770971495bbf9e2225906e501e9f060.pdf</ref>.
+
+Correctional education comprises college- and university-level courses for individuals incarcerated in prison to enhance pathways for post-release employment and overall success. Such programs tend to have significant benefits which outweigh the costs, as they reduce the probability of future criminal offending or prison misconduct<ref>https://www.wsipp.wa.gov/BenefitCost/Program/735</ref>.
+
 ## References
 
 <references />
