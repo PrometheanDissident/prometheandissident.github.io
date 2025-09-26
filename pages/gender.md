@@ -702,6 +702,14 @@ The rate of false reports of sexual assault tends to be found to be about 5%. Ho
 
 Feminists tend to report lower levels of hostility toward men than nonfeminists<ref>https://journals.sagepub.com/doi/10.1111/j.1471-6402.2009.01491.x</ref>.
 
+## Pornography (to be combined)
+
+Dozens of studies have suggested that pornography does not cause erectile dysfunction<ref>https://academic.oup.com/jsm/article/20/Supplement_1/qdad060.023/7164868</ref>, although some research suggests that heavy porn use can lead to ED or sexual dysfunction more generally<ref>https://www.psychologytoday.com/us/blog/love-and-sex-in-the-digital-age/202104/porn-induced-erectile-dysfunction</ref>.
+
+It has been suggested that pornography acts as a “supernormal stimulus”, an exaggerated imitation of something our brains evolved to pursue. While sexual material has been around for a long time, video pornography is significantly more sexually arousing than other forms of porn or fantasy, novel sexual visuals have been shown to trigger greater arousal than familiar material, and the ability to self-select material makes it more arousing. This is why research suggests that pornography is a unique activator of the brain’s reward system and of delay discounting. It means that pornography may be potent enough to condition one’s sexual arousal to internet pornography use aspects that do not easily transition to real-life partners, although some reports suggest that terminating pornography use is sometimes sufficient to reverse negative effects<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC5039517/</ref>.
+
+Three quarters of teenagers admitted to viewing pornography by the age of 17, with the average age of first exposure being 12. 60 percent say they first stumbled upon pornography by accident<ref>https://culturereframed.org/adolescents-porn-and-mental-health-understanding-the-dangerous-effects-of-porn-on-developing-minds/</ref>.
+
 ## References
 
 <references />
