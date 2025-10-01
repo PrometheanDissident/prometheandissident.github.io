@@ -763,6 +763,26 @@ Zoning restrictions are significant in their effect on housing prices. They have
 
 Stringent restrictions on housing supply prevent workers from accessing high-wage regions leading to spatial misallocation of labor. Analysis of 220 metropolitan areas in the US found that these constraints lowered aggregate US growth by 36 percent from 1964 to 2009<ref>https://www.aeaweb.org/articles?id=10.1257/mac.20170388</ref>.
 
+## Taxation
+
+Research consistently shows that taxation has a negative effect on economic growth. Generally speaking, research finds that corporate income taxes are the most harmful, followed by personal income taxes, then consumption taxes and finally property taxes. This supports the neoclassical view that income and wealth must first be produced and then consumed, so taxes on factors of production such as capital and labor are particularly disruptive to wealth creation<ref>https://taxfoundation.org/research/all/federal/what-evidence-taxes-and-growth/</ref>.
+
+Progressive tax systems mitigate income inequality<ref>https://taxpolicycenter.org/briefing-book/how-do-taxes-affect-income-inequality</ref>, but more progressive income tax systems are negatively associated with economic growth through distorting individual decisions to supply labor and invest in human capital<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/10/do-tax-structures-affect-aggregate-economic-growth_g17a1b64/236001777843.pdf</ref>.
+
+Consumption taxes are neutral to saving as they tax current and future consumption equally, meaning they favor private saving more compared to income taxes<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/07/taxation-and-economic-growth_g17a1ad9/241216205486.pdf</ref>. However, consumption taxes are associated with higher income inequality<ref>https://hal.science/hal-02735145v1/document</ref>.
+
+Property taxation in OECD countries takes four forms: recurrent taxes on land and buildings, taxes on financial and capital transactions, taxes on net wealth and taxes on gifts and inheritances. Recurrent taxes on land and buildings have a small negative effect on economic growth, although less so than other taxes. With property taxes, the tax base is more stable meaning that the revenue generated is more predictable than for revenues generated from labor or corporate taxes, partly due to less cyclical fluctuation in property values. Furthermore, as real estate values are highly visible and immobile, property taxes can be particularly appealing when other tax bases are increasingly mobile internationally<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/07/taxation-and-economic-growth_g17a1ad9/241216205486.pdf</ref>.
+
+Property taxes tend to be under-utilized and generally represent a small share of tax revenue in most countries, despite being found to be the least distortive taxes for long-run economic growth. A revenue-neutral growth-oriented tax reform can be to shift part of the revenue base from income taxes to less distortive taxes, with taxes on residential property likely being the best for growth. However, these taxes are unpopular and generally levied by sub-national governments, limiting the ability for reforms to occur<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/07/taxation-and-economic-growth_g17a1ad9/241216205486.pdf</ref>.
+
+Research suggests that a 1 percent shift of tax revenues from income taxes (both personal and corporate) to consumption and property taxes would increase GDP per capita by between 0.25% and 1% in the long run<ref>https://taxfoundation.org/research/all/federal/what-evidence-taxes-and-growth/</ref>.
+
+There is a moderate impact of inheritance taxes on wealth accumulation and residential choice, as well as tax planning and avoidance in general and inter vivos transfers. However, behavioral responses to an inheritance tax are smaller compared to a recurrent net wealth tax<ref>https://www.wifo.ac.at/wp-content/uploads/upload-8716/wp_2023_668_.pdf</ref>.
+
+Most taxes would benefit from base broadening and rate reductions to improve efficiency<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/07/taxation-and-economic-growth_g17a1ad9/241216205486.pdf</ref>.
+
+The increasing complexity of tax systems may be harmful to growth. They result in high compliance costs that can lead to a loss of efficiency if resources are dedicated to tax compliance as opposed to productive use. Increased tax complexity is often done through anti-avoidance legislation<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/07/taxation-and-economic-growth_g17a1ad9/241216205486.pdf</ref>.
+
 ## References
 
 <references />
