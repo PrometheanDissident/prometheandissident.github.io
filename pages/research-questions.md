@@ -47,3 +47,7 @@ permalink: /research-questions/
 * Competition policy
 * Effects of daycare on psychological well-being of children
 * Corporate governance
+* Group polarization
+* Japan low housing costs
+* Effects of privatizing vs publicizing food
+* House bonusing
