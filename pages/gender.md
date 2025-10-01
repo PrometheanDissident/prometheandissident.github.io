@@ -710,6 +710,14 @@ It has been suggested that pornography acts as a “supernormal stimulus”, an 
 
 Three quarters of teenagers admitted to viewing pornography by the age of 17, with the average age of first exposure being 12. 60 percent say they first stumbled upon pornography by accident<ref>https://culturereframed.org/adolescents-porn-and-mental-health-understanding-the-dangerous-effects-of-porn-on-developing-minds/</ref>.
 
+## Toxic Masculinity
+
+Toxic masculinity refers to stereotypes of masculinity that lead men to act like tough guys, being taught to be strong, not to cry, not to express emotions or be afraid, to fight if necessary, and more<ref>https://idrc-crdi.ca/en/stories/combatting-toxic-masculinity-africa</ref>.
+
+Some argue it is important to distinguish this from traditional masculinity which has traits and role expectations that are positive, such as being a provider and having emotional resilience<ref>https://www.binghamton.edu/news/story/4974/men-with-toxic-masculinity-are-more-likely-to-make-sexual-advances-without-consent</ref>.
+
+Toxic masculinity is associated with higher rates of verbal, online or physical bullying, as well as sexual harassment. It is also associated with experiencing depression and suicidal ideation<ref>https://www.pittwire.pitt.edu/pittwire/features-articles/study-men-scoring-higher-man-box-scale-are-prone-violence-mental-illness</ref>. It also contributes to a reluctance among men to seek help or support for their mental health concerns, exacerbating problems<ref>https://media.journoportfolio.com/users/323854/uploads/505373d9-965d-4e73-82dc-e0a0e7082395.pdf</ref>.
+
 ## References
 
 <references />
