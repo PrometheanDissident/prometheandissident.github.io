@@ -480,6 +480,14 @@ Although young school-aged ASD children did not blindly trust any information pr
 
 ASD people are less able to distinguish truth from lies, which increases risks of being manipulated<ref>https://www.sciencedaily.com/releases/2018/05/180522114817.htm</ref>.
 
+## Personality Cults
+
+A cult of personality is a deliberately created system of art, symbolism and ritual centered on the institutionalized quasi-religious glorification of a specific individual. Since the 20th century, cult of personality has been most often used to refer to charismatic leader cults, a type of personality cult which is based on a political leader and designed to enforce their power, magnify their ideology, and legitimize the rule of the government associated with them. In the 20th century the rise of mass media led to the establishment and flourishing of many personality cults. Autocratic and repressive regimes sought to use these cults of personality to legitimize their power. Some cults were centered on figures who had already attained power or prestige, others lent credence to new political ideologies<ref>https://www.britannica.com/topic/cult-of-personality</ref>.
+
+While these were aimed at providing legitimacy to governments, the ultimate effect was to associate the entire cult of personality with the atrocities committed by these regimes. Increasingly, accusing a leader of being the subject of a cult of personality is a way to question that leader’s authority. Still, these persist in the 21st century<ref>https://www.britannica.com/topic/cult-of-personality</ref>.
+
+Only two characteristics of a cult of personality have been identified by all scholars. First, it is defined by a quasi-ubiquitous praise, manifested through eulogistic articles in mass media and adulatory public parades. Second, the adulation of the leader is not entirely sincere, but largely coerced through employing the state apparatus in the organization of the named parades<ref>https://repositories.lib.utexas.edu/server/api/core/bitstreams/3f2fb7a8-c5f6-47f1-8560-d51dad76e57e/content</ref>.
+
 ## References
 
 <references />
