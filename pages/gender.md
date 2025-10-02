@@ -718,6 +718,10 @@ Some argue it is important to distinguish this from traditional masculinity whic
 
 Toxic masculinity is associated with higher rates of verbal, online or physical bullying, as well as sexual harassment. It is also associated with experiencing depression and suicidal ideation<ref>https://www.pittwire.pitt.edu/pittwire/features-articles/study-men-scoring-higher-man-box-scale-are-prone-violence-mental-illness</ref>. It also contributes to a reluctance among men to seek help or support for their mental health concerns, exacerbating problems<ref>https://media.journoportfolio.com/users/323854/uploads/505373d9-965d-4e73-82dc-e0a0e7082395.pdf</ref>.
 
+## Sexual Revolution
+
+Beginning in the early 1960s, annual number of reported cases of gonorrhea among teenagers rose dramatically, peaking at about 276,000 in 1975, slightly declining thereafter although the age and sex specific rates remained stable. Salipingitis peaked in 1977 at nearly 47,000 hospitalized cases, declining slightly afterwards. Several factors influenced the number, rates, and sex distribution of reported gonorrhea cases and the most serious complication of this infection, salpingitis, among American teenagers during the past two decades. The 1960s and 1970s were marked by the passage of the baby boom. Teenagers also became more sexually active before marriage during the sexual revolution. Teenagers began sexual activity earlier and used contraceptive methods that were not effectively protective against lower genital tract infection. In 1973, federally assisted state and local programs to control gonorrhea were implemented which likely increased reported rates. In the period 1968-1971, various states passed laws permitting physicians to treat teenagers for STDs without notifying their parents also increasing reported rates<ref>https://www.cdc.gov/mmwr/preview/mmwrhtml/00001717.htm</ref>.
+
 ## References
 
 <references />
