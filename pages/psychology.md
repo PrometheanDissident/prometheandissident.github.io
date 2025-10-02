@@ -462,6 +462,24 @@ Kohlberg’s scheme should not be interpreted in terms of increasing degrees of 
 
 Persons whose moral appraisals are grounded on considerations which regularly transcend the dictates of law and custom may be unconventional, liberal, and progressive; however, they may also be capricious, undependable, and anticonforming. On the other hand, persons whose moral judgments are guided by rational and legal considerations are often thoughtful, considerate, and honest; yet, they may also be conventional and overconforming. They have a strong need for structure and order and tend to gravitate to positions where support of rules of conduct is viewed as positive behavior. Low scorers, on the other hand, often seem to delight in changing the "system." Thus, both high and low scorers on the test possess unique virtues and drawbacks, and an effective society undoubtedly requires both kinds of persons; that is, high scorers to provide stability and order, low scorers to provide the stimulus for evolution and change<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0030095</ref>.
 
+## Autism and Belief
+
+Many autistic people seem to be less susceptible to cognitive biases, and are thus better able to make judgments and reach decisions in a more rational manner. Some studies have found that autistic individuals are less influenced by the framing of a choice when deciding between options (framing effect). Autistic individuals have a reduced optimism bias, the bias where people tend to neglect information containing undesirable news but adjust their outlook in response to desirable news. Autistic individuals integrate information in a more objective and unbiased manner than is typical. Autistic people are less likely to fall for the sunk cost fallacy. Autistic individuals are more rational in their judgments about people. They are as likely as neurotypical individuals to show an understanding of race and gender stereotypes, but have lower implicit bias levels, which could be seen as a form of enhanced rationality<ref>https://psyche.co/ideas/autistic-people-challenge-preconceived-ideas-about-rationality</ref>.
+
+Subcortical brain shape maleness is positively associated with autistic symptoms. This appears to be a function of the size, as after adjusting for size there is no difference in brain maleness between ASD and non-ASD individuals. This provides evidence in support of the extreme male brain hypothesis of autism. ASD is four times more common in males than females, and some autistic traits are associated with male-typical behavior. For example, men tend to score lower on empathy tasks, and adults with ASD irrespective of sex score the lowest. Men score on average higher than women on an attention-to-detail task, while individuals with ASD score the highest. Women tended to be empathizing, while men tended to be systematizing. The majority of males and females with autistic symptoms were systematizing<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC8328919/</ref>.
+
+Children with autism are less likely to conform to the majority in the line judgment task compared to children without autism. Autistic traits negatively correlate with likelihood to conform in the typically developing group<ref>https://pubmed.ncbi.nlm.nih.gov/24126871/</ref>.
+
+People tend to act more prosocially when they know they are watched by others due to social reputation concerns. However, high-functioning autistic people are not influenced by the presence or absence of an observer, suggesting that people with autism lack the ability to take into consideration what others think of them<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3198313/</ref>.
+
+Adults with asperger’s syndrome were no more or less likely to conform on average in Asch’s line judgment task, but were significantly more likely to adopt a consistently conforming or nonconforming strategy<ref>https://pubmed.ncbi.nlm.nih.gov/8040221/</ref>.
+
+ASD children perform similarly in deception tasks if both groups have lower social components, but as the social components increase ASD children perform relatively worse, although perform the same on an absolute level<ref>https://www.researchgate.net/publication/311698028_Trust_and_Deception_in_Children_with_Autism_Spectrum_Disorders_A_Social_Learning_Perspective</ref>.
+
+Although young school-aged ASD children did not blindly trust any information provided by the unfamiliar adult, they appeared to be more trusting in the adult informant than did their age- and ability-matched TD children<ref>https://www.sciencedirect.com/science/article/abs/pii/S0022096513000994</ref>.
+
+ASD people are less able to distinguish truth from lies, which increases risks of being manipulated<ref>https://www.sciencedaily.com/releases/2018/05/180522114817.htm</ref>.
+
 ## References
 
 <references />
