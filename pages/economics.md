@@ -793,6 +793,16 @@ Research looking at the period of 1946-2016 shows that significant contractionar
 
 Research suggests that tight MP can reduce potential output even after a decade, while loose MP does not appear to raise long-run potential. These long-run effects develop primarily through investment decisions that ultimately result in lower productivity and lower capital stock than would be available without policy intervention. This is somewhat contrary to the notion that MP is neutral in the long-run, and this can complicate the calibration of policy<ref>https://www.frbsf.org/research-and-insights/publications/economic-letter/2023/09/does-monetary-policy-have-long-run-effects/</ref>.
 
+## Tariffs and Trade Barriers
+
+Tariffs are a type of trade barrier where importers have taxes or duties levied on them<ref>https://www.investopedia.com/articles/economics/08/tariff-trade-barrier-basics.asp</ref>. They can be ad valorem, where they are levied as a fixed percentage of the value of the import, or they can be a fixed amount on a specific good, or a “specific tariff”. There are also “tariff rate quotas” which are tariffs that rise significantly after a certain amount of imports is reached<ref>https://www.cfr.org/backgrounder/what-are-tariffs#chapter-title-0-8</ref>. Other trade barriers can include quotas, licenses, and standardization, all seeking to make foreign goods more expensive or available in a limited supply<ref>https://www.investopedia.com/articles/economics/08/tariff-trade-barrier-basics.asp</ref>. Governments may raise tariffs to raise revenue or protect domestic industries from foreign competition<ref>https://www.investopedia.com/news/what-are-tariffs-and-how-do-they-affect-you/</ref>.
+
+By distorting resource allocations, tariffs are generally thought to reduce economic welfare<ref>https://cepr.org/voxeu/columns/trump-tariff-policy-uncertainty-and-role-economics</ref>. Tariffs are generally passed onto consumers in the form of higher prices of imports. This generally has a regressive effect as the poor are the most harmed by the increase in prices<ref>https://www.cfr.org/backgrounder/what-are-tariffs#chapter-title-0-8</ref>. Cross-country research shows that tariffs lead to declines in domestic output and productivity, more unemployment, higher inequality, and real exchange rate appreciation. However, the effect on output is concentrated among input tariff increases, and there is no effect of output tariff increases on output<ref>https://www.nber.org/system/files/working_papers/w25402/w25402.pdf</ref>.
+
+While domestic industries can benefit from the reduced competition that tariffs bring, in the long term businesses can see a decline in efficiency as a result<ref>https://www.investopedia.com/articles/economics/08/tariff-trade-barrier-basics.asp</ref>.
+
+Over the 1950-98 period, countries that liberalized their trade regimes experienced average annual growth rates that were about 1.5 percentage points higher than before liberalization<ref>https://documents1.worldbank.org/curated/en/660841468162283031/pdf/775730JRN020080alization0and0Growth.pdf</ref>.
+
 ## References
 
 <references />
