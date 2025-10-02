@@ -783,6 +783,16 @@ Most taxes would benefit from base broadening and rate reductions to improve eff
 
 The increasing complexity of tax systems may be harmful to growth. They result in high compliance costs that can lead to a loss of efficiency if resources are dedicated to tax compliance as opposed to productive use. Increased tax complexity is often done through anti-avoidance legislation<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/07/taxation-and-economic-growth_g17a1ad9/241216205486.pdf</ref>.
 
+## Monetary Policy
+
+Monetary policy generally consists of controlling the money supply in the economy to achieve some mix of inflation and output stabilization. While in the long-run, GDP cannot be affected by monetary policy as changes in the money supply cause prices to change, due to these adjustments not occurring immediately, changes in the money supply can affect production of goods and services in the short-run. In recessions, expansionary monetary policy, increasing the money supply, can lead to a countercyclical effect where output and employment is expanded. This is generally viewed as the first line of defense in stabilizing the economy during a downturn, for the exception of countries with a fixed exchange rate where monetary policy is completely tied to the exchange rate objective<ref>https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Monetary-Policy</ref>.
+
+Most economists think MP is best conducted by a central bank that is independent of the elected government, due to research emphasizing the problem of time inconsistency. Policymakers who were less independent of the government would have it in their interest to pursue different policy objectives at different times, which would lead to unstable inflationary expectations among consumers and businesses, making it difficult for policymakers to ever achieve low inflation. Independence would solve this problem, and research suggests that central bank independence is associated with lower and more stable inflation<ref>https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Monetary-Policy</ref>.
+
+Research looking at the period of 1946-2016 shows that significant contractionary and expansionary changes in monetary policy by the American Federal Reserve not taken in response to current or prospective developments in real activity have large and significant effects on unemployment, output and inflation in the expected directions<ref>https://www.nber.org/system/files/working_papers/w31170/w31170.pdf</ref>.
+
+Research suggests that tight MP can reduce potential output even after a decade, while loose MP does not appear to raise long-run potential. These long-run effects develop primarily through investment decisions that ultimately result in lower productivity and lower capital stock than would be available without policy intervention. This is somewhat contrary to the notion that MP is neutral in the long-run, and this can complicate the calibration of policy<ref>https://www.frbsf.org/research-and-insights/publications/economic-letter/2023/09/does-monetary-policy-have-long-run-effects/</ref>.
+
 ## References
 
 <references />
