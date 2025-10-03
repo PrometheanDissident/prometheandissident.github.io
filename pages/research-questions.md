@@ -51,3 +51,4 @@ permalink: /research-questions/
 * Japan low housing costs
 * Effects of privatizing vs publicizing food
 * House bonusing
+* MAPS discourse
