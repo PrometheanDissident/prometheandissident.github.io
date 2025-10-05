@@ -168,6 +168,12 @@ Research on marijuana has found no significant associations between the enactmen
 
 Heroin-assisted treatment is found to reduce criminal activity<ref>https://pubmed.ncbi.nlm.nih.gov/34105206/</ref><ref>https://web.archive.org/web/20220122011239/https://www.leg.state.nv.us/Session/79th2017/Exhibits/Senate/HHS/SHHS590E.pdf</ref>. Furthermore, cost-benefit analysis suggests that the benefits of such treatments are twice as large as the costs. It is associated with decreased illicit drug use, overdose fatalities, and risky injecting, as well as significant improvements in physical and mental health, employment and social relations. It also can damage the illicit heroin supply chain<ref>https://web.archive.org/web/20220122011239/https://www.leg.state.nv.us/Session/79th2017/Exhibits/Senate/HHS/SHHS590E.pdf</ref>.
 
+## Community Policing
+
+Strongest evidence of how police can reduce crime and disorder is found in hot spots policing and other geographically focused police practices. Community policing practices reduce fear of crime, but there is no consistent evidence that it affects either crime or disorder. Problem-oriented policing appears to reduce crime, disorder, and fear<ref>https://www.researchgate.net/publication/240696007_What_Can_Police_Do_to_Reduce_Crime_Disorder_and_Fear</ref>.
+
+Foot patrols, while making residents feel safer and believe that crime was diminished by their presence, have no effect on actual crime levels<ref>https://www.ojp.gov/ncjrs/virtual-library/abstracts/newark-foot-patrol-experiment</ref>.
+
 ## References
 
 <references />
