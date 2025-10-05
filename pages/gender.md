@@ -726,6 +726,16 @@ Beginning in the early 1960s, annual number of reported cases of gonorrhea among
 
 A large-scale analysis of studies found that sex differences in personality, verbal abilities, episodic memory, and negative emotions are more pronounced in countries with higher living conditions. In contrast, sex differences in sexual behavior, partner preferences, and math are smaller in countries with higher living conditions<ref>https://journals.sagepub.com/doi/10.1177/17456916231202685</ref>.
 
+## Birth Control More
+
+More than 90% of abortions occur due to unintended pregnancy, and research suggests that free birth control reduces both unplanned pregnancies and cuts abortion rates by 62-78% compared to the national rate<ref>https://medicine.washu.edu/news/access-to-free-birth-control-reduces-abortion-rates/</ref>.
+
+In Indonesia, it is estimated that between about 520,000-660,000 maternal deaths were averted from 1970 to 2017 due to contraceptive use, or a 37.5-43.1% reduction<ref>https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-020-00245-w</ref>.
+
+Use of contraception is a substantial and effective primary prevention strategy to reduce maternal mortality in developing countries<ref>https://pubmed.ncbi.nlm.nih.gov/22784531/</ref>.
+
+Increased access to safe and reliable contraceptives is associated with fewer unplanned pregnancies, cost savings from federal and state governments on births, abortions and miscarriages, and increased educational opportunities and lifetime earnings for women<ref>https://www.jec.senate.gov/public/index.cfm/democrats/2022/10/the-economic-impacts-of-contraception</ref>.
+
 ## References
 
 <references />
