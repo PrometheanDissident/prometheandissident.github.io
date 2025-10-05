@@ -270,6 +270,10 @@ A meta-analysis of RCTs found an overall positive and statistically significant 
 
 The success of school types appears to be much more a function of the regulatory climate as opposed to the school types themselves<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/11/regulating-publicly-funded-private-schools_g17a28af/5jln6jcg80r4-en.pdf</ref>.
 
+## Experts
+
+When 10 percent of the population holds an unshakable belief, the belief will always be adopted by the majority of the society<ref>https://www.sciencedaily.com/releases/2011/07/110725190044.htm</ref>.
+
 ## References
 
 <references />
