@@ -606,6 +606,8 @@ Effects (I'm not pro-colonialism I swear):
 
 - **Slavery and Economic Growth: Negative -** Slavery use in the Americas was negatively correlated with subsequent economic development<ref>https://scholar.harvard.edu/files/nunn/files/domestic_slavery.pdf</ref>.
 
+On average, across 27 African countries, 32 percent of Africans had a somewhat or very negative view of former colonial power, 40 percent had a somewhat or very positive view of former colonial power, and 28 percent didn’t know or refused to answer<ref>https://x.com/afrobarometer/status/1928862449345744949?utm_source=substack&utm_medium=email</ref>.
+
 ## <span style="background-color:orange">Industrial Revolution</span>
 
 Contra Kaczynski, based
