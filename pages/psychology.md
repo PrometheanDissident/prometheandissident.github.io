@@ -508,6 +508,14 @@ Economic affluence, state capacity, women as a percentage of the total labor for
 
 Mass political protests have increased globally by an annual average of 11.5 percent between 2009 and 2019. The size and frequency of recent protests are unprecedented historically, eclipsing historical examples of eras of mass protest. Common grievances overwhelmingly center on perceptions of ineffective governance and corruption. Protests have resulted in a broad range of outcomes, ranging from regime change and political accommodation to protracted political violence with many casualties. Factors that could increase the rate of protest include slowing global economic growth, worsening effects of climate change, and foreign meddling in internal politics via disinformation and other tactics<ref>https://www.csis.org/analysis/age-mass-protests-understanding-escalating-global-trend</ref>.
 
+## Hyperconnectivity
+
+There is a small positive association between social media use, depression, and anxiety<ref>https://pubmed.ncbi.nlm.nih.gov/39242043/</ref>.
+
+However, one study which attempts to quantify the percentage of variance in adolescent well-being explained by technology use suggests technology use explains at least 0.4% of it<ref>https://www.ox.ac.uk/news/2019-01-14-technology-use-explains-most-04-adolescent-wellbeing-new-study-finds</ref>.
+
+Social media is associated with increased political participation and information consumption, which is likely to be beneficial for democracy. However, other associations such as declining political trust, increased populism and increased polarization are more likely to harm democracy. The beneficial effects tend to be observed in autocracies and emerging democracies while the detriments are more pronounced in established democracies<ref>https://www.nature.com/articles/s41562-022-01460-1?error=cookies_not_supported&code=b81c66cf-9230-4f01-a69a-25df089ca34b</ref>.
+
 ## References
 
 <references />
