@@ -736,6 +736,10 @@ Use of contraception is a substantial and effective primary prevention strategy 
 
 Increased access to safe and reliable contraceptives is associated with fewer unplanned pregnancies, cost savings from federal and state governments on births, abortions and miscarriages, and increased educational opportunities and lifetime earnings for women<ref>https://www.jec.senate.gov/public/index.cfm/democrats/2022/10/the-economic-impacts-of-contraception</ref>.
 
+## Female Happiness
+
+Despite substantial advances in women’s social and economic status over the past 50 years, their well-being relative to men has declined<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC11881900/</ref>.
+
 ## References
 
 <references />
