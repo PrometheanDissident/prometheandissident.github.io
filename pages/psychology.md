@@ -516,6 +516,16 @@ However, one study which attempts to quantify the percentage of variance in adol
 
 Social media is associated with increased political participation and information consumption, which is likely to be beneficial for democracy. However, other associations such as declining political trust, increased populism and increased polarization are more likely to harm democracy. The beneficial effects tend to be observed in autocracies and emerging democracies while the detriments are more pronounced in established democracies<ref>https://www.nature.com/articles/s41562-022-01460-1?error=cookies_not_supported&code=b81c66cf-9230-4f01-a69a-25df089ca34b</ref>.
 
+## Intelligence cont 1
+
+A meta-analysis of studies amounting to a total of 280 pairs of identical twins reared apart implies a heritability of IQ of 0.83, or a 95% confidence interval of 0.74-0.91<ref>https://www.sebjenseb.net/p/we-now-have-280-pairs-of-identical?utm_source=publication-search</ref>.
+
+About 6% of those with a visuo-spatial IQ in the 99th percentile become inventors, compared to only about 1% of those at the 50th percentile. Each percentile increases the probability of becoming an inventor by an exponential amount<ref>https://scholar.harvard.edu/files/aghion/files/social_origins_and_iq_of_inventors.pdf</ref>.
+
+Across an extensive number of domains, the vast majority of American extraordinary achievers attended one of an “elite 34” colleges/universities out of the roughly 4000 in the US, with a significant proportion or a majority in some cases attending Harvard or other ivy league universities. This indicates that the most successful and influential Americans come from a very narrow range of elite educational backgrounds<ref>https://www.nature.com/articles/s41599-024-03547-8</ref>.
+
+Cognitive processing speed and cognitive processing accuracy are different from one another genetically and also neurologically speaking<ref>https://www.nature.com/articles/s41467-024-52222-8</ref>.
+
 ## References
 
 <references />
