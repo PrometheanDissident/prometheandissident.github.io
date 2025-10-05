@@ -502,6 +502,12 @@ From the middle pleistocene to recent times, there has been craniofacial feminiz
 
 There is some evidence to suggest that humans also have become genetically more oriented towards self control as they evolved, which might also help to explain higher prosociality<ref>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00134/full</ref>.
 
+## Activism
+
+Economic affluence, state capacity, women as a percentage of the total labor force and left corporatism (left party control and higher neocorporatism) contribute to greater aggregate protest potential. Ethnic grievances stemming from economic discrimination and percentage of protestants also contribute positively while language dominance suppresses protest potential<ref>https://www.jstor.org/stable/20628335?seq=1</ref>.
+
+Mass political protests have increased globally by an annual average of 11.5 percent between 2009 and 2019. The size and frequency of recent protests are unprecedented historically, eclipsing historical examples of eras of mass protest. Common grievances overwhelmingly center on perceptions of ineffective governance and corruption. Protests have resulted in a broad range of outcomes, ranging from regime change and political accommodation to protracted political violence with many casualties. Factors that could increase the rate of protest include slowing global economic growth, worsening effects of climate change, and foreign meddling in internal politics via disinformation and other tactics<ref>https://www.csis.org/analysis/age-mass-protests-understanding-escalating-global-trend</ref>.
+
 ## References
 
 <references />
