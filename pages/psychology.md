@@ -541,6 +541,25 @@ The demographic transition is a model that explains why countries go through a p
 - Stage 4 - Mortality and birth rates are low
 - Stage 5 - Uncertain. The population may rise or fall again.
 
+## Anti-Intellectualism
+
+Rigney (2007) defines three types of anti-intellectualism which each originates from its own institutional or socio-structural matrix<ref>https://www.researchgate.net/publication/229936616_Three_Kinds_of_Anti-Intellectualism_Rethinking_Hofstadter#:~:text=,structural%20origin%3A%20Anti</ref>:
+- Anti-rationalism - Associated primarily with religious structures, it takes two forms. The first is the perception that rationality is emotionally sterile, and the second is that rationality promotes relativism and social disintegration by challenging the sanctity of absolute beliefs
+- Anti-elitism - Associated with indigenous populist movements and populist movements that aim to appeal to the “common man’s interests”, this takes the form of hostility towards intellectuals
+- Unreflective instrumentalism - Associated with business people, it is the view that if something does not have immediate material use, it is useless
+
+Anti-intellectualism is a distrust of intellectuals and experts. Rural social identification significantly predicts greater anti-intellectualism, while anti-intellectualism is not significantly associated with rural residency alone. This is because residency doesn’t necessarily indicate psychological attachment<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC8807672/#:~:text=Anti,S</ref>.
+
+Anti-intellectualism is associated with not only the rejection of policy-relevant matters of scientific consensus but also support for political movements (ex Brexit) and politicians (George Wallace, Trump) who are skeptical of experts. These effects can be mitigated. Verbal intelligence plays a strong role in mitigating anti-intellectual sympathies<ref>https://www.researchgate.net/publication/324442277_The_Dynamics_and_Political_Implications_of_Anti-Intellectualism_in_the_United_States#:~:text=intellectual%20rhetoric,to%20gains%20in%20mass%20educational</ref>.
+
+Epistemic hubris is the expression of unwarranted factual certitude. Epistemic hubris is prevalent, bipartisan, and associated with both intellectualism (an identity marked by ruminative habits and learning for its own sake) and anti-intellectualism (negative affect toward intellectuals and the intellectual establishment). Correlates of epistemic hubris are distinctly partisan, where intellectuals are disproportionately democratic, while anti-intellectuals are disproportionately republican<ref>https://www.cambridge.org/core/journals/american-political-science-review/article/abs/intellectualism-antiintellectualism-and-epistemic-hubris-in-red-and-blue-america/37C9F95A5DF4F81BAF69677DC6C9C972</ref>.
+
+Anti-intellectualism challenges the ability to maintain and increase public compliance with expert-guided covid health directives<ref>https://www.nature.com/articles/s41562-021-01112-w?error=cookies_not_supported&code=cb643ea1-fcae-4675-a84f-56a5dabf2597</ref>.
+
+Across 68 countries, most people trust scientists and agree that scientists should engage more in society and policymaking. Higher levels of trust tend to be among women, older people, residents of urban (versus rural) regions, people with high incomes, religious people, educated people, liberal people and left-leaning people<ref>https://www.nature.com/articles/s41562-024-02090-5?error=cookies_not_supported&code=540f4ace-765d-4c5e-ad3e-5bf51b3255c9</ref>.
+
+Loziak & Piterová (2024) finds two inversely related clusters of attitudes, one is populist attitudes, distrust in experts, belief in simple solutions and a conspiracy mentality. The other is trust in the media, trust in politicians and external political efficacy<ref>https://sjps.fsvucm.sk/index.php/sjps/article/view/440</ref>.
+
 ## References
 
 <references />
