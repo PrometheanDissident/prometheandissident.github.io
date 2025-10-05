@@ -805,6 +805,10 @@ While domestic industries can benefit from the reduced competition that tariffs 
 
 Over the 1950-98 period, countries that liberalized their trade regimes experienced average annual growth rates that were about 1.5 percentage points higher than before liberalization<ref>https://documents1.worldbank.org/curated/en/660841468162283031/pdf/775730JRN020080alization0and0Growth.pdf</ref>.
 
+## Innovation
+
+Leftist ruling parties inhibit the progress of technical innovation, while right-wing ruling parties promote the appearance of new technology<ref>https://www.sciencedirect.com/science/article/abs/pii/S0048733319300125</ref>.
+
 ## References
 
 <references />
