@@ -256,6 +256,20 @@ Zagrebbi on wokeness<ref>https://graymirror.substack.com/p/the-origin-of-woke-a-
 
 <img src="https://substackcdn.com/image/fetch/$s_!ZjEl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d72a0e9-4091-410c-a817-f765b5844c00_1282x1232.png" alt="Four Models of Wokeness" width="500">
 
+## School types
+
+Public schools are operated by the government, while private schools are independent<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/07/balancing-school-choice-and-equity_b8766e0e/2592c974-en.pdf</ref>. Charter schools are public schools which receive public funds but are exempt from parts of the states’ education codes to allow them to experiment with alternative curricula and pedagogical approaches. While more independent, they also face higher risks of getting shut down<ref>https://sandera.ucsd.edu/publications/DISC%20PAPER%20Betts%20Tang%20Charter%20Lit%20Review%202018%2001.pdf</ref>.
+
+Charter schools tend to produce the same or better school outcomes at a lower cost compared to traditional public schools<ref>https://www.researchgate.net/publication/251545870_The_Relative_Efficiency_of_Charter_Schools_A_Cost_Frontier_Approach</ref>.
+
+Across OECD countries, public and private schools receive approximately the same total funding per student, but governments spend nearly twice as much on public institutions as on private institutions on average<ref>https://www.oecd.org/en/publications/education-at-a-glance-2023_e13bef63-en/full-report/how-much-is-spent-per-student-on-educational-institutions_7bd34293.html</ref>.
+
+While in terms of raw scores private school students tend to do better than public school students, this advantage disappears when controlling for the socioeconomic status of the students and schools<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/how-do-public-and-private-schools-differ-in-oecd-countries_f196df88/90348307-en.pdf</ref>, or when looking at demographically similar students<ref>https://www.edweek.org/policy-politics/public-schools-outperform-private-schools-book-says/2014/05</ref>.
+
+A meta-analysis of RCTs found an overall positive and statistically significant effect of school vouchers on school achievement<ref>https://scholarworks.uark.edu/edrepub/33/</ref>.
+
+The success of school types appears to be much more a function of the regulatory climate as opposed to the school types themselves<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/11/regulating-publicly-funded-private-schools_g17a28af/5jln6jcg80r4-en.pdf</ref>.
+
 ## References
 
 <references />
