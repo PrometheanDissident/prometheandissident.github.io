@@ -526,6 +526,10 @@ Across an extensive number of domains, the vast majority of American extraordina
 
 Cognitive processing speed and cognitive processing accuracy are different from one another genetically and also neurologically speaking<ref>https://www.nature.com/articles/s41467-024-52222-8</ref>.
 
+## Norms
+
+Tipping points in social convention have been found in more generalized settings, with the size of the critical mass required ranging from 10-40%<ref>https://www.asc.upenn.edu/sites/default/files/2021-03/Experimental%20evidence%20for%20tipping%20points%20in%20social%20convention.pdf</ref>.
+
 ## References
 
 <references />
