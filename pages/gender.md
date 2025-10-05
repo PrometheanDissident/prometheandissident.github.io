@@ -722,6 +722,10 @@ Toxic masculinity is associated with higher rates of verbal, online or physical 
 
 Beginning in the early 1960s, annual number of reported cases of gonorrhea among teenagers rose dramatically, peaking at about 276,000 in 1975, slightly declining thereafter although the age and sex specific rates remained stable. Salipingitis peaked in 1977 at nearly 47,000 hospitalized cases, declining slightly afterwards. Several factors influenced the number, rates, and sex distribution of reported gonorrhea cases and the most serious complication of this infection, salpingitis, among American teenagers during the past two decades. The 1960s and 1970s were marked by the passage of the baby boom. Teenagers also became more sexually active before marriage during the sexual revolution. Teenagers began sexual activity earlier and used contraceptive methods that were not effectively protective against lower genital tract infection. In 1973, federally assisted state and local programs to control gonorrhea were implemented which likely increased reported rates. In the period 1968-1971, various states passed laws permitting physicians to treat teenagers for STDs without notifying their parents also increasing reported rates<ref>https://www.cdc.gov/mmwr/preview/mmwrhtml/00001717.htm</ref>.
 
+## Sexism more
+
+A large-scale analysis of studies found that sex differences in personality, verbal abilities, episodic memory, and negative emotions are more pronounced in countries with higher living conditions. In contrast, sex differences in sexual behavior, partner preferences, and math are smaller in countries with higher living conditions<ref>https://journals.sagepub.com/doi/10.1177/17456916231202685</ref>.
+
 ## References
 
 <references />
