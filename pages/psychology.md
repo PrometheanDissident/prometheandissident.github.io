@@ -530,6 +530,17 @@ Cognitive processing speed and cognitive processing accuracy are different from 
 
 Tipping points in social convention have been found in more generalized settings, with the size of the critical mass required ranging from 10-40%<ref>https://www.asc.upenn.edu/sites/default/files/2021-03/Experimental%20evidence%20for%20tipping%20points%20in%20social%20convention.pdf</ref>.
 
+## Population Cycles
+
+The world population is expected to peak in 2084 at 10.3 billion<ref>https://ourworldindata.org/un-population-2024-revision</ref>.
+
+The demographic transition is a model that explains why countries go through a period of rapid population growth. It is a sequence of five stages<ref>https://ourworldindata.org/demographic-transition</ref>:
+- Stage 1 - high mortality and birth rates - Little to no population growth
+- Stage 2 - Mortality falls but birth rates still high - Leads to rapid population growth.
+- Stage 3 - Low mortality and birth rates begin to fall - The birth rate starts to drop which leads to lower population growth. This is because when the mortality of children is not as high as it once was, parents adapt to the healthier environment and choose to have fewer children. The economy undergoes structural changes that make children less economically valuable, and as women gain more power within society and partnerships, they tend to on average have fewer children than before.
+- Stage 4 - Mortality and birth rates are low
+- Stage 5 - Uncertain. The population may rise or fall again.
+
 ## References
 
 <references />
