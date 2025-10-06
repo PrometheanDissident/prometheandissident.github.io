@@ -809,6 +809,12 @@ Over the 1950-98 period, countries that liberalized their trade regimes experien
 
 Leftist ruling parties inhibit the progress of technical innovation, while right-wing ruling parties promote the appearance of new technology<ref>https://www.sciencedirect.com/science/article/abs/pii/S0048733319300125</ref>.
 
+## Business Cycles
+
+All modern industrial economies experience significant swings in economic activity, from output at above capacity and low unemployment to output at below capacity and high unemployment. The combination of expansions and recessions is called the business cycle. The notion of a business cycle is misleading however as there is no regularity in the timing and duration of upswings and downswings in economic activity<ref>https://www.econlib.org/library/Enc/BusinessCycles.html</ref>.
+
+In the US, between 1890 and 2004 there were a total of 25 peaks and troughs. 12 happened in the few decades before the great depression, and 12 more happened after suggesting a moderation since then. Booms and busts can happen due to changes in the money supply or in taxes/government spending. The empirical evidence is strongly on the side of the view that deviations from full employment are often the result of spending shocks. Monetary policy in particular appears to have played a crucial role in causing business cycles in the US since WW2<ref>https://www.econlib.org/library/Enc/BusinessCycles.html</ref>.
+
 ## References
 
 <references />
