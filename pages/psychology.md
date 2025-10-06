@@ -560,6 +560,10 @@ Across 68 countries, most people trust scientists and agree that scientists shou
 
 Loziak & Piterová (2024) finds two inversely related clusters of attitudes, one is populist attitudes, distrust in experts, belief in simple solutions and a conspiracy mentality. The other is trust in the media, trust in politicians and external political efficacy<ref>https://sjps.fsvucm.sk/index.php/sjps/article/view/440</ref>.
 
+## Free Will
+
+Current modeling can accurately predict the brain states of people up to 5.04 seconds using the previous 21.6 seconds<ref>https://arxiv.org/abs/2412.19814</ref>.
+
 ## References
 
 <references />
