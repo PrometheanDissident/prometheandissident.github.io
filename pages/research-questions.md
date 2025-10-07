@@ -52,3 +52,4 @@ permalink: /research-questions/
 * Effects of privatizing vs publicizing food
 * House bonusing
 * MAPS discourse
+* What the laws are with portugal and decriminalization of drugs
