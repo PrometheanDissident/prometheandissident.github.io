@@ -815,6 +815,24 @@ All modern industrial economies experience significant swings in economic activi
 
 In the US, between 1890 and 2004 there were a total of 25 peaks and troughs. 12 happened in the few decades before the great depression, and 12 more happened after suggesting a moderation since then. Booms and busts can happen due to changes in the money supply or in taxes/government spending. The empirical evidence is strongly on the side of the view that deviations from full employment are often the result of spending shocks. Monetary policy in particular appears to have played a crucial role in causing business cycles in the US since WW2<ref>https://www.econlib.org/library/Enc/BusinessCycles.html</ref>.
 
+## Welfare Political Feasibility
+
+Higher social spending is associated with lower poverty and inequality but even in this regard there is some indication that countries can compensate for lower spending by more accurate targeting of low-income families. Class coalitions do not differ between universal versus selective welfare regimes, which is the core assumption behind many’s argument that universal programs are more politically sustainable. More universalist countries however tend to have better redistributional outcomes. Targeting seems to work best when embedded in the overall framework of universalism, requiring a balance between selective and universal welfare regimes<ref>https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CE85800A38AC83F9EEAA1AD45880CC47</ref>.
+
+A popular narrative argues that targeted programs are inherently weak politically and tend to be cut or eliminated over time and that universal programs inevitably do better. However, the history of recent decades in the US does not support the idea that targeted programs almost invariably do poorly politically and that universal programs virtually always outperform them. Mandatory programs that are targeted grew at a significantly faster annual average rate over the 1979-2019 period than the main universal mandatory programs. The story remains the same if the analysis begins in the 1960s rather than in 1979. Multiple factors beyond whether a program is targeted or universal affect its political strength or weakness. Universality does confer some advantages politically, but targeted programs have the advantage of having lower costs, which is often a prime consideration for policymakers<ref>https://www.hamiltonproject.org/assets/files/20220806_ES_THP_SocialPrograms_ExpandedEdition.pdf</ref>.
+
+Programs appear to be stronger and more politically durable when they<ref>https://www.hamiltonproject.org/assets/files/20220806_ES_THP_SocialPrograms_ExpandedEdition.pdf</ref>:
+- Are tied to work or a work record, especially when beneficiaries have financed their benefits at least in part through payroll tax contributions
+- Serve working families who are significantly above the poverty line and often part of the middle class, along with those who are the poor as opposed to only the poor
+- Are fully federally financed
+- Are federally administered
+- Provide benefits either in kind or through the tax code rather than as straight cash, unless it’s for elderly or disabled
+- Are focused on groups like the elderly or children for whom there is more public support and who are not expected to be employed
+- Operate as entitlement programs rather than as discretionary programs that policymakers fund through the annual appropriations process
+- Are considered by policymakers to be highly effective in achieving important goals
+
+Targeted programs tend to be more efficient per dollar and have grown faster than universal programs, although are slightly worse in reaching those who are eligible. They now play a prominent role in poverty reduction among those under age 65<ref>https://www.hamiltonproject.org/assets/files/20220806_ES_THP_SocialPrograms_ExpandedEdition.pdf</ref>.
+
 ## References
 
 <references />
