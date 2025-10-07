@@ -340,6 +340,28 @@ Checklist of 16 mobbing indicators<ref>https://www.kwesthues.com/checklist.htm</
 * Outraged response to any appeals for outside help the target may make.
 * Mobbers’ fear of violence from target, target’s fear of violence from mobbers, or both.
 
+Mobbing can occur in academic spaces due to conflicting and differing modes of discourse. Modern discourse is characterized by<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>:
+- Personal detachment from the issues under discussion
+- Values on confidence, originality, agonism, independence of thought, creativity, assertiveness, mastery of one’s feelings, a thick skin and high tolerance for your own and others’ discomfort
+- Playfulness is legitimate: One can play devil’s advocate, speak tongue in cheek, overstate and use hyperbole, the object being not to capture the truth in a single, balanced monologue, but to expose the strengths and weaknesses of various positions
+- Scathing satire and sharp criticism are also legitimate
+- The best ideas are thought to emerge from mutual, merciless probing and attacking of arguments
+- Participants are repeatedly forced to return to the drawing board and produce better arguments
+- The truth is not to be located in a single voice but rather is to emerge from the conversation as a whole
+
+Over the past half century, a competing mode of discourse, postmodern discourse, has become more entrenched in the academy. Its hallmarks include<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>:
+- Persons and positions are closely related, with little insistence on keeping personal identity separate from the questions or issues under discussion
+- Sensitivity, inclusivity and inoffensiveness are key values
+- Priority on cooperation, collaboration, quietness, sedentariness, empathy, equality, non-competitiveness, conformity and a communal focus
+- Tends to perceive the satire and criticism of modern discourse as vicious and personal attack driven by hateful animus
+- Is oriented toward the standard measures of grades, tests and a closely defined curriculum
+- Lacking means by which to negotiate or accommodate intractable differences within its mode of conversation, it will typically resort to antagonistic, demonizing and personal attacks on the opposition
+- Will typically not try to answer opponents with better arguments, but silence them completely as hateful, intolerant, bigoted, misogynistic, homophobic, etc
+- Has a feminine flavor in contrast to the masculine flavor of modern discourse
+- Results in stale monologues and contexts that rarely produce strong thought, but rather tend to become echo chambers
+
+Differences between these competing modes often play out in today’s culture wars. Sensitivity-driven discourses tend to lack tolerance for difference and disagreement, and will thus manifest a herding effect. Dissenting voices can be excluded and opponents attacked, which means that proponents of the postmodern mode of discourse have a tendency to engage in workplace mobbing. In roughly half of academic mobbing cases is this distinction between modern and postmodern discourse relevant for analysis<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>.
+
 ## Dunbar's Number
 
 Analysis of a dataset of twitter conversations involving 1.7 million individuals suggests that users can entertain a maximum of about 100-200 stable relationships<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022656</ref>.
