@@ -576,6 +576,28 @@ Loziak & Piterová (2024) finds two inversely related clusters of attitudes, one
 
 Current modeling can accurately predict the brain states of people up to 5.04 seconds using the previous 21.6 seconds<ref>https://arxiv.org/abs/2412.19814</ref>.
 
+## Dysgenics
+
+Genes that contribute to educational attainment are under negative selection in humans. The impact of higher POLYedu scores (the polygenic score for educational attainment) is due mainly to delayed reproduction, in part because those with high POLYedu scores delay reproduction to pursue education. However, it appears that higher POLYedu scores have a substantial effect on delayed reproduction that is independent of the actual education attained. POLYedu is positively correlated with longevity and HDL cholesterol levels, and negatively negatively correlated with obesity, high-fasting glucose levels, and smoking. Thus, the decline of genetic propensity over time has an effect on the population that is not limited to education<ref>https://www.decode.com/decode-study-shows-variants-sequence-genome-contribute-educational-attainment-negative-selection/</ref>.
+
+Over the second half of the twentieth century, the association of economic status with fertility and the association of the number of siblings with their education flipped from generally positive to generally negative. Because large families switched from investing in more education to investing in less, heterogeneity in fertility across families initially increased but now largely decreases average educational attainment. While changes in GDP per capita, women's work, sectoral composition, urbanization, and population health do not explain the reversal, roughly half of it can be attributed to the rising aggregate education levels of the parent generation. The results are consistent with two classes of theories of the fertility transition: (1) those based on changing preferences over the quality and quantity of children and (2) those incorporating subsistence consumption constraints<ref>https://www.nber.org/system/files/working_papers/w19128/revisions/w19128.rev0.pdf</ref>.
+
+The link between fertility and intelligence has been consistently negative for successive birth cohorts in the US from 1900-1979. The decline of genotypic intelligence of whites is estimated at 0.75 IQ points a generation<ref>https://www.sciencedirect.com/science/article/abs/pii/S016028960300103X</ref>.
+
+In the US, natural selection has been slowly favoring lower education attainment in both males and females, at about a rate of -1.5 months of education per generation. This pales in comparison with the increases in educational attainment observed in contemporary times<ref>https://pubmed.ncbi.nlm.nih.gov/27402742/</ref>.
+
+In Norway, high-IQ males have delayed but ultimately higher fertility than low-IQ males<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC10300504/</ref>.
+
+In terms of global fertility differentials, both GDP and intelligence independently reduce fertility, while the effects of liberal democracy are weak and inconsistent. At present rates of fertility and mortality and in the absence of changes within countries, the average IQ of the young world population would decline by 1.34 points per decade and the average per capita income would decline by 0.79% per year<ref>https://pubmed.ncbi.nlm.nih.gov/19323856/</ref>.
+
+One study finds a small negative correlation between intelligence and fertility in the US<ref>https://www.tandfonline.com/doi/pdf/10.1080/19485565.1999.9988992</ref>.
+
+A study of the Icelandic genealogical database shows steady decline in POLYEDU. Based on the estimated effect of POLYEDU on the intelligence quotient (IQ) and the fact that POLYEDU only captures a fraction of the overall genetic propensity, the authors estimated that the change of the gene pool by itself would lead to a decline of 0.30 IQ points per decade. The authors conclude that as POLYEDU is only a fraction of the full genetic component of educational attainment, this trend could have a marked effect on IQ if it persists over the course of several centuries. Notably, however, IQ scores are known to have increased by 13.8 points between 1932 and 1978 (known as the Flynn effect), which suggests that changes in the socioeconomic and technological environment may mask a decreased genetic propensity for IQ<ref>https://www.nature.com/articles/nrg.2017.9?error=cookies_not_supported&code=3816f60f-cd79-41c8-86fd-abbf25b65abd</ref>.
+
+A study finds a slight negative correlation of -0.14 between standard progressive matrices scores and the number of siblings in Libya, indicating only marginal dysgenic fertility<ref>https://eric.ed.gov/?q=FERTILITY&ff1=autLynn%2c+Richard&id=EJ1001678</ref>.
+
+There is a negative correlation of -0.73 between IQ and fertility across nations. This is estimated to have decreased genotypic IQ by 0.86 points from 1950-2000, with a further decline of 1.28 points in genotypic IQ from 2000-2050. In the period 1950-2000 this decline was compensated for by a rise in phenotypic intelligence known as the Flynn effect but recent studies in four economically developed countries have found that this has now ceased or gone into reverse. It seems probable that this "negative Flynn Effect" will spread to economically developing countries and the whole world will move into a period of declining genotypic and phenotypic intelligence<ref>https://eric.ed.gov/?q=FERTILITY&ff1=autLynn%2c+Richard&id=EJ784467</ref>.
+
 ## References
 
 <references />
