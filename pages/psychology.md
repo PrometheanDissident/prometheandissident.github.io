@@ -620,6 +620,14 @@ A study finds a slight negative correlation of -0.14 between standard progressiv
 
 There is a negative correlation of -0.73 between IQ and fertility across nations. This is estimated to have decreased genotypic IQ by 0.86 points from 1950-2000, with a further decline of 1.28 points in genotypic IQ from 2000-2050. In the period 1950-2000 this decline was compensated for by a rise in phenotypic intelligence known as the Flynn effect but recent studies in four economically developed countries have found that this has now ceased or gone into reverse. It seems probable that this "negative Flynn Effect" will spread to economically developing countries and the whole world will move into a period of declining genotypic and phenotypic intelligence<ref>https://eric.ed.gov/?q=FERTILITY&ff1=autLynn%2c+Richard&id=EJ784467</ref>.
 
+## Moral Panic
+
+Moral panic is a situation in which public fears and state interventions greatly exceed the objective threat posed to society by a particular individual or group. State officials and the media create a symbiotic relationship in that politicians and law enforcement need communication channels to distribute their rhetoric and the media needs interesting news content to attract an audience and advertisers<ref>https://www.psychologytoday.com/us/blog/wicked-deeds/201507/moral-panic-who-benefits-public-fear</ref>.
+
+Some researchers have offered three explanatory models for moral panics: grassroots, elite engineered, and interest group. Most likely, most moral panic episodes originate from grassroots and interest groups as opposed to elites. Active or latent stress at the grassroots level is a prerequisite for moral panics that provides the raw material for an episode. However, the way that stress or fear is directed is shaped by organizational activists who provide the focus and direction for moral panics<ref>Blackwell Encyclopedia of Sociology: Moral Panic</ref>.
+
+Some critique the moral panic concept by asserting that case studies often proceed with the objective of demonstrating that the episode under study conforms to the moral panics profile rather than problematizing these relationships<ref>Blackwell Encyclopedia of Sociology: Moral Panic</ref>.
+
 ## References
 
 <references />
