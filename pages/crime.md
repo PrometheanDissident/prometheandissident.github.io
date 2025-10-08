@@ -102,6 +102,8 @@ Firearm injuries in the US have an economic cost between hundreds of millions pe
 
 **Gun control reduces deaths**
 
+Stand your ground laws increase violent crime<ref>https://www.rand.org/research/gun-policy/analysis/stand-your-ground.html</ref>.
+
 Stand-your-ground laws are at least in some contexts associated with increases in violence<ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101</ref>.
 
 A higher number of firearm laws in a state are associated with a lower rate of firearm fatalities in the state, overall, and for suicides and homicides individually<ref>https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1661390</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5885268/</ref>.
