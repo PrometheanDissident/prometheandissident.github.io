@@ -30,18 +30,13 @@ permalink: /articles-and-data/
 ## Books 
 
 * [https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf Manipulation, Disinformation, and Radicalization in American Politics]
-* [https://en.wikipedia.org/wiki/Bowling_Alone Bowling Alone: The Collapse and Revival of American Community]
 * [https://www.amazon.ca/Global-Formation-Structures-World-Economy/dp/0847691020 Global Formation: Structures of the World Economy]
 * [https://www.amazon.ca/Heuristics-Biases-Psychology-Intuitive-Judgment/dp/0521796792 Heuristics and Biases: The Psychology of Intuitive Judgment]
-* [https://www.amazon.ca/Poor-Economics-Radical-Rethinking-Poverty/dp/1610390938 Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty]
-* [https://www.goodreads.com/book/show/11324722-the-righteous-mind The Righteous Mind: Why Good People Are Divided by Politics and Religion]
 * [https://books.google.ca/books/about/Understanding_Affirmative_Action.html?id=7P8pYcumilAC&source=kp_book_description&redir_esc=y Understanding Affirmative Action: Politics, Discrimination, and the Search for Justice]
 * [https://books.google.ca/books/about/The_Sometime_Connection.html?id=enqassMrP7IC&source=kp_book_description&redir_esc=y The Sometime Connection: Public Opinion and Social Policy]
 * [https://books.google.ca/books/about/Human_Intelligence.html?id=DwO4TtKAiCoC&source=kp_book_description&redir_esc=y Human Intelligence]
 * [https://www.google.ca/books/edition/IQ_and_Human_Intelligence/BcKcAQAAQBAJ?hl=en&gbpv=1&printsec=frontcover IQ and Human Intelligence]
 * [https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science#:~:text=Economics%20Rules%3A%20The%20Rights%20and%20Wrongs%20of%20The%20Dismal%20Science,-Citation%3A&text=In%20the%20wake%20of%20the,surprisingly%20upbeat%20judgment%20on%20economics Economics Rules: The Rights and Wrongs of The Dismal Science]
-* [https://b-ok.cc/book/6038223/4aac1c The Case Against Education: Why the Education System Is a Waste of Time and Money]
-* [https://emilkirkegaard.dk/en/wp-content/uploads/Richard_Herrnstein_Charles_Murray_The_Bell_Curve-OCR.pdf The Bell Curve: Intelligence and Class Structure in American Life]
 * [https://files.catbox.moe/zjam8b.pdf The Rhythm of the West: A Biohistory of the Modern Era AD 1600 to the Present]
 * [https://files.catbox.moe/xxqi0n.pdf A Race Against Time: Racial Heresies for the 21st Century]
 * [https://files.catbox.moe/qx09b0.pdf Cognitive Capitalism: Human Capital and the Wellbeing of Nations]
@@ -65,10 +60,8 @@ permalink: /articles-and-data/
 * Bryan Caplan The Myth of the Rational Voter
 * Civil disobedience essay by Henry David Thoreau
 * In the Know: Debunking 35 Myths About Human Intelligence (2020)
-* Economic Facts and Fallacies (2011), by Thomas Sowell
 * Intellectuals and Society (2008), by Thomas Sowell
 * More Guns, Less Crime: Understanding Crime and Gun-Control Laws, Third Edition (2010)
-* The Rhythm of the West: A Biohistory of the Modern Era (2017) by Michael Woodley et al
 * Sick Societies: Challenging the Myth of Primitive Harmony by Robert Edgerton
 * The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous
 * Expert Political Judgement: How Good is it? How Can We Know? (2004)
