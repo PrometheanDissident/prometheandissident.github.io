@@ -833,6 +833,14 @@ Programs appear to be stronger and more politically durable when they<ref>https:
 
 Targeted programs tend to be more efficient per dollar and have grown faster than universal programs, although are slightly worse in reaching those who are eligible. They now play a prominent role in poverty reduction among those under age 65<ref>https://www.hamiltonproject.org/assets/files/20220806_ES_THP_SocialPrograms_ExpandedEdition.pdf</ref>.
 
+## National Debt
+
+Successful debt consolidation is less likely when countries are hit by longer-lasting and more severe banking crises. Debt consolidation in general is more likely to succeed when based on cuts in current expenditures. This is because curtailing spending on transfers and wages reduces pressure on nondiscretionary spending, which tends to rise over time, and may also raise growth prospects<ref>https://www.imf.org/external/pubs/ft/fandd/2010/12/baldacci.htm</ref>.
+
+Most studies find that there is a threshold after which debt begins to reduce economic growth. Of those studies, half find a threshold between 75 and 100 percent. The empirical evidence overwhelmingly supports the view that large government debt has a negative effect on the growth potential of an economy<ref>https://www.mercatus.org/research/policy-briefs/debt-and-growth-decade-studies</ref>.
+
+Austerity in the aftermath of the great recession was associated with lower GDP, lower inflation and higher net exports. Eliminating austerity would have substantially reduced output losses in Europe. Austerity was so contractionary that debt-to-GDP ratios in some countries increased as a result of endogenous reductions in GDP and tax revenue<ref>https://www.sciencedirect.com/science/article/abs/pii/S0304393219300959</ref>.
+
 ## References
 
 <references />
