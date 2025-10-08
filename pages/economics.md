@@ -845,6 +845,14 @@ Austerity in the aftermath of the great recession was associated with lower GDP,
 
 In India’s manufacturing sector, foreign firms pay higher wages and salaries than domestic firms<ref>https://journals.sagepub.com/doi/full/10.1177/23210222211051453</ref>.
 
+## Inequality 2 electric boogaloo
+
+Fiscal policy accounts for a large share of differences in inequality across countries<ref>https://www.imf.org/en/Blogs/Articles/2017/10/11/inequality-fiscal-policy-can-make-the-difference</ref>.
+
+Public spending on public investment and education boost potential growth, while pensions and public subsidies lower potential growth. Large governments also reduce potential growth unless the functioning of the government is highly effective. Increasing the side of the government, family benefits or subsidies decreases inequality<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/12/the-effect-of-the-size-and-the-mix-of-public-spending-on-growth-and-inequality_d7d3bd9d/f99f6b36-en.pdf</ref>.
+
+Income inequality has increased in most OECD countries in the 2000s and 2010s, both because incomes before taxes and transfers have become more unequally distributed and because the extent of redistribution through taxes and transfers has fallen. This is mainly driven by a reduction in cash transfers, while personal income taxes have played a less important and more heterogeneous role across countries. Decline in redistribution through transfers was driven by less generous social insurance benefits, which in some countries were partly compensated by more progressive social assistance. Policy changes during this period of time have contributed markedly to the decline in redistribution. Relevant policy changes included cuts to cash income support to unemployed households and a reduction in the taxation of top incomes and income from capital, as globalization has put pressure on governments to shift away from highly mobile tax bases<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/02/income-redistribution-across-oecd-countries_f2d12a2b/3b63e61c-en.pdf</ref>.
+
 ## References
 
 <references />
