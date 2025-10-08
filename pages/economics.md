@@ -841,6 +841,10 @@ Most studies find that there is a threshold after which debt begins to reduce ec
 
 Austerity in the aftermath of the great recession was associated with lower GDP, lower inflation and higher net exports. Eliminating austerity would have substantially reduced output losses in Europe. Austerity was so contractionary that debt-to-GDP ratios in some countries increased as a result of endogenous reductions in GDP and tax revenue<ref>https://www.sciencedirect.com/science/article/abs/pii/S0304393219300959</ref>.
 
+## Globalism
+
+In India’s manufacturing sector, foreign firms pay higher wages and salaries than domestic firms<ref>https://journals.sagepub.com/doi/full/10.1177/23210222211051453</ref>.
+
 ## References
 
 <references />
