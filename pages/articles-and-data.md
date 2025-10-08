@@ -29,10 +29,8 @@ permalink: /articles-and-data/
 
 ## Books 
 
-* [https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf Manipulation, Disinformation, and Radicalization in American Politics]
 * [https://www.amazon.ca/Global-Formation-Structures-World-Economy/dp/0847691020 Global Formation: Structures of the World Economy]
 * [https://www.amazon.ca/Heuristics-Biases-Psychology-Intuitive-Judgment/dp/0521796792 Heuristics and Biases: The Psychology of Intuitive Judgment]
-* [https://books.google.ca/books/about/Understanding_Affirmative_Action.html?id=7P8pYcumilAC&source=kp_book_description&redir_esc=y Understanding Affirmative Action: Politics, Discrimination, and the Search for Justice]
 * [https://books.google.ca/books/about/The_Sometime_Connection.html?id=enqassMrP7IC&source=kp_book_description&redir_esc=y The Sometime Connection: Public Opinion and Social Policy]
 * [https://books.google.ca/books/about/Human_Intelligence.html?id=DwO4TtKAiCoC&source=kp_book_description&redir_esc=y Human Intelligence]
 * [https://www.google.ca/books/edition/IQ_and_Human_Intelligence/BcKcAQAAQBAJ?hl=en&gbpv=1&printsec=frontcover IQ and Human Intelligence]
@@ -49,7 +47,6 @@ permalink: /articles-and-data/
 * [https://www.unz.com/wp-content/uploads/2020/10/ErectusWalksAmongstUs-Unz.pdf Erectus Walks Amongst Us: The evolution of modern humans]
 * [https://leeconomics.com/Literature/Henry%20Hazlitt%20Economics%20in%20One%20Lesson.pdf Economics in One Lesson]
 * [https://archive.org/details/pdfy-VLw_XW3rMqu7yygj/mode/1up Sex Differences: Summarizing More Than a Century of Scientific Research]
-* The Machiavellians Defenders of Freedom James Burnham
 * Paul Gottfried Multiculturalism and the Politics of Guilt
 * Lawrence H Keeley's War Before Civilization
 * The Moral Basis of a Backward Society Edward Banfield
