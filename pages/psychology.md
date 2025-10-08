@@ -628,6 +628,20 @@ Some researchers have offered three explanatory models for moral panics: grassro
 
 Some critique the moral panic concept by asserting that case studies often proceed with the objective of demonstrating that the episode under study conforms to the moral panics profile rather than problematizing these relationships<ref>Blackwell Encyclopedia of Sociology: Moral Panic</ref>.
 
+## Overprescription
+
+Across rich countries, antidepressant use has been on the rise, with doctors in some countries writing prescriptions for more than 1 in 10 adults. This is raising concerns about overprescription of pills<ref>https://www.theguardian.com/society/2013/nov/20/antidepressant-use-rise-world-oecd</ref>.
+
+The FDA has approved the use of antipsychotic medications in some children and adolescents with severe emotional and behavioral disorders. However, recent trends show a 2-5 fold increase in the use of antipsychotic medications in preschool children<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3778027/</ref>.
+
+In some countries, ADHD diagnoses are surging tenfold, which appears to be a product of marketing, where any fidgeting behavior is pathologized and seen as requiring treatment<ref>https://www.sciencedaily.com/releases/2014/11/141118125447.htm</ref>.
+
+There has been a significant surge in treatments for gender dysphoria for young people. There appears to be a rising level of professional disagreement over whether this is a good thing or not<ref>https://bmjgroup.com/gender-dysphoria-is-rising-and-so-is-professional-disagreement/</ref>.
+
+There has been a significant rise in the number of people in England obtaining central nervous system (CNS) stimulants and medicines for ADHD. The number of prescription items dispensed has increased in line with the number of patients. However, researchers estimate that ADHD is still underdiagnosed and undertreated<ref>https://pharmaceutical-journal.com/article/feature/special-report-charting-the-rise-in-adhd-prescribing</ref>.
+
+Rates of overdiagnosis of bipolar disorder range from 4.8% to 67%<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3856145/</ref>.
+
 ## References
 
 <references />
