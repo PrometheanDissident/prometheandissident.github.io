@@ -176,6 +176,10 @@ Strongest evidence of how police can reduce crime and disorder is found in hot s
 
 Foot patrols, while making residents feel safer and believe that crime was diminished by their presence, have no effect on actual crime levels<ref>https://www.ojp.gov/ncjrs/virtual-library/abstracts/newark-foot-patrol-experiment</ref>.
 
+## Alcohol
+
+A sudden and unexpected nationwide alcohol sales ban in South Africa causally reduced injury-induced mortality in the country by at least 14 percent. There was also a sharp drop in violent crimes, showing a tight link between alcohol and aggressive behavior<ref>https://direct.mit.edu/rest/article/106/4/938/112423/Alcohol-Violence-and-Injury-Induced-Mortality</ref>. *Note, the ban was 5 weeks in length and done in 2020 to temporarily reduce the heavy burden the healthcare system was taking due to COVID.
+
 ## References
 
 <references />
