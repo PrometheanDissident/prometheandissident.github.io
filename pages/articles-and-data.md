@@ -29,7 +29,6 @@ permalink: /articles-and-data/
 
 ## Books 
 
-* [https://www.amazon.ca/Global-Formation-Structures-World-Economy/dp/0847691020 Global Formation: Structures of the World Economy]
 * [https://www.amazon.ca/Heuristics-Biases-Psychology-Intuitive-Judgment/dp/0521796792 Heuristics and Biases: The Psychology of Intuitive Judgment]
 * [https://books.google.ca/books/about/The_Sometime_Connection.html?id=enqassMrP7IC&source=kp_book_description&redir_esc=y The Sometime Connection: Public Opinion and Social Policy]
 * [https://books.google.ca/books/about/Human_Intelligence.html?id=DwO4TtKAiCoC&source=kp_book_description&redir_esc=y Human Intelligence]
