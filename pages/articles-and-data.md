@@ -29,24 +29,18 @@ permalink: /articles-and-data/
 
 ## Books 
 
-* [https://www.amazon.ca/Heuristics-Biases-Psychology-Intuitive-Judgment/dp/0521796792 Heuristics and Biases: The Psychology of Intuitive Judgment]
-* [https://books.google.ca/books/about/The_Sometime_Connection.html?id=enqassMrP7IC&source=kp_book_description&redir_esc=y The Sometime Connection: Public Opinion and Social Policy]
-* [https://books.google.ca/books/about/Human_Intelligence.html?id=DwO4TtKAiCoC&source=kp_book_description&redir_esc=y Human Intelligence]
-* [https://www.google.ca/books/edition/IQ_and_Human_Intelligence/BcKcAQAAQBAJ?hl=en&gbpv=1&printsec=frontcover IQ and Human Intelligence]
-* [https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science#:~:text=Economics%20Rules%3A%20The%20Rights%20and%20Wrongs%20of%20The%20Dismal%20Science,-Citation%3A&text=In%20the%20wake%20of%20the,surprisingly%20upbeat%20judgment%20on%20economics Economics Rules: The Rights and Wrongs of The Dismal Science]
-* [https://files.catbox.moe/zjam8b.pdf The Rhythm of the West: A Biohistory of the Modern Era AD 1600 to the Present]
-* [https://files.catbox.moe/ymky7f.pdf Modernity and Cultural Decline: A Biobehavioral Perspective]
-* Lawrence H Keeley's War Before Civilization
-* The Poverty of Historicism by Karl Popper
-* Pareto The Mind and Society
-* Bryan Caplan The Myth of the Rational Voter
-* Intellectuals and Society (2008), by Thomas Sowell
-* The Economic Laws of Scientific Research (1996), by Terence Kealey
-* Words That Work: It's Not What You Say, It's What People Hear
-* The Transhumanism handbook
-* In the Know: Debunking 35 Myths About Human Intelligence (2020)
 * The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous
 * Expert Political Judgement: How Good is it? How Can We Know? (2004)
+* In the Know: Debunking 35 Myths About Human Intelligence (2020)
+* The Transhumanism handbook
+* Words That Work: It's Not What You Say, It's What People Hear
+* The Economic Laws of Scientific Research (1996), by Terence Kealey
+* Intellectuals and Society (2008), by Thomas Sowell
+* The Poverty of Historicism by Karl Popper
+* [https://files.catbox.moe/zjam8b.pdf The Rhythm of the West: A Biohistory of the Modern Era AD 1600 to the Present]
+* [https://files.catbox.moe/ymky7f.pdf Modernity and Cultural Decline: A Biobehavioral Perspective]
+* [https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science#:~:text=Economics%20Rules%3A%20The%20Rights%20and%20Wrongs%20of%20The%20Dismal%20Science,-Citation%3A&text=In%20the%20wake%20of%20the,surprisingly%20upbeat%20judgment%20on%20economics Economics Rules: The Rights and Wrongs of The Dismal Science]
+* [https://books.google.ca/books/about/The_Sometime_Connection.html?id=enqassMrP7IC&source=kp_book_description&redir_esc=y The Sometime Connection: Public Opinion and Social Policy]
 
 ## Articles
 
