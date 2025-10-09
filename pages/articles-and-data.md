@@ -36,37 +36,18 @@ permalink: /articles-and-data/
 * [https://www.google.ca/books/edition/IQ_and_Human_Intelligence/BcKcAQAAQBAJ?hl=en&gbpv=1&printsec=frontcover IQ and Human Intelligence]
 * [https://drodrik.scholar.harvard.edu/publications/economics-rulesthe-rights-and-wrongs-dismal-science#:~:text=Economics%20Rules%3A%20The%20Rights%20and%20Wrongs%20of%20The%20Dismal%20Science,-Citation%3A&text=In%20the%20wake%20of%20the,surprisingly%20upbeat%20judgment%20on%20economics Economics Rules: The Rights and Wrongs of The Dismal Science]
 * [https://files.catbox.moe/zjam8b.pdf The Rhythm of the West: A Biohistory of the Modern Era AD 1600 to the Present]
-* [https://files.catbox.moe/xxqi0n.pdf A Race Against Time: Racial Heresies for the 21st Century]
-* [https://files.catbox.moe/qx09b0.pdf Cognitive Capitalism: Human Capital and the Wellbeing of Nations]
-* [https://arthurjensen.net/wp-content/uploads/2014/06/Race-IQ-and-Jensen-James-Flynn.pdf Race, IQ and Jensen]
-* [https://files.catbox.moe/yhj9tj.pdf Race Differences in Ethnocentrism]
-* [https://lesacreduprintemps19.wordpress.com/wp-content/uploads/2012/11/making-sense-of-heritability-neven-sesardic.pdf Making Sense of Heritability]
-* [https://files.catbox.moe/6n0cvd.pdf Paved With Good Intentions: The Failure of Race Relations in Contemporary America]
-* [https://www.academia.edu/41059972/Handbook_of_Crime_Correlates Handbook of Crime Correlates]
 * [https://files.catbox.moe/ymky7f.pdf Modernity and Cultural Decline: A Biobehavioral Perspective]
-* [https://www.unz.com/wp-content/uploads/2020/10/ErectusWalksAmongstUs-Unz.pdf Erectus Walks Amongst Us: The evolution of modern humans]
-* [https://leeconomics.com/Literature/Henry%20Hazlitt%20Economics%20in%20One%20Lesson.pdf Economics in One Lesson]
-* [https://archive.org/details/pdfy-VLw_XW3rMqu7yygj/mode/1up Sex Differences: Summarizing More Than a Century of Scientific Research]
-* Paul Gottfried Multiculturalism and the Politics of Guilt
 * Lawrence H Keeley's War Before Civilization
-* The Moral Basis of a Backward Society Edward Banfield
 * The Poverty of Historicism by Karl Popper
-* Lyotard the differend
 * Pareto The Mind and Society
-* Proudhon La Pornocratie
 * Bryan Caplan The Myth of the Rational Voter
-* Civil disobedience essay by Henry David Thoreau
-* In the Know: Debunking 35 Myths About Human Intelligence (2020)
 * Intellectuals and Society (2008), by Thomas Sowell
-* More Guns, Less Crime: Understanding Crime and Gun-Control Laws, Third Edition (2010)
-* Sick Societies: Challenging the Myth of Primitive Harmony by Robert Edgerton
+* The Economic Laws of Scientific Research (1996), by Terence Kealey
+* Words That Work: It's Not What You Say, It's What People Hear
+* The Transhumanism handbook
+* In the Know: Debunking 35 Myths About Human Intelligence (2020)
 * The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous
 * Expert Political Judgement: How Good is it? How Can We Know? (2004)
-* Tetlock’s 2015 book Superforcasters
-* Brainwashed: The Seductive Appeal of Mindless Neuroscience (2013)
-* The Progressive Era (2017), by Murray Rothbard
-* The Economic Laws of Scientific Research (1996), by Terence Kealey
-
 
 ## Articles
 
