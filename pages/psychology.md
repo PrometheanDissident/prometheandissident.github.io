@@ -650,6 +650,16 @@ Higher paternal age is associated with an increased risk of autism<ref>https://p
 
 Paternal-age-related de novo mutations are related to increased risk for autism, congenital heart disease, neurodevelopmental disorders with epilepsy, intellectual disability and schizophrenia<ref>https://www.nature.com/articles/s41467-019-11039-6#Sec7</ref>.
 
+## Social Media and Discourse
+
+Research suggests that on twitter, virality predicts moral outrage in response to tweets about controversial issues even when controlling for the specific content of the tweet. This appears to be due to virality increasing people’s feelings of danger as a result of the tweet<ref>https://pubmed.ncbi.nlm.nih.gov/38421751/#:~:text=PubMed%20pubmed,virality</ref>.
+
+In online social networks, the presence of moral-emotional words in messages increases their diffusion by a factor of 20% for each additional word. This was bounded by group membership, as moral-emotional language increased diffusion more strongly within liberal and conservative networks, and less between them<ref>https://www.pnas.org/doi/full/10.1073/pnas.1618923114</ref>.
+
+Social media platforms reward expressions of moral outrage through an increased number of likes and shares, changing the incentives surrounding the tone of political conversations<ref>https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online</ref>.
+
+Social media users overperceive levels of moral outrage felt by individuals and groups, which inflate beliefs about intergroup hostility<ref>https://www.nature.com/articles/s41562-023-01582-0?error=cookies_not_supported&code=b0a59680-467b-497a-8c20-dcb3f438391c</ref>.
+
 ## References
 
 <references />
