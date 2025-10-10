@@ -642,6 +642,14 @@ There has been a significant rise in the number of people in England obtaining c
 
 Rates of overdiagnosis of bipolar disorder range from 4.8% to 67%<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3856145/</ref>.
 
+## Dysgenics
+
+There has been a decline in general cognitive ability over the course of the 20th century that has been observed in the United States, United Kingdom and Iceland. This can be traced to differences in fertility by education<ref>https://www.anthro1.net/p/the-great-decline</ref>.
+
+Higher paternal age is associated with an increased risk of autism<ref>https://pubmed.ncbi.nlm.nih.gov/16953005/</ref>.
+
+Paternal-age-related de novo mutations are related to increased risk for autism, congenital heart disease, neurodevelopmental disorders with epilepsy, intellectual disability and schizophrenia<ref>https://www.nature.com/articles/s41467-019-11039-6#Sec7</ref>.
+
 ## References
 
 <references />
