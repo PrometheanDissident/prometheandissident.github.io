@@ -256,6 +256,8 @@ Zagrebbi on wokeness<ref>https://graymirror.substack.com/p/the-origin-of-woke-a-
 
 <img src="https://substackcdn.com/image/fetch/$s_!ZjEl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d72a0e9-4091-410c-a817-f765b5844c00_1282x1232.png" alt="Four Models of Wokeness" width="500">
 
+The entertainment industry, news media, and academia are among the most liberal professions in the United States<ref>https://www.businessinsider.com/proof-of-liberal-bias-in-hollywood-media-and-academia-2014-11</ref>.
+
 ## School types
 
 Public schools are operated by the government, while private schools are independent<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/07/balancing-school-choice-and-equity_b8766e0e/2592c974-en.pdf</ref>. Charter schools are public schools which receive public funds but are exempt from parts of the states’ education codes to allow them to experiment with alternative curricula and pedagogical approaches. While more independent, they also face higher risks of getting shut down<ref>https://sandera.ucsd.edu/publications/DISC%20PAPER%20Betts%20Tang%20Charter%20Lit%20Review%202018%2001.pdf</ref>.
