@@ -660,6 +660,25 @@ Social media platforms reward expressions of moral outrage through an increased 
 
 Social media users overperceive levels of moral outrage felt by individuals and groups, which inflate beliefs about intergroup hostility<ref>https://www.nature.com/articles/s41562-023-01582-0?error=cookies_not_supported&code=b0a59680-467b-497a-8c20-dcb3f438391c</ref>.
 
+## Social Isolation
+
+Social capital is the connections among individuals social networks and the norms of reciprocity and trustworthiness that arise from them. Social capital varies across many dimensions, but the most important distinction is between bridging (inclusive) and bonding (exclusive) social capital. Bonding social capital networks are inward-looking and tend to reinforce exclusive identities and homogenous groups, such as ethnic fraternal organizations and country clubs. Bridging social capital networks are outward looking and include people across diverse social cleavages, such as the civil rights movement and youth service groups<ref>https://www.beyondintractability.org/bksum/putnam-bowling</ref>.
+
+Social capital increased in the US until the 1970s and then suddenly decreased until the present. This trend is consistent across measures including political participation, civic participation, religious participation, workplace networks, informal networks, mutual trust and altruism, with a few exceptions. Putnam found that a number of factors had no statistically significant effect on the change in social capital, including educational deficiency, destruction of the nuclear family, race and racism, big government and the welfare state, and market economics. There were four social characteristics that passed the tests: pressures of time and money, mobility and sprawl, television and generational differences. Up to 50% is due to generational differences<ref>https://www.beyondintractability.org/bksum/putnam-bowling</ref>.
+
+Social capital leads to improved social environments, such as safer and more productive neighborhoods, it makes business transitions easier as people are more trusting, it widens our awareness of mutual connectivity which can improve the quality of civic and democratic institutions, it increases and speeds up the flow of information which improved education and economic production, and it improves our health and happiness through both psychological and biological processes which require human contact. Unfortunately the effects of social capital are not always positive. Indeed, bonding social capital, in particular, can lead to destructive divisions within and between societies as groups develop a collective identity based largely on exclusion, which can restrict individual freedoms through social pressure. But this isn’t inherent to social capital, and Putnam provides evidence that liberty and fraternity (or bonding social capital) are mutually supportive<ref>https://www.beyondintractability.org/bksum/putnam-bowling</ref>.
+
+Putnam has several suggestions for improving social capital<ref>https://www.beyondintractability.org/bksum/putnam-bowling</ref>:
+- Educational reforms be undertaken, including improved civics education, well designed service learning programs, extra curricular activities and smaller schools.
+- More family-oriented workplace
+- Further efforts at new urbanism
+- Religion become both more influential and tolerant
+- Technologies that reinforce rather than replace face-to-face interaction should be encouraged
+- Art and culture should become more interactive
+- Politics requires campaign efforts and a decentralization of power
+
+Americans are having less sex. This is not due to an increase of women in the workforce, or to couples in general working longer hours, or to pornography, as research has shown that none of them could be the culprit<ref>https://greatergood.berkeley.edu/article/item/americans_are_having_less_sex_but_is_that_a_problem</ref>.
+
 ## References
 
 <references />
