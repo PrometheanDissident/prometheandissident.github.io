@@ -103,6 +103,18 @@ Does this undermine the arguments in favor of capitalism? It does suggest that t
 - Research also suggests that a long period of democratic rule and high per capita income are associated with less rent extraction among public policy-makers. Furthermore, a higher ratio of electorally accountable decision-makers to electorally unaccountable decision-makers, by altering voters’ evaluation of incumbent competency, changes the incentives that policy-makers who wish to remain in office have to minimize their short-term level of rent extraction in order to signal their competency and hopefully retain office. This means that countries with institutions which allow for more democratically accountable decision-makers have lower levels of rent extraction through constraining rent-seeking<ref>https://doi.org/10.1596%2F1813-9450-6305</ref>. Democratic reforms can significantly help constrain the level of rent-seeking that can persist within an economy.
 - Furthermore, because high per capita income reduces the level of rent extraction, relative economic freedom through increasing economic growth can actually reduce the level of rent extraction that exists in an economy.
 
+## The Fall of Marxism
+
+Marxism was an incredibly influential theory that heavily shaped how the debates about free markets versus various forms of socialism, whether it be central planning or worker ownership, occurred. For its time, Marx's theories were impressive. While the labor theory of value was ultimately an idea that was shown to be false, it was merely an extension of the Classical school of political economy which was so dominant at the time, and it drew upon the theory in an intelligent way. Furthermore, the time in which the theory was developed, the 19th century, was one of immense economic turmoil, with a large number of recessions occurring which make the postwar period look mild by comparison. In those circumstances, theorizing about how the dominant system is going to inevitably fall and give rise to a different system isn't a completely irrational thing to do. However, on an intellectual as well as a political level, Marxism ultimately met its downfall. Joseph Heath points to a number of drivers explaining why Marxism declined in academic discourse<ref>https://josephheath.substack.com/p/key-stages-in-the-decline-of-academic</ref>:
+
+- The labor theory of value was undermined because it ignored the influence of demand in determining prices, what was an important contribution that marginalist analysis made and was neglected in classical theory.
+- The theory of crises that Marx had did not meaningfully explain when and why crises occurred. Keynes showed that the shortfall in demand observable during a recession was not caused by overproduction, but by a shortage of money, and was a problem of adjustment as opposed to contradictions. Marx couldn't explain basic facts of recessions such as that they were generally preceded by banking crises.
+- Historical materialism couldn't anticipate or puersuasively explain the rise of nationalism in the 20th century.
+- The notion of post-scarcity conditions was undermined by Veblen who pointed out that general satiation is impossible because much of our material consumption is instrumental to the attainment of outcomes that are zero-sum at the population level.
+- Socialist calculation debate undermined alternatives to capitalism.
+
+This isn't to say that Marxism has no intellectual value to it. Its points on alienation for instance likely have some merit. But ultimately, it should be seen as a product of its time, as opposed to gospel that can be used to effectively analyze a society 200 years ahead of when it was written.
+
 ## How Should Different Goods/Services be Allocated in General?
 
 ## The Importance of Economic Growth
@@ -694,16 +706,6 @@ There is some evidence coming to light that AI can engage in deception, although
 Researchers trained an AI to align with the stylistic conventions, unspoken norms, and persuasion patterns of r/changemyview. The original poster on average changes their mind in about 3% of cases for human generated arguments. But with the AI, the arguments succeeded 9-18% of the time, meaning they were 3-6 times better at changing the minds of redditors. The AI succeeded not through better reasoning or information, but through effectively hacking the mechanics of persuasion, such as with appeals to emotion and identity, generalities, personal experiences, rhetorical questions, informational overload, conclusions based on sentiments, narrativizing, and assumption of ill intent<ref>https://www.aporiamagazine.com/p/why-reddit-is-no-longer-needed</ref>.
 
 Research suggests that 95 percent of organizations see no measurable return on their investment in generative AI. This is likely because employees are using AI tools to create low-effort and passable looking work that actually creates more work for co-workers<ref>https://garymarcus.substack.com/p/why-is-the-roi-on-generative-ai-so</ref>.
-
-## Marxism
-
-Joseph Heath points to a number of drivers explaining why Marxism declined in academic discourse<ref>https://josephheath.substack.com/p/key-stages-in-the-decline-of-academic</ref>:
-
-- The labor theory of value was undermined because it ignored the influence of demand in determining prices, what was an important contribution that marginalist analysis made and was neglected in classical theory.
-- The theory of crises that Marx had did not meaningfully explain when and why crises occurred. Keynes showed that the shortfall in demand observable during a recession was not caused by overproduction, but by a shortage of money, and was a problem of adjustment as opposed to contradictions. Marx couldn't explain basic facts of recessions such as that they were generally preceded by banking crises.
-- Historical materialism couldn't anticipate or puersuasively explain the rise of nationalism in the 20th century.
-- The notion of post-scarcity conditions was undermined by Veblen who pointed out that general satiation is impossible because much of our material consumption is instrumental to the attainment of outcomes that are zero-sum at the population level.
-- Socialist calculation debate undermined alternatives to capitalism.
 
 ## Woke Capitalism
 
