@@ -277,7 +277,7 @@ It does appear to be the case that targeting works best when embedded in the ove
 
 The minimum wage is one of the largest debates and most extensively studied subjects within economics. My view, based on the reading of research is that a minimum wage should not exceed 60 percent of the local median income in a developed country. However, there are many limitations to the minimum wage as a tool. Research suggests that the minimum wage is a worse anti-poverty tool compared to various types of welfare programs, and in some circumstances it can actually increase poverty when the disemployment effects are sufficiently large as well as adjustments on other margins such as prices. The minimum wage, when employed, cannot suffice as an efficient anti-poverty tool. The full effects of the minimum wage are discussed below.
 
-### Monopsony and Effects on Firms
+#### Monopsony and Effects on Firms
 
 There are three schools of thought when it comes to the minimum wage debate. All of these emphasize the importance of the responses that firms have to minimum wage increases as a determinant of the actual effects of minimum wages. The major two, the competitive and monopsonistic model, are in opposition as to whether a minimum wage can meaningfully improve the lives of workers.
 
@@ -294,11 +294,11 @@ A third often not mentioned model of the minimum wage is the institutional/behav
 
 In sum, all three major models for how the minimum wage operates have some degree of merit to them, and we will examine the effects of the minimum wage as they apply to all of these models when looking at the channels of adjustment that firms engage in following minimum wage increases in more detail.
 
-### Channels of Adjustment
+#### Channels of Adjustment
 
 Firms can adjust to a minimum wage increase in a number of ways, most notably increasing employment. But beyond this, they can also change the labor market in other ways or increase prices to compensate. The research on this is discussed below.
 
-#### Employment
+**Employment**
 
 Polling suggests that economists are split on whether the minimum wage causes adverse unemployment effects, or at least whether they make it harder for low-skilled workers to find employment<ref>https://www.igmchicago.org/surveys/minimum-wage/</ref>. When looking at the actual empirical evidence on the subject, this starts to make more sense, as there is no consensus on the subject. Nonetheless, the overwhelming majority of the evidence according to meta-analytic research suggests there is no net effect of the minimum wage on employment or a small negative effect, even without taking into account publication bias which leans in favor of studies which find a negative effect of the minimum wage on employment<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1403498](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8543.2009.00723.x</ref><ref>https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/601139/The_impact_of_the_NMW_on_employment_-_a_meta-analysis.pdf</ref><ref>https://www.nelp.org/publication/raise-wages-kill-jobs-no-correlation-minimum-wage-increases-employment-levels/</ref>. All of this is done even while also increasing the wage of workers, as minimum wage laws intend to do. The broader economic effects of minimum wage workers will be discussed in more detail later on, but keep this in mind<ref>https://irle.berkeley.edu/seattles-minimum-wage-experience-2015-16/</ref>.
 
@@ -312,7 +312,7 @@ Another important question to examine is the long-term effects of minimum wages 
 
 While it is the case that the empirical evidence suggests little to no adverse effects of the minimum wage on employment, it is nonetheless undeniable that a sufficiently large minimum wage would have adverse employment effects. This is something which both proponents of the competitive and monopsony model can agree on. Because of this, it is useful to examine when a minimum wage goes too far in its adverse effects, Dube (2019) reviewed the literature and found that employment effects appear to be small up until around 59% of the median wage<ref>https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/844350/impacts_of_minimum_wages_review_of_the_international_evidence_Arindrajit_Dube_web.pdf</ref>.
 
-#### Prices
+**Prices**
 
 Another important concern is whether minimum wage increases are absorbed by price increases. The majority of the literature suggests that the price increases are fairly small in general<ref>https://docs.iza.org/dp1072.pdf</ref><ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-6419.2007.00532.x</ref><ref>https://www.purdue.edu/newsroom/releases/2015/Q3/study-raising-wages-to-15-an-hour-for-limited-service-restaurant-employees-would-raise-prices-4.3-percent.html</ref><ref>https://escholarship.org/uc/item/24t5h934</ref><ref>https://gspp.berkeley.edu/assets/uploads/research/pdf/The_Pass-Through_of_Minimum_Wages_into_US_Retail_Price.pdf</ref>. This suggests that minimum wages generally transfer money from firms or consumers to low-income consumers, meaning it is progressive. This appears to depend on the size of the hike, which is consistent with the monopsony model. Small minimum wage hikes do not lead to higher prices, while large minimum wage hikes do<ref>https://research.upjohn.org/cgi/viewcontent.cgi?article=1278&context=up_workingpapers</ref>.
 
@@ -320,7 +320,7 @@ It should be acknowledged that the distributional effects of the minimum wage wh
 
 In short, price increases are important to consider but not sufficient to justify the notion that the minimum wage is inherently bad. While I did not find any data pertaining to how price levels would change as a minimum wage continues to increase, I would imagine it'd be roughly similar to the 59% of median wage number that a study found on employment. I suspect this because if employment effects don't become notable until 59% of the median wage, it is likely the case that some monopsonistic effects are operating until roughly that threshold, in which case not only is there less of a necessity to decrease employment at lower minimum wage levels, but there is less of a necessity to engage in other profit-maximizing measures, such as price hikes either. Due to this, I would consider this literature consistent with the idea that a minimum wage should be hiked to be roughly 59% of the median hourly wage.
 
-#### Labor Market Changes
+**Labor Market Changes**
 
 Consistent with the notion that neither the monopsony nor the competitive model can fully explain minimum wage effects, I found fairly contradictory evidence on how labor market flows are affected by the minimum wage, with some research suggesting increased labor market flows<ref>http://sarkoups.free.fr/dustmann719.pdf</ref> and some suggesting decreased labor market flows<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/685449</ref>. My suspicion is that the effects likely vary by industry and also by location as most minimum wage effects appear to vary. Ku (2020) suggests that the minimum wage increases labor productivity, which could arguably be due to either a monopsony or competitive model<ref>https://docs.iza.org/dp13369.pdf</ref>. I think in either case it makes sense why workers would want to improve their productivity, as they are potentially at risk of being squeezed out of the market, even in some cases with a monopsony model. Research on the levels of absenteeism is also consistent with the idea that workers are likely pressured to some extent as a consequence of minimum wage increases, as they often risk getting unemployed<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1588294</ref>. The minimum wage also has a variety of other effects on the labor market, which are also due to cost pressures<ref>https://www.cato.org/sites/cato.org/files/pubs/pdf/PA701.pdf</ref>:
 
