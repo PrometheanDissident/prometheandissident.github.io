@@ -275,45 +275,7 @@ It does appear to be the case that targeting works best when embedded in the ove
 
 ### Minimum Wage
 
-### Unemployment Insurance
-
-## Healthcare Policy
-
-## Urban Policy
-
-## The Open Economy
-
-### Free Trade
-
-### Immigration
-
-## ================================================================ TO ADD BELOW ================================================================
-
-## <span style="background-color:yellow">Income Inequality</span>
-
-Potential Positives:
-
-- **Purchasing Power -** As income inequality increases, the market for products aimed towards the poor grows and such products become more profitable. Thus the poor will have a better purchasing power due to the increase in inferior goods provided to them<ref>https://www.jstor.org/stable/23809672</ref>. While this is somewhat beneficial, it does not appear to outweigh the broader negative effects on income mobility or health as laid out above and hence would not make inequality a good thing on net.
-
-Causes of Income Inequality:
-
-- **Regulation -** Research suggests that a 10% increase in federal regulation is associated with an approximate 0.5 percent increase in income inequality as measured by the Gini coefficient<ref>https://www.mercatus.org/system/files/chambers-regulation-inequality-mercatus-working-paper-v1.pdf</ref>.
-
-## <span style="background-color:lightcoral">Labor Exploitation</span>
-
-### <span style="background-color:yellow">Child Labor</span>
-
-Historically, bans on child labor have not been the primary reason for declines in child labor, but rather improvements in industrialization and economic growth which brought rising incomes which allowed parents to keep their children out of the workforce<ref>https://sci-hub.st/10.3368/jhr.XL.1.77</ref><ref>https://eh.net/encyclopedia/child-labor-in-the-united-states/</ref>. Research in fact suggests that in the case of India's Child Labor Ban, the relative probability of child employment increased and child wages relative to adult wages decreased after the ban, as well as decreased young child participation in schooling<ref>https://sci-hub.se/10.1093/jeea/jvz059</ref>. This is consistent with the idea that families use child labor to satisfy basic subsistence needs, which don't go away simply due to a ban on child labor. Similar results have been found in Bangladesh following the 1993 United States Child Labor Deterrence Act<ref>https://www.cato.org/economic-development-bulletin/case-against-child-labor-prohibitions</ref>.
-
-### <span style="background-color:yellow">Sweatshops and Worker Quality of Life</span>
-
-While sweatshops are commonly said to be unjust due to their poor labor conditions, when examining the evidence one should compare how the presence of sweatshops in **already impoverished countries** affects the workers who work in them as well as the broader domestic economy. Research suggests that multinational firms, the firms which have sweatshop jobs, pay more than domestic firms in third world countries and that sweatshop jobs provide workers with above average living standards<ref>http://hseuenglish102.pbworks.com/f/JobsworththeSweat.pdf</ref>. Foreign ownership of firms raises wages by expanding labor production and the scale of production, improving the conditions of work in the process. Not only that, but foreign-owned firms in fact make use of labor organizations and democratic institutions<ref>https://www.nber.org/system/files/chapters/c9541/c9541.pdf#page=45</ref>. While child labor occurs, the vast majority of child laborers of sweatshops and carpet factories are members of landless, very poor families, making it an economic necessity, especially in single mother families where it may be the only source of income. These are situations where children lack access to education regardless of whether they work in sweatshops or not due to them needing to work to sustain their families, regardless of the type of work<ref>https://www.cips-cepi.ca/2018/02/26/the-ethics-of-buying-clothes-produced-in-sweatshops/</ref>. All of this helps to explain why workers subjectively perceive factor employment to provide more stable compensation<ref>https://0x0.la/u/F6CEuq4.pdf</ref>.
-
-The closure of sweatshops cuts off a major source of income for the poor in the short-run, and decreases GDP in the medium term, which helps to explain why sweatshops have been a necessary existence at some point in the development of all nations since the beginning of the industrial revolution<ref>https://www.cips-cepi.ca/2018/02/26/the-ethics-of-buying-clothes-produced-in-sweatshops/</ref>.
-
-## <span style="background-color:yellow">Minimum Wage</span>
-
-Minimum wage in developed countries of about 60% of the local median income has a net positive effect. It does have many limitations however and does not suffice as an efficient anti-poverty tool.
+The minimum wage is one of the largest debates and most extensively studied subjects within economics. My view, based on the reading of research is that a minimum wage should not exceed 60 percent of the local median income in a developed country. However, there are many limitations to the minimum wage as a tool. Research suggests that the minimum wage is a worse anti-poverty tool compared to various types of welfare programs, and in some circumstances it can actually increase poverty when the disemployment effects are sufficiently large as well as adjustments on other margins such as prices. The minimum wage, when employed, cannot suffice as an efficient anti-poverty tool. The full effects of the minimum wage are discussed below.
 
 ### Monopsony and Effects on Firms
 
@@ -332,7 +294,9 @@ A third often not mentioned model of the minimum wage is the institutional/behav
 
 In sum, all three major models for how the minimum wage operates have some degree of merit to them, and we will examine the effects of the minimum wage as they apply to all of these models when looking at the channels of adjustment that firms engage in following minimum wage increases in more detail.
 
-### <span style="background-color:lightcoral">Channels of Adjustment</span>
+### Channels of Adjustment
+
+Firms can adjust to a minimum wage increase in a number of ways, most notably increasing employment. But beyond this, they can also change the labor market in other ways or increase prices to compensate. The research on this is discussed below.
 
 #### Employment
 
@@ -373,6 +337,44 @@ Consistent with the notion that neither the monopsony nor the competitive model 
 - Another channel of adjustment is labor-labor substitution within businesses, where some employers will replace their lowest-skilled workers with somewhat higher-skilled workers in response to increases in the minimum wage. Unions are strong supporters of minimum wages because of this reduction in competition.
 
 Much of this research is consistent with the competitive model, although results from the monopsonistic model creep in as well. It does appear, however, that the competitive model is better at explaining how channels of adjustment operate following minimum wage hikes.
+
+### Unemployment Insurance
+
+## Healthcare Policy
+
+## Urban Policy
+
+## The Open Economy
+
+### Free Trade
+
+### Immigration
+
+## ================================================================ TO ADD BELOW ================================================================
+
+## <span style="background-color:yellow">Income Inequality</span>
+
+Potential Positives:
+
+- **Purchasing Power -** As income inequality increases, the market for products aimed towards the poor grows and such products become more profitable. Thus the poor will have a better purchasing power due to the increase in inferior goods provided to them<ref>https://www.jstor.org/stable/23809672</ref>. While this is somewhat beneficial, it does not appear to outweigh the broader negative effects on income mobility or health as laid out above and hence would not make inequality a good thing on net.
+
+Causes of Income Inequality:
+
+- **Regulation -** Research suggests that a 10% increase in federal regulation is associated with an approximate 0.5 percent increase in income inequality as measured by the Gini coefficient<ref>https://www.mercatus.org/system/files/chambers-regulation-inequality-mercatus-working-paper-v1.pdf</ref>.
+
+## <span style="background-color:lightcoral">Labor Exploitation</span>
+
+### <span style="background-color:yellow">Child Labor</span>
+
+Historically, bans on child labor have not been the primary reason for declines in child labor, but rather improvements in industrialization and economic growth which brought rising incomes which allowed parents to keep their children out of the workforce<ref>https://sci-hub.st/10.3368/jhr.XL.1.77</ref><ref>https://eh.net/encyclopedia/child-labor-in-the-united-states/</ref>. Research in fact suggests that in the case of India's Child Labor Ban, the relative probability of child employment increased and child wages relative to adult wages decreased after the ban, as well as decreased young child participation in schooling<ref>https://sci-hub.se/10.1093/jeea/jvz059</ref>. This is consistent with the idea that families use child labor to satisfy basic subsistence needs, which don't go away simply due to a ban on child labor. Similar results have been found in Bangladesh following the 1993 United States Child Labor Deterrence Act<ref>https://www.cato.org/economic-development-bulletin/case-against-child-labor-prohibitions</ref>.
+
+### <span style="background-color:yellow">Sweatshops and Worker Quality of Life</span>
+
+While sweatshops are commonly said to be unjust due to their poor labor conditions, when examining the evidence one should compare how the presence of sweatshops in **already impoverished countries** affects the workers who work in them as well as the broader domestic economy. Research suggests that multinational firms, the firms which have sweatshop jobs, pay more than domestic firms in third world countries and that sweatshop jobs provide workers with above average living standards<ref>http://hseuenglish102.pbworks.com/f/JobsworththeSweat.pdf</ref>. Foreign ownership of firms raises wages by expanding labor production and the scale of production, improving the conditions of work in the process. Not only that, but foreign-owned firms in fact make use of labor organizations and democratic institutions<ref>https://www.nber.org/system/files/chapters/c9541/c9541.pdf#page=45</ref>. While child labor occurs, the vast majority of child laborers of sweatshops and carpet factories are members of landless, very poor families, making it an economic necessity, especially in single mother families where it may be the only source of income. These are situations where children lack access to education regardless of whether they work in sweatshops or not due to them needing to work to sustain their families, regardless of the type of work<ref>https://www.cips-cepi.ca/2018/02/26/the-ethics-of-buying-clothes-produced-in-sweatshops/</ref>. All of this helps to explain why workers subjectively perceive factor employment to provide more stable compensation<ref>https://0x0.la/u/F6CEuq4.pdf</ref>.
+
+The closure of sweatshops cuts off a major source of income for the poor in the short-run, and decreases GDP in the medium term, which helps to explain why sweatshops have been a necessary existence at some point in the development of all nations since the beginning of the industrial revolution<ref>https://www.cips-cepi.ca/2018/02/26/the-ethics-of-buying-clothes-produced-in-sweatshops/</ref>.
+
+## <span style="background-color:yellow">Minimum Wage</span>
 
 ### <span style="background-color:lightcoral">Quality of Life Effects</span>
 
