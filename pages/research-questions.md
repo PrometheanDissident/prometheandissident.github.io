@@ -5,7 +5,6 @@ permalink: /research-questions/
 ---
 
 * Fossil Fuel Subsidies in Canada
-* Equalization payments
 * Psychological results of children in adoption homes
 * Microcredit
 * Food deserts
@@ -53,3 +52,4 @@ permalink: /research-questions/
 * House bonusing
 * MAPS discourse
 * What the laws are with portugal and decriminalization of drugs
+* Institutionalization of the mentally ill
