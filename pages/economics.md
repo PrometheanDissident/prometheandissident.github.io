@@ -414,6 +414,102 @@ In terms of actual quality, researchers using a Healthcare Access and Quality In
 
 ## Urban Policy
 
+### General
+
+Two major concerns of urban policy are urban sprawl and transit-oriented development. Urban sprawl should be countered through a mix of direct urban planning as well as deregulation which will ideally organically address the issue. Public transit provides significant economic value to a city and so it should be invested in.
+
+Urban sprawl, which is a pattern of uncontrolled development among city peripheries, is increasingly common and negatively affects public health and the environment. For example, research suggests it contributes to obesity, diabetes, cardiovascular disease, and respiratory disease<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC2936977/</ref>. Sprawl patterns, such as “loops and lollipops”, often require car access which puts a strain on affordability and limits the ability for lower-income people to easily access jobs and services<ref>https://www.sciencedirect.com/science/article/abs/pii/S0169204618300744</ref>. Smart growth is a policy framework recommended to combat sprawl. It promotes high population density, walkable and bikeable neighborhoods, preserved green spaces, mixed-use development, available mass transit and limited road construction<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC2936977/</ref>. Urban sprawl can also be addressed through reducing zoning regulations (see [Zoning](https://prometheandissident.github.io/economics/#zoning-and-housing-regulations)).
+
+Transit-oriented development (TOD) is an approach to transport and land use planning that aims to make walking, cycling and transit use convenient and desirable. Research suggests that TOD results in lower levels of car use, higher levels of public transport use, and much higher levels of walking. It is however difficult to implement because of organizational fragmentation between the various regional and local authorities, as well as private and public sector actors<ref>https://www.k2centrum.se/sites/default/files/fields/field_uppladdad_rapport/k2_research_2020_2_0.pdf</ref>.
+
+High-quality public transport increases accessibility for people, which has a range of effects. It increases economic activity on both an aggregate and household level, it boosts employment although it increases housing prices. Public transportation improves social connections, especially for older people in isolated rural areas<ref>https://discovery.ucl.ac.uk/id/eprint/10203891/1/Alhassan%20and%20Anciaes%202025%20Public%20transport%20investments%20as%20generators%20of%20economic%20and%20social%20activity.pdf</ref>. Land value uplift from public transport varies in estimates across studies, but is generally found to be about 10 percent<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/02/the-future-of-public-transport-funding_d0cbc29f/82a4ba65-en.pdf</ref>.
+
+### Housing
+
+#### Trends in Housing Availability
+
+In general, across developed countries there has been a consistent trend towards housing becoming less affordable. This is particularly interesting as it suggests that housing is the exception to the general rule of material progress which has characterized the development of wealthy countries. There appear to be two major factors involved in explaining why housing has become less affordable over time.
+
+The first cause is changes in welfare regimes. While overall social spending has been increasing across OECD countries, the precise way in which welfare policies are implemented can still negatively affect the affordability or availability of  housing. Welfare regimes are important in determining housing outcomes, but many advanced economies have been experiencing welfare retrenchment and a move toward a market-driven housing system. The reduction of publicly subsidized housing removes some of the most affordable housing from the market, affecting the availability of housing for those in need<ref>https://www.tandfonline.com/doi/full/10.1080/02673037.2022.2123623</ref>. Over the past two decades, in OECD countries public investment in housing has declined substantially<ref>https://www.oecd.org/en/topics/sub-issues/affordable-housing.html</ref>.
+
+A second reason concerns the actual development of housing. Not-in-my-backyard (NIMBY) anti-development pressures have grown which lead to increasingly strict municipal policies and regulations<ref>https://docs.iza.org/pp203.pdf</ref>, making building new high-density housing very difficult (see [Zoning and Housing Restrictions](https://prometheandissident.github.io/economics/#zoning-and-housing-restrictions)).
+
+Therefore, as expected, the two major areas that countries and municipalities which want to increase availability and affordability of housing should focus on is their welfare programs and their regulation of housing. These will be discussed in turn.
+
+#### Zoning and Housing Regulations
+
+In most places, housing costs are close to the marginal physical costs of new construction, meaning that physical costs in most cases have little to do with relatively high prices. Rather, zoning has been found to be consistently associated with decreased affordability<ref>https://www.nber.org/system/files/working_papers/w8835/w8835.pdf</ref><ref>https://www.cato.org/policy-analysis/zoning-land-use-planning-housing-affordability</ref>. Housing regulations and zoning restrictions are significant in their effect on housing prices<ref>https://www.nber.org/system/files/working_papers/w10124/w10124.pdf</ref><ref>https://www.nahb.org/blog/2021/05/regulatory-costs-add-a-whopping-93870-to-new-home-prices/</ref><ref>https://www.vtpi.org/park-hou.pdf</ref>. Zoning has been identified as the prime culprit behind surging house prices in England<ref>https://cepr.org/voxeu/columns/regulation-blame-englands-surging-house-prices</ref>. Research in Australia found that as of 2016, zoning raised detached house prices 73 percent above marginal costs in Sydney, 69 percent in Melbourne, 42 percent in Brisbane and 54 percent in Perth<ref>https://www.rba.gov.au/publications/rdp/2018/pdf/rdp2018-03.pdf</ref>. In Manhattan, despite home building being a highly competitive industry with almost no natural barriers to entry, prices appear to be more than twice their supply costs, suggesting land use regulations account for over half of the cost of the majority of housing units in the area<ref>https://www.nber.org/system/files/working_papers/w10124/w10124.pdf</ref>. More flexible land use rules in Tokyo explain their comparatively greater housing affordability<ref>https://www.southernurbanism.org/p/affordability-to-solve-for-housing</ref>. Zoning and land use restrictions contribute to urban sprawl<ref>https://www.researchgate.net/publication/377772662_A_global_analysis_of_land_use_regulation_urban_form_and_greenhouse_gas_emissions</ref>. Stringent restrictions on housing supply prevent workers from accessing high-wage regions leading to spatial misallocation of labor. Analysis of 220 metropolitan areas in the US found that these constraints lowered aggregate US growth by 36 percent from 1964 to 2009<ref>https://www.aeaweb.org/articles?id=10.1257/mac.20170388</ref>.
+
+Zoning regulations as well as housing regulations in general contribute to higher housing prices and lower economic growth, constituting a quintessential case where regulation not only reduces economic growth but also contributes to greater poverty (see [The Role of Regulation](https://prometheandissident.github.io/economics/#the-role-of-regulation)). It is therefore crucial that they are minimized where possible and reasonable. Unfortunately, these regulations are politically difficult to remove in many cases. Homeowners tend to be disproportionately active in politics, and tend to support regulation as it increases the rents they get from their housing units through raising prices. In the absence of such regulation, homeowners can end up losing a significant amount of their net worth through price reductions when housing as an asset makes up a substantial proportion of that total. Furthermore, many homeowners place value on protecting the "character" of their neighborhoods beyond the direct effect it may have on housing prices. Due to these reasons, YIMBY-esque policies tend to be politically infeasible in many areas.
+
+#### Rent Control
+
+Rent control is often proposed as another solution to addressing issues of housing affordability. However, rent control does a poor job at targeting benefits to those who need them. Residents of rent-controlled units are less likely to move, meaning they often continue to live in houses that don't properly fit their needs. Rent control and rent stabilization policies also reduce the available supply of housing, which generally leads to higher rents in the uncontrolled market. There are also significant fiscal costs associated with implementing rent control and no consistent relationship between rent control and the prevalence of homelessness. There is also no substantial evidence supporting the idea that rent control decreases economic or racial segregation<ref>https://www.nmhc.org/globalassets/knowledge-library/rent-control-literature-review-final2.pdf</ref>.
+
+Rent control therefore has essentially no upsides to it and should not be taken seriously as a policy option to address problems with a lack of housing.
+
+
+
+
+
+**TO ADD**
+
+### <span style="background-color:yellow">Housing First</span>
+
+**Based - Save money, are effective in reducing homelessness**
+
+The Finnish national program to reduce homelessness started in 2008 and renewed in 2012 built on housing first. This was a broad partnership between the national and municipal authorities and the non-profit sector, where Finland converted shelters into apartment units and constructed housing. Clients have a choice of programs, some of which ask for a commitment to sobriety, while others do not. Instead of receiving housing subsidies linked to the rent of the apartment, tenants pay for the entire rent using government-provided income sources, such as housing, child, disability, unemployment, student, and pension allowances, depending on the person's circumstances. If these don't suffice, social assistance fills the gap. To prevent conflict between tenants, tenants engage in "neighborhood work". This program led to homelessness largely ending<ref>https://0x0.la/u/w4UVmBP.pdf</ref>. While the Finnish housing interventions cost money, they save money in terms of the services needed by one person. Finland has a very low homeless population because they give people houses first as opposed to expecting people to sort their problems out before getting a home. Rents are paid for by the government, although the tenants can pay a portion depending on their income. Moreover, on top of this, to drive down housing costs, Finland has increased the supply of affordable rental housing to counter housing shortages<ref>https://www.weforum.org/agenda/2018/02/how-finland-solved-homelessness/</ref>.
+
+Medicine Hat practiced housing first and became the first city in Canada to end chronic homelessness<ref>https://community.solutions/case-studies/medicine-hat-becomes-first-city-in-canada-to-end-chronic-homelessness/</ref>, although it lasted only 5 months. As of 2022, the number of people chronically rose to 19<ref>https://www.cbc.ca/news/canada/calgary/homeless-medicine-hat-point-in-time-count-1.6600717</ref>.
+
+## Homelessness
+
+**Permanent Supportive Housing**
+
+- Permanent supportive housing is long-term housing in the community combined with support services tailored to the person’s needs, following the principles of “housing first” where housing is not contingent on abstinence from substance use. There is some evidence to suggest that it can increase housing stability, with a potential sustained benefit for up to 5.4 years. Some evidence suggests that it can also reduce visits to the emergency department and admission to the hospital. These benefits were seen in studies which included individuals who were mentally ill or had substance use disorders<ref>https://globalageing.cochrane.org/blog/13-housing-income-assistance-and-case-management-improve-housing-outcomes-persons-lived</ref>.
+- Randomized trials comparing HUD-VA Supported Housing (HUD-VASA) to rent subsidies and intensive case management found that HUD-VASH veterans with psychiatric and/or substance use disorders had superior housing outcomes, with no significant differences on any measures of psychiatric or substance abuse status or community adjustment, although HUD-VASH clients had larger social networks<ref>https://jamanetwork.com/journals/jamapsychiatry/fullarticle/207801</ref>. HUD-VASH veterans had 25% more days housed than those in standard care, but it was $6200 (15%) more costly than standard care.
+- Uptake of voluntary services that permanent supportive housing programs offer, such as case management, employment support and community based healthcare, increase when individuals have housing stability, and uptake of those increases housing stability itself<ref>https://community.solutions/what-is-housing-first/</ref>.
+- Furthermore, the majority of housing first tenants do not return to homelessness, remaining stably housed at rates that often exceed those at traditional treatment first programs<ref>https://community.solutions/what-is-housing-first/</ref>.
+- In Finland, beginning in 2007 national policies shifted toward reducing long-term homelessness through housing first programs. This shift in part led to the number of homeless individuals residing in hostels or boarding houses decreasing by 76 percent from 2008-2017<ref>https://housingfirsteurope.eu/country/finland/</ref>.
+
+**Rapid Re-Housing**
+
+- The second of the two types of “housing first” interventions, rapid re-housing offers short-term assistance for individuals and families<ref>https://community.solutions/what-is-housing-first/</ref>.
+- Comparing rapid re-housing, emergency shelters, and transitional housing, rapid re-housing was by far the least expensive intervention ($6,578 per stay compared to over $16,000 and $32,000 respectively), and was as if not more effective than the other crisis interventions<ref>https://endhomelessness.org/resources/research-and-analysis/findings-and-implications-of-the-family-options-study/</ref>.
+- Long-term housing subsidies had a significantly positive impact on housing stability relative to usual care, reducing the proportion of families being homeless or doubled-up in the previous six months by 50% and reducing the proportion of families who experienced a shelter stay by 75%. Project-based transitional housing was less effective, and community-based rapid rehousing had no discernible impact on housing stability after 37 months. Regarding child well-being, long-term housing subsidies reduced behavior problems, the number of schools attended, and sleep problems. They reduced the proportion of families that were food insecure, but also slightly reduced labor force participation<ref>https://nlihc.org/resource/follow-family-options-study-long-term-housing-subsidies-are-most-effective-intervention</ref>.
+
+**Housing Subsidies**
+
+- Temporary financial assistance for individuals and families at imminent risk of homelessness averaging nearly $2000 significantly reduced homelessness by 3.8 percentage points from a base rate of 4.1 percent, largely driven by a reduction in emergency shelter use. Estimates suggest this is cost-saving, as the net public cost is $1822 per person, while the benefits to recipients are greater through income transfers, to landlords who do not have to turnover vacant units, and to members of the public from defusing violence. The effects of temporary financial assistance are larger for people with a history of homelessness and no children<ref>https://sites.nd.edu/james-sullivan/files/2023/04/SCC_homelessness_prevention-8-1.pdf</ref>.
+
+**Unconditional Cash Transfers**
+
+- In an RCT that provided $7500 to individuals, cash recipients spent fewer days homeless, increased savings and spending with no increase in temptation goods spending, and generated societal net savings of $777 per recipient via reduced time in shelters<ref>https://hpri.usc.edu/homeless_research/unconditional-cash-transfers-reduce-homelessness/</ref>.
+
+**Employment and Skills-Based Programs**
+
+- The Individual Placement and Support (IPS) is a model of supported employment that focuses on competitive employment in integrated work settings with supervision provided by personnel employed at the business. It is not exclusively focused on homeless people but a substantial proportion of those who undertake such programs have recently experienced homelessness. Those who are part of IPS programs have significantly better employment outcomes<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4417652/</ref>.
+
+## Housing (combine)
+
+**Approaches**
+
+- The United States’s housing choice voucher program is the country’s largest rental assistance program and helps more than 2 million low-income families rent modest units of their choice in the private market. It has been shown to be very effective in reducing homelessness, housing instability, and overcrowding and at improving other outcomes for families and children. In the United States, they lift more than a million people out of poverty. There is mixed evidence on how rental assistance affects employment and earnings<ref>https://www.cbpp.org/research/research-shows-housing-vouchers-reduce-hardship-and-provide-platform-for-long-term-gains</ref>.
+
+- Vienna’s social housing system uses rent cross subsidization, whereby the rents of tenants with higher incomes offset the lower rents paid by people who earn less. In the city, 60 percent of the population live in social housing, and the program is widely popular among its residents. This public option competes with the private market to drive down housing costs of private units<ref>https://www.socialhousingcenter.org/reports-3</ref>.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## The Open Economy
 
 ### Labor Exploitation
@@ -524,22 +620,6 @@ Across OECD countries, public social spending is about 20% of GDP as of 2019, re
 
 Quantitative easing tends to ease financial conditions and support economic growth, and can be especially powerful during times of financial stress<ref>https://www.piie.com/publications/policy-briefs/quantitative-easing-underappreciated-success</ref>.
 
-## <span style="background-color:lightcoral">Housing</span>
-
-### <span style="background-color:orange">Rent Control</span>
-
-**Rent control is gay and cringe.**
-
-Rent control does a poor job at targeting benefits to those who need them. Residents of rent-controlled units are less likely to move, meaning they often continue to live in houses that don't properly fit their needs. Rent control and rent stabilization policies also reduce the available supply of housing, which generally leads to higher rents in the uncontrolled market. There are also significant fiscal costs associated with implementing rent control and no consistent relationship between rent control and the prevalence of homelessness. There is also no substantial evidence supporting the idea that rent control decreases economic or racial segregation<ref>https://www.nmhc.org/globalassets/knowledge-library/rent-control-literature-review-final2.pdf</ref>.
-
-## <span style="background-color:orange">Zoning/Regulation</span>
-
-**Regulations are cringe unless absolutely necessary.**
-
-In most places, housing costs are close to the marginal physical costs of new construction, meaning that physical costs in most cases have little to do with relatively high prices. Zoning has instead been found to be consistently associated with decreased affordability<ref>https://www.nber.org/system/files/working_papers/w8835/w8835.pdf</ref><ref>https://www.cato.org/policy-analysis/zoning-land-use-planning-housing-affordability</ref>.
-
-Housing regulation is a significant contributor to high house prices<ref>https://www.nber.org/system/files/working_papers/w10124/w10124.pdf</ref><ref>https://www.nahb.org/blog/2021/05/regulatory-costs-add-a-whopping-93870-to-new-home-prices/</ref><ref>https://www.vtpi.org/park-hou.pdf</ref>.
-
 ## <span style="background-color:yellow">Immigration</span>
 
 Border walls are effective in keeping illegal immigrants out<ref>https://x.com/cremieuxrecueil/status/1655779599958114310</ref>.
@@ -609,16 +689,6 @@ Patent rights have a positive effect on innovation<ref>https://0x0.la/u/K9fgvb6.
 Big government bad.
 
 - **Economic Growth: Negative -** Government size negatively correlates with growth when controlling for economic freedom and globalization<ref>https://link.springer.com/article/10.1007/s11127-009-9484-1</ref>. Fiscal policy or public spending has a sizable negative effect on profits and business investment<ref>https://www.aeaweb.org/articles?id=10.1257/00028280260136255</ref>. There is a robust negative effect of government spending and taxation on economic growth in rich countries, based on a sample during the period of 1970-95<ref>https://www.ifn.se/Wfiles/wp/wp503.pdf</ref>.
-
-## <span style="background-color:lightcoral">Housing (COMBINE THIS WITH SECTION ABOVE)</span>
-
-### <span style="background-color:yellow">Housing First</span>
-
-**Based - Save money, are effective in reducing homelessness**
-
-The Finnish national program to reduce homelessness started in 2008 and renewed in 2012 built on housing first. This was a broad partnership between the national and municipal authorities and the non-profit sector, where Finland converted shelters into apartment units and constructed housing. Clients have a choice of programs, some of which ask for a commitment to sobriety, while others do not. Instead of receiving housing subsidies linked to the rent of the apartment, tenants pay for the entire rent using government-provided income sources, such as housing, child, disability, unemployment, student, and pension allowances, depending on the person's circumstances. If these don't suffice, social assistance fills the gap. To prevent conflict between tenants, tenants engage in "neighborhood work". This program led to homelessness largely ending<ref>https://0x0.la/u/w4UVmBP.pdf</ref>. While the Finnish housing interventions cost money, they save money in terms of the services needed by one person. Finland has a very low homeless population because they give people houses first as opposed to expecting people to sort their problems out before getting a home. Rents are paid for by the government, although the tenants can pay a portion depending on their income. Moreover, on top of this, to drive down housing costs, Finland has increased the supply of affordable rental housing to counter housing shortages<ref>https://www.weforum.org/agenda/2018/02/how-finland-solved-homelessness/</ref>.
-
-Medicine Hat practiced housing first and became the first city in Canada to end chronic homelessness<ref>https://community.solutions/case-studies/medicine-hat-becomes-first-city-in-canada-to-end-chronic-homelessness/</ref>, although it lasted only 5 months. As of 2022, the number of people chronically rose to 19<ref>https://www.cbc.ca/news/canada/calgary/homeless-medicine-hat-point-in-time-count-1.6600717</ref>.
 
 ## <span style="background-color:yellow">Healthcare</span>
 
@@ -737,62 +807,6 @@ While Bud Light’s sales dip was particularly bad, boycotts in general due to s
 LGBT-friendly corporate policies are positively associated with firm performance in the form of profitability and stock market valuations<ref>https://onlinelibrary.wiley.com/doi/10.1111/acfi.12787#:~:text=,Our%20results</ref>.
 
 Corporate social performance, a business’s outcomes in terms of how they relate to its social relationships, has become increasingly important with the rise of social media and its corresponding forms of activism. Research suggests that corporate virtue in the form of social responsibility and to a lesser extent environmental responsibility is likely to pay off<ref>https://www.researchgate.net/publication/241180100_Corporate_Social_and_Financial_Performance_A_Meta-Analysis</ref><ref>https://www.sciencedirect.com/science/article/pii/S0148296325000414</ref>.
-
-## Homelessness
-
-**Permanent Supportive Housing**
-
-- Permanent supportive housing is long-term housing in the community combined with support services tailored to the person’s needs, following the principles of “housing first” where housing is not contingent on abstinence from substance use. There is some evidence to suggest that it can increase housing stability, with a potential sustained benefit for up to 5.4 years. Some evidence suggests that it can also reduce visits to the emergency department and admission to the hospital. These benefits were seen in studies which included individuals who were mentally ill or had substance use disorders<ref>https://globalageing.cochrane.org/blog/13-housing-income-assistance-and-case-management-improve-housing-outcomes-persons-lived</ref>.
-- Randomized trials comparing HUD-VA Supported Housing (HUD-VASA) to rent subsidies and intensive case management found that HUD-VASH veterans with psychiatric and/or substance use disorders had superior housing outcomes, with no significant differences on any measures of psychiatric or substance abuse status or community adjustment, although HUD-VASH clients had larger social networks<ref>https://jamanetwork.com/journals/jamapsychiatry/fullarticle/207801</ref>. HUD-VASH veterans had 25% more days housed than those in standard care, but it was $6200 (15%) more costly than standard care.
-- Uptake of voluntary services that permanent supportive housing programs offer, such as case management, employment support and community based healthcare, increase when individuals have housing stability, and uptake of those increases housing stability itself<ref>https://community.solutions/what-is-housing-first/</ref>.
-- Furthermore, the majority of housing first tenants do not return to homelessness, remaining stably housed at rates that often exceed those at traditional treatment first programs<ref>https://community.solutions/what-is-housing-first/</ref>.
-- In Finland, beginning in 2007 national policies shifted toward reducing long-term homelessness through housing first programs. This shift in part led to the number of homeless individuals residing in hostels or boarding houses decreasing by 76 percent from 2008-2017<ref>https://housingfirsteurope.eu/country/finland/</ref>.
-
-**Rapid Re-Housing**
-
-- The second of the two types of “housing first” interventions, rapid re-housing offers short-term assistance for individuals and families<ref>https://community.solutions/what-is-housing-first/</ref>.
-- Comparing rapid re-housing, emergency shelters, and transitional housing, rapid re-housing was by far the least expensive intervention ($6,578 per stay compared to over $16,000 and $32,000 respectively), and was as if not more effective than the other crisis interventions<ref>https://endhomelessness.org/resources/research-and-analysis/findings-and-implications-of-the-family-options-study/</ref>.
-- Long-term housing subsidies had a significantly positive impact on housing stability relative to usual care, reducing the proportion of families being homeless or doubled-up in the previous six months by 50% and reducing the proportion of families who experienced a shelter stay by 75%. Project-based transitional housing was less effective, and community-based rapid rehousing had no discernible impact on housing stability after 37 months. Regarding child well-being, long-term housing subsidies reduced behavior problems, the number of schools attended, and sleep problems. They reduced the proportion of families that were food insecure, but also slightly reduced labor force participation<ref>https://nlihc.org/resource/follow-family-options-study-long-term-housing-subsidies-are-most-effective-intervention</ref>.
-
-**Housing Subsidies**
-
-- Temporary financial assistance for individuals and families at imminent risk of homelessness averaging nearly $2000 significantly reduced homelessness by 3.8 percentage points from a base rate of 4.1 percent, largely driven by a reduction in emergency shelter use. Estimates suggest this is cost-saving, as the net public cost is $1822 per person, while the benefits to recipients are greater through income transfers, to landlords who do not have to turnover vacant units, and to members of the public from defusing violence. The effects of temporary financial assistance are larger for people with a history of homelessness and no children<ref>https://sites.nd.edu/james-sullivan/files/2023/04/SCC_homelessness_prevention-8-1.pdf</ref>.
-
-**Unconditional Cash Transfers**
-
-- In an RCT that provided $7500 to individuals, cash recipients spent fewer days homeless, increased savings and spending with no increase in temptation goods spending, and generated societal net savings of $777 per recipient via reduced time in shelters<ref>https://hpri.usc.edu/homeless_research/unconditional-cash-transfers-reduce-homelessness/</ref>.
-
-**Employment and Skills-Based Programs**
-
-- The Individual Placement and Support (IPS) is a model of supported employment that focuses on competitive employment in integrated work settings with supervision provided by personnel employed at the business. It is not exclusively focused on homeless people but a substantial proportion of those who undertake such programs have recently experienced homelessness. Those who are part of IPS programs have significantly better employment outcomes<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4417652/</ref>.
-
-## Housing (combine)
-
-**Drivers of housing unaffordability**
-
-- Welfare regimes are important in determining housing outcomes, but many advanced economies have been experiencing welfare retrenchment and a move toward a market-driven housing system. The reduction of publicly subsidized housing removes some of the most affordable housing from the market, affecting the availability of housing for those in need<ref>https://www.tandfonline.com/doi/full/10.1080/02673037.2022.2123623</ref>. Over the past two decades, in OECD countries public investment in housing has declined substantially<ref>https://www.oecd.org/en/topics/sub-issues/affordable-housing.html</ref>.
-
-- Not-in-my-backyard (NIMBY) anti-development pressures have grown which lead to increasingly strict municipal policies and regulations, making building new high-density housing very difficult<ref>https://docs.iza.org/pp203.pdf</ref>.
-
-**Approaches**
-
-- The United States’s housing choice voucher program is the country’s largest rental assistance program and helps more than 2 million low-income families rent modest units of their choice in the private market. It has been shown to be very effective in reducing homelessness, housing instability, and overcrowding and at improving other outcomes for families and children. In the United States, they lift more than a million people out of poverty. There is mixed evidence on how rental assistance affects employment and earnings<ref>https://www.cbpp.org/research/research-shows-housing-vouchers-reduce-hardship-and-provide-platform-for-long-term-gains</ref>.
-
-- Vienna’s social housing system uses rent cross subsidization, whereby the rents of tenants with higher incomes offset the lower rents paid by people who earn less. In the city, 60 percent of the population live in social housing, and the program is widely popular among its residents. This public option competes with the private market to drive down housing costs of private units<ref>https://www.socialhousingcenter.org/reports-3</ref>.
-
-## Urbanism
-
-Urban sprawl, which is a pattern of uncontrolled development among city peripheries, is increasingly common and negatively affects public health and the environment. For example, research suggests it contributes to obesity, diabetes, cardiovascular disease, and respiratory disease<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC2936977/</ref>. Sprawl patterns, such as “loops and lollipops”, often require car access which puts a strain on affordability and limits the ability for lower-income people to easily access jobs and services<ref>https://www.sciencedirect.com/science/article/abs/pii/S0169204618300744</ref>.
-
-Smart growth is a policy framework recommended to combat sprawl. It promotes high population density, walkable and bikeable neighborhoods, preserved green spaces, mixed-use development, available mass transit and limited road construction<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC2936977/</ref>.
-
-Transit-oriented development (TOD) is an approach to transport and land use planning that aims to make walking, cycling and transit use convenient and desirable. Research suggests that TOD results in lower levels of car use, higher levels of public transport use, and much higher levels of walking. It is however difficult to implement because of organizational fragmentation between the various regional and local authorities, as well as private and public sector actors<ref>https://www.k2centrum.se/sites/default/files/fields/field_uppladdad_rapport/k2_research_2020_2_0.pdf</ref>.
-
-High-quality public transport increases accessibility for people, which has a range of effects. It increases economic activity on both an aggregate and household level, it boosts employment although it increases housing prices. Public transportation improves social connections, especially for older people in isolated rural areas<ref>https://discovery.ucl.ac.uk/id/eprint/10203891/1/Alhassan%20and%20Anciaes%202025%20Public%20transport%20investments%20as%20generators%20of%20economic%20and%20social%20activity.pdf</ref>. Land value uplift from public transport varies in estimates across studies, but is generally found to be about 10 percent<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/02/the-future-of-public-transport-funding_d0cbc29f/82a4ba65-en.pdf</ref>.
-
-Zoning restrictions are significant in their effect on housing prices. They have been identified as the prime culprit behind surging house prices in England<ref>https://cepr.org/voxeu/columns/regulation-blame-englands-surging-house-prices</ref>. Research in Australia found that as of 2016, zoning raised detached house prices 73 percent above marginal costs in Sydney, 69 percent in Melbourne, 42 percent in Brisbane and 54 percent in Perth<ref>https://www.rba.gov.au/publications/rdp/2018/pdf/rdp2018-03.pdf</ref>. In Manhattan, despite home building being a highly competitive industry with almost no natural barriers to entry, prices appear to be more than twice their supply costs, suggesting land use regulations account for over half of the cost of the majority of housing units in the area<ref>https://www.nber.org/system/files/working_papers/w10124/w10124.pdf</ref>. More flexible land use rules in Tokyo explain their comparatively greater housing affordability<ref>https://www.southernurbanism.org/p/affordability-to-solve-for-housing</ref>. Zoning and land use restrictions contribute to urban sprawl<ref>https://www.researchgate.net/publication/377772662_A_global_analysis_of_land_use_regulation_urban_form_and_greenhouse_gas_emissions</ref>.
-
-Stringent restrictions on housing supply prevent workers from accessing high-wage regions leading to spatial misallocation of labor. Analysis of 220 metropolitan areas in the US found that these constraints lowered aggregate US growth by 36 percent from 1964 to 2009<ref>https://www.aeaweb.org/articles?id=10.1257/mac.20170388</ref>.
 
 ## Innovation
 
