@@ -323,39 +323,64 @@ width: 50%;
     
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        let headers = document.querySelectorAll(".additional-content h2, .additional-content h3, .additional-content h4");
+        const container = document.querySelector(".additional-content");
+        if (!container) return;
 
+        // grab all headers (these define the "sectioned" content)
+        const headers = container.querySelectorAll("h2, h3, h4");
+
+        // only build a TOC if we have enough headers
         if (headers.length > 3) {
-            // wrapper for both columns
-            let wrapper = document.createElement("div");
+            // 1. create wrapper + two columns
+            const wrapper = document.createElement("div");
             wrapper.className = "toc-wrapper";
 
-            // toc column
-            let tocColumn = document.createElement("div");
+            const tocColumn = document.createElement("div");
             tocColumn.className = "toc-column";
 
-            // non-toc column (for your custom input)
-            let nonTocColumn = document.createElement("div");
+            const nonTocColumn = document.createElement("div");
             nonTocColumn.className = "nontoc-column";
 
-            // actual toc
-            let toc = document.createElement("div");
+            // 2. move all intro content (everything before first header) into nonTocColumn
+            // first header in the page content:
+            const firstHeader = headers[0];
+
+            // collect nodes before the first header
+            const introNodes = [];
+            let node = container.firstChild;
+            while (node && node !== firstHeader) {
+                const next = node.nextSibling; // because we'll move it
+                // only move element/text nodes that are meaningful
+                if (node.nodeType === Node.ELEMENT_NODE || 
+                    (node.nodeType === Node.TEXT_NODE && node.textContent.trim() !== "")) {
+                    introNodes.push(node);
+                }
+                node = next;
+            }
+
+            // append intro nodes into nonTocColumn
+            introNodes.forEach(n => nonTocColumn.appendChild(n));
+
+            // 3. build actual TOC from headers (which stay in .additional-content)
+            const toc = document.createElement("div");
             toc.className = "toc";
 
-            let tocTitle = document.createElement("p");
+            const tocTitle = document.createElement("p");
             tocTitle.className = "toc-title";
             tocTitle.textContent = "Contents";
 
-            let tocList = document.createElement("div");
+            const tocList = document.createElement("div");
 
             let h2Counter = 0, h3Counter = 0, h4Counter = 0;
             let lastH2Index = -1, lastH3Index = -1;
 
             headers.forEach((header, index) => {
-                let id = header.textContent.trim().replace(/\s+/g, '-').toLowerCase();
+                // give each header an id
+                const id = header.textContent.trim().replace(/\s+/g, '-').toLowerCase();
                 header.id = id;
-                let tocEntry = document.createElement("div");
-                let link = document.createElement("a");
+
+                const tocEntry = document.createElement("div");
+                const link = document.createElement("a");
                 link.href = "#" + id;
 
                 if (header.tagName === "H2") {
@@ -388,12 +413,12 @@ width: 50%;
             toc.appendChild(tocList);
             tocColumn.appendChild(toc);
 
-            // append both columns into wrapper
+            // 4. put columns in wrapper
             wrapper.appendChild(tocColumn);
             wrapper.appendChild(nonTocColumn);
 
-            // insert wrapper before first header
-            headers[0].parentNode.insertBefore(wrapper, headers[0]);
+            // 5. insert wrapper right before the first header (which stays in place)
+            container.insertBefore(wrapper, firstHeader);
         }
     });
 </script>
@@ -480,7 +505,7 @@ width: 50%;
         <a href="https://prometheandissident.github.io/"><img src="https://i.ibb.co/W4ZZd7VW/81i-NYyz-Lc-JL-1.jpg" alt="Promethean Dissident" class="logo"></a>
         <ul>
             <h1>Promethean Dissident's Research</h1>
-            <li><a href="https://prometheandissident.github.io/">Main Page</a></li>
+            <li><a href="https://prometheandissident.github.io/">Main Page[TESTING]</a></li>
             <li><a href="https://prometheandissident.github.io/about/">About</a></li>
         </ul>
     </div>
