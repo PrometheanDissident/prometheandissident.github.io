@@ -318,6 +318,11 @@ text-decoration: underline;
         let headers = document.querySelectorAll(".additional-content h2, .additional-content h3, .additional-content h4");
 
         if (headers.length > 3) {
+            // outer container
+            let tocColumn = document.createElement("div");
+            tocColumn.className = "toc-column";
+
+            // actual toc
             let toc = document.createElement("div");
             toc.className = "toc";
 
@@ -367,8 +372,11 @@ text-decoration: underline;
             toc.appendChild(tocTitle);
             toc.appendChild(tocList);
 
+            // put toc inside the column
+            tocColumn.appendChild(toc);
+
             // Insert TOC right before the first header
-            headers[0].parentNode.insertBefore(toc, headers[0]);
+            headers[0].parentNode.insertBefore(tocColumn, headers[0]);
         }
     });
 </script>
@@ -455,7 +463,7 @@ text-decoration: underline;
         <a href="https://prometheandissident.github.io/"><img src="https://i.ibb.co/W4ZZd7VW/81i-NYyz-Lc-JL-1.jpg" alt="Promethean Dissident" class="logo"></a>
         <ul>
             <h1>Promethean Dissident's Research</h1>
-            <li><a href="https://prometheandissident.github.io/">Main Page</a></li>
+            <li><a href="https://prometheandissident.github.io/">Main Page[TESTING]</a></li>
             <li><a href="https://prometheandissident.github.io/about/">About</a></li>
         </ul>
     </div>
