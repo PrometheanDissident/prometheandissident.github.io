@@ -326,19 +326,27 @@ width: 50%;
         let headers = document.querySelectorAll(".additional-content h2, .additional-content h3, .additional-content h4");
 
         if (headers.length > 3) {
-            // outer container
+            // wrapper for both columns
+            let wrapper = document.createElement("div");
+            wrapper.className = "toc-wrapper";
+
+            // toc column
             let tocColumn = document.createElement("div");
             tocColumn.className = "toc-column";
+
+            // non-toc column (for your custom input)
+            let nonTocColumn = document.createElement("div");
+            nonTocColumn.className = "nontoc-column";
 
             // actual toc
             let toc = document.createElement("div");
             toc.className = "toc";
 
-            let tocTitle = document.createElement("p"); // Change to <p> instead of <h2>
-            tocTitle.className = "toc-title"; // Assign class for styling
+            let tocTitle = document.createElement("p");
+            tocTitle.className = "toc-title";
             tocTitle.textContent = "Contents";
 
-            let tocList = document.createElement("div"); // Use div to remove bullet points
+            let tocList = document.createElement("div");
 
             let h2Counter = 0, h3Counter = 0, h4Counter = 0;
             let lastH2Index = -1, lastH3Index = -1;
@@ -346,30 +354,29 @@ width: 50%;
             headers.forEach((header, index) => {
                 let id = header.textContent.trim().replace(/\s+/g, '-').toLowerCase();
                 header.id = id;
-                let tocEntry = document.createElement("div"); // Use div for proper indent behavior
+                let tocEntry = document.createElement("div");
                 let link = document.createElement("a");
                 link.href = "#" + id;
 
-                // Determine numbering based on header type
                 if (header.tagName === "H2") {
                     h2Counter++;
                     h3Counter = 0;
                     h4Counter = 0;
                     header.dataset.number = h2Counter;
                     lastH2Index = index;
-                    tocEntry.classList.add("toc-h2"); // Assign class for forced CSS styling
+                    tocEntry.classList.add("toc-h2");
                 } else if (header.tagName === "H3") {
                     if (lastH2Index === -1) return;
                     h3Counter++;
                     h4Counter = 0;
                     header.dataset.number = headers[lastH2Index].dataset.number + "." + h3Counter;
                     lastH3Index = index;
-                    tocEntry.classList.add("toc-h3"); // Assign class for forced CSS styling
+                    tocEntry.classList.add("toc-h3");
                 } else if (header.tagName === "H4") {
                     if (lastH3Index === -1) return;
                     h4Counter++;
                     header.dataset.number = headers[lastH3Index].dataset.number + "." + h4Counter;
-                    tocEntry.classList.add("toc-h4"); // Assign class for forced CSS styling
+                    tocEntry.classList.add("toc-h4");
                 }
 
                 link.textContent = header.dataset.number + " " + header.textContent;
@@ -379,12 +386,14 @@ width: 50%;
 
             toc.appendChild(tocTitle);
             toc.appendChild(tocList);
-
-            // put toc inside the column
             tocColumn.appendChild(toc);
 
-            // Insert TOC right before the first header
-            headers[0].parentNode.insertBefore(tocColumn, headers[0]);
+            // append both columns into wrapper
+            wrapper.appendChild(tocColumn);
+            wrapper.appendChild(nonTocColumn);
+
+            // insert wrapper before first header
+            headers[0].parentNode.insertBefore(wrapper, headers[0]);
         }
     });
 </script>
@@ -471,7 +480,7 @@ width: 50%;
         <a href="https://prometheandissident.github.io/"><img src="https://i.ibb.co/W4ZZd7VW/81i-NYyz-Lc-JL-1.jpg" alt="Promethean Dissident" class="logo"></a>
         <ul>
             <h1>Promethean Dissident's Research</h1>
-            <li><a href="https://prometheandissident.github.io/">Main Page[TESTING]</a></li>
+            <li><a href="https://prometheandissident.github.io/">Main Page</a></li>
             <li><a href="https://prometheandissident.github.io/about/">About</a></li>
         </ul>
     </div>
