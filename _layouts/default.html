@@ -341,13 +341,15 @@ document.addEventListener("DOMContentLoaded", function() {
     const container = document.querySelector(".additional-content");
     if (!container) return;
 
-    // find all headers inside .additional-content
     const headers = container.querySelectorAll("h2, h3, h4");
-    if (headers.length <= 3) return; // only build TOC if enough headers
+    if (headers.length <= 3) return;
 
     const firstHeader = headers[0];
 
-    // create wrapper + two columns
+    // find the page title (h1)
+    const titleElement = container.querySelector("h1");
+
+    // create wrapper + columns
     const wrapper = document.createElement("div");
     wrapper.className = "toc-wrapper";
 
@@ -357,22 +359,16 @@ document.addEventListener("DOMContentLoaded", function() {
     const nonTocColumn = document.createElement("div");
     nonTocColumn.className = "nontoc-column";
 
-    // MOVE INTRO CONTENT:
-    // we want: everything that is a direct child of .additional-content
-    // that appears BEFORE the first header -> goes to .nontoc-column
-    const directChildren = Array.from(container.children); // elements only
+    // move intro content (everything before first header, excluding h1)
+    const directChildren = Array.from(container.children);
     for (let i = 0; i < directChildren.length; i++) {
         const el = directChildren[i];
-        if (el === firstHeader) {
-            // stop once we hit the first header
-            break;
-        } else {
-            // move this element into the non-toc column
-            nonTocColumn.appendChild(el);
-        }
+        if (el === firstHeader) break;       // stop at first header
+        if (el === titleElement) continue;   // skip h1 from moving into right column
+        nonTocColumn.appendChild(el);        // move intro content
     }
 
-    // BUILD TOC from headers
+    // build TOC
     const toc = document.createElement("div");
     toc.className = "toc";
 
@@ -423,12 +419,17 @@ document.addEventListener("DOMContentLoaded", function() {
     toc.appendChild(tocList);
     tocColumn.appendChild(toc);
 
-    // assemble wrapper
+    // build wrapper
     wrapper.appendChild(tocColumn);
     wrapper.appendChild(nonTocColumn);
 
-    // insert wrapper right before the first header (which stays in the main flow)
-    container.insertBefore(wrapper, firstHeader);
+    // insert h1 (if found) before wrapper
+    if (titleElement) {
+        container.insertBefore(titleElement, firstHeader);
+        container.insertBefore(wrapper, firstHeader);
+    } else {
+        container.insertBefore(wrapper, firstHeader);
+    }
 });
 </script>
    
@@ -514,7 +515,7 @@ document.addEventListener("DOMContentLoaded", function() {
         <a href="https://prometheandissident.github.io/"><img src="https://i.ibb.co/W4ZZd7VW/81i-NYyz-Lc-JL-1.jpg" alt="Promethean Dissident" class="logo"></a>
         <ul>
             <h1>Promethean Dissident's Research</h1>
-            <li><a href="https://prometheandissident.github.io/">Main Page</a></li>
+            <li><a href="https://prometheandissident.github.io/">Main Page[TESTING]</a></li>
             <li><a href="https://prometheandissident.github.io/about/">About</a></li>
         </ul>
     </div>
