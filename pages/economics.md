@@ -115,7 +115,11 @@ Marxism was an incredibly influential theory that heavily shaped how the debates
 
 This isn't to say that Marxism has no intellectual value to it. Its points on alienation for instance likely have some merit. But ultimately, it should be seen as a product of its time, as opposed to gospel that can be used to effectively analyze a society 200 years ahead of when it was written.
 
-## How Should Different Goods/Services be Allocated in General?
+## The Necessity of a Good Legal System
+
+What is arguably as important if not more important than the broad economic system that a country employs is the quality of its legal system. Many of the requirements for an effective market economy - from the existence of private property rights to the enforcement of contracts - require a broader legal system to uphold. But beyond these immediate requirements for a market economy, a legal system needs to be unbiased so that it can preserve a "rule of law". In other words, people should not have to fear arbitrary imprisonment for vaguely defined infractions and they should be free to criticize the government without fear of punishment. In countries with a weak rule of law such as having a dependent jury or biased courts, there are substantially higher unemployment rates relative to countries with a strong rule of law<ref>https://www.fraserinstitute.org/sites/default/files/economic-principles-for-prosperity.pdf</ref>.
+
+One of the big reasons why many countries around the world are poor is because they lack a strong legal system. In fact, corruption is a significant obstacle to ending extreme poverty around the world<ref>https://fpinetwork.org/2020/03/03/protestant-christianity-and-control-of-corruption-past-and-present/</ref>, and it generally has a negative effect on economic growth<ref>https://cepr.org/voxeu/columns/corruption-does-sand-wheels-growth</ref><ref>https://www.researchgate.net/publication/254443921_Corruption_and_economic_growth_A_meta-analysis_of_the_evidence_on_low-income_countries_and_beyond</ref>. The presence of legal systems which include rule of law, the protection of property rights, and the enforcement of contracts, are crucial in order for a country to begin to have substantial economic activity which can allow it to prosper.
 
 ## The Importance of Economic Growth
 
