@@ -1,25 +1,8 @@
 ---
 ---
 
-body {
-            margin: 0;
-            font-family: helvetica;
-            display: flex;
-            flex-direction: column;
-        }
         p {
-            font-size: 14px;
             line-height: 17pt;
-        }
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-left: 200px;
-            padding: 20px;
-            font-size: 24px;
-            font-weight: bold;
-            border-bottom: 2px solid #ccc;
         }
         .edit {
             font-size: 12px;
@@ -31,44 +14,6 @@ body {
         .edit:focus, .edit:active {
             outline: none;
             background: none;
-        }
-        .sidebar {
-            width: 150px;
-            background-color: #f8f9fa;
-            padding: 15px;
-            height: 100vh;
-            position: fixed;
-            left: 0;
-            top: 0;
-            overflow-y: auto;
-            border-right: 2px solid #ccc;
-        }
-        .logo {
-            width: calc(100% - 5px);
-            height: auto;
-            margin-bottom: 15px;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            padding: 0px;
-        }
-        .sidebar ul {
-            list-style: none;
-            padding: 0;
-            text-align: left;
-            padding-top: 0px;
-        }
-        .sidebar ul li {
-            padding: 1px 0;
-        }
-        .sidebar ul li a {
-            font-size: 12px;
-            text-decoration: none;
-            color: #0645AD;
-        }
-        .sidebar h1 {
-            font-size: 13px;
-            text-align: center;
         }
         .content-wrapper {
             margin-left: 200px;
