@@ -201,19 +201,6 @@ text-decoration: underline;
   margin: 0 0 10px 0;
 }
 
-.toc-toggle {
-  font-weight: normal;       /* wiki style: main title bold, toggle not */
-  font-size: 12px;
-  color: #0645AD;
-  cursor: pointer;
-  margin-left: 8px;
-  white-space: nowrap;
-}
-
-.toc-toggle:hover {
-  text-decoration: underline;
-}
-
 /* Styling for TOC links */
 .toc a {
     font-size: 12px;
@@ -378,28 +365,17 @@ document.addEventListener("DOMContentLoaded", function() {
     for (let i = 0; i < directChildren.length; i++) {
         const el = directChildren[i];
         if (el === firstHeader) break;       // stop at first header
-        if (el === titleElement) continue;   // skip h1
-        nonTocColumn.appendChild(el);
+        if (el === titleElement) continue;   // skip h1 from moving into right column
+        nonTocColumn.appendChild(el);        // move intro content
     }
 
     // build TOC
     const toc = document.createElement("div");
     toc.className = "toc";
 
-    // --- THIS PART CHANGED ---
     const tocTitle = document.createElement("p");
     tocTitle.className = "toc-title";
-
-    const tocTitleText = document.createElement("span");
-    tocTitleText.textContent = "Contents";
-
-    const tocToggle = document.createElement("span");
-    tocToggle.className = "toc-toggle";
-    tocToggle.textContent = "[hide]";   // we'll make this look like a wiki link in CSS
-
-    tocTitle.appendChild(tocTitleText);
-    tocTitle.appendChild(tocToggle);
-    // --- END CHANGED PART ---
+    tocTitle.textContent = "Contents";
 
     const tocList = document.createElement("div");
 
@@ -540,7 +516,7 @@ document.addEventListener("DOMContentLoaded", function() {
         <a href="https://prometheandissident.github.io/"><img src="https://i.ibb.co/W4ZZd7VW/81i-NYyz-Lc-JL-1.jpg" alt="Promethean Dissident" class="logo"></a>
         <ul>
             <h1>Promethean Dissident's Research</h1>
-            <li><a href="https://prometheandissident.github.io/">Main Page</a></li>
+            <li><a href="https://prometheandissident.github.io/">Main Page[TESTING]</a></li>
             <li><a href="https://prometheandissident.github.io/about/">About</a></li>
         </ul>
     </div>
