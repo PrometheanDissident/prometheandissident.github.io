@@ -216,7 +216,7 @@ There is evidence to suggest that some countries are starting to think about pos
 - Inferring emotions in workplaces or educational institutions
 - 'Real time' remote biometric identification in publicly accessible places for law enforcement, with few exceptions
 
-While I am somewhat skeptical of whether every use case in these systems should be banned, this is a good step in the direction of taking AI’s risks seriously and making sure that its possible harms don’t come to fruition. AI will not completely transform society, but it will have some benefits and some harms which we should be paying attention and properly responding to.
+While I am somewhat skeptical of whether every use case as outlined in this legislation should be banned, this is a good step in the direction of taking AI’s risks seriously and making sure that its possible harms don’t come to fruition. AI will not completely transform society, but it will have some benefits and some harms which we should be paying attention and properly responding to.
 
 ## The Role of Regulation
 
