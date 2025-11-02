@@ -766,10 +766,6 @@ LGBT-friendly corporate policies are positively associated with firm performance
 
 Corporate social performance, a business’s outcomes in terms of how they relate to its social relationships, has become increasingly important with the rise of social media and its corresponding forms of activism. Research suggests that corporate virtue in the form of social responsibility and to a lesser extent environmental responsibility is likely to pay off<ref>https://www.researchgate.net/publication/241180100_Corporate_Social_and_Financial_Performance_A_Meta-Analysis</ref><ref>https://www.sciencedirect.com/science/article/pii/S0148296325000414</ref>.
 
-## Business Cycles
-
-All modern industrial economies experience significant swings in economic activity, from output at above capacity and low unemployment to output at below capacity and high unemployment. The combination of expansions and recessions is called the business cycle. The notion of a business cycle is misleading however as there is no regularity in the timing and duration of upswings and downswings in economic activity<ref>https://www.econlib.org/library/Enc/BusinessCycles.html</ref>.
-
 ## Inequality 2 electric boogaloo
 
 Fiscal policy accounts for a large share of differences in inequality across countries<ref>https://www.imf.org/en/Blogs/Articles/2017/10/11/inequality-fiscal-policy-can-make-the-difference</ref>.
