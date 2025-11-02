@@ -642,12 +642,6 @@ Facts about public opinion:
 - Natives tend to support redistribution less when the share of immigrants in their resident region is higher. This effect is driven by areas with large welfare states and by centrist or rightist respondents<ref>https://docs.iza.org/dp12130.pdf</ref>.
 - Exposure to refugee arrivals induces sizable and lasting increases in natives' hostility toward refugees and immigrants and support for restrictive asylum and immigration policies<ref>https://sci-hub.ru/https://doi.org/10.1017/S0003055418000813</ref>. Similarly research in Australia has suggested that Australians living in electoral districts with higher percentages of non-white immigrants are more likely to want lower immigrant numbers than those living in districts with fewer non-white immigrants<ref>https://www.tandfonline.com/doi/abs/10.1080/10361146.2018.1450357</ref>.
 
-## <span style="background-color:orange">Innovation</span>
-
-Innovation primarily comes from universities and federal laboratories, and is primarily collaborative<ref>https://itif.org/files/Where_do_innovations_come_from.pdf</ref><ref>https://www.nejm.org/doi/full/10.1056/nejmsa1008268</ref>.
-
-Patent rights have a positive effect on innovation<ref>https://0x0.la/u/K9fgvb6.pdf</ref>.
-
 ## <span style="background-color:orange">Poverty</span>
 
 - **Effect on Fertility -** Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/</ref>. Additionally, a $100,000 increase in housing wealth among homeowners causes a 16-18% increase in the probability of having a child<ref>https://sci-hub.ru/https://doi.org/10.1162/REST_a_00266</ref>. This suggests that income can have a positive effect on fertility.
@@ -761,10 +755,6 @@ While Bud Light’s sales dip was particularly bad, boycotts in general due to s
 LGBT-friendly corporate policies are positively associated with firm performance in the form of profitability and stock market valuations<ref>https://onlinelibrary.wiley.com/doi/10.1111/acfi.12787#:~:text=,Our%20results</ref>.
 
 Corporate social performance, a business’s outcomes in terms of how they relate to its social relationships, has become increasingly important with the rise of social media and its corresponding forms of activism. Research suggests that corporate virtue in the form of social responsibility and to a lesser extent environmental responsibility is likely to pay off<ref>https://www.researchgate.net/publication/241180100_Corporate_Social_and_Financial_Performance_A_Meta-Analysis</ref><ref>https://www.sciencedirect.com/science/article/pii/S0148296325000414</ref>.
-
-## Innovation
-
-Leftist ruling parties inhibit the progress of technical innovation, while right-wing ruling parties promote the appearance of new technology<ref>https://www.sciencedirect.com/science/article/abs/pii/S0048733319300125</ref>.
 
 ## Business Cycles
 
