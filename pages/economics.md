@@ -719,10 +719,6 @@ Facts about public opinion:
 - Natives tend to support redistribution less when the share of immigrants in their resident region is higher. This effect is driven by areas with large welfare states and by centrist or rightist respondents<ref>https://docs.iza.org/dp12130.pdf</ref>.
 - Exposure to refugee arrivals induces sizable and lasting increases in natives' hostility toward refugees and immigrants and support for restrictive asylum and immigration policies<ref>https://sci-hub.ru/https://doi.org/10.1017/S0003055418000813</ref>. Similarly research in Australia has suggested that Australians living in electoral districts with higher percentages of non-white immigrants are more likely to want lower immigrant numbers than those living in districts with fewer non-white immigrants<ref>https://www.tandfonline.com/doi/abs/10.1080/10361146.2018.1450357</ref>.
 
-## <span style="background-color:orange">Poverty</span>
-
-- **Effect on Fertility -** Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/</ref>. Additionally, a $100,000 increase in housing wealth among homeowners causes a 16-18% increase in the probability of having a child<ref>https://sci-hub.ru/https://doi.org/10.1162/REST_a_00266</ref>. This suggests that income can have a positive effect on fertility.
-
 ## <span style="background-color:orange">Big Government</span>
 
 Big government bad.
