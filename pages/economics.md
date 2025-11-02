@@ -181,11 +181,9 @@ While economic growth and hence technological progress are crucial to advancing 
 
 <img src="https://substackcdn.com/image/fetch/$s_!92Dt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94c3a015-34b1-45da-9789-6b42fdb1d8a6_1408x1188.png" alt="Mismatch" width="500">
 
+This means that while a lot of technologies that exist currently have the potential to benefit humanity, they also have the potential to harm humanity. And it is those technologies which produce the most fundamental changes to society which should be interrogated to examine whether they can carry risks, either through causing evolutionary mismatch, or through causing other risks. While I view technology on the whole as a boon to humanity, and would not want to go back to any period of time before today, it is crucial that we scrutinize that which can create risks as it creates rewards.
 
-
-
-
-
+### Artificial Intelligence
 
 
 
@@ -730,39 +728,6 @@ A land value tax is a recurrent tax on landowners based on the value of unimprov
 Britain in the early 1900s experimented with an LTV but it failed as administrative complexity derailed the effective implementation of the policy. Administration costs for valuing and taxing land were significant and the country ended up doing away with it<ref>https://marginalrevolution.com/marginalrevolution/2025/03/the-failure-of-the-land-value-tax.html#:~:text=,for%20modern%20Georgist%20sympathizers%20who</ref>.
 
 The reason why LVT is not taken up appears to primarily due to administrative costs. Measuring the value of land requires strong land valuation practices, teams of assessors, and high-quality data, although improvements in statistical methods are making valuation easier. Where applied, land value taxes generally promote building activity, reduce land speculation, and provide municipalities with an efficient source of funding for public services. Econometric models predict that replacing some portion of existing taxes with land value taxation would increase GDP. LVTs incentivize compact building growth. Depending on context, however land value taxation may not always be a good tool for encouraging development of vacant land. Land value taxation may in some cases be undesirable as it can promote overdevelopment. According to both theory and real-world evidence, landlords would not be able to pass the tax burden of higher LVTs onto tenants in the form of higher rents. LVTs were originally proposed as a “single tax” at a rate of nearly 100% of land value. In practice, however, the high end of rates in recent LVT implementations have only reached 39.6%<ref>https://www.economicpossibility.org/reports/land-value-tax</ref>.
-
-## Artificial Intelligence
-
-The EU Artificial Intelligence Act, implemented in 2024, classifies and regulates AI systems. Unacceptable risk is prohibited, high-risk AI is regulated, limited risk AI is subject to lighter transparency obligations, and minimal risk is unregulated. Prohibited AI systems include<ref>https://artificialintelligenceact.eu/high-level-summary/</ref>:
-
-- Deploying deceptive techniques to manipulate behavior
-- Exploiting vulnerabilities related to age, disability, or socioeconomic circumstances to distort behavior, causing harm
-- Biometric categorization systems inferring demographic attributes, with few exceptions
-- Social scoring
-- Assessing risk of individual committing criminal offenses
-- Compiling facial recognition databases
-- Inferring emotions in workplaces or educational institutions
-- 'Real time' remote biometric identification in publicly accessible places for law enforcement, with few exceptions
-
-Due to disparities in the data available for AI systems that each group has collected, AI can exhibit certain biases in its capacity to make judgments. For example, automated speech recognition systems, due to being trained on fewer African American voices, are less effective in converting their spoken language to text compared to white voices<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC7149386/</ref>. Similar issues appear to occur with job hiring AI systems when they are trained on data that mostly accepts male job applicants<ref>https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/</ref>. This type of thing can be particularly dangerous in certain medical contexts. For example, and AI-driven pulse oximeter was found to overestimate blood oxygen levels in patients with darker skin, resulting in undertreatment of their hypoxia<ref>https://gh.bmj.com/content/8/5/e010435</ref>.
-
-LLM users consistently underperform at neural, linguistic and behavioral levels over four months<ref>https://arxiv.org/abs/2506.08872</ref>.
-
-AI chatbots as of late 2023 and 2024 have had at best minimal economic impacts in the labor market, in terms of productivity, earnings or recorded hours<ref>http://nber.org/papers/w33777</ref>. This contradicts the notion that there will be imminent labor market transformation due to generative AI.
-
-A report from the International Data Corporation projected that investments in AI solutions and services will yield a global cumulative impact of $22.3 trillion by 2030, representing approximately 3.7 of global GDP. Every new dollar spent on AI solutions and services by adopters is expected to generate an additional $4.9 in the global economy, suggesting significant multiplier productivity and business acceleration from AI investments in the coming years<ref>https://www.bigdatawire.com/this-just-in/idc-ai-investments-to-represent-3-7-of-global-gdp-by-2030/</ref>. Similar large GDP effects have been found by others<ref>https://www.privatebank.bankofamerica.com/articles/economic-impact-of-ai.html</ref>.
-
-Thus far (as of 2023) there is little evidence of significant negative employment effects due to AI<ref>https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-and-jobs-no-signs-of-slowing-labour-demand-yet_5aebe670.html</ref>. Despite concerns of AI taking high-skilled jobs, job growth has disproportionately been in high-skilled professions over the past decade.
-
-AI in the future may increase inequality and threaten the jobs of many workers. According to results from an IMF-designed AI preparedness index, more prepared countries tend to be wealthier and have higher employment in high-skill professions where AI is likely to take more jobs<ref>https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity</ref>.
-
-Many facts imply significant wage and productivity gains in industries affected by AI. Industries more exposed to AI have 3x higher growth in revenue per employee; wages are rising 2x faster in the most AI-exposed industries; and workers with AI skills command a 56% wage premium<ref>https://www.pwc.com/gx/en/issues/artificial-intelligence/ai-jobs-barometer.html</ref>.
-
-There is some evidence coming to light that AI can engage in deception, although this generally occurs in a minority of cases<ref>https://time.com/7202784/ai-research-strategic-lying/</ref><ref>https://time.com/7202312/new-tests-reveal-ai-capacity-for-deception/</ref>.
-
-Researchers trained an AI to align with the stylistic conventions, unspoken norms, and persuasion patterns of r/changemyview. The original poster on average changes their mind in about 3% of cases for human generated arguments. But with the AI, the arguments succeeded 9-18% of the time, meaning they were 3-6 times better at changing the minds of redditors. The AI succeeded not through better reasoning or information, but through effectively hacking the mechanics of persuasion, such as with appeals to emotion and identity, generalities, personal experiences, rhetorical questions, informational overload, conclusions based on sentiments, narrativizing, and assumption of ill intent<ref>https://www.aporiamagazine.com/p/why-reddit-is-no-longer-needed</ref>.
-
-Research suggests that 95 percent of organizations see no measurable return on their investment in generative AI. This is likely because employees are using AI tools to create low-effort and passable looking work that actually creates more work for co-workers<ref>https://garymarcus.substack.com/p/why-is-the-roi-on-generative-ai-so</ref>.
 
 ## Woke Capitalism
 
