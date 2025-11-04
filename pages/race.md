@@ -273,10 +273,15 @@ This is likely due to selection bias amongst those who choose to be interracial 
 
 Intuitively, it makes sense why interracial relationships will be less common. One big reason is that if one wants to preserve their own genetic heritage, they will want to have children with someone of a similar genetic mix. Race mixing probably doesn't carry significant risks on children, and depending on the context might be preferable to not race mixing depending on the partner, and is still arguably preferable for many than not having children period. Thus, from a genetics standpoint, while interracial relationships will probably always be implicitly non-normative, I don't see a strong argument for why they should be barred from occurring.
 
-### <span style="background-color:lightcoral">How to Accommodate for Ethnic Diversity</span>
+### How to Accommodate for Ethnic Diversity
 
-- Private-public distinction
-- In public goods arguments, just advocate for only having public goods for natives
+Ethnic diversity has costs to it, although things that it can be associated with, such as greater population or diverse ideas, can be beneficial. How does a multiracial society accomodate ethnic diversity despite these costs?
+
+Fundamentally, there needs to be on some level a tolerance for other groups. This will involve tolerating and accepting the fact that individuals are different from one another, culturally and genetically speaking. In this type of environment, there is truth to the progressive idea that bigotry shouldn't be tolerated. While progressive have oftentimes extended what bigotry is to absurd lengths, such as suggesting that discussing race differences is inherently bigoted, there are certainly some behaviors which shouldn't be tolerated, such as racial harassment. This isn't to suggest that we should enact laws prohibiting such behaviors, but there needs to be a cultural stigma around it.
+
+Nonetheless, it is the case that many will naturally feel a greater sense of belonging among people of their race or ethnicity. There isn't anything inherently wrong with having preferences, and preferring to live around some people more than others. In recognizing this, there should be a private-public distinction made when it comes to racial preferences. A market society cannot function efficiently if there is rampant irrational taste-based discrimination present, and so that should be discouraged or outlawed if possible. But in private spheres, there isn't anything wrong with individuals who want to create ethnic-exclusive associations or the like. Racial preferences, when existent in society, should only be in the private sphere and not in the public sphere. Similarly, since every group has some level of ingroup preference on average, this right to associate should be extended to every group. There should not exist a double standard whereby, for example, black people are allowed to freely associate based on race but white people aren't.
+
+This type of cultural and institutional arrangement I think would help to address some of the concerns many have with diversity and how it can relate to social cohesion. It means that society functions as effectively as possible with the benefits of diversity, while minimizing its costs for those who prefer in the society to want to associate mostly with people of their own ethnicity. There will certainly be edge cases, as the private-public distinction is not an especially well-defined boundary. However, bringing the distinction explicitly into public discussion will help significantly when it comes to addressing race relations.
 
 ### <span style="background-color:lightcoral">Identity Politics is Inevitable</span>
 
