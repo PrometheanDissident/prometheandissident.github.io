@@ -4,6 +4,43 @@ title: Psychology
 permalink: /psychology/
 ---
 
+
+
+
+
+## On Biological Determinism
+
+- Discuss why a biorealist way of viewing the world is very useful in a range of circumstances
+- Explain what heritability is and what it means practically speaking
+
+
+
+
+## On Intelligence
+
+- Define what intelligence is, why it's the most important metric in all of psychology in terms of replicability/academic legitimacy and also normatively
+- Discuss the g factor and what it means
+- Explain why critiques of intelligence as a concept are fake and gay
+- Discuss the heritability of intelligence
+- Discuss predictive validity of intelligence
+
+## On Morality and Human Sociality
+
+- Another fundamental aspect of humanity is ethics
+- Understanding how ethics was arrived at in humanity is crucial
+- Ethics only exists in the context of other humans or other agents/species if you take the cringe expanding moral circle view. It can't exist in a world without agents.
+- Discuss research/theories on how/why morality exists
+- Discuss evolutionary mismatch in modern contexts which explains why ethical debates are so annoying so often
+
+
+
+
+
+
+
+
+## ======================================== TO ADD BELOW ========================================
+
 ## <span style="background-color:orange">Heritability</span>
 
 Across a large number of traits analyzed, there was a mean 49% heritability of the traits among populations<ref>https://www.nature.com/articles/ng.3285</ref>.
