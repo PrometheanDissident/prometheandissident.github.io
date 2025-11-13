@@ -551,7 +551,11 @@ Furthermore, education about white privilege increases anti-white bias. Social l
 
 ## <span style="background-color:orange">Conclusion: The Unfortunate Tragedy</span>
 
-- Discuss how basically none of this can be discussed in polite conversation because all of it builds off of a race realist base which is extremely stigmatized
+On a meta note, nothing discussed here from a policy perspective is particularly radical. I'm fine with multiracial societies and I suggest antidiscrimination legislation is good. The policies on which I disagree with many on, such as affirmative action and other forms of anti-white discrimination, are policies which a substantial proportion of the general population also disagrees with, and so are mainstream positions. The private-public distinction I discuss with regards to race relations, while it can seem weird at times, is actually for the most part just a codification of what already exists in practice with racial affinity groups. It is merely a logical extension of such things to being a universal doctrine.
+
+However, the questioning of oppression narratives on the basis of race, particularly through invoking human biodiversity, is extremely controversial. I hold that the position I advocate for here, while not necessitating a hereditarian stance on issues such as race and intelligence, are most strongly justified on such a basis. It is crucial to be honest about group differences, ethnocentrism and ethnic diversity, as it is only through recognizing what is that we can figure out what is the best way that we can have cohesive, prosperous societies. The fact is that if these realities are true, and if it is the case that disparities in outcomes between groups cannot be explained by discrimination, then there is no reason to engage in policy which is based on the notion that groups are identical and interchangeable.
+
+In the current world we live in, basically none of this can be discussed in polite conversation. It is crucial that these topics become destigmatized. How that is done is another question, and one that I cannot answer at this point.
 
 ## References
 
