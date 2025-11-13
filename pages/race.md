@@ -470,20 +470,6 @@ However, beyond its direct effects on minority and majority well-being, affirmat
 
 **The Affirmative Action Dilemma -** Mentions of affirmative action can lead people to view groups who benefit from affirmative action more negatively<ref>https://journals.sagepub.com/doi/10.1177/0146167298241005</ref>. Affirmative action by its very nature attempts to hire or admit those who otherwise would not have had as strong of qualifications as their competitors. Such policies necessarily lead to situations whereby people will question whether any minority in their social space got their because of their merit or something else. Affirmative action to its proponents should be viewed as something positive for minorities, yet they hate the suggestion that any individual minority is a beneficiary. This is a product of the dilemma between a sacrifice of merit and an upholding of "equity".
 
-#### <span style="background-color:orange">Other Educational Interventions</span>
-
-There is a positive effect of having an own race teacher on student achievement<ref>https://www.brookings.edu/research/the-importance-of-a-diverse-teaching-force/</ref>.
-
-Students taught under faculty who underwent diversity training experienced a greater sense of community, personal growth, and conflict resolution skills<ref>https://files.eric.ed.gov/fulltext/EJ1134528.pdf</ref>.
-
-School desegregation has had positive effects on both educational and occupational attainments, college quality and adult earnings, reduced the probability of incarceration, and improved adult health status<ref>https://www.nber.org/papers/w16664</ref>.
-
-Comprehensive school reform programs tend to lower the black-white achievement gap more than matched traditional schools, and their effects substantially to completely eliminated this gap in elementary middle schools<ref>https://epaa.asu.edu/ojs/index.php/epaa/article/view/708</ref>.
-
-Harlem Children's Zone charter schools closed the black-white achievement gap in mathematics<ref>https://www.aeaweb.org/articles?id=10.1257/app.3.3.158</ref>.
-
-Improvements in the relative quality of black schools in terms of pupil-teacher ratios, annual teacher pay, and term length for black and white schools explain some of the narrowing of the black-white earnings gap between 1960 and 1980<ref>https://sci-hub.ru/https://doi.org/10.2307/2118326</ref>.
-
 #### <span style="background-color:orange">Reparations</span>
 
 ### Separation or Integration?
