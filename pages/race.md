@@ -549,7 +549,7 @@ White guilt isn't necessarily a big problem now, but that doesn't mean that thes
 
 Furthermore, education about white privilege increases anti-white bias. Social liberals show more sympathy for a poor black person than a poor white person after reading about white privilege, while for social conservatives there is no difference. However, relative to conservatives, liberals are just as sympathetic to the poor white person<ref>https://www.researchgate.net/publication/332749635_Complex_Intersections_of_Race_and_Class_Among_Social_Liberals_Learning_About_White_Privilege_Reduces_Sympathy_Increases_Blame_and_Decreases_External_Attributions_for_White_People_Struggling_With_Pover</ref>.
 
-## <span style="background-color:orange">Conclusion: The Unfortunate Tragedy</span>
+## Conclusion: The Unfortunate Tragedy
 
 On a meta note, nothing discussed here from a policy perspective is particularly radical. I'm fine with multiracial societies and I suggest antidiscrimination legislation is good. The policies on which I disagree with many on, such as affirmative action and other forms of anti-white discrimination, are policies which a substantial proportion of the general population also disagrees with, and so are mainstream positions. The private-public distinction I discuss with regards to race relations, while it can seem weird at times, is actually for the most part just a codification of what already exists in practice with racial affinity groups. It is merely a logical extension of such things to being a universal doctrine.
 
