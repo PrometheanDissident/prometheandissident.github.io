@@ -431,7 +431,7 @@ Another question to ask is whether there is racism in health. Evidence suggests 
 
 - **Healthcare Access: Some Bias -** I would have to quantify the exact effects shown in these studies, but research suggests that there exists low to moderate levels of implicit racial bias among healthcare professionals, which is significantly related to patient-provider interactions and health outcomes<ref>https://pubmed.ncbi.nlm.nih.gov/26469668/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/28249596/</ref>. Furthermore, experimental evidence suggests that there is racial discrimination against middle-class blacks compared to middle-class whites in accessing mental health care, although there is no discrimination between working-class blacks and whites<ref>https://journals.sagepub.com/doi/abs/10.1177/0022146516647098</ref>.
 
-### <span style="background-color:orange">The Possibility of Historical Factors</span>
+### The Possibility of Historical Factors
 
 All of this research taken together suggests that bias today cannot explain much of the variance in outcomes between racial groups, particularly blacks and whites. However, many who theorize about systemic racism argue that it can persist even in the absence of any present bias. They use this argument by suggesting that past discrimination in the form of things such as slavery or segregation created greater disparities than would have otherwise existed, meaning that black-white income gaps can thus be attributed to racism even if there is no racism today.
 
