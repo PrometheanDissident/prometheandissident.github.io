@@ -20,10 +20,23 @@ Heritability isn't perfect. As Moore & Shenk (2016) points out, there are severa
 - Second, given that all traits are filtered through genetics, it is impossible to actually separate out genetic from environmental effects. Genes turn on and respond in various ways depending on the environment, so the strict separation between genetic and environmental influences is highly dubious.
 - Third, twin studies which are the hallmark of heritability estimates assume that identical twins have no more similar environments than fraternal twins (Equal environments assumption), and thus attribute all differences between groups to genetics. However, identical twins are exposed to demonstrably similar environments than are fraternal twins, starting in the womb. Identical twins often share a placenta while fraternal twins always have two separate placentas. Identical twins that share a placenta have more similar IQs and personalities than identical twins who do not share a placenta. This effect however appears to be small and only limited to a few phenotypes<ref>https://sci-hub.ru/https://doi.org/10.1007/s10519-015-9745-3</ref>. More significantly, it is likely that identical twins will be treated in social interactions more similarly than fraternal twins, increasing the similarity of their environments further. This has been shown to undermine research finding a strong heritability for schizophrenia, as identical twins have a smaller differences in their level of bullying, sexual abuse, physical maltreatment, emotional neglect and abuse, and general trauma compared to fraternal twins<ref>https://pubmed.ncbi.nlm.nih.gov/25972816/</ref>. Only some of those traits could be reasonably suggested to be genetic. This is consistent with research suggesting that the equal environments assumption is not strictly valid for most outcomes, with a likely modest bias<ref>https://sci-hub.hkvisa.net/10.1080/19485565.1968.9987750</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.ssresearch.2013.10.004</ref>.
 
+Of course, none of these limitations are fatal for heritability estimates. The notion that heritability is necessarily contingent on the type and variation in environment that a population is exposed to doesn't change the validity that it can have in explaining variation in outcomes within the context of those environmental parameters. It just limits its usefulness for examining how genes affect traits in populations with a vastly different environment. Additionally, even with all traits being filtered through a complex mix of genes and environment, this can just as easily be used to argue that genes affect traits more than most imagine they do, not less (see [Sociologist's Fallacy](https://prometheandissident.github.io/epistemic-progressivism-supplement/#sociologist%E2%80%99s-fallacy)). Another well-replicated finding from behavioral genetics is that most associations between environmental measures and psychological traits are significantly mediated genetically<ref>https://journals.sagepub.com/doi/full/10.1177/1745691615617439</ref>. Finally, even if the equal environments assumption can be undermined in certain circumstances, it has to be demonstrated that it is violated in a particular circumstance in a way that would meaningfully affect the trait in question. And even then, research suggests the actual effects are modest on final heritability estimates, so this doesn't significantly affect the validity of heritability.
 
-
+Biological determinism isn't the end-all-be-all of human analysis, but it is a crucial part which has been unfairly stigmatized in much of modern discourse.
 
 ## On Intelligence
+
+Intelligence refers to the ability to exercise one's mental faculties in effective ways. Researchers have been trying to measure intelligence for over a century through various forms of intelligence quotient (IQ) tests. These can test a range of abilities, from visuospatial abilities, to pattern recognition, to working memory, to verbal ability. IQ tests, despite being imperfect, are some of the most reliable and valid instruments in all of psychological science<ref>https://web.archive.org/web/20170408134031/https://aeon.co/ideas/how-clever-is-it-to-dismiss-iq-tests</ref>. No measure has been more aggressively attacked and withstood more criticism than IQ, so the fact that it is still extensively utilized in many circles is a testament to its robustness. It is furthermore extremely important as it measures the capacity of one's mental faculties, perhaps the most significant trait that defines humanity as distinct from other species and one of the most important factors in determining lifetime success.
+
+The IQ test originated from the observation that abilities in one domain positively correlated with abilities in another domain, such as in various subjects in school whose content was generally unrelated. This was transformed into the idea that there was a general factor of intelligence, or "g factor", which has since become a common topic of study among psychologists. This g factor is not only limited to humans. Rats display a general factor of intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/8510832/</ref>, as well as dogs<ref>https://www.sciencedirect.com/science/article/pii/S016028961630023X</ref>. Furthermore, the g factor also exists amongst chimpanzees, and the more g-loaded cognitive abilities had more genetic variance and phenotypic variance and were more heritable, suggesting it is associated with high interspecies variance and evolves rapidly<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.04.002</ref>.
+
+This general intelligence factor is highly heritable in humans<ref>https://pubmed.ncbi.nlm.nih.gov/15651931/</ref><ref>https://sci-hub.hkvisa.net/https://linkinghub.elsevier.com/retrieve/pii/S0160289614000099</ref>, and can predict academic performance, career potential, creativity, and job performance<ref>https://sci-hub.ru/https://doi.org/10.1037/0022-3514.86.1.148</ref>. Furthermore, there is expert consensus that g is an important non-trivial predictor or determinant of important real world outcomes, and that g tests are valid and generally do not have racial bias<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2008.03.007</ref>. The g factor has been shown to also exist in international cognitive ability comparisons, suggesting it is a universal phenomenon<ref>https://onlinelibrary.wiley.com/doi/abs/10.1002/per.634</ref><ref>https://emilkirkegaard.dk//en/wp-content/uploads/The-g-factor-of-international-cognitive-ability-comparisons-the-homogeneity-of-results-in-PISA-TIMSS-PIRLS-and-IQ-tests-across-nations.pdf</ref><ref>https://psycnet.apa.org/fulltext/2019-01683-001.pdf</ref>.
+
+It is important to note that IQ in and of itself isn't important. Psychologists do not care about a person's IQ score per se. Rather, they use that score to measure some trait, in this case intelligence, and the IQ measure is only good insofar as it can effectively measure that trait.
+
+
+
+
 
 - Define what intelligence is, why it's the most important metric in all of psychology in terms of replicability/academic legitimacy and also normatively
 - Discuss the g factor and what it means
@@ -48,30 +61,17 @@ Heritability isn't perfect. As Moore & Shenk (2016) points out, there are severa
 
 ## ======================================== TO ADD BELOW ========================================
 
-## <span style="background-color:orange">Heritability</span>
-
-Top 10 replicated findings from behavioral genetics<ref>https://journals.sagepub.com/doi/full/10.1177/1745691615617439</ref>:
-
-* Finding 1. 
-* Finding 2. No traits are 100% heritable
-* Finding 3. Heritability is caused by many genes of small effect
-* Finding 4. Phenotypic correlations between psychological traits show significant and substantial genetic mediation
-* Finding 5. The heritability of intelligence increases throughout development
-* Finding 6. Age-to-age stability is mainly due to genetics
-* Finding 7. Most measures of the “environment” show significant genetic influence
-* Finding 8. Most associations between environmental measures and psychological traits are significantly mediated genetically
-* Finding 9. Most environmental effects are not shared by children growing up in the same family
-* Finding 10. Abnormal is normal
-
 ## <span style="background-color:lightcoral">Intelligence</span>
 
+A meta-analysis of studies amounting to a total of 280 pairs of identical twins reared apart implies a heritability of IQ of 0.83, or a 95% confidence interval of 0.74-0.91<ref>https://www.sebjenseb.net/p/we-now-have-280-pairs-of-identical?utm_source=publication-search</ref>.
+
+About 6% of those with a visuo-spatial IQ in the 99th percentile become inventors, compared to only about 1% of those at the 50th percentile. Each percentile increases the probability of becoming an inventor by an exponential amount<ref>https://scholar.harvard.edu/files/aghion/files/social_origins_and_iq_of_inventors.pdf</ref>.
+
+Across an extensive number of domains, the vast majority of American extraordinary achievers attended one of an “elite 34” colleges/universities out of the roughly 4000 in the US, with a significant proportion or a majority in some cases attending Harvard or other ivy league universities. This indicates that the most successful and influential Americans come from a very narrow range of elite educational backgrounds<ref>https://www.nature.com/articles/s41599-024-03547-8</ref>.
+
+Cognitive processing speed and cognitive processing accuracy are different from one another genetically and also neurologically speaking<ref>https://www.nature.com/articles/s41467-024-52222-8</ref>.
+
 ### <span style="background-color:orange">G Factor</span>
-
-The there exists a general intelligence, or g factor, which is highly heritable<ref>https://pubmed.ncbi.nlm.nih.gov/15651931/</ref><ref>https://sci-hub.hkvisa.net/https://linkinghub.elsevier.com/retrieve/pii/S0160289614000099</ref>. General cognitive ability can predict academic performance, career potential, creativity, and job performance<ref>https://sci-hub.ru/https://doi.org/10.1037/0022-3514.86.1.148</ref>. There is expert consensus that g is an important non-trivial predictor or determinant of important real world outcomes, and that g tests are valid and generally do not have racial bias<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2008.03.007</ref>.
-
-Rats display a general factor of intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/8510832/</ref>, as well as dogs<ref>https://www.sciencedirect.com/science/article/pii/S016028961630023X</ref>. The g factor also exists amongst chimpanzees, and the more g-loaded cognitive abilities had more genetic variance and phenotypic variance and were more heritable, suggesting it is associated with high interspecies variance and evolves rapidly<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.04.002</ref>.
-
-This general factor has been shown to also exist in international cognitive ability comparisons, suggesting it is a universal phenomenon<ref>https://onlinelibrary.wiley.com/doi/abs/10.1002/per.634</ref><ref>https://emilkirkegaard.dk//en/wp-content/uploads/The-g-factor-of-international-cognitive-ability-comparisons-the-homogeneity-of-results-in-PISA-TIMSS-PIRLS-and-IQ-tests-across-nations.pdf</ref><ref>https://psycnet.apa.org/fulltext/2019-01683-001.pdf</ref>.
 
 In higher ability populations, cognitive ability tests are less correlated with one another and less g loaded<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5669751/</ref>.
 
@@ -587,14 +587,6 @@ However, one study which attempts to quantify the percentage of variance in adol
 Social media is associated with increased political participation and information consumption, which is likely to be beneficial for democracy. However, other associations such as declining political trust, increased populism and increased polarization are more likely to harm democracy. The beneficial effects tend to be observed in autocracies and emerging democracies while the detriments are more pronounced in established democracies<ref>https://www.nature.com/articles/s41562-022-01460-1?error=cookies_not_supported&code=b81c66cf-9230-4f01-a69a-25df089ca34b</ref>.
 
 ## Intelligence cont 1
-
-A meta-analysis of studies amounting to a total of 280 pairs of identical twins reared apart implies a heritability of IQ of 0.83, or a 95% confidence interval of 0.74-0.91<ref>https://www.sebjenseb.net/p/we-now-have-280-pairs-of-identical?utm_source=publication-search</ref>.
-
-About 6% of those with a visuo-spatial IQ in the 99th percentile become inventors, compared to only about 1% of those at the 50th percentile. Each percentile increases the probability of becoming an inventor by an exponential amount<ref>https://scholar.harvard.edu/files/aghion/files/social_origins_and_iq_of_inventors.pdf</ref>.
-
-Across an extensive number of domains, the vast majority of American extraordinary achievers attended one of an “elite 34” colleges/universities out of the roughly 4000 in the US, with a significant proportion or a majority in some cases attending Harvard or other ivy league universities. This indicates that the most successful and influential Americans come from a very narrow range of elite educational backgrounds<ref>https://www.nature.com/articles/s41599-024-03547-8</ref>.
-
-Cognitive processing speed and cognitive processing accuracy are different from one another genetically and also neurologically speaking<ref>https://www.nature.com/articles/s41467-024-52222-8</ref>.
 
 ## Norms
 
