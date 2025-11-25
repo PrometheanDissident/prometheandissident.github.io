@@ -48,11 +48,23 @@ As another example, many critique IQ testing and often standardized tests more g
 - Another fundamental aspect of humanity is ethics
 - Understanding how ethics was arrived at in humanity is crucial
 - Ethics only exists in the context of other humans or other agents/species if you take the cringe expanding moral circle view. It can't exist in a world without agents.
+- There are two major aspects to human morality/sociality: reciprocity and familiarity
 - Discuss research/theories on how/why morality exists
 - Discuss evolutionary mismatch in modern contexts which explains why ethical debates are so annoying so often
 
+### Social Isolation in the Modern Era
 
+## Psychology of Belief
 
+### Understanding Religious Belief
+
+### Understanding Political Belief
+
+- Basically the same as religious belief in a sense
+
+### The Rationality of Groups
+
+- Discuss mobbing and more recently cancel culture as a manifestation of group psychology
 
 
 
