@@ -32,14 +32,13 @@ The IQ test originated from the observation that abilities in one domain positiv
 
 This general intelligence factor is highly heritable in humans<ref>https://pubmed.ncbi.nlm.nih.gov/15651931/</ref><ref>https://sci-hub.hkvisa.net/https://linkinghub.elsevier.com/retrieve/pii/S0160289614000099</ref>, and can predict academic performance, career potential, creativity, and job performance<ref>https://sci-hub.ru/https://doi.org/10.1037/0022-3514.86.1.148</ref>. Furthermore, there is expert consensus that g is an important non-trivial predictor or determinant of important real world outcomes, and that g tests are valid and generally do not have racial bias<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2008.03.007</ref>. The g factor has been shown to also exist in international cognitive ability comparisons, suggesting it is a universal phenomenon<ref>https://onlinelibrary.wiley.com/doi/abs/10.1002/per.634</ref><ref>https://emilkirkegaard.dk//en/wp-content/uploads/The-g-factor-of-international-cognitive-ability-comparisons-the-homogeneity-of-results-in-PISA-TIMSS-PIRLS-and-IQ-tests-across-nations.pdf</ref><ref>https://psycnet.apa.org/fulltext/2019-01683-001.pdf</ref>.
 
-It is important to note that IQ in and of itself isn't important. Psychologists do not care about a person's IQ score per se. Rather, they use that score to measure some trait, in this case intelligence, and the IQ measure is only good insofar as it can effectively measure that trait.
+It is important to note that IQ in and of itself isn't important. Psychologists do not care about a person's IQ score per se. Rather, they use that score to measure some trait, in this case intelligence, and the IQ measure is only good insofar as it can effectively measure that trait. The degree to which a test result correlates to the actual general factor of intelligence the test is intended to measure refers to the "g loading" of the test. Many critiques of intelligence testing can be addressed by simply understanding this fact. A simple example of this concerns the validity of IQ testing across multiple runs. It is true that a person can get a high IQ score by simply studying to an IQ test in a way which can game the IQ test. However, IQ test-retest score gains are correlated with g loadings at -1, meaning that score gains are not g-loaded at all<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.07.006</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.tics.2018.10.004</ref>. Once a person starts gaming the test, it ceases to have any validity towards its intended purpose, which is to measure general mental ability. Just because it can be gamed into telling a person that they're smarter than they actually are doesn't mean that it can't be useful for measuring the underlying general ability of those who are not gaming the test.
+
+As another example, many critique IQ testing and often standardized tests more generally by suggesting that some people are simply not good at being tested. These types of people are often said to be unable to "peform under pressure", and get high levels of anxiety before taking standardized tests. This is then theorized to lead to test results underestimating the actual ability of such individuals. However, research shows that test anxiety does not induce measurement bias in aptitude and cognitive ability test scores<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2007.11.003</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.08.007</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.lindif.2016.06.030</ref>. Rather, test anxiety is most closely related to psychometric g<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2013.11.003</ref>. Test anxiety appears to, on the net, simply be a function of those with it not actually being that smart, whether it be due to their anxiety generally causing underperformance in their lives or due to their anxiety simply being a function of low underlying cognitive ability. Since test anxiety has been shown to be unimportant in IQ testing, I am therefore skeptical of this as a meaningful critique of standardized testing in general.
 
 
 
 
-
-- Define what intelligence is, why it's the most important metric in all of psychology in terms of replicability/academic legitimacy and also normatively
-- Discuss the g factor and what it means
 - Explain why critiques of intelligence as a concept are fake and gay
 - Discuss the heritability of intelligence
 - Discuss predictive validity of intelligence
@@ -71,8 +70,6 @@ Across an extensive number of domains, the vast majority of American extraordina
 
 Cognitive processing speed and cognitive processing accuracy are different from one another genetically and also neurologically speaking<ref>https://www.nature.com/articles/s41467-024-52222-8</ref>.
 
-### <span style="background-color:orange">G Factor</span>
-
 In higher ability populations, cognitive ability tests are less correlated with one another and less g loaded<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5669751/</ref>.
 
 ### <span style="background-color:yellow">Heritability</span>
@@ -82,11 +79,6 @@ Intelligence is highly heritable at as high as 0.8<ref>https://www.ncbi.nlm.nih.
 **Wilson Effect:** The heritability of IQ increases with age, reaching a maximum of about 0.6-0.8<ref>https://www.researchgate.net/figure/A-meta-analysis-of-11000-pairs-of-twins-shows-that-the-heritability-of-intelligence_fig1_265690996</ref>.
 
 ### <span style="background-color:yellow">Bias/Alternative Theories</span>
-
-Possible sources of bias:
-
-- **Test Anxiety -** Test anxiety does not induce measurement bias in aptitude and cognitive ability test scores<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2007.11.003</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.08.007</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.lindif.2016.06.030</ref>. Rather, test anxiety is most closely related to psychometric g<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2013.11.003</ref>.
-- **Test-Retest Gains -** IQ test-retest score gains are correlated with g loadings at -1, meaning that score gains are not g-loaded at all<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.07.006</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.tics.2018.10.004</ref>.
 
 Alternative views of intelligence:
 
