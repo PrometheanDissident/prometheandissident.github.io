@@ -84,41 +84,19 @@ Jonathan Haidt's Moral Foundations Theory attempts to explain why despite vast d
 
 Fairness was later split into equality and proportionality, which suggests that there exists six foundations. Other foundations that Haidt suggests could exist but didn't include in his theory consist of liberty, honor and ownership<ref>https://moralfoundations.org/</ref>.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-There exists layers of friend circles, where the emotionally closest circles are the smallest, and the least emotionally close circles are the largest<ref>https://www.researchgate.net/publication/301879177_Calling_Dunbar's_Numbers</ref><ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/</ref>.
-
-In the ultimatum game, a proposer decides how much of $10 to give a responder, and the responder decides whether to accept or reject the offer. If the responder accepts, the players split the money in the way the proposer suggested. If the responder rejects, neither player gets any money. This happens only once and the players know this<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
+A significant portion of research examining human morality looks at game theory experiments, a subset of behavioral economics which examines how people interact with others in situations where they have payoffs which vary depending on the interactions between their strategies and the strategies of other players. For example, in the ultimatum game, a proposer decides how much of $10 to give a responder, and the responder decides whether to accept or reject the offer. If the responder accepts, the players split the money in the way the proposer suggested. If the responder rejects, neither player gets any money. This happens only once and the players know this<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
 
 Game theory predicts that since both parties know the rejection of the offer results in neither receiving any money, the proposer will offer the smallest possible amount and the responder will always accept. However, in practice proposers generally offer more than the minimum and responders frequently reject low offers, choosing to receive nothing. The rejection of the selfishness axiom exists cross-culturally, as a study of 15 small indigenous societies on 4 continents found significant cultural group differences in behavior but none held to the selfishness axiom. Some economists try to model this by including “other-regarding” preferences, where players have an innate conception of fairness<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
 
 In market economies, people’s concern for reputation modifies the predicted materially self-interested behavior that often fails to appear in ultimatum games. There is a correlation between more equal splits and markets which holds in both developed countries as well as indigenous subsistence economies. Thus, there is a positive relationship between market integration and offer size in the ultimatum game, which is the opposite of what many would expect who instead believe that markets make people selfish<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
 
-Research across 21 nations shows that the propensity for ecological threat correlates with the short (S) allele frequency in the 5-HTTLPR, allelic frequency in the 5-HTTLPR and vulnerability to ecological threat both correlate with cultural tightness-looseness, susceptibility to ecological threat predicts tightness–looseness via the mediation of S allele carriers, and frequency of S allele carriers predicts justifiability of morally relevant behavior via tightness–looseness. Hence, there is an interplay between environmental, genetic, and cultural factors underlying contemporary differences in social behavior<ref>https://link.springer.com/article/10.1007/s40167-013-0009-x</ref>.
-
+So much of morality encompasses notions of fairness and reciprocity, but another significant aspect of morality is the reality of kinship. Many animals are willing to sacrifice something in order to preserve the life or well-being of their young, and the reason why this is the case is because this is in effect the parent preserving their own genes. Hamilton's Rule helps to explain when this type of altruistic behavior occurs. In general, animals will engage in altruistic behavior when the benefit as well as the kinship of the other animal exceeds the person cost<ref>https://www.britannica.com/science/Hamiltons-rule</ref>. This can extend to relationships based on genetic similarity that are not parent-child, such as extended family or even more beyond. A lot of human's senses of obligation towards one another consist of concentric circles of obligation which exist on the basis of genetic or relational proximity. Research corroborates this in the context of friendships. There exists layers of friend circles, where the emotionally closest circles are the smallest, and the least emotionally close circles are the largest<ref>https://www.researchgate.net/publication/301879177_Calling_Dunbar's_Numbers</ref><ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/</ref>.
 
 - There are two major aspects to human morality/sociality: reciprocity and familiarity
 
-
-
 ### Moral Development
 
-Kohlberg’s theory of moral development consists of six stages arranged sequentially in successive tiers of complexity. The first two are in level 1, the preconventional level; the next two are in level 2, the conventional level; and the last two are in level 3, the postconventional level<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+If humans can be said to have established a system of morality that is more sophisticated than other primates, and many primates can be said to have a rudimentary form of morality not seen in other animals, it follows that there exists a dimension of "moral development" which species can be ranked accordingly on. But just as between-species comparisons can in theory be made on this dimension, within-species comparisons can also be. The late psychologist Lawrence Kohlberg aimed to measure moral development in humans. Kohlberg’s theory of moral development consists of six stages arranged sequentially in successive tiers of complexity. The first two are in level 1, the preconventional level; the next two are in level 2, the conventional level; and the last two are in level 3, the postconventional level<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
 
 At the preconventional level, morality is externally controlled<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
 - Stage 1: Punishment/obedience orientation - Behaviour is determined by consequences. The individual will obey in order to avoid punishment.
@@ -132,11 +110,13 @@ At the postconventional or principled level, the individual moves beyond the per
 - Stage 5: Social contract orientation - Individual rights determine behaviour. The individual views laws and rules as flexible tools for improving human purposes. That is, given the right situation, there are exceptions to rules. When laws are not consistent with individual rights and the interests of the majority, they do not bring about good for people and alternatives should be considered.
 - Stage 6: Universal ethical principle orientation - According to Kohlberg, this is the highest stage of functioning. However, he claimed that some individuals will never reach this level. At this stage, the appropriate action is determined by one’s self-chosen ethical principles of conscience. These principles are abstract and universal in application. This type of reasoning involves taking the perspective of every person or group that could potentially be affected by the decision.
 
-Data shows that older individuals tend to use higher stages of moral reasoning when compared with younger individuals, and there is “upward” progression in accordance with the theoretical order of stages. Studies have revealed that comprehension of the stages is cumulative (i.e. someone at stage 4 understands the lower stages but not necessarily the higher stages)<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+Data shows that older individuals tend to use higher stages of moral reasoning when compared with younger individuals, and there is “upward” progression in accordance with the theoretical order of stages. Studies have revealed that comprehension of the stages is cumulative (i.e. someone at stage 4 understands the lower stages but not necessarily the higher stages)<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>. This is consistent with Kohlberg's scheme of moral development being a valid means by which moral development can be ordinally measured.
 
-Kohlberg’s scheme should not be interpreted in terms of increasing degrees of moral maturity, but rather in terms of personality style and political preferences<ref>https://www.psychologytoday.com/us/blog/cui-bono/202506/do-liberals-protest-more-than-conservatives</ref>.
+It is important to understand that Kohlberg’s scheme should not be interpreted in terms of increasing degrees of moral maturity, but rather in terms of personality style and political preferences<ref>https://www.psychologytoday.com/us/blog/cui-bono/202506/do-liberals-protest-more-than-conservatives</ref>. The reason why can be best articulated by examining an alternative measure of moral judgment established by another researcher, which places an "ethics of personal conscience" (low scorers) on one end and "ethics of social responsibility" (high scorers) on another end<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0030095</ref>. The former would be generally put at a higher stage of moral development on Kohlberg's scale relative to the latter. Both have advantages and disadvantages. It should be clarified that a low or high score doesn't mean anything normatively, it's simply how the measure was set up and have nothing to do with judgments over what score is better than the other.
 
 Persons whose moral appraisals are grounded on considerations which regularly transcend the dictates of law and custom may be unconventional, liberal, and progressive; however, they may also be capricious, undependable, and anticonforming. On the other hand, persons whose moral judgments are guided by rational and legal considerations are often thoughtful, considerate, and honest; yet, they may also be conventional and overconforming. They have a strong need for structure and order and tend to gravitate to positions where support of rules of conduct is viewed as positive behavior. Low scorers, on the other hand, often seem to delight in changing the "system." Thus, both high and low scorers on the test possess unique virtues and drawbacks, and an effective society undoubtedly requires both kinds of persons; that is, high scorers to provide stability and order, low scorers to provide the stimulus for evolution and change<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0030095</ref>.
+
+The fact is that not everyone should have a stage 6 level of moral development, as that can risk leading to excessive rebellious orientation in the average person when it is ultimately not necessary. Some people should be rebellious, but in large-scale political contexts it should always be done with careful thought and consideration, something that the average person would not have.
 
 ### Implications for our own Moral Theorizing
 
@@ -164,6 +144,10 @@ Persons whose moral appraisals are grounded on considerations which regularly tr
 
 
 ## ======================================== TO ADD BELOW ========================================
+
+## Morality
+
+Research across 21 nations shows that the propensity for ecological threat correlates with the short (S) allele frequency in the 5-HTTLPR, allelic frequency in the 5-HTTLPR and vulnerability to ecological threat both correlate with cultural tightness-looseness, susceptibility to ecological threat predicts tightness–looseness via the mediation of S allele carriers, and frequency of S allele carriers predicts justifiability of morally relevant behavior via tightness–looseness. Hence, there is an interplay between environmental, genetic, and cultural factors underlying contemporary differences in social behavior<ref>https://link.springer.com/article/10.1007/s40167-013-0009-x</ref>.
 
 ## <span style="background-color:lightcoral">Intelligence</span>
 
