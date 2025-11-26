@@ -71,13 +71,24 @@ Social groups emerged precisely because they were necessary for human survival. 
 
 ### The Emergence of Morality in Social Groups
 
+There are a number of different perspectives on morality which often aim to answer differing questions but also look at differing aspects of human psychology and social relations and what is required for communities to fluorish. According to the primatologist Frans de Waal, morality's defining traits which include empathy, reciprocity, reconciliation and consolation, can be seen in many animals, most particularly in primates. Empathy is an automatic response seen in human infants, dogs and apes. This most likely originates with parents' care but extends beyond parent-child relationships. Both chimps and capuchins will work with other members of their groups to reach a common goal even if there is no immediate reward. In order to preserve important relationships, chimps will engage in friendly reunions after a conflict, similar to the way a married couple or good friends might reconcile after a conflict. Consolation, defined as friendly contact and reassurance by an uninvolved third party after a conflict, is a behavior seen only in great apes and humans<ref>https://www.emory.edu/EMORY_REPORT/erarchive/2007/April/April%2016/DeWaal.htm</ref>.
+
+What is clear is that a lot of the fundamentals of human morality are universal, implying that the origins of morality are innate to some direct or indirect extent. Although the particulars have substantial cultural variation, a sense of fairness appears to be a human universal that has been shown to prevail in a wide variety of circumstances. Many highly cooperative nonhuman species also appear to have an aversion to inequity. The brown capuchin monkey responds negatively to unequal reward distribution in exchanges with a human experimenter. Monkeys refused to participate if they witnessed a conspecific obtain a more attractive reward for equal effort, an effect amplified if the partner received such a reward without any effort at all. This supports the notion of an early evolutionary origin of inequity aversion<ref>https://www.emory.edu/LIVING_LINKS/publications/articles/Brosnan_deWaal_2003.pdf</ref>.
+
+Jonathan Haidt's Moral Foundations Theory attempts to explain why despite vast differences across cultures, morality often has shared themes and similarities across populations by suggesting there are several innate psychological systems at the core of our “intuitive ethics”. The original framework identified five foundations that were strongly supported by evidence across various cultures<ref>https://moralfoundations.org/</ref>:
+- Care: Comes from ability to feel and dislike pain of others, underlies virtues of kindness, gentleness and nurturance
+- Fairness: Comes from reciprocal altruism, underlies virtues of justice and rights. 
+- Loyalty: Active when people feel attached to coalitions, underlies patriotism and self-sacrifice for the group
+- Authority: Deference to prestigious authority figures and respect for traditions
+- Purity: Underlies idea that the body is a temple that can be desecrated by immoral activities and contaminants, underlies self-discipline, self-improvement, naturalness and spirituality
+
+Fairness was later split into equality and proportionality, which suggests that there exists six foundations. Other foundations that Haidt suggests could exist but didn't include in his theory consist of liberty, honor and ownership<ref>https://moralfoundations.org/</ref>.
 
 
 
 
 
 
-According to the primatologist Frans de Waal, morality's defining traits which include empathy, reciprocity, reconciliation and consolation, can be seen in many animals, most particularly in primates. Empathy is an automatic response seen in human infants, dogs and apes. This most likely originates with parents' care but extends beyond parent-child relationships. Both chimps and capuchins will work with other members of their groups to reach a common goal even if there is no immediate reward. In order to preserve important relationships, chimps will engage in friendly reunions after a conflict, similar to the way a married couple or good friends might reconcile after a conflict. Consolation, defined as friendly contact and reassurance by an uninvolved third party after a conflict, is a behavior seen only in great apes and humans<ref>https://www.emory.edu/EMORY_REPORT/erarchive/2007/April/April%2016/DeWaal.htm</ref>.
 
 
 
@@ -86,22 +97,11 @@ According to the primatologist Frans de Waal, morality's defining traits which i
 
 
 
-
-
-
-
-
-
-- There are two major aspects to human morality/sociality: reciprocity and familiarity
-- Discuss research/theories on how/why morality exists
-- Discuss evolutionary mismatch in modern contexts which explains why ethical debates are so annoying so often
 
 
 
 
 There exists layers of friend circles, where the emotionally closest circles are the smallest, and the least emotionally close circles are the largest<ref>https://www.researchgate.net/publication/301879177_Calling_Dunbar's_Numbers</ref><ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/</ref>.
-
-Although the particulars have substantial cultural variation, a sense of fairness appears to be a human universal that has been shown to prevail in a wide variety of circumstances. Many highly cooperative nonhuman species also appear to have an aversion to inequity. The brown capuchin monkey responds negatively to unequal reward distribution in exchanges with a human experimenter. Monkeys refused to participate if they witnessed a conspecific obtain a more attractive reward for equal effort, an effect amplified if the partner received such a reward without any effort at all. This supports the notion of an early evolutionary origin of inequity aversion<ref>https://www.emory.edu/LIVING_LINKS/publications/articles/Brosnan_deWaal_2003.pdf</ref>.
 
 In the ultimatum game, a proposer decides how much of $10 to give a responder, and the responder decides whether to accept or reject the offer. If the responder accepts, the players split the money in the way the proposer suggested. If the responder rejects, neither player gets any money. This happens only once and the players know this<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
 
@@ -111,16 +111,12 @@ In market economies, people’s concern for reputation modifies the predicted ma
 
 Research across 21 nations shows that the propensity for ecological threat correlates with the short (S) allele frequency in the 5-HTTLPR, allelic frequency in the 5-HTTLPR and vulnerability to ecological threat both correlate with cultural tightness-looseness, susceptibility to ecological threat predicts tightness–looseness via the mediation of S allele carriers, and frequency of S allele carriers predicts justifiability of morally relevant behavior via tightness–looseness. Hence, there is an interplay between environmental, genetic, and cultural factors underlying contemporary differences in social behavior<ref>https://link.springer.com/article/10.1007/s40167-013-0009-x</ref>.
 
-Some elements of morality clearly evolved, but the specifics are unclear, which underlines the implications that ecopsych people take when using this to discuss moral philosophy. A small body of evidence suggests that normative cognition, the ability to grasp and apply norms, evolved. This provides weak evidence that moral cognition evolved. Some argue that if morality evolved then it is undermined in its legitimacy, but if normative cognition evolved in general then under that same logic other norms such as epistemic norms would then be equally undermined<ref>https://web.ics.purdue.edu/~drkelly/MacheryMallonEvolutionMorality2010.pdf</ref>.
 
-The Moral Foundations Theory attempts to explain why despite vast differences across cultures, morality often has shared themes and similarities across populations by suggesting there are several innate psychological systems at the core of our “intuitive ethics”. The original framework identified five foundations that were strongly supported by evidence across various cultures<ref>https://moralfoundations.org/</ref>:
-- Care: Comes from ability to feel and dislike pain of others, underlies virtues of kindness, gentleness and nurturance
-- Fairness: Comes from reciprocal altruism, underlies virtues of justice and rights. 
-- Loyalty: Active when people feel attached to coalitions, underlies patriotism and self-sacrifice for the group
-- Authority: Deference to prestigious authority figures and respect for traditions
-- Purity: Underlies idea that the body is a temple that can be desecrated by immoral activities and contaminants, underlies self-discipline, self-improvement, naturalness and spirituality
+- There are two major aspects to human morality/sociality: reciprocity and familiarity
 
-Fairness was later split into equality and proportionality, which suggests six foundations. Other possible foundations may be liberty, honor and ownership<ref>https://moralfoundations.org/</ref>.
+
+
+### Moral Development
 
 Kohlberg’s theory of moral development consists of six stages arranged sequentially in successive tiers of complexity. The first two are in level 1, the preconventional level; the next two are in level 2, the conventional level; and the last two are in level 3, the postconventional level<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
 
@@ -142,13 +138,11 @@ Kohlberg’s scheme should not be interpreted in terms of increasing degrees of 
 
 Persons whose moral appraisals are grounded on considerations which regularly transcend the dictates of law and custom may be unconventional, liberal, and progressive; however, they may also be capricious, undependable, and anticonforming. On the other hand, persons whose moral judgments are guided by rational and legal considerations are often thoughtful, considerate, and honest; yet, they may also be conventional and overconforming. They have a strong need for structure and order and tend to gravitate to positions where support of rules of conduct is viewed as positive behavior. Low scorers, on the other hand, often seem to delight in changing the "system." Thus, both high and low scorers on the test possess unique virtues and drawbacks, and an effective society undoubtedly requires both kinds of persons; that is, high scorers to provide stability and order, low scorers to provide the stimulus for evolution and change<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0030095</ref>.
 
+### Implications for our own Moral Theorizing
 
+- Discuss evolutionary mismatch in modern contexts which explains why ethical debates are so annoying so often
 
-
-
-
-
-
+<span style="background-color:orange">Some elements of morality clearly evolved, but the specifics are unclear, which underlines the implications that ecopsych people take when using this to discuss moral philosophy. A small body of evidence suggests that normative cognition, the ability to grasp and apply norms, evolved. This provides weak evidence that moral cognition evolved. Some argue that if morality evolved then it is undermined in its legitimacy, but if normative cognition evolved in general then under that same logic other norms such as epistemic norms would then be equally undermined<ref>https://web.ics.purdue.edu/~drkelly/MacheryMallonEvolutionMorality2010.pdf</ref>.</span>
 
 
 ### Social Isolation in the Modern Era
