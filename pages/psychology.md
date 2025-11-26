@@ -127,17 +127,21 @@ The fact is that not everyone should have a stage 6 level of moral development, 
 
 ### Social Isolation in the Modern Era
 
+### The Rationality of Groups
+
+- Discuss mobbing and more recently cancel culture as a manifestation of group psychology
+
 ## Psychology of Belief
+
+- Belief allows people to form accurate judgments about this world, but it can also exist for social cohesion and to give people a sense of purpose
+- People need a sense of purpose as it is crucial for group cohesion
+- This is why a lot of people get involved in particular causes, such as political ideologies or religions. They take things which are in many cases obviously irrational or dysfunctional and still have an instinct to run with it because it's an instinct that is advantageous in a group context for status signalling/boosting status
 
 ### Understanding Religious Belief
 
 ### Understanding Political Belief
 
 - Basically the same as religious belief in a sense
-
-### The Rationality of Groups
-
-- Discuss mobbing and more recently cancel culture as a manifestation of group psychology
 
 
 
