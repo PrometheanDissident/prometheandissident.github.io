@@ -59,12 +59,95 @@ The only cases where I think it is oftentimes important for an individual to hav
 
 ## On Morality and Human Sociality
 
+Another one of the most fundamental aspects of humanity is that we have ethics and exist as social creatures. While we are not purely collectivistic in the way that eusocial insects are, we still have much higher levels of community bonding than most species do. One of the most important things that we need to begin understanding is how morality and human social structures evolved over time, as it can help us better construct our societies today.
+
+Morality or ethics can be understood as the codification of rules meant for individuals to exist within communities effectively. All ethical systems can only exist in the context of other humans who can be interacted with in particular ways, or in the context of other agents if you take a more moral circle expansionistic approach to ethics. Because ethics cannot exist outside of the context of human communities, it must be understood as something which evolved alongside human communities, and so the question emerges as to what led ethical systems, rudimentary or complex, to emerge.
+
+But before that, the first question which must be answered is how human communities evolved. While many primates have communities, humans have uniquely large communities relative to other mammals. Part of this is due to cognitive barriers. Individuals can only cognitively have a certain number of connections with other individuals. It is impossible to have a connection with everyone in the world, simply because it becomes cognitively and also temporally impossible to understand and remember details about everyone as well as continously engage in reciprocal interaction however defined to maintain such connections. A rough estimate of the maximum number of friends the average person can have was arrived at by the anthropologist Robin Dunbar, who came up with the number 150, oftentimes referred to as "Dunbar's number". Dunbar’s number of 150 is based on the relative size of human’s neocortexes relative to other primates and extrapolating the social group size of those primates to humans indexed by neocortex size. This number has been replicated independently by analyzing the number of Christmas cards that individuals send out to others. Maximum network size as measured by the exchange of Christmas cards was 153.5 individuals, with a mean network size of 124.9 for those individuals explicitly contacted. This estimate is shockingly close to Dunbar's "back-of-the-envelope calculation", and strongly implies that there may be cognitive constraints on network size<ref>https://pubmed.ncbi.nlm.nih.gov/26189988/</ref>. Validating the notion that Dunbar's number is a function of cognitiver constraints, research suggests that the number of friends a person has reliably predicts grey matter density in areas of the brain implicated in social perception and associative memory, suggesting that brain structure heavily contributes to the way in which social cognition operates in humans<ref>https://royalsocietypublishing.org/doi/10.1098/rspb.2011.1959</ref>.
+
+
+Analysis of a dataset of twitter conversations involving 1.7 million individuals suggests that users can entertain a maximum of about 100-200 stable relationships<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022656</ref>.
+
+
+
+
 - Another fundamental aspect of humanity is ethics
 - Understanding how ethics was arrived at in humanity is crucial
 - Ethics only exists in the context of other humans or other agents/species if you take the cringe expanding moral circle view. It can't exist in a world without agents.
 - There are two major aspects to human morality/sociality: reciprocity and familiarity
 - Discuss research/theories on how/why morality exists
 - Discuss evolutionary mismatch in modern contexts which explains why ethical debates are so annoying so often
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There exists layers of friend circles, where the emotionally closest circles are the smallest, and the least emotionally close circles are the largest<ref>https://www.researchgate.net/publication/301879177_Calling_Dunbar's_Numbers</ref><ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/</ref>.
+
+The size of online egocentric social networks, indexed as the number of Facebook friends, is similar to that of offline face-to-face networks, suggesting a cognitive constraint on the size of social networks that even communications advantages of online media are unable to overcome<ref>https://pubmed.ncbi.nlm.nih.gov/26909163/</ref>.
+
+Morality’s defining traits, according to Frans de Waal, which include empathy, reciprocity, reconciliation and consolation, can be seen in many animals, most particularly in primates. Empathy is an automatic response seen in human infants, dogs and apes. This most likely originates with parents' care but extends beyond parent-child relationships. Both chimps and capuchins will work with other members of their groups to reach a common goal even if there is no immediate reward. In order to preserve important relationships, chimps will engage in friendly reunions after a conflict, similar to the way a married couple or good friends might reconcile after a conflict. Consolation, defined as friendly contact and reassurance by an uninvolved third party after a conflict, is a behavior seen only in great apes and humans<ref>https://www.emory.edu/EMORY_REPORT/erarchive/2007/April/April%2016/DeWaal.htm</ref>.
+
+Although the particulars have substantial cultural variation, a sense of fairness appears to be a human universal that has been shown to prevail in a wide variety of circumstances. Many highly cooperative nonhuman species also appear to have an aversion to inequity. The brown capuchin monkey responds negatively to unequal reward distribution in exchanges with a human experimenter. Monkeys refused to participate if they witnessed a conspecific obtain a more attractive reward for equal effort, an effect amplified if the partner received such a reward without any effort at all. This supports the notion of an early evolutionary origin of inequity aversion<ref>https://www.emory.edu/LIVING_LINKS/publications/articles/Brosnan_deWaal_2003.pdf</ref>.
+
+In the ultimatum game, a proposer decides how much of $10 to give a responder, and the responder decides whether to accept or reject the offer. If the responder accepts, the players split the money in the way the proposer suggested. If the responder rejects, neither player gets any money. This happens only once and the players know this<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
+
+Game theory predicts that since both parties know the rejection of the offer results in neither receiving any money, the proposer will offer the smallest possible amount and the responder will always accept. However, in practice proposers generally offer more than the minimum and responders frequently reject low offers, choosing to receive nothing. The rejection of the selfishness axiom exists cross-culturally, as a study of 15 small indigenous societies on 4 continents found significant cultural group differences in behavior but none held to the selfishness axiom. Some economists try to model this by including “other-regarding” preferences, where players have an innate conception of fairness<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
+
+In market economies, people’s concern for reputation modifies the predicted materially self-interested behavior that often fails to appear in ultimatum games. There is a correlation between more equal splits and markets which holds in both developed countries as well as indigenous subsistence economies. Thus, there is a positive relationship between market integration and offer size in the ultimatum game, which is the opposite of what many would expect who instead believe that markets make people selfish<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
+
+Research across 21 nations shows that the propensity for ecological threat correlates with the short (S) allele frequency in the 5-HTTLPR, allelic frequency in the 5-HTTLPR and vulnerability to ecological threat both correlate with cultural tightness-looseness, susceptibility to ecological threat predicts tightness–looseness via the mediation of S allele carriers, and frequency of S allele carriers predicts justifiability of morally relevant behavior via tightness–looseness. Hence, there is an interplay between environmental, genetic, and cultural factors underlying contemporary differences in social behavior<ref>https://link.springer.com/article/10.1007/s40167-013-0009-x</ref>.
+
+Human societies exist as they do today because of group members enforcing moral behaviors and social rules on each other. Social punishment ultimately shaped the group’s survival, which led to advantageous evolutionary strategies that foster conscience and altruism. Acts such as cheating, stealing or killing were dealt with systematically early in the dawn of Homo Sapiens through the use of shame, ostracism or other punitive actions, which has led to an adaptive genetic inheritance of “social self controls”. The biological advantage of imposing rules of behavior in the first place is that groups survive better than single individuals. This social selection is certainly not as strong as sexual selection or natural selection is, as countless people today violate social norms nonetheless. One possible reason is that it has not been around long enough<ref>https://dwz.psych.ucla.edu/wp-content/uploads/sites/114/2016/11/MoralBookReview.pdf</ref>.
+
+Some elements of morality clearly evolved, but the specifics are unclear, which underlines the implications that ecopsych people take when using this to discuss moral philosophy. A small body of evidence suggests that normative cognition, the ability to grasp and apply norms, evolved. This provides weak evidence that moral cognition evolved. Some argue that if morality evolved then it is undermined in its legitimacy, but if normative cognition evolved in general then under that same logic other norms such as epistemic norms would then be equally undermined<ref>https://web.ics.purdue.edu/~drkelly/MacheryMallonEvolutionMorality2010.pdf</ref>.
+
+The Moral Foundations Theory attempts to explain why despite vast differences across cultures, morality often has shared themes and similarities across populations by suggesting there are several innate psychological systems at the core of our “intuitive ethics”. The original framework identified five foundations that were strongly supported by evidence across various cultures<ref>https://moralfoundations.org/</ref>:
+- Care: Comes from ability to feel and dislike pain of others, underlies virtues of kindness, gentleness and nurturance
+- Fairness: Comes from reciprocal altruism, underlies virtues of justice and rights. 
+- Loyalty: Active when people feel attached to coalitions, underlies patriotism and self-sacrifice for the group
+- Authority: Deference to prestigious authority figures and respect for traditions
+- Purity: Underlies idea that the body is a temple that can be desecrated by immoral activities and contaminants, underlies self-discipline, self-improvement, naturalness and spirituality
+
+Fairness was later split into equality and proportionality, which suggests six foundations. Other possible foundations may be liberty, honor and ownership<ref>https://moralfoundations.org/</ref>.
+
+Kohlberg’s theory of moral development consists of six stages arranged sequentially in successive tiers of complexity. The first two are in level 1, the preconventional level; the next two are in level 2, the conventional level; and the last two are in level 3, the postconventional level<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+
+At the preconventional level, morality is externally controlled<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+- Stage 1: Punishment/obedience orientation - Behaviour is determined by consequences. The individual will obey in order to avoid punishment.
+- Stage 2: Instrumental purpose orientation - Behaviour is determined again by consequences. The individual focuses on receiving rewards or satisfying personal needs.
+
+At the conventional level, conformity to social rules remains important, but the emphasis shifts from self-interest to relationships with other people and social systems<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+- Stage 3: Good Boy/Nice Girl orientation - Behaviour is determined by social approval. The individual wants to maintain or win the affection and approval of others by being a “good person.”
+- Stage 4: Law and order orientation - Social rules and laws determine behaviour. The individual now takes into consideration a larger perspective, that of societal laws. Moral decision making becomes more than consideration of close ties to others. The individual believes that rules and laws maintain social order that is worth preserving.
+
+At the postconventional or principled level, the individual moves beyond the perspective of their own society, and defines morality in terms of abstract principles and values that apply to all situations and societies. The individual attempts to take the perspective of all individuals<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+- Stage 5: Social contract orientation - Individual rights determine behaviour. The individual views laws and rules as flexible tools for improving human purposes. That is, given the right situation, there are exceptions to rules. When laws are not consistent with individual rights and the interests of the majority, they do not bring about good for people and alternatives should be considered.
+- Stage 6: Universal ethical principle orientation - According to Kohlberg, this is the highest stage of functioning. However, he claimed that some individuals will never reach this level. At this stage, the appropriate action is determined by one’s self-chosen ethical principles of conscience. These principles are abstract and universal in application. This type of reasoning involves taking the perspective of every person or group that could potentially be affected by the decision.
+
+Data shows that older individuals tend to use higher stages of moral reasoning when compared with younger individuals, and there is “upward” progression in accordance with the theoretical order of stages. Studies have revealed that comprehension of the stages is cumulative (i.e. someone at stage 4 understands the lower stages but not necessarily the higher stages)<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
+
+Kohlberg’s scheme should not be interpreted in terms of increasing degrees of moral maturity, but rather in terms of personality style and political preferences<ref>https://www.psychologytoday.com/us/blog/cui-bono/202506/do-liberals-protest-more-than-conservatives</ref>.
+
+Persons whose moral appraisals are grounded on considerations which regularly transcend the dictates of law and custom may be unconventional, liberal, and progressive; however, they may also be capricious, undependable, and anticonforming. On the other hand, persons whose moral judgments are guided by rational and legal considerations are often thoughtful, considerate, and honest; yet, they may also be conventional and overconforming. They have a strong need for structure and order and tend to gravitate to positions where support of rules of conduct is viewed as positive behavior. Low scorers, on the other hand, often seem to delight in changing the "system." Thus, both high and low scorers on the test possess unique virtues and drawbacks, and an effective society undoubtedly requires both kinds of persons; that is, high scorers to provide stability and order, low scorers to provide the stimulus for evolution and change<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0030095</ref>.
+
+
+
+
+
+
+
+
+
 
 ### Social Isolation in the Modern Era
 
@@ -401,18 +484,6 @@ Over the past half century, a competing mode of discourse, postmodern discourse,
 
 Differences between these competing modes often play out in today’s culture wars. Sensitivity-driven discourses tend to lack tolerance for difference and disagreement, and will thus manifest a herding effect. Dissenting voices can be excluded and opponents attacked, which means that proponents of the postmodern mode of discourse have a tendency to engage in workplace mobbing. In roughly half of academic mobbing cases is this distinction between modern and postmodern discourse relevant for analysis<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>.
 
-## Dunbar's Number
-
-Analysis of a dataset of twitter conversations involving 1.7 million individuals suggests that users can entertain a maximum of about 100-200 stable relationships<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022656</ref>.
-
-Maximum network size as measured by the exchange of Christmas cards was 153.5 individuals, with a mean network size of 124.9 for those individuals explicitly contacted. Dunbar’s number of 150 is based on the relative size of human’s neocortexes relative to other primates and extrapolating the social group size of those primates to humans indexed by neocortex size. This implies there may be cognitive constraints on network size<ref>https://pubmed.ncbi.nlm.nih.gov/26189988/</ref>.
-
-The number of friends a person has reliably predicts grey matter density in areas of the brain implicated in social perception and associative memory, suggesting that brain structure heavily contributes to the way in which social cognition operates in humans<ref>https://royalsocietypublishing.org/doi/10.1098/rspb.2011.1959</ref>.
-
-There exists layers of friend circles, where the emotionally closest circles are the smallest, and the least emotionally close circles are the largest<ref>https://www.researchgate.net/publication/301879177_Calling_Dunbar's_Numbers</ref><ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/</ref>.
-
-The size of online egocentric social networks, indexed as the number of Facebook friends, is similar to that of offline face-to-face networks, suggesting a cognitive constraint on the size of social networks that even communications advantages of online media are unable to overcome<ref>https://pubmed.ncbi.nlm.nih.gov/26909163/</ref>.
-
 ## Post-Truth
 
 Fake news spreads significantly more rapidly on Twitter than real news does. This is not due to bots that are programmed to disseminate inaccurate stories, but because of people retweeting false news items. Fake news stories are 70 percent more likely to be retweeted than true stories are. It also takes true stories about six times as long to reach 1500 people as it does for false stories to reach the same number of people<ref>https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</ref>.
@@ -475,53 +546,6 @@ National pride is correlated with greater personal well-being, but civic nationa
 Nationalism can improve social cohesion but can also increase protectionism and intolerance. There is an inverted U-shaped relationship between nationalism and government effectiveness, with most countries having a higher than optimal level of nationalism. Nationalism may also mitigate the effects of ethnic heterogeneity in former colonies through creating a new identity where there wasn’t one prior<ref>https://ideas.repec.org/a/eee/jcecon/v39y2011i3p431-451.html</ref>.
 
 Group-based relative deprivation in New Zealand was found to be negatively associated with well-being. However, it was associated with higher nationalism which was itself associated with higher well-being. This suggests that endorsing beliefs about national identity or superiority can help a dominant ethnic group cope with perceiving that their group is deprived<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12563</ref>.
-
-## Evolution of Morality
-
-Morality’s defining traits, according to Frans de Waal, which include empathy, reciprocity, reconciliation and consolation, can be seen in many animals, most particularly in primates. Empathy is an automatic response seen in human infants, dogs and apes. This most likely originates with parents' care but extends beyond parent-child relationships. Both chimps and capuchins will work with other members of their groups to reach a common goal even if there is no immediate reward. In order to preserve important relationships, chimps will engage in friendly reunions after a conflict, similar to the way a married couple or good friends might reconcile after a conflict. Consolation, defined as friendly contact and reassurance by an uninvolved third party after a conflict, is a behavior seen only in great apes and humans<ref>https://www.emory.edu/EMORY_REPORT/erarchive/2007/April/April%2016/DeWaal.htm</ref>.
-
-Although the particulars have substantial cultural variation, a sense of fairness appears to be a human universal that has been shown to prevail in a wide variety of circumstances. Many highly cooperative nonhuman species also appear to have an aversion to inequity. The brown capuchin monkey responds negatively to unequal reward distribution in exchanges with a human experimenter. Monkeys refused to participate if they witnessed a conspecific obtain a more attractive reward for equal effort, an effect amplified if the partner received such a reward without any effort at all. This supports the notion of an early evolutionary origin of inequity aversion<ref>https://www.emory.edu/LIVING_LINKS/publications/articles/Brosnan_deWaal_2003.pdf</ref>.
-
-In the ultimatum game, a proposer decides how much of $10 to give a responder, and the responder decides whether to accept or reject the offer. If the responder accepts, the players split the money in the way the proposer suggested. If the responder rejects, neither player gets any money. This happens only once and the players know this<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
-
-Game theory predicts that since both parties know the rejection of the offer results in neither receiving any money, the proposer will offer the smallest possible amount and the responder will always accept. However, in practice proposers generally offer more than the minimum and responders frequently reject low offers, choosing to receive nothing. The rejection of the selfishness axiom exists cross-culturally, as a study of 15 small indigenous societies on 4 continents found significant cultural group differences in behavior but none held to the selfishness axiom. Some economists try to model this by including “other-regarding” preferences, where players have an innate conception of fairness<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
-
-In market economies, people’s concern for reputation modifies the predicted materially self-interested behavior that often fails to appear in ultimatum games. There is a correlation between more equal splits and markets which holds in both developed countries as well as indigenous subsistence economies. Thus, there is a positive relationship between market integration and offer size in the ultimatum game, which is the opposite of what many would expect who instead believe that markets make people selfish<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
-
-Research across 21 nations shows that the propensity for ecological threat correlates with the short (S) allele frequency in the 5-HTTLPR, allelic frequency in the 5-HTTLPR and vulnerability to ecological threat both correlate with cultural tightness-looseness, susceptibility to ecological threat predicts tightness–looseness via the mediation of S allele carriers, and frequency of S allele carriers predicts justifiability of morally relevant behavior via tightness–looseness. Hence, there is an interplay between environmental, genetic, and cultural factors underlying contemporary differences in social behavior<ref>https://link.springer.com/article/10.1007/s40167-013-0009-x</ref>.
-
-Human societies exist as they do today because of group members enforcing moral behaviors and social rules on each other. Social punishment ultimately shaped the group’s survival, which led to advantageous evolutionary strategies that foster conscience and altruism. Acts such as cheating, stealing or killing were dealt with systematically early in the dawn of Homo Sapiens through the use of shame, ostracism or other punitive actions, which has led to an adaptive genetic inheritance of “social self controls”. The biological advantage of imposing rules of behavior in the first place is that groups survive better than single individuals. This social selection is certainly not as strong as sexual selection or natural selection is, as countless people today violate social norms nonetheless. One possible reason is that it has not been around long enough<ref>https://dwz.psych.ucla.edu/wp-content/uploads/sites/114/2016/11/MoralBookReview.pdf</ref>.
-
-Some elements of morality clearly evolved, but the specifics are unclear, which underlines the implications that ecopsych people take when using this to discuss moral philosophy. A small body of evidence suggests that normative cognition, the ability to grasp and apply norms, evolved. This provides weak evidence that moral cognition evolved. Some argue that if morality evolved then it is undermined in its legitimacy, but if normative cognition evolved in general then under that same logic other norms such as epistemic norms would then be equally undermined<ref>https://web.ics.purdue.edu/~drkelly/MacheryMallonEvolutionMorality2010.pdf</ref>.
-
-The Moral Foundations Theory attempts to explain why despite vast differences across cultures, morality often has shared themes and similarities across populations by suggesting there are several innate psychological systems at the core of our “intuitive ethics”. The original framework identified five foundations that were strongly supported by evidence across various cultures<ref>https://moralfoundations.org/</ref>:
-- Care: Comes from ability to feel and dislike pain of others, underlies virtues of kindness, gentleness and nurturance
-- Fairness: Comes from reciprocal altruism, underlies virtues of justice and rights. 
-- Loyalty: Active when people feel attached to coalitions, underlies patriotism and self-sacrifice for the group
-- Authority: Deference to prestigious authority figures and respect for traditions
-- Purity: Underlies idea that the body is a temple that can be desecrated by immoral activities and contaminants, underlies self-discipline, self-improvement, naturalness and spirituality
-
-Fairness was later split into equality and proportionality, which suggests six foundations. Other possible foundations may be liberty, honor and ownership<ref>https://moralfoundations.org/</ref>.
-
-Kohlberg’s theory of moral development consists of six stages arranged sequentially in successive tiers of complexity. The first two are in level 1, the preconventional level; the next two are in level 2, the conventional level; and the last two are in level 3, the postconventional level<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
-
-At the preconventional level, morality is externally controlled<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
-- Stage 1: Punishment/obedience orientation - Behaviour is determined by consequences. The individual will obey in order to avoid punishment.
-- Stage 2: Instrumental purpose orientation - Behaviour is determined again by consequences. The individual focuses on receiving rewards or satisfying personal needs.
-
-At the conventional level, conformity to social rules remains important, but the emphasis shifts from self-interest to relationships with other people and social systems<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
-- Stage 3: Good Boy/Nice Girl orientation - Behaviour is determined by social approval. The individual wants to maintain or win the affection and approval of others by being a “good person.”
-- Stage 4: Law and order orientation - Social rules and laws determine behaviour. The individual now takes into consideration a larger perspective, that of societal laws. Moral decision making becomes more than consideration of close ties to others. The individual believes that rules and laws maintain social order that is worth preserving.
-
-At the postconventional or principled level, the individual moves beyond the perspective of their own society, and defines morality in terms of abstract principles and values that apply to all situations and societies. The individual attempts to take the perspective of all individuals<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
-- Stage 5: Social contract orientation - Individual rights determine behaviour. The individual views laws and rules as flexible tools for improving human purposes. That is, given the right situation, there are exceptions to rules. When laws are not consistent with individual rights and the interests of the majority, they do not bring about good for people and alternatives should be considered.
-- Stage 6: Universal ethical principle orientation - According to Kohlberg, this is the highest stage of functioning. However, he claimed that some individuals will never reach this level. At this stage, the appropriate action is determined by one’s self-chosen ethical principles of conscience. These principles are abstract and universal in application. This type of reasoning involves taking the perspective of every person or group that could potentially be affected by the decision.
-
-Data shows that older individuals tend to use higher stages of moral reasoning when compared with younger individuals, and there is “upward” progression in accordance with the theoretical order of stages. Studies have revealed that comprehension of the stages is cumulative (i.e. someone at stage 4 understands the lower stages but not necessarily the higher stages)<ref>https://www.britannica.com/science/Lawrence-Kohlbergs-stages-of-moral-development</ref>.
-
-Kohlberg’s scheme should not be interpreted in terms of increasing degrees of moral maturity, but rather in terms of personality style and political preferences<ref>https://www.psychologytoday.com/us/blog/cui-bono/202506/do-liberals-protest-more-than-conservatives</ref>.
-
-Persons whose moral appraisals are grounded on considerations which regularly transcend the dictates of law and custom may be unconventional, liberal, and progressive; however, they may also be capricious, undependable, and anticonforming. On the other hand, persons whose moral judgments are guided by rational and legal considerations are often thoughtful, considerate, and honest; yet, they may also be conventional and overconforming. They have a strong need for structure and order and tend to gravitate to positions where support of rules of conduct is viewed as positive behavior. Low scorers, on the other hand, often seem to delight in changing the "system." Thus, both high and low scorers on the test possess unique virtues and drawbacks, and an effective society undoubtedly requires both kinds of persons; that is, high scorers to provide stability and order, low scorers to provide the stimulus for evolution and change<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0030095</ref>.
 
 ## Autism and Belief
 
@@ -588,8 +612,6 @@ There is a small positive association between social media use, depression, and 
 However, one study which attempts to quantify the percentage of variance in adolescent well-being explained by technology use suggests technology use explains at least 0.4% of it<ref>https://www.ox.ac.uk/news/2019-01-14-technology-use-explains-most-04-adolescent-wellbeing-new-study-finds</ref>.
 
 Social media is associated with increased political participation and information consumption, which is likely to be beneficial for democracy. However, other associations such as declining political trust, increased populism and increased polarization are more likely to harm democracy. The beneficial effects tend to be observed in autocracies and emerging democracies while the detriments are more pronounced in established democracies<ref>https://www.nature.com/articles/s41562-022-01460-1?error=cookies_not_supported&code=b81c66cf-9230-4f01-a69a-25df089ca34b</ref>.
-
-## Intelligence cont 1
 
 ## Norms
 
