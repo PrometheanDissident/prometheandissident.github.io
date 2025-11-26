@@ -65,15 +65,33 @@ Morality or ethics can be understood as the codification of rules meant for indi
 
 But before that, the first question which must be answered is how human communities evolved. While many primates have communities, humans have uniquely large communities relative to other mammals. Part of this is due to cognitive barriers. Individuals can only cognitively have a certain number of connections with other individuals. It is impossible to have a connection with everyone in the world, simply because it becomes cognitively and also temporally impossible to understand and remember details about everyone as well as continously engage in reciprocal interaction however defined to maintain such connections. A rough estimate of the maximum number of friends the average person can have was arrived at by the anthropologist Robin Dunbar, who came up with the number 150, oftentimes referred to as "Dunbar's number". Dunbar’s number of 150 is based on the relative size of human’s neocortexes relative to other primates and extrapolating the social group size of those primates to humans indexed by neocortex size. This number has been replicated independently by analyzing the number of Christmas cards that individuals send out to others. Maximum network size as measured by the exchange of Christmas cards was 153.5 individuals, with a mean network size of 124.9 for those individuals explicitly contacted. This estimate is shockingly close to Dunbar's "back-of-the-envelope calculation", and strongly implies that there may be cognitive constraints on network size<ref>https://pubmed.ncbi.nlm.nih.gov/26189988/</ref>. Validating the notion that Dunbar's number is a function of cognitiver constraints, research suggests that the number of friends a person has reliably predicts grey matter density in areas of the brain implicated in social perception and associative memory, suggesting that brain structure heavily contributes to the way in which social cognition operates in humans<ref>https://royalsocietypublishing.org/doi/10.1098/rspb.2011.1959</ref>.
 
+The cognitive limitation that Dunbar's number implies exists even extends to online relationships, despite the fact that interaction with a person online is generally speaking much more accessible and so can happen with much greater efficiency. The size of online egocentric social networks, indexed as the number of Facebook friends, is similar to that of offline face-to-face networks, suggesting a cognitive constraint on the size of social networks that even communications advantages of online media are unable to overcome<ref>https://pubmed.ncbi.nlm.nih.gov/26909163/</ref>. In fact, an analysis of a dataset of twitter conversations involving 1.7 million individuals suggests that users can entertain a maximum of about 100-200 stable relationships<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022656</ref>, which while a large range, strongly puts Dunbar's number of 150 in the ballpark. In short, while none of this evidence points to where the causality arises, it strongly suggests that high human cognitive ability allowed larger and more sophisticated social networks to emerge in the species as it evolved.
 
-Analysis of a dataset of twitter conversations involving 1.7 million individuals suggests that users can entertain a maximum of about 100-200 stable relationships<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022656</ref>.
+Social groups emerged precisely because they were necessary for human survival. Human societies exist as they do today because of group members enforcing moral behaviors and social rules on each other. Social punishment ultimately shaped the group’s survival, which led to advantageous evolutionary strategies that foster conscience and altruism. Acts such as cheating, stealing or killing were dealt with systematically early in the dawn of Homo Sapiens through the use of shame, ostracism or other punitive actions, which has led to an adaptive genetic inheritance of “social self controls”. The biological advantage of imposing rules of behavior in the first place is that groups survive better than single individuals. This social selection is certainly not as strong as sexual selection or natural selection is, as countless people today violate social norms nonetheless. One possible reason is that it has not been around long enough<ref>https://dwz.psych.ucla.edu/wp-content/uploads/sites/114/2016/11/MoralBookReview.pdf</ref>.
+
+### The Emergence of Morality in Social Groups
 
 
 
 
-- Another fundamental aspect of humanity is ethics
-- Understanding how ethics was arrived at in humanity is crucial
-- Ethics only exists in the context of other humans or other agents/species if you take the cringe expanding moral circle view. It can't exist in a world without agents.
+
+
+
+According to the primatologist Frans de Waal, morality's defining traits which include empathy, reciprocity, reconciliation and consolation, can be seen in many animals, most particularly in primates. Empathy is an automatic response seen in human infants, dogs and apes. This most likely originates with parents' care but extends beyond parent-child relationships. Both chimps and capuchins will work with other members of their groups to reach a common goal even if there is no immediate reward. In order to preserve important relationships, chimps will engage in friendly reunions after a conflict, similar to the way a married couple or good friends might reconcile after a conflict. Consolation, defined as friendly contact and reassurance by an uninvolved third party after a conflict, is a behavior seen only in great apes and humans<ref>https://www.emory.edu/EMORY_REPORT/erarchive/2007/April/April%2016/DeWaal.htm</ref>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - There are two major aspects to human morality/sociality: reciprocity and familiarity
 - Discuss research/theories on how/why morality exists
 - Discuss evolutionary mismatch in modern contexts which explains why ethical debates are so annoying so often
@@ -81,21 +99,7 @@ Analysis of a dataset of twitter conversations involving 1.7 million individuals
 
 
 
-
-
-
-
-
-
-
-
-
-
 There exists layers of friend circles, where the emotionally closest circles are the smallest, and the least emotionally close circles are the largest<ref>https://www.researchgate.net/publication/301879177_Calling_Dunbar's_Numbers</ref><ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/</ref>.
-
-The size of online egocentric social networks, indexed as the number of Facebook friends, is similar to that of offline face-to-face networks, suggesting a cognitive constraint on the size of social networks that even communications advantages of online media are unable to overcome<ref>https://pubmed.ncbi.nlm.nih.gov/26909163/</ref>.
-
-Morality’s defining traits, according to Frans de Waal, which include empathy, reciprocity, reconciliation and consolation, can be seen in many animals, most particularly in primates. Empathy is an automatic response seen in human infants, dogs and apes. This most likely originates with parents' care but extends beyond parent-child relationships. Both chimps and capuchins will work with other members of their groups to reach a common goal even if there is no immediate reward. In order to preserve important relationships, chimps will engage in friendly reunions after a conflict, similar to the way a married couple or good friends might reconcile after a conflict. Consolation, defined as friendly contact and reassurance by an uninvolved third party after a conflict, is a behavior seen only in great apes and humans<ref>https://www.emory.edu/EMORY_REPORT/erarchive/2007/April/April%2016/DeWaal.htm</ref>.
 
 Although the particulars have substantial cultural variation, a sense of fairness appears to be a human universal that has been shown to prevail in a wide variety of circumstances. Many highly cooperative nonhuman species also appear to have an aversion to inequity. The brown capuchin monkey responds negatively to unequal reward distribution in exchanges with a human experimenter. Monkeys refused to participate if they witnessed a conspecific obtain a more attractive reward for equal effort, an effect amplified if the partner received such a reward without any effort at all. This supports the notion of an early evolutionary origin of inequity aversion<ref>https://www.emory.edu/LIVING_LINKS/publications/articles/Brosnan_deWaal_2003.pdf</ref>.
 
@@ -106,8 +110,6 @@ Game theory predicts that since both parties know the rejection of the offer res
 In market economies, people’s concern for reputation modifies the predicted materially self-interested behavior that often fails to appear in ultimatum games. There is a correlation between more equal splits and markets which holds in both developed countries as well as indigenous subsistence economies. Thus, there is a positive relationship between market integration and offer size in the ultimatum game, which is the opposite of what many would expect who instead believe that markets make people selfish<ref>https://fte.org/teachers/teacher-resources/lesson-plans/is-capitalism-good-for-the-poor-2/the-ultimatum-game-appendix-1/</ref>.
 
 Research across 21 nations shows that the propensity for ecological threat correlates with the short (S) allele frequency in the 5-HTTLPR, allelic frequency in the 5-HTTLPR and vulnerability to ecological threat both correlate with cultural tightness-looseness, susceptibility to ecological threat predicts tightness–looseness via the mediation of S allele carriers, and frequency of S allele carriers predicts justifiability of morally relevant behavior via tightness–looseness. Hence, there is an interplay between environmental, genetic, and cultural factors underlying contemporary differences in social behavior<ref>https://link.springer.com/article/10.1007/s40167-013-0009-x</ref>.
-
-Human societies exist as they do today because of group members enforcing moral behaviors and social rules on each other. Social punishment ultimately shaped the group’s survival, which led to advantageous evolutionary strategies that foster conscience and altruism. Acts such as cheating, stealing or killing were dealt with systematically early in the dawn of Homo Sapiens through the use of shame, ostracism or other punitive actions, which has led to an adaptive genetic inheritance of “social self controls”. The biological advantage of imposing rules of behavior in the first place is that groups survive better than single individuals. This social selection is certainly not as strong as sexual selection or natural selection is, as countless people today violate social norms nonetheless. One possible reason is that it has not been around long enough<ref>https://dwz.psych.ucla.edu/wp-content/uploads/sites/114/2016/11/MoralBookReview.pdf</ref>.
 
 Some elements of morality clearly evolved, but the specifics are unclear, which underlines the implications that ecopsych people take when using this to discuss moral philosophy. A small body of evidence suggests that normative cognition, the ability to grasp and apply norms, evolved. This provides weak evidence that moral cognition evolved. Some argue that if morality evolved then it is undermined in its legitimacy, but if normative cognition evolved in general then under that same logic other norms such as epistemic norms would then be equally undermined<ref>https://web.ics.purdue.edu/~drkelly/MacheryMallonEvolutionMorality2010.pdf</ref>.
 
