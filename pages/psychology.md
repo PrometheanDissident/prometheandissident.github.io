@@ -134,16 +134,37 @@ The fact is that not everyone should have a stage 6 level of moral development, 
 ## Psychology of Belief
 
 - Belief allows people to form accurate judgments about this world, but it can also exist for social cohesion and to give people a sense of purpose
+- In terms of accuracy, they essentially form to create models of the world which allow one to engage in the world in a way which guarantees their survival
+- (Maybe cite/discuss king crocoduck video "nuking social constructivism")
+- In this sense evolution outside of social contexts selected for beliefs which were as scientific as possible
+- Individual-level judgments are actually quite accurate (Galton's experiment on animals)
+- The fact that abnormal psychology focuses on individual forms of irrational or dysfunctional behavior or contagions can be interpreted as an implicit acknowledgment of the fact that groups having these types of dynamics is in fact perfectly normal. Individuals are not irrational under this interpretation. Groups are.
 - People need a sense of purpose as it is crucial for group cohesion
 - This is why a lot of people get involved in particular causes, such as political ideologies or religions. They take things which are in many cases obviously irrational or dysfunctional and still have an instinct to run with it because it's an instinct that is advantageous in a group context for status signalling/boosting status
 
+### Are Beliefs Genetic?
+
+- Reference first law of behavioral genetics
+- Discuss heritability estimates for political and religious belief
+- Discuss how many beliefs are derived from traits about oneself, such as interests, personality or intelligence which are heritable, and so this would imply that all of the things that those traits influence would then be partially heritable as well.
+
 ### Understanding Religious Belief
+
+- Look into evolutionary reasons why religion might've evolved
+- Discuss hyperactive agency detection device theory
 
 ### Understanding Political Belief
 
 - Basically the same as religious belief in a sense
+- Discuss decline of religion, also examine evidence in favor of notion that "leftism" is a religion in a way that "rightism" is not generally speaking
+- It's not clear to me that left-right distinction is actually useful to examine in an objective sense, but because it is perceived as useful phenomenologically, people who self select into these cateogories will probably have objective differences even if the left-right distinction was arbitrarily arrived at. Maybe left-right isn't the most fundamental distinction, or maybe we need two or three dimensions to examine political belief in the modern age.
+- Of course models are always going to be oversimplifications, the question is whether the model is sufficiently explaining the phenomenon in a way that's useful to us.
 
+### Mobbing and Other Group Dynamics
 
+- Mobbing, which has now morphed linguistically into the notion of cancel culture, is oftentimes the ultimate manifestation of group irrationality for the sake of cohesion and self-protection
+- Discuss dynamics of mobbing
+- Other possible types of group dynamics may include moral panics and personality cults, although the study of them is less systematic and it more often appears to be used as labels to dismiss something compared to how "mobbing" was used
 
 
 
