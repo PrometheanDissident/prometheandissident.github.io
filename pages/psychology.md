@@ -144,13 +144,32 @@ The fact is that not everyone should have a stage 6 level of moral development, 
 
 ### Social Isolation in the Modern Era
 
-### The Rationality of Groups
-
-- Discuss mobbing and more recently cancel culture as a manifestation of group psychology
-
 ## Psychology of Belief
 
-- Belief allows people to form accurate judgments about this world, but it can also exist for social cohesion and to give people a sense of purpose
+Beliefs generally speaking serve to different purposes, one individual and one collective. Beliefs have the individual purpose of allowing individuals to form accurate judgments about the world. But on the collective level, beliefs can also exist for the sake of social cohesion and to give people a sense of purpose. A lot of irrational beliefs that persist in the world come from collectivistic motivations for holding particular ideas, but they don't have to.
+
+A lot of pop psychology discourse focuses itself on "cognitive biases", ways in which people's thinking can be irrational, and many of these biases such as the "bandwagon effect" or the "bystander effect" are functions of existing in a social world, and would thus have more collectivistically-oriented motivations behind them, many do not, such as the "availability heuristic". Psychologists have coined so many different biases that it can be difficult to piece together if or how they might relate to one another. Is it really that various evolutionary errors or shortcuts in the brain have led to dozens of different cognitive biases emerging which are all distinct from one another in terms of their cognitive origins, or are there general errors or shortcuts which can explain groups of biases, or perhaps even all of the observed biases we see?
+
+Attempting to increase parsimony in the research on cognitive biases, psychologists Aileen Oeberst and Roland Imhoff propose that all biases stem from some underlying belief which is then reinfored through confirmation bias, the bias whereby individuals actively seek information which confirms their prior beliefs and actively avoid information which disconfirms their prior beliefs. They suggest that six "fundamental beliefs" can explain a wide number of the biases that are studied in psychology. They include the following<ref>https://journals.sagepub.com/doi/10.1177/17456916221148147</ref>:
+
+1. "My experience is a reasonable reference."
+2. "I make correct assessments of the world."
+3. "I am good."
+4. "My group is a reasonable reference."
+5. "My group (members) is (are) good."
+6. "People’s attributes (not context) shape outcomes."
+
+There are certainly underlying evolutionary reasons why some or all of these fundamental beliefs might be so ubiquitous among people. For example, beliefs 4 and 5 might be direct or indirect products of behavioral patterns seen among people as a product of kin selection (see [The Emergence of Morality in Social Groups](https://prometheandissident.github.io/psychology/#the-emergence-of-morality-in-social-groups)). Such a framework, while rudimentary and will hopefully be expanded upon in the future, allows us to understand biases in a much more systematic way, as opposed to the scattershot pop psych way they are so often framed in mainstream discussions.
+
+In general, beliefs aim to create models of the world which allow one to engage in the world in a way which maximizes their survival and reproductive chances. This generally means that beliefs are aiming to get an accurate understanding of the world, although not necessarily. In order for individuals to get an accurate understanding of the world, they must use epistemic tools and heuristics through which they can properly take in and interpret sense data. This can be done completely independently of a broader social structure, and by necessity will resemble the scientific method which has been developed and codified within particular social structures. Because scientific processes are arrived at by humans independently of being told of their existence, science can in some sense be argued to not actually be a social construct<ref>https://www.youtube.com/watch?v=lWZXuozoeFk</ref>.
+
+In many cases, because of these epistemic processes, human judgment can actually be surprisingly accurate, even from those of average or below-average intelligence. In the biologist Francis Galton's famous study in 1907 where he had 800 participants try to guess the weight of an ox, 
+
+
+
+https://www.kwesthues.com/takeaways240723.html
+
+
 - In terms of accuracy, they essentially form to create models of the world which allow one to engage in the world in a way which guarantees their survival
 - (Maybe cite/discuss king crocoduck video "nuking social constructivism")
 - In this sense evolution outside of social contexts selected for beliefs which were as scientific as possible
@@ -158,6 +177,13 @@ The fact is that not everyone should have a stage 6 level of moral development, 
 - The fact that abnormal psychology focuses on individual forms of irrational or dysfunctional behavior or contagions can be interpreted as an implicit acknowledgment of the fact that groups having these types of dynamics is in fact perfectly normal. Individuals are not irrational under this interpretation. Groups are.
 - People need a sense of purpose as it is crucial for group cohesion
 - This is why a lot of people get involved in particular causes, such as political ideologies or religions. They take things which are in many cases obviously irrational or dysfunctional and still have an instinct to run with it because it's an instinct that is advantageous in a group context for status signalling/boosting status
+
+
+Although there has been previous research suggesting that correcting misinformation may backfire, causing people to strengthen false misconceptions rather than reduce them, more recent research suggests that by and large citizens heed factual information, even when such information challenges their ideological commitments<ref>https://link.springer.com/article/10.1007/s11109-018-9443-y</ref><ref>https://skepticalscience.com/docs/DebunkingHandbook2020.pdf</ref>.
+
+A 2004 meta-analysis found that there is a sleeper effect, where a discounting piece of evidence is less persuasive immediately after exposure than it is later in time. The increase in persuasion is stronger when recipients of discounting cues have higher ability or motivation to think about the message<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100161/</ref>.
+
+Confirmation bias is the tendency to seek or interpret evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand<ref>https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</ref>. This has been shown in the case of the evaluation of political arguments, where attitudinally congruent arguments are uncritically supported and evaluated as stronger than attitudinally incongruent arguments, which are counter-argued against<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2006.00214.x</ref>. The latter can be referred to as a disconfirmation bias. This can lead to attitude polarization. Whether a person's prior belief is accompanied by emotional conviction affects the magnitude and form of the disconfirmation bias<ref>https://psycnet.apa.org/record/1996-01782-001</ref>.
 
 ### Are Beliefs Genetic?
 
@@ -383,13 +409,7 @@ Savings propensities are about 33% heritable, and individuals are born with a pe
 
 ## <span style="background-color:orange">Belief</span>
 
-Although there has been previous research suggesting that correcting misinformation may backfire, causing people to strengthen false misconceptions rather than reduce them, more recent research suggests that by and large citizens heed factual information, even when such information challenges their ideological commitments<ref>https://link.springer.com/article/10.1007/s11109-018-9443-y</ref><ref>https://skepticalscience.com/docs/DebunkingHandbook2020.pdf</ref>.
-
 Although many people may have the impression that people with conspiracy beliefs are very irrational and thus won't budge to new evidence, they in fact can. Research shows that belief in conspiracy theories can be reduced through rational argumentation<ref>https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01525/full</ref>. This is in spite of the fact that many people who believe in conspiracy theories are motivated to do so, due to many people holding conspiracy theories having a need to uniqueness<ref>https://www.researchgate.net/publication/314188232_Too_special_to_be_duped_Need_for_uniqueness_motivates_conspiracy_beliefs</ref>.
-
-A 2004 meta-analysis found that there is a sleeper effect, where a discounting piece of evidence is less persuasive immediately after exposure than it is later in time. The increase in persuasion is stronger when recipients of discounting cues have higher ability or motivation to think about the message<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100161/</ref>.
-
-Confirmation bias is the tendency to seek or interpret evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand<ref>https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</ref>. This has been shown in the case of the evaluation of political arguments, where attitudinally congruent arguments are uncritically supported and evaluated as stronger than attitudinally incongruent arguments, which are counter-argued against<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2006.00214.x</ref>. The latter can be referred to as a disconfirmation bias. This can lead to attitude polarization. Whether a person's prior belief is accompanied by emotional conviction affects the magnitude and form of the disconfirmation bias<ref>https://psycnet.apa.org/record/1996-01782-001</ref>.
 
 On average, people had a harder time distinguishing between real and fake news if they were generation Z, non-male, less educated, and more conservative<ref>https://news.ubc.ca/2025/04/misinformation-susceptibility-who-falls-for-fake-news/</ref>.
 
