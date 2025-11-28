@@ -42,7 +42,11 @@ For a final example, it has been shown through research that adoption can raise 
 
 Intelligence is highly heritable. A meta-analysis of studies amounting to a total of 280 pairs of identical twins reared apart implies a heritability of IQ of 0.83, or a 95% confidence interval of 0.74-0.91<ref>https://www.sebjenseb.net/p/we-now-have-280-pairs-of-identical?utm_source=publication-search</ref>. There are a very high number of genetic loci which have been found to be associated with intelligence<ref>https://www.nature.com/articles/ng.3869</ref><ref>https://www.nature.com/articles/s41467-018-04362-x?ref=iqpredictionnews</ref><ref>https://www.biorxiv.org/content/10.1101/2020.04.03.024554v3.full.pdf</ref>. High intelligence is also familial, heritable, and caused by the same genetic and environmental factors responsible for the normal distribution of intelligence<ref>https://files.catbox.moe/xd769q.pdf</ref>. Additionally, intellectual disability is heritable at 51%<ref>https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13560</ref>. Similarly, educational attainment is reasonably heritable<ref>https://www.nature.com/articles/s41598-020-69526-6</ref><ref>https://files.catbox.moe/3t8uvr.pdf</ref>.
 
+One of the ways that intelligence is genetic is through the underlying size of human's brains. It is well-known that brain size relative to the size of an animal's body can influence their intelligence compared to other species. But this also works within humans. In humans, brain size is positively associated with g<ref>https://pubmed.ncbi.nlm.nih.gov/32076418/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25855618/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/31473014/</ref>. This is of genetic origin as whole-brain gray and white matter is highly heritable<ref>https://pubmed.ncbi.nlm.nih.gov/32286890/</ref>, and there is a genetic correlation between intracranial volume and years of education<ref>https://pubmed.ncbi.nlm.nih.gov/32286899/</ref>, as well as intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/15922990/</ref>. Brain morphology more broadly appears to affect human intelligence as well. Human intelligence can be predicted with some accuracy using neuroimaging techniques<ref>https://pubmed.ncbi.nlm.nih.gov/14749147/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>.
+
 Interestingly, the heritability of IQ increases with age, being lower than 0.8 in younger individuals, a phenomenon known as the "Wilson effect"<ref>https://www.researchgate.net/figure/A-meta-analysis-of-11000-pairs-of-twins-shows-that-the-heritability-of-intelligence_fig1_265690996</ref>. This contradicts notions that individuals begin as blank slates who can be molded into anything if someone starts trying to mold them at a young age. While intelligence is more environmentally malleable at a younger age, as the person ages the genes eventually take over until by the time they're an adult their intelligence will largely reflect their genetic makeup.
+
+A high heritability of intelligence doesn't mean that there can never be environmental factors which has a significant effect on a person's intelligence. As discussed in the section [On Biological Determinism](https://prometheandissident.github.io/psychology/#on-biological-determinism), heritability is always measures environmental variance relative to genetic variance in a population. If environmental variance is low, then heritability can be high even if an environmental change can have a massive effect on said trait. An example of an environmental effect on intelligence which appears to be large is lead exposure. Research shows that there is an inverse relationship between blood lead concentration and IQ and reading test scores<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1257652/</ref><ref>https://www.nber.org/system/files/working_papers/w22558/w22558.pdf</ref>. These effects are g loaded<ref>https://sci-hub.se/https://doi.org/10.1016/j.paid.2018.09.005</ref>.
 
 ### The Utility of IQ Testing
 
@@ -66,40 +70,9 @@ The number of individual traits that IQ can predict are substantial, and include
 - **SAT -** The SAT is strongly correlated with g<ref>https://journals.sagepub.com/doi/abs/10.1111/j.0956-7976.2004.00687.x</ref>. Coaching has a small but positive effect on SAT scores<ref>https://meridian.allenpress.com/her/article-abstract/53/1/1/31190/Evaluating-the-Effect-of-Coaching-on-SAT-Scores-A?redirectedFrom=fulltext</ref>.
 - **Creativity -** There is a small and heterogeneous positive correlation between IQ and creativity<ref>https://pubmed.ncbi.nlm.nih.gov/30009212/</ref>.
 
+Intelligence also appears to be associated with health outcomes. Higher intelligence is associated with a substantially lower risk of death, even after adjusting for childhood and adult socioeconomic status as well as education, although adult SES and education attenuate it substantially<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyq190</ref>. Research suggests that this effect is mostly genetic in origin<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyv112</ref>.
 
-
-
-
-
-
-
-
-
-
-
-- **Lead -** There is an inverse relationship between blood lead concentration and IQ and reading test scores<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1257652/</ref><ref>https://www.nber.org/system/files/working_papers/w22558/w22558.pdf</ref>. These effects are g loaded<ref>https://sci-hub.se/https://doi.org/10.1016/j.paid.2018.09.005</ref>.
-- **Brain Size/Chemistry -** Brain size is positively associated with g<ref>https://pubmed.ncbi.nlm.nih.gov/32076418/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25855618/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/31473014/</ref>. This is of genetic origin as whole-brain gray and white matter is highly heritable<ref>https://pubmed.ncbi.nlm.nih.gov/32286890/</ref>, and there is a genetic correlation between intracranial volume and years of education<ref>https://pubmed.ncbi.nlm.nih.gov/32286899/</ref>, as well as intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/15922990/</ref>. Human intelligence can be predicted with some accuracy using neuroimaging techniques<ref>https://pubmed.ncbi.nlm.nih.gov/14749147/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>.
-
-
-
-- **Health -** Higher intelligence is associated with a substantially lower risk of death, even after adjusting for childhood and adult socioeconomic status as well as education, although adult SES and education attenuate it substantially<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyq190</ref>. Research suggests that this effect is mostly genetic in origin<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyv112</ref>.
-- **Fertility -** There is a small negative correlation between cognitive ability and fertility among modern humans<ref>https://sci-hub.ru/https://doi.org/10.1016/0160-2896(95)90012-8</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.05.002</ref>. There is strong assortative mating for intelligence<ref>https://journals.sagepub.com/doi/full/10.1177/09567976231105382</ref>. Intelligence is positively associated with childlessness<ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>. There exists a Jensen effect on dysgenic fertility, meaning that the more g loaded a test score is, the more it is associated with lower fertility<ref>https://pubmed.ncbi.nlm.nih.gov/32184024/</ref>. Polygenic scores that predict higher earnings, education and health also predict lower fertility<ref>https://files.catbox.moe/41zw1p.pdf</ref>. This may suggest that earnings-increasing human capital may either increase or decrease fertility through income and substitution effects in the labor market.
-
-**National-Level:** National IQ is correlated with a variety of educational, cognitive, economic, political, demographic, sociological, geographic, and climate variables<ref>https://pubmed.ncbi.nlm.nih.gov/27866536/</ref>. National IQ is positively correlated with economic development, and is the best predictor of economic growth<ref>https://pubmed.ncbi.nlm.nih.gov/29328072/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/30191806/</ref>. Education and cognitive ability appear to be more important as developmental factors for GDP than economic freedom. Education and intelligence are more relevant to economic welfare than vice versa, but economic welfare also predicts education and intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/28201577/</ref>. A 1 point increase in a nation's average IQ is associated with a persistent 0.11% annual increase in per-capita GDP<ref>https://sci-hub.ru/https://doi.org/10.1111/j.1467-8721.2006.00439.x</ref>. IQ is also associated with the production and exportation of more sophisticated/complex products<ref>https://www.sciencedirect.com/science/article/pii/S0160289612001134</ref>. IQ is also a significant predictor of financial development<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.03.007</ref>.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Finally, on a national level, IQ can also have a significant predictive effect on outcomes as well. National IQ is correlated with a variety of educational, cognitive, economic, political, demographic, sociological, geographic, and climate variables<ref>https://pubmed.ncbi.nlm.nih.gov/27866536/</ref>. National IQ is positively correlated with economic development, and is the best predictor of economic growth<ref>https://pubmed.ncbi.nlm.nih.gov/29328072/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/30191806/</ref>. Education and cognitive ability appear to be more important as developmental factors for GDP than economic freedom. Education and intelligence are more relevant to economic welfare than vice versa, but economic welfare also predicts education and intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/28201577/</ref>. A 1 point increase in a nation's average IQ is associated with a persistent 0.11% annual increase in per-capita GDP<ref>https://sci-hub.ru/https://doi.org/10.1111/j.1467-8721.2006.00439.x</ref>. IQ is also associated with the production and exportation of more sophisticated/complex products<ref>https://www.sciencedirect.com/science/article/pii/S0160289612001134</ref>. IQ is also a significant predictor of financial development<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.03.007</ref>.
 
 ## On Morality and Human Sociality
 
@@ -705,6 +678,8 @@ A study of the Icelandic genealogical database shows steady decline in POLYEDU. 
 A study finds a slight negative correlation of -0.14 between standard progressive matrices scores and the number of siblings in Libya, indicating only marginal dysgenic fertility<ref>https://eric.ed.gov/?q=FERTILITY&ff1=autLynn%2c+Richard&id=EJ1001678</ref>.
 
 There is a negative correlation of -0.73 between IQ and fertility across nations. This is estimated to have decreased genotypic IQ by 0.86 points from 1950-2000, with a further decline of 1.28 points in genotypic IQ from 2000-2050. In the period 1950-2000 this decline was compensated for by a rise in phenotypic intelligence known as the Flynn effect but recent studies in four economically developed countries have found that this has now ceased or gone into reverse. It seems probable that this "negative Flynn Effect" will spread to economically developing countries and the whole world will move into a period of declining genotypic and phenotypic intelligence<ref>https://eric.ed.gov/?q=FERTILITY&ff1=autLynn%2c+Richard&id=EJ784467</ref>.
+
+**Fertility -** There is a small negative correlation between cognitive ability and fertility among modern humans<ref>https://sci-hub.ru/https://doi.org/10.1016/0160-2896(95)90012-8</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.05.002</ref>. There is strong assortative mating for intelligence<ref>https://journals.sagepub.com/doi/full/10.1177/09567976231105382</ref>. Intelligence is positively associated with childlessness<ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>. There exists a Jensen effect on dysgenic fertility, meaning that the more g loaded a test score is, the more it is associated with lower fertility<ref>https://pubmed.ncbi.nlm.nih.gov/32184024/</ref>. Polygenic scores that predict higher earnings, education and health also predict lower fertility<ref>https://files.catbox.moe/41zw1p.pdf</ref>. This may suggest that earnings-increasing human capital may either increase or decrease fertility through income and substitution effects in the labor market.
 
 ## Moral Panic
 
