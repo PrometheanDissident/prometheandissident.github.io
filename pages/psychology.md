@@ -196,6 +196,7 @@ It is furthermore the case that religious belief probably stems in part not simp
 ### Understanding Political Belief
 
 - Basically the same as religious belief in a sense
+- Discuss the aggregation problem with political belief. How should political beliefs be categorized, and why is it that they are currently categorized in the ways they are?
 - Discuss decline of religion, also examine evidence in favor of notion that "leftism" is a religion in a way that "rightism" is not generally speaking
 - It's not clear to me that left-right distinction is actually useful to examine in an objective sense, but because it is perceived as useful phenomenologically, people who self select into these cateogories will probably have objective differences even if the left-right distinction was arbitrarily arrived at. Maybe left-right isn't the most fundamental distinction, or maybe we need two or three dimensions to examine political belief in the modern age.
 - Of course models are always going to be oversimplifications, the question is whether the model is sufficiently explaining the phenomenon in a way that's useful to us.
