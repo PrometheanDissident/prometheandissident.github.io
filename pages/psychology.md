@@ -203,11 +203,73 @@ It is furthermore the case that religious belief probably stems in part not simp
 
 ### Mobbing and Other Group Dynamics
 
-- Mobbing, which has now morphed linguistically into the notion of cancel culture, is oftentimes the ultimate manifestation of group irrationality for the sake of cohesion and self-protection
-- Discuss dynamics of mobbing
-- Other possible types of group dynamics may include moral panics and personality cults, although the study of them is less systematic and it more often appears to be used as labels to dismiss something compared to how "mobbing" was used
+The notion that group dynamics disincentivize the pursuit of truth and lead to irrationality may run in opposition to the intuitions of many people. But this reality is best illustrated through discussing research on group social dynamics and how they form beliefs about individuals and ideas. Perhaps the most well-studied aspect of this is the notion of mobbing, which is a phenomenon which can occur in a wide vaiety of contexts. But for our purposes, the focus will be primarily, but not exclusively, on mobbing in the context of academia, where its relationship to truth can thus be more explicitly established.
 
+Academic mobbing is a non-violent, sophisticated ganging up behavior adopted by academics to emotionally wear a colleague down through unjustified accusation, humiliation, general harassment and emotional abuse. These are directed at the target under a veil of lies and justifications so they are hidden to others and difficult to prove. Campuses are common places for academic mobbing to occur, and is done through shunning, gossip, ridicule, bureaucratic hassles and withholding of deserved awards. Bullies use mobbing activities to hide their weaknesses and incompetence. Targets are often innovative high achievers with good integrity and principles<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>. There are a number of conditions that increase a person’s vulnerability to mobbing, that are either inside or outside the control of the target<ref>https://www.kwesthues.com/unkindlyart.htm</ref>:
 
+* Being different from most colleagues in an elemental way such as sex or race
+* Being exceptionally high-achieving in teaching or research such that colleagues’ envy is aroused
+* Publicly dissenting from politically incorrect ideas
+* Defending a pariah on campus or the larger cultural arena
+
+Mobbing is best understood as a social contagion, where people surrender their independence of mind. Pooling of people’s judgments is often a step toward truth, but it is only when the judgments are independent and uninfluenced by one another. In crowds, people can be irrational in their judgments. The main perpetrators of mobbing are unlikely to ever change their minds about the target, especially when ambiguity is involved<ref>https://www.kwesthues.com/takeaways240723.html</ref>. In a typical mobbing case, apologies do not dampen but rather inflame the hostility of mobbers. Mobbers will generally either misconstrue the apology as a confession of worse wrongdoing than the target intends, or reject the apology as inadequate, insincere, misdirected or a said too late<ref>https://www.kwesthues.com/takeaways240723.html</ref>. The sociologist Kenneth Westhues, who extensively studies mobbing, has a rough checklist of 16 mobbing indicators<ref>https://www.kwesthues.com/checklist.htm</ref>:
+
+* By standard criteria of job performance, the target is at least average, probably above average.
+* Rumours and gossip circulate about the target’s misdeeds: “Did you hear what she did last week?”
+* The target is not invited to meetings or voted onto committees, is excluded or excludes self.
+* Collective focus on a critical incident that “shows what kind of man he really is.”
+* Shared conviction that the target needs some kind of formal punishment, “to be taught a lesson.”
+* Unusual timing of the decision to punish, e. g., apart from the annual performance review.
+* Emotion-laden, defamatory rhetoric about the target in oral and written communications.
+* Formal expressions of collective negative sentiment toward the target, e. g. a vote of censure, signatures on a petition, meeting to discuss what to do about the target.
+* High value on secrecy, confidentiality, and collegial solidarity among the mobbers.
+* Loss of diversity of argument, so that it becomes dangerous to “speak up for”or defend the target.
+* The adding up of the target’s real or imagined venial sins to make a mortal sin that cries for action.
+* The target is seen as personally abhorrent, with no redeeming qualities; stigmatizing, exclusionary labels are applied.
+* Disregard of established procedures, as mobbers take matters into their own hands.
+* Resistance to independent, outside review of sanctions imposed on the target.
+* Outraged response to any appeals for outside help the target may make.
+* Mobbers’ fear of violence from target, target’s fear of violence from mobbers, or both.
+
+Ordinarily, targets of mobbing are scarred for life<ref>https://www.kwesthues.com/unkindlyart.htm</ref>. They often develop trauma-related PTSD<ref>https://dergipark.org.tr/tr/download/article-file/4040932</ref>. In extreme cases, mobbing can result in suicide or murder-suicide. The targets’ position and influence in the organization is destroyed. Because the workplace has a web of social connections, targets tend to get ostracized and isolated, and colleagues shy away from the target out of fear of guilt by association. Targets exhibit profound feelings of self doubt, shame, worthlessness, humiliation, unhappiness and desperation. They become withdrawn and alienated from their colleagues, friends and sometimes families. Academic mobbing can be responsible for anxiety, depression and somatization syndrome. Target's obsessive preoccupation with the mobbing experience can have a negative impact on communication, intimacy and sex, work, parenting and household management within the family. One study estimated that 15% of suicides in Sweden were directly attributed to workplace mobbing<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>.
+
+Fundamentally, mobbing is rooted in the impulses we share with many other species. It is the coming to the surface, the expression in distinctly human ways, of instincts we are born with, tendencies to which we are genetically, physically inclined. This doesn’t mean that it’s inevitable or desirable, but it does mean that mobbing cannot easily be legislated out of existence, as if it were purely cultural<ref>https://www.kwesthues.com/graz0701.htm</ref>. It is something which is natural to people.
+
+Much of this discuss thus far is fairly abstract and, from first glance, would mainly concern irrational perceptions of people's character that would have little to do with political or religious beliefs. But the reality is that mobbing very oftentimes nowadays occurs against individuals who go against progressive orthodoxies in universities. The more an academic discipline has been influenced by postmodernism, which elevates subjectivity and puts objective truth into doubt, the more likely mobbing is to occur in it<ref>https://www.kwesthues.com/takeaways240723.html</ref>. This is because the more ambiguous the truth is on something, as will necessarily be the case with the more social or metaphysical phenomena that so often characterize politics and religion respectively, the more that the social realm will bleed into any discussions of such issues, thereby causing group dynamics to emerge. It is thus quite common for mobbing to occur against individuals who differ from prevaling beliefs of a particular time period and place. While in academia today, this may take the form of mobbing those who reject progressive political views, a few centuries ago it may take the form of individuals who question church teachings in their society.
+
+There is in fact a good case to be made that mobbing today is more common than it would have been 50 years or a century ago. This is because of changes in how discourse is conducted. As Dr. Westhues points out, mobbing can occur in academic spaces due to conflicting and differing modes of discourse. Modern discourse is characterized by<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>:
+- Personal detachment from the issues under discussion
+- Values on confidence, originality, agonism, independence of thought, creativity, assertiveness, mastery of one’s feelings, a thick skin and high tolerance for your own and others’ discomfort
+- Playfulness is legitimate: One can play devil’s advocate, speak tongue in cheek, overstate and use hyperbole, the object being not to capture the truth in a single, balanced monologue, but to expose the strengths and weaknesses of various positions
+- Scathing satire and sharp criticism are also legitimate
+- The best ideas are thought to emerge from mutual, merciless probing and attacking of arguments
+- Participants are repeatedly forced to return to the drawing board and produce better arguments
+- The truth is not to be located in a single voice but rather is to emerge from the conversation as a whole
+
+Over the past half century, a competing mode of discourse, postmodern discourse, has become more entrenched in the academy. Its hallmarks include<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>:
+- Persons and positions are closely related, with little insistence on keeping personal identity separate from the questions or issues under discussion
+- Sensitivity, inclusivity and inoffensiveness are key values
+- Priority on cooperation, collaboration, quietness, sedentariness, empathy, equality, non-competitiveness, conformity and a communal focus
+- Tends to perceive the satire and criticism of modern discourse as vicious and personal attack driven by hateful animus
+- Is oriented toward the standard measures of grades, tests and a closely defined curriculum
+- Lacking means by which to negotiate or accommodate intractable differences within its mode of conversation, it will typically resort to antagonistic, demonizing and personal attacks on the opposition
+- Will typically not try to answer opponents with better arguments, but silence them completely as hateful, intolerant, bigoted, misogynistic, homophobic, etc
+- Has a feminine flavor in contrast to the masculine flavor of modern discourse
+- Results in stale monologues and contexts that rarely produce strong thought, but rather tend to become echo chambers
+
+Differences between these competing modes often play out in today’s culture wars. Sensitivity-driven discourses tend to lack tolerance for difference and disagreement, and will thus manifest a herding effect. Dissenting voices can be excluded and opponents attacked, which means that proponents of the postmodern mode of discourse have a tendency to engage in workplace mobbing. It is in roughly half of academic mobbing cases that this distinction between modern and postmodern discourse is relevant for analysis<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>.
+
+#### Moral Panics and Personality Cults
+
+Other types of group-related behavior which are often discussed include moral panics and personality cults. I am somewhat more skeptical of these notions than of the notion of mobbing, simply because the psychoogical dynamics which would explain these types of behavior seem less well explored. Furthermore, I inevitably get the impression that these labels are often used post hoc to deride something as opposed to trying to actually describe an objective phenomenon. Regardless of how they're applied, however, it seems plausible that they also exist and would function as other cases where the notion that groups can be more irrational than individuals is correct.
+
+A moral panic is a situation in which public fears and state interventions greatly exceed the objective threat posed to society by a particular individual or group. State officials and the media create a symbiotic relationship in that politicians and law enforcement need communication channels to distribute their rhetoric and the media needs interesting news content to attract an audience and advertisers<ref>https://www.psychologytoday.com/us/blog/wicked-deeds/201507/moral-panic-who-benefits-public-fear</ref>. Some researchers have offered three explanatory models for moral panics: grassroots, elite engineered, and interest group. Most likely, most moral panic episodes originate from grassroots and interest groups as opposed to elites. Active or latent stress at the grassroots level is a prerequisite for moral panics that provides the raw material for an episode. However, the way that stress or fear is directed is shaped by organizational activists who provide the focus and direction for moral panics. Some researchers critique the moral panic concept by asserting that case studies often proceed with the objective of demonstrating that the episode under study conforms to the moral panics profile rather than problematizing these relationships<ref>Blackwell Encyclopedia of Sociology: Moral Panic</ref>.
+
+On the other hand, a cult of personality is a deliberately created system of art, symbolism and ritual centered on the institutionalized quasi-religious glorification of a specific individual. Since the 20th century, cult of personality has been most often used to refer to charismatic leader cults, a type of personality cult which is based on a political leader and designed to enforce their power, magnify their ideology, and legitimize the rule of the government associated with them. In the 20th century the rise of mass media led to the establishment and flourishing of many personality cults. Autocratic and repressive regimes sought to use these cults of personality to legitimize their power. Some cults were centered on figures who had already attained power or prestige, while others lent credence to new political ideologies<ref>https://www.britannica.com/topic/cult-of-personality</ref>.
+
+While these were aimed at providing legitimacy to governments, the ultimate effect was to associate the entire cult of personality with the atrocities committed by these regimes. Increasingly, accusing a leader of being the subject of a cult of personality is a way to question that leader’s authority. Still, these persist in the 21st century<ref>https://www.britannica.com/topic/cult-of-personality</ref>. Only two characteristics of a cult of personality have been identified by all scholars. First, it is defined by a quasi-ubiquitous praise, manifested through eulogistic articles in mass media and adulatory public parades. Second, the adulation of the leader is not entirely sincere, but largely coerced through employing the state apparatus in the organization of the named parades<ref>https://repositories.lib.utexas.edu/server/api/core/bitstreams/3f2fb7a8-c5f6-47f1-8560-d51dad76e57e/content</ref>.
+
+Mobbing, moral panics, and personality cults are all situations where the reality of group irrationality can be shown to persist in a range of circumstances. Individuals can be irrational, but arguably groups can be more so.
 
 ## ======================================== TO ADD BELOW ========================================
 
@@ -435,71 +497,7 @@ However, the extremeness of the punishment means that there's few behaviors whic
 
 ## Mobbing
 
-Individuals exposed to mobbing often develop trauma-related PTSD<ref>https://dergipark.org.tr/tr/download/article-file/4040932</ref>.
-
-Academic mobbing is a non-violent, sophisticated ganging up behavior adopted by academics to emotionally wear a colleague down through unjustified accusation, humiliation, general harassment and emotional abuse. These are directed at the target under a veil of lies and justifications so they are hidden to others and difficult to prove. Campuses are common places for academic mobbing to occur, and is done through shunning, gossip, ridicule, bureaucratic hassles and withholding of deserved awards. Bullies use mobbing activities to hide their weaknesses and incompetence. Targets are often innovative high achievers with good integrity and principles<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>.
-
 One in 30 people is a serial bully with sociopathic traits, whose behavior profile includes compulsive lying, a Jekyll and Hyde nature, superficial charm, considerable capacity to deceive, arrested emotional development and a compulsive need to control<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>.
-
-In extreme cases, mobbing can result in suicide or murder-suicide. The targets’ position and influence in the organization is destroyed. Because the workplace has a web of social connections, targets tend to get ostracized and isolated, and colleagues shy away from the target out of fear of guilt by association. Targets exhibit profound feelings of self doubt, shame, worthlessness, humiliation, unhappiness and desperation. They become withdrawn and alienated from their colleagues, friends and sometimes families. Academic mobbing can be responsible for anxiety, depression and somatization syndrome. Target's obsessive preoccupation with the mobbing experience can have a negative impact on communication, intimacy and sex, work, parenting and household management within the family. One study estimated that 15% of suicides in Sweden were directly attributed to workplace mobbing<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>.
-
-Mobbing is rooted in the impulses we share with many other species. It is the coming to the surface, the expression in distinctly human ways, of instincts we are born with, tendencies to which we are genetically, physically inclined. This doesn’t mean that it’s inevitable or desirable, but it does mean that mobbing cannot easily be legislated out of existence, as if it were purely cultural<ref>https://www.kwesthues.com/graz0701.htm</ref>.
-
-Mobbing is best understood as a social contagion, where people surrender their independence of mind. Pooling of people’s judgments is often a step toward truth, but it is only when the judgments are independent and uninfluenced by one another. In crowds, people can be irrational in their judgments. The main perpetrators of mobbing are unlikely to ever change their minds about the target, especially when ambiguity is involved<ref>https://www.kwesthues.com/takeaways240723.html</ref>.
-
-In a typical mobbing case, apologies do not dampen but rather inflame the hostility of mobbers. Mobbers will generally either misconstrue the apology as a confession of worse wrongdoing than the target intends, or reject the apology as inadequate, insincere, misdirected or a said too late<ref>https://www.kwesthues.com/takeaways240723.html</ref>.
-
-The more an academic discipline has been influenced by postmodernism, which elevates subjectivity and puts objective truth into doubt, the more likely mobbing is to occur in it<ref>https://www.kwesthues.com/takeaways240723.html</ref>.
-
-There are a number of conditions that increase a person’s vulnerability to mobbing, that are either inside or outside the control of the target<ref>https://www.kwesthues.com/unkindlyart.htm</ref>:
-
-* Being different from most colleagues in an elemental way such as sex or race
-* Being exceptionally high-achieving in teaching or research such that colleagues’ envy is aroused
-* Publicly dissenting from politically incorrect ideas
-* Defending a pariah on campus or the larger cultural arena
-
-Ordinarily, targets of mobbing are scarred for life<ref>https://www.kwesthues.com/unkindlyart.htm</ref>.
-
-Checklist of 16 mobbing indicators<ref>https://www.kwesthues.com/checklist.htm</ref>:
-
-* By standard criteria of job performance, the target is at least average, probably above average.
-* Rumours and gossip circulate about the target’s misdeeds: “Did you hear what she did last week?”
-* The target is not invited to meetings or voted onto committees, is excluded or excludes self.
-* Collective focus on a critical incident that “shows what kind of man he really is.”
-* Shared conviction that the target needs some kind of formal punishment, “to be taught a lesson.”
-* Unusual timing of the decision to punish, e. g., apart from the annual performance review.
-* Emotion-laden, defamatory rhetoric about the target in oral and written communications.
-* Formal expressions of collective negative sentiment toward the target, e. g. a vote of censure, signatures on a petition, meeting to discuss what to do about the target.
-* High value on secrecy, confidentiality, and collegial solidarity among the mobbers.
-* Loss of diversity of argument, so that it becomes dangerous to “speak up for”or defend the target.
-* The adding up of the target’s real or imagined venial sins to make a mortal sin that cries for action.
-* The target is seen as personally abhorrent, with no redeeming qualities; stigmatizing, exclusionary labels are applied.
-* Disregard of established procedures, as mobbers take matters into their own hands.
-* Resistance to independent, outside review of sanctions imposed on the target.
-* Outraged response to any appeals for outside help the target may make.
-* Mobbers’ fear of violence from target, target’s fear of violence from mobbers, or both.
-
-Mobbing can occur in academic spaces due to conflicting and differing modes of discourse. Modern discourse is characterized by<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>:
-- Personal detachment from the issues under discussion
-- Values on confidence, originality, agonism, independence of thought, creativity, assertiveness, mastery of one’s feelings, a thick skin and high tolerance for your own and others’ discomfort
-- Playfulness is legitimate: One can play devil’s advocate, speak tongue in cheek, overstate and use hyperbole, the object being not to capture the truth in a single, balanced monologue, but to expose the strengths and weaknesses of various positions
-- Scathing satire and sharp criticism are also legitimate
-- The best ideas are thought to emerge from mutual, merciless probing and attacking of arguments
-- Participants are repeatedly forced to return to the drawing board and produce better arguments
-- The truth is not to be located in a single voice but rather is to emerge from the conversation as a whole
-
-Over the past half century, a competing mode of discourse, postmodern discourse, has become more entrenched in the academy. Its hallmarks include<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>:
-- Persons and positions are closely related, with little insistence on keeping personal identity separate from the questions or issues under discussion
-- Sensitivity, inclusivity and inoffensiveness are key values
-- Priority on cooperation, collaboration, quietness, sedentariness, empathy, equality, non-competitiveness, conformity and a communal focus
-- Tends to perceive the satire and criticism of modern discourse as vicious and personal attack driven by hateful animus
-- Is oriented toward the standard measures of grades, tests and a closely defined curriculum
-- Lacking means by which to negotiate or accommodate intractable differences within its mode of conversation, it will typically resort to antagonistic, demonizing and personal attacks on the opposition
-- Will typically not try to answer opponents with better arguments, but silence them completely as hateful, intolerant, bigoted, misogynistic, homophobic, etc
-- Has a feminine flavor in contrast to the masculine flavor of modern discourse
-- Results in stale monologues and contexts that rarely produce strong thought, but rather tend to become echo chambers
-
-Differences between these competing modes often play out in today’s culture wars. Sensitivity-driven discourses tend to lack tolerance for difference and disagreement, and will thus manifest a herding effect. Dissenting voices can be excluded and opponents attacked, which means that proponents of the postmodern mode of discourse have a tendency to engage in workplace mobbing. In roughly half of academic mobbing cases is this distinction between modern and postmodern discourse relevant for analysis<ref>https://www.kwesthues.com/regiftedxmas12.html</ref>.
 
 ## Post-Truth
 
@@ -581,14 +579,6 @@ ASD children perform similarly in deception tasks if both groups have lower soci
 Although young school-aged ASD children did not blindly trust any information provided by the unfamiliar adult, they appeared to be more trusting in the adult informant than did their age- and ability-matched TD children<ref>https://www.sciencedirect.com/science/article/abs/pii/S0022096513000994</ref>.
 
 ASD people are less able to distinguish truth from lies, which increases risks of being manipulated<ref>https://www.sciencedaily.com/releases/2018/05/180522114817.htm</ref>.
-
-## Personality Cults
-
-A cult of personality is a deliberately created system of art, symbolism and ritual centered on the institutionalized quasi-religious glorification of a specific individual. Since the 20th century, cult of personality has been most often used to refer to charismatic leader cults, a type of personality cult which is based on a political leader and designed to enforce their power, magnify their ideology, and legitimize the rule of the government associated with them. In the 20th century the rise of mass media led to the establishment and flourishing of many personality cults. Autocratic and repressive regimes sought to use these cults of personality to legitimize their power. Some cults were centered on figures who had already attained power or prestige, others lent credence to new political ideologies<ref>https://www.britannica.com/topic/cult-of-personality</ref>.
-
-While these were aimed at providing legitimacy to governments, the ultimate effect was to associate the entire cult of personality with the atrocities committed by these regimes. Increasingly, accusing a leader of being the subject of a cult of personality is a way to question that leader’s authority. Still, these persist in the 21st century<ref>https://www.britannica.com/topic/cult-of-personality</ref>.
-
-Only two characteristics of a cult of personality have been identified by all scholars. First, it is defined by a quasi-ubiquitous praise, manifested through eulogistic articles in mass media and adulatory public parades. Second, the adulation of the leader is not entirely sincere, but largely coerced through employing the state apparatus in the organization of the named parades<ref>https://repositories.lib.utexas.edu/server/api/core/bitstreams/3f2fb7a8-c5f6-47f1-8560-d51dad76e57e/content</ref>.
 
 ## Neoteny
 
@@ -691,14 +681,6 @@ A study finds a slight negative correlation of -0.14 between standard progressiv
 There is a negative correlation of -0.73 between IQ and fertility across nations. This is estimated to have decreased genotypic IQ by 0.86 points from 1950-2000, with a further decline of 1.28 points in genotypic IQ from 2000-2050. In the period 1950-2000 this decline was compensated for by a rise in phenotypic intelligence known as the Flynn effect but recent studies in four economically developed countries have found that this has now ceased or gone into reverse. It seems probable that this "negative Flynn Effect" will spread to economically developing countries and the whole world will move into a period of declining genotypic and phenotypic intelligence<ref>https://eric.ed.gov/?q=FERTILITY&ff1=autLynn%2c+Richard&id=EJ784467</ref>.
 
 **Fertility -** There is a small negative correlation between cognitive ability and fertility among modern humans<ref>https://sci-hub.ru/https://doi.org/10.1016/0160-2896(95)90012-8</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.05.002</ref>. There is strong assortative mating for intelligence<ref>https://journals.sagepub.com/doi/full/10.1177/09567976231105382</ref>. Intelligence is positively associated with childlessness<ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>. There exists a Jensen effect on dysgenic fertility, meaning that the more g loaded a test score is, the more it is associated with lower fertility<ref>https://pubmed.ncbi.nlm.nih.gov/32184024/</ref>. Polygenic scores that predict higher earnings, education and health also predict lower fertility<ref>https://files.catbox.moe/41zw1p.pdf</ref>. This may suggest that earnings-increasing human capital may either increase or decrease fertility through income and substitution effects in the labor market.
-
-## Moral Panic
-
-Moral panic is a situation in which public fears and state interventions greatly exceed the objective threat posed to society by a particular individual or group. State officials and the media create a symbiotic relationship in that politicians and law enforcement need communication channels to distribute their rhetoric and the media needs interesting news content to attract an audience and advertisers<ref>https://www.psychologytoday.com/us/blog/wicked-deeds/201507/moral-panic-who-benefits-public-fear</ref>.
-
-Some researchers have offered three explanatory models for moral panics: grassroots, elite engineered, and interest group. Most likely, most moral panic episodes originate from grassroots and interest groups as opposed to elites. Active or latent stress at the grassroots level is a prerequisite for moral panics that provides the raw material for an episode. However, the way that stress or fear is directed is shaped by organizational activists who provide the focus and direction for moral panics<ref>Blackwell Encyclopedia of Sociology: Moral Panic</ref>.
-
-Some critique the moral panic concept by asserting that case studies often proceed with the objective of demonstrating that the episode under study conforms to the moral panics profile rather than problematizing these relationships<ref>Blackwell Encyclopedia of Sociology: Moral Panic</ref>.
 
 ## Overprescription
 
