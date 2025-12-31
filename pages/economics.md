@@ -790,6 +790,26 @@ Public spending on public investment and education boost potential growth, while
 
 Income inequality has increased in most OECD countries in the 2000s and 2010s, both because incomes before taxes and transfers have become more unequally distributed and because the extent of redistribution through taxes and transfers has fallen. This is mainly driven by a reduction in cash transfers, while personal income taxes have played a less important and more heterogeneous role across countries. Decline in redistribution through transfers was driven by less generous social insurance benefits, which in some countries were partly compensated by more progressive social assistance. Policy changes during this period of time have contributed markedly to the decline in redistribution. Relevant policy changes included cuts to cash income support to unemployed households and a reduction in the taxation of top incomes and income from capital, as globalization has put pressure on governments to shift away from highly mobile tax bases<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/02/income-redistribution-across-oecd-countries_f2d12a2b/3b63e61c-en.pdf</ref>.
 
+## TOADD
+
+**Immigration**
+
+One concern that anti-immigration advocates, particularly on the right, have is that immigration can bring with it political externalities, particularly in terms of less freedom economically and socially. At worst, the political effect of immigrants is modestly negative, and the changes that would happen from immigration are marginal. However, more importantly, this doesn’t account for the reality that in any country there will be natives who are more statist than the average immigrant. Does it suggest that the average person of such a persuasion should be kicked out of the country? If not, then it is clear that deciding who is or isn’t allowed into a country is not particularly dependent on their political views in the majority of cases<ref>https://www.econlib.org/archives/2010/12/the_political_e_4.html</ref>.
+
+According to Saggar et al. (2012), after controlling for relative deprivation, diversity and migration have zero effect on social cohesion<ref>https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/258355/social-cohesion-integration.pdf</ref>. Similarly, You (2005) finds that across countries, after controlling for societies which have fair procedural rules, fair administration of rules, as well as a relatively equal and unskewed income distribution, ethnic diversity has no effect on social trust<ref>https://www.hks.harvard.edu/sites/default/files/2023-09/workingpaper_29.pdf</ref>.
+
+**Welfare**
+
+In countries with larger welfare states, a greater proportion of people tend to say yes when asked if they are “satisfied with your freedom to choose what you do with your life”<ref>https://statsandsociety.substack.com/p/dont-fret-about-big-welfare</ref>. This undermines arguments about larger welfare states inhibiting freedom, because for most people it appears to actually increase it when we simply ask about their preferences.
+
+**Inequality**
+
+People tend to have a very poor ability to perceive the actual extent of inequality in their society. When presented with diagrams referring to their country’s Gini coefficient, either measured by post-tax-and-transfer or pre-tax-and-transfer, individuals were only able to guess correctly at a rate slightly better than random. In fact, the correlation between changes in inequality across countries and people’s perceptions of changes in inequality is actually negative. Support for redistribution was completely unrelated to pre-tax nor post-tax actual income Gini coefficients at either the country or the individual level. However, perceived inequality was highly significantly related to both country and individual level redistribution. Similar effects were seen for perceived class conflict. There, the post-tax inequality was significantly associated with greater reported tension between classes, but the effect of actual inequality was a third the size of the effect of perceived inequality. Furthermore, the effect of actual inequality disappears once controls for the country’s income and population are introduced<ref>https://www.econlib.org/archives/2015/05/systematically_3.html</ref>.
+
+Meta-analytic research of 168 studies found that individuals in more unequal areas do not report lower subjective well-being. While inequality was initially associated with lower mental health, once publication bias was corrected for the association disappeared<ref>https://www.nature.com/articles/s41586-025-09797-z</ref>.
+
+The evidence that inequality undermines democracy is weak, and it may be the case that inequality actually has no effect on democracy<ref>https://statsandsociety.substack.com/p/does-inequality-undermine-democracy</ref>.
+
 ## References
 
 <references />
