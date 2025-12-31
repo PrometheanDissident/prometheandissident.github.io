@@ -557,6 +557,36 @@ However, the questioning of oppression narratives on the basis of race, particul
 
 In the current world we live in, basically none of this can be discussed in polite conversation. It is crucial that these topics become destigmatized. How that is done is another question, and one that I cannot answer at this point.
 
+## TOADD
+
+**HBD**
+
+Measures of intelligence differences in the past show that the black-white IQ gap was about a standard deviation in the 19th century, basically the same as it is now<ref>https://www.cremieux.xyz/p/the-deep-roots-of-intelligence-differences?open=false#%C2%A7admixture-effects-a-case-of-deep-roots</ref>.
+
+96% of US income inequality arises from variation within racial groups, with only a very small share attributable to differences between these groups. This pattern is stable across time and regions<ref>https://www.nber.org/papers/w34558</ref>.
+
+**Inequality**
+
+Across many countries it is common for minority groups to outcompete majority groups. In Malaysia the Malay majority averaged less than half the income of the Chinese minority throughout the last quarter of the 20th century, even though the Chinese had no power to discriminate against the Malays and there were widespread government programs giving preferential treatment to Malays. Similarly, in Sri Lanka the Tamil minority had higher incomes than the country’s majority population, the Sinhalese, until laws and policies severely discriminating against the Tamils starting in the 1950s led the Sinhalese to overtake the Tamils in income in 1973<ref>Economic Facts and Fallacies by Thomas Sowell: Racial Facts and Fallacies</ref>.
+
+**Separation/Integration**
+
+There are three typical models used to address the “Indian problem”: assimilation (integration), autonomy (separation), or accommodation (mix)<ref>Unequal Relations: An Introduction to Race, Ethnic, and Aboriginal Dynamics in Canada - Chapter 7: Aboriginal Peoples in Canada</ref>.
+
+The assimilation model is predicated on the assumption that geographic, legal, social and cultural separation from the rest of Canadian society is the cause of Aboriginal people’s misfortunes. Hence, they must become more modern through mainstream exposure and involvement while discarding social patterns and cultural values at odds with contemporary Canadian realities. Assimilationists view programs such as the reserves as fundamentally racist and things that must be abolished in favor of Canadian citizenship. All Canadians should be viewed as equal before the law. The Indian Act is said to be especially damaging with its imposition of outdated property rights that hobble reserve residents from using their land and houses in economically productive ways. Furthermore, the Canadian government spends billions every year shoring up Aboriginal difference, with little to show except third-world living standards, lack of accountability or transparency in spending, and Aboriginal demands for more and more. A culture of dependency ends up prevailing. For assimilationists, the solution is absorption into Canadian society through eliminating the collectivist mindset which justified reserves and related policies in the first place, weaning Aboriginal peoples away from cultural values and social patterns which preclude their ability to participate in a modern economy, and to expose Aboriginals to the discipline of the market. Most notably, this would take the form of converting these communities into municipal levels of elected government that generates income from taxing individualized property rights rather than relying on federal transfers for wealth creation<ref>Unequal Relations: An Introduction to Race, Ethnic, and Aboriginal Dynamics in Canada - Chapter 7: Aboriginal Peoples in Canada</ref>.
+
+At the other end is the autonomy model which endorses Aboriginal peoples’ claims as sovereign political nations with inherent and collective rights to Aboriginal models of self-determining autonomy over land, identity and political voice. Government policy must secure treaty rights of Aboriginals, honouring fiduciary responsibilities, protect the legitimacy of Aboriginal difference and uphold Aboriginal sovereignty<ref>Unequal Relations: An Introduction to Race, Ethnic, and Aboriginal Dynamics in Canada - Chapter 7: Aboriginal Peoples in Canada</ref>.
+
+The accommodation model represents a compromise<ref>Unequal Relations: An Introduction to Race, Ethnic, and Aboriginal Dynamics in Canada - Chapter 7: Aboriginal Peoples in Canada</ref>.
+
+**Civil Rights**
+
+Between 1960 and 2010, there have been significant increases in the percentage of non-white people in highly-skilled occupations across the US economy, which in part reflects more people pursuing their comparative advantage. Estimates suggest that between 20-40% of growth in output per person can be explained by this improved allocation of talent<ref>https://web.stanford.edu/~chadj/HHJK.pdf</ref>.
+
+**Diversity**
+
+Much of the research looking at the effects of racial diversity on firm performance, was conducted by McKinsey, and the findings of this research failed to replicate<ref>https://econjwatch.org/articles/mckinsey-s-diversity-matters-delivers-wins-results-revisited</ref>.
+
 ## References
 
 <references />
