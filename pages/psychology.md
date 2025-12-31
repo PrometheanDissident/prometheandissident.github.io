@@ -748,6 +748,46 @@ Americans are having less sex. This is not due to an increase of women in the wo
 
 Inbreeding is related to a lower intelligence, with the effects of inbreeding depression being most strongly correlated with the subtest's g loading<ref>https://sci-hub.ru/https://doi.org/10.1016/0191-8869(83)90054-5</ref>.
 
+## TOADD
+
+Contrarianism is positively correlated with the need for uniqueness, cultural independence, autonomous functioning, autonomy, and reactance (instinctive resistance to perceived attempts to control one’s behavior). It is negatively correlated with interdependence and social desirability bias. Personality-wise, contrarians tend to be higher in openness to experience and neuroticism, and lower in agreeableness and conscientiousness<ref>https://nuancepill.substack.com/p/the-rise-of-contrarianism</ref>.
+
+Meritocracy exists insofar as talented people tend to be upwardly mobile socially while dullards tend to move down. Existing meritocracy is imperfect but generally good in the developed world. Skills correlate more with where people end up socioeconomically rather than where they’re originally from<ref>https://www.cremieux.xyz/p/intelligence-and-social-mobility</ref>.
+
+People’s rational capacities have largely been developed in response to social pressures to mitigate practical concerns, such as effective persuasion, avoidance of manipulation, and maintaining or enhancing the standing of ourselves and our in-group<ref>https://musaalgharbi.substack.com/p/smart-people-are-especially-prone</ref>.
+
+People who are highly educated, intelligent or rhetorically skilled are significantly less likely than most others to revise their beliefs or adjust their behaviors when confronted with evidence which contradicts their beliefs. Because they know more about the world or are better at arguing, they are better able to punch holes in data or arguments, come up with excuses, or reinterpret threatening information, and such people do that<ref>https://musaalgharbi.substack.com/p/smart-people-are-especially-prone</ref>.
+
+People who are highly intelligent are potentially especially prone to tribalism, virtue signalling and self-deception. For example, they are much more likely to know what positions they “should” hold in virtue of their partisan/ideological identities, and so are more likely to align their beliefs to systematically accord with those identities. They are more likely to form strong opinions on issues by looking to partisan cues about what people on their side tend to believe<ref>https://musaalgharbi.substack.com/p/smart-people-are-especially-prone</ref>.
+
+Research suggests that 88% of undergraduate students fake more progressive views than they really hold. This is often with the intent of appeasing professors or staying in the good graces of peers<ref>https://www.stevestewartwilliams.com/p/faking-wokeness-to-fit-in</ref>.
+
+Both people on the left and on the right tend to have equally high levels of obedience, it just tends to be towards different groups. Right-wingers tend to be more obedient towards traditions, commanding officers and religious authorities, while left-wingers tend to be more obedient towards civil rights activists and environmentalists<ref>https://www.stevestewartwilliams.com/p/whos-more-obedient-left-or-right</ref>.
+
+
+
+Research presenting people with both political and non-political syllogisms found that individuals were significantly better at solving syllogisms when the correct answer was consistent with their own political beliefs and significantly worse when it favored the opposing ideology<ref>https://www.stevestewartwilliams.com/p/warning-political-ideology-may-impair</ref>.
+
+As of 2025, 34% of college students at least rarely accept using violence to stop a campus speech, which is up from 24% in 2021. Similarly, 54% at least rarely accept blocking other students from attending a campus speech and 71% at least rarely accept shouting down a speaker to prevent them from speaking on campus<ref>https://www.theargumentmag.com/p/college-students-increasingly-believe</ref>.
+
+There are several commonalities which extremists on both sides of the political spectrum have in common which distinguishes them from moderates. The first is higher levels of psychological distress. Second is cognitive simplicity, or the tendency to view the world in black and white terms. Third is overconfidence, although this is ironic as research suggests that political extremists are less knowledgeable than moderates, particularly the slightly left and slightly right. Finally, extremists on both sides tend to be more intolerant of their political opponents<ref>https://www.stevestewartwilliams.com/p/the-psychology-of-political-extremism</ref>.
+
+Research suggests that people on both sides of the political spectrum exaggerate the other side’s agreement with extreme views. The more that people overestimated how prevalent extreme views were on the other side, the more they disliked the other side and the less willing they were to engage with them in any way. People tend to be reluctant to challenge extreme views on their own side, and are hence more willing to express agreement with moderate views on their side than disagreement with extreme views<ref>https://www.stevestewartwilliams.com/p/imaginary-enemies</ref>.
+
+Mind viruses in a technical sense can be defined as ideas which spread from person to person and reduce people’s evolutionary fitness or function. There are numerous examples of such things occurring throughout history. One example is the Xhosa cattle-killing movement, where in 1856 a 15 year old girl in what is now South Africa claimed that spirits told her that if the Xhosa kill all their cattle and destroy their crops, the dead would arise and spirits would sweep the European settlers of South Africa out to sea. This led to the vast majority of Xhosa slaughtering their cattle and destroying their crops, leading to a depopulation of the region from over 105,000 people to less than 27,000. About 40,000 Xhosa starved to death as a result, and the remaining population were forced to submit to the British. A less extreme and more recent example of a mind virus can be seen with Brazilian soap operas. Research suggests that access to one television group, Rede Globo, which had a near monopoly on soap opera production in Brazil, was responsible for 7% of Brazilian fertility decline over the period of 1979-1991<ref>https://arctotherium.substack.com/p/mind-viruses</ref>.
+
+**Belief**
+
+The backfire effect is fake<ref>https://www.pnas.org/doi/10.1073/pnas.1912440117</ref><ref>https://educationblog.oup.com/theory-of-knowledge/facts-matter-after-all-rejecting-the-backfire-effect</ref><ref>https://pubmed.ncbi.nlm.nih.gov/37988954/</ref><ref>https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</ref>.
+
+While cognitive ability is related to more affective prejudice toward conservative groups and less toward liberal groups, individuals with higher cognitive ability are more in favor of freedom of speech for all groups<ref>https://journals.sagepub.com/doi/abs/10.1177/1948550619896168</ref>.
+
+Both emotional intelligence and cognitive ability uniquely predict less concern for political correctness and more support for freedom of speech<ref>https://econtent.hogrefe.com/doi/abs/10.1027/1614-0001/a000385?journalCode=jid</ref>.
+
+Polygenic scores for cognitive performance and educational attainment significantly predict political beliefs, suggesting a genetic origin of political beliefs and a causal link between intelligence and political beliefs<ref>https://www.sciencedirect.com/science/article/pii/S0160289624000254</ref>.
+
+Individuals high in psychopathy, fear of missing out, and narcissism are more likely to engage in online political activity. Conversely, higher cognitive ability is uniformly associated with lower levels of online political participation<ref>https://www.nature.com/articles/s41599-025-05195-y</ref>.
+
 ## References
 
 <references />
