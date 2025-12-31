@@ -276,6 +276,28 @@ The success of school types appears to be much more a function of the regulatory
 
 When 10 percent of the population holds an unshakable belief, the belief will always be adopted by the majority of the society<ref>https://www.sciencedaily.com/releases/2011/07/110725190044.htm</ref>.
 
+## TOADD
+
+School spending has essentially zero effect on class test scores. RCTs of educational interventions almost always find no benefits of such programs, with on average an effect of 0.06 standard deviations. School spending research shows very small benefits, such as 0.03 standard deviations per $1000 spent per pupil<ref>https://www.emilkirkegaard.com/p/against-the-economists-on-school</ref>.
+
+Robert K Merton in his work “The Sociology of Science” defines 4 norms of ideal scientific practice<ref>https://www.aporiamagazine.com/p/robert-k-merton-and-the-modern-ethos</ref>:
+- Universalism - Scientists and their claims should be judged on the basis of impersonal criteria
+- Communism - Scientific discoveries are a product of collaboration and are owned by the whole community
+- Disinterestedness - Science is done for the sake of advancing knowledge, not for some other reason
+- Organized Skepticism - Scientific claims must be tested and verified before they can be accepted.
+
+Over time, there has been a significant rise in the percentage of doctoral degrees given to women, and the percentage of faculty at postsecondary institutions who are female, which is now at 50.7% in the US. In numerous surveys it has been shown that men are more committed than women to the pursuit of truth as the purpose of science. On the other hand, women are more committed to moral goals such as equity, inclusion, and protection of vulnerable groups. Men are more tolerant of controversial and potentially offensive scientific findings being pursued and discussed, while women are more willing to suppress or prevent science which is perceived to be harmful or offensive. This sex difference in academic priorities has been reflected in various new developments in the academy<ref>https://quillette.com/2022/10/08/sex-and-the-academy/</ref>:
+- The introduction of DEI committees, offices and degrees as well as a rise in spending on DEI
+- The introduction of DEI statements in job applications
+- A rise in the number of academics targeted for sanction for their scholarship and teaching on the basis of harm
+- The introduction of safe spaces and trigger warnings on college campuses
+- The requirement made by some large professional societies that presenters explain how their work advances equity and anti-racism
+- The addition of extra-scientific moral concerns to the evaluation criteria for publications and retractions by journals
+
+In terms of studies on human health and behavior, on average mechanical prediction techniques are about 10% more accurate than clinical predictions. Although clinical predictions were often as accurate as mechanical predictions, in only about 6-16% of studies were they substantially more accurate. Mechanical prediction techniques were consistently better regardless of the judgment task, types of judges, judges’ amount of experience or the types of data being combined<ref>https://pubmed.ncbi.nlm.nih.gov/10752360/</ref>.
+
+There is a decline in the rate of scientific progress. New ideas are becoming less likely to displace old ideas, and experts rate newer discoveries as less impressive than older discoveries. Furthermore, per person we are making fewer major innovations than we did 50 years ago<ref>https://www.experimental-history.com/p/the-decline-of-deviance</ref>.
+
 ## References
 
 <references />
