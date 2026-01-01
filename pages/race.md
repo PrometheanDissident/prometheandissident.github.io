@@ -573,10 +573,6 @@ At the other end is the autonomy model which endorses Aboriginal peoples’ clai
 
 The accommodation model represents a compromise<ref>Unequal Relations: An Introduction to Race, Ethnic, and Aboriginal Dynamics in Canada - Chapter 7: Aboriginal Peoples in Canada</ref>.
 
-**Civil Rights**
-
-Between 1960 and 2010, there have been significant increases in the percentage of non-white people in highly-skilled occupations across the US economy, which in part reflects more people pursuing their comparative advantage. Estimates suggest that between 20-40% of growth in output per person can be explained by this improved allocation of talent<ref>https://web.stanford.edu/~chadj/HHJK.pdf</ref>.
-
 **Diversity**
 
 Much of the research looking at the effects of racial diversity on firm performance, was conducted by McKinsey, and the findings of this research failed to replicate<ref>https://econjwatch.org/articles/mckinsey-s-diversity-matters-delivers-wins-results-revisited</ref>.
