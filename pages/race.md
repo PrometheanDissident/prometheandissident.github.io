@@ -4,7 +4,7 @@ title: Race
 permalink: /race/
 ---
 
-**Summary**
+**<u>Summary</u>**
 
 Race is one of the most taboo yet most extensively discussed topics in the political world. I believe this comes down to the fact that in highly industrialized societies with populations that exceed Dunbar's number by many orders of magnitude, race becomes the most salient way to distinguish groups of people by, whereas in times past it would have been family or local tribes. In political discourse, racial inequalities have become the obsession of many, leading to the creation of oppression narratives and attempts to rectify such inequalities in various ways. Different countries around the world and throughout history have approached race in varying ways from a political perspective.
 
