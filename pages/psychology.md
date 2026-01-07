@@ -854,6 +854,10 @@ People have an instinctive aversion to incest which is informed by an intuitive 
 
 Important thing to note is that now that genetic engineering is becoming increasingly likely to occur, everyone is becoming more explicitly pro-eugenics to some degree. Banning the technology or promoting it can both be seen as eugenic arguably.
 
+## Beliefs
+
+When 10 percent of the population holds an unshakable belief, the belief will always be adopted by the majority of the society<ref>https://www.sciencedaily.com/releases/2011/07/110725190044.htm</ref>.
+
 ## References
 
 <references />
