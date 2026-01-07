@@ -207,12 +207,6 @@ Academia appears to have a particularly strong influence in promoting wokeness a
 
 ## ================================================================ TO ADD BELOW ================================================================
 
-
-
-
-
-
-
 ## <span style="background-color:orange">Tuition</span>
 
 **Spending can be good for student outcomes:** One study finds that per dollar, price cuts are less effective per-dollar than spending increases in terms of increasing postsecondary attainment. Spending has large impacts on enrollment and degree completion<ref>https://scholar.harvard.edu/files/ddeming/files/DW_Aug2017.pdf</ref>. However, a meta-analysis suggests that the mean tuition-enrollment elasticity across studies is close to zero after controlling for publication bias<ref>http://meta-analysis.cz/education/education.pdf</ref>.
@@ -223,9 +217,7 @@ Academia appears to have a particularly strong influence in promoting wokeness a
 
 **Higher tuition colleges tend to be better** Attending a relatively high tuition college has a net positive influence on educational attainment, occupational status, and income. This remained significant even after controlling for student background characteristics such as socioeconomic origins, secondary school achievement, and educational and occupational aspirations. It still remained significant after controlling for academic selectivity and private/public control<ref>https://www.researchgate.net/profile/Mark-Smylie/publication/226126111_College_Tuition_Costs_and_Early_Career_Socioeconomic_Achievement_Do_You_Get_What_You_Pay_For/links/55b21bd608aed621ddfd840d/College-Tuition-Costs-and-Early-Career-Socioeconomic-Achievement-Do-You-Get-What-You-Pay-For.pdf</ref>.
 
-## Experts
 
-When 10 percent of the population holds an unshakable belief, the belief will always be adopted by the majority of the society<ref>https://www.sciencedaily.com/releases/2011/07/110725190044.htm</ref>.
 
 ## References
 
