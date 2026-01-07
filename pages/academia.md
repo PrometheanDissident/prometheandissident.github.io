@@ -121,38 +121,27 @@ Only 8% of students at Top 20 American universities and 14% of lower-ranked univ
 
 Professors more confident in the truth of taboo conclusions reported more self-censorship, a pattern which could bias perceived scientific consensus regarding the inaccuracy of controversial conclusions. These taboo conclusions ranged from the level of racial discrimination in academia to whether transgender identity is ever a function of social influence. Tenured professors reported as much self-censorship and as much fear of consequences as untenured professors, including fear of getting fired. Younger, more left-leaning and female faculty were generally more opposed to controversial scholarship<ref>https://journals.sagepub.com/doi/10.1177/17456916241252085</ref>.
 
+The culture of academia on a student level is opposed to the pursuit of truth on controversial topics in favor of safetyism. Taking offense is a common experience on campuses and a sizable number of students are in favor of restricting speech on campuses, which corresponds to conformity pressures persisting on university campuses. Left-leaning students are less likely to tolerate controversial viewpoints and right-leaning students are more likely to self-censor on politically sensitive issues such as gender, immigration, or sexual and ethnic minorities<ref>https://link.springer.com/article/10.1007/s11577-020-00713-z</ref>. Gen Z university students tend to emphasize emotional-well being and de-emphasize academic rigor, and the degree to which this exists for students varies by sex. Men tended to score higher on measures of supporting academic freedom and advancing knowledge, while lower on advancing social justice and emotional well-being compared to females. Emotional stability positively predicted advancing knowledge, while negatively predicting emphasizing emotional well-being. Agreeableness positively predicted emphasizing emotional well-being while negatively predicting advancing knowledge<ref>https://researchers.one/articles/23.03.00001v1</ref>.
 
+There is some evidence suggesting that DEI bureaucracies may be exacerbating some of these problems. Research suggests that while the size of a DEI bureaucracy in a university is not related to students' level of tolerance for a liberal speaker, it is negatively related to tolerance for a conservative speaker. Furthermore, larger DEI bureaucracies are associated with higher levels of support for shouting down a speaker to prevent them from speaking, blocking other students from attending a campus speech, and using violence to stop a campus speech. This suggests that DEI bureaucracies may contribute to a culture of censorship<ref>https://heterodoxacademy.org/blog/is-dei-causing-the-crisis-of-free-speech-on-campus/</ref>. Larger DEI bureaucracies are also associated with lower student comfort with expression outside of classrooms and a greater perceived difficulty to have open and honest conversations<ref>https://themissingdatadepot.substack.com/p/is-dei-destroying-free-speech-on</ref>.
 
+## On Education and Schooling
 
+Post-secondary institutions, while being at the forefront of producing research, are also extremely influential in educating people. Over time, the educational level of the average person has risen, as can be measured by the percentage of individuals completing a certain number of years of primary or secondary schooling, percentage of individuals with a high school diploma, or percentage of individuals with a post-secondary degree. As a society, we invest a significant amount of time and money into education, so it is crucial to understand its effects. It is first important to examine the effects of primary and secondary education, what will be referred to henceforth as "schooling", and then examine the effects of university or related education, what will be referred to generally as "post-secondary education".
 
+### Does Schooling Work?
 
+Research does suggest that some level of schooling is positive in terms of the payoffs associated with it. Given that many skills that students learn in schools have direct applications in virtually any job, such as basic aritmetic and writing skills, ensuring that students have a minimum level of education is crucial for promoting general economic welfare. Research backs this up and suggests that literacy and numeracy have a substantial economic value. This literature suggests that more years in education in and of itself does not matter for this level of economic value. Rather, more years must be combined with a rigorous curriculum and strong evaluation processes to have a stronger economic value<ref>https://wol.iza.org/articles/what-is-economic-value-of-literacy-and-numeracy</ref>.
 
+While it seems that some basic level of schooling is good, a lot of evidence suggests that school quality doesn't matter as much as many people think it does. This is largely because performance in school and future well-being are heavily a product of factors outside of a school, including genetic factors such as intelligence and personality which environmental interventions cannot meaningfully influence. For example, school spending, a measure of the quality of a school, has essentially zero effect on class test scores. RCTs of educational interventions almost always find no benefits of such programs, with on average an effect of 0.06 standard deviations. School spending research shows very small benefits, such as 0.03 standard deviations per $1000 spent per pupil<ref>https://www.emilkirkegaard.com/p/against-the-economists-on-school</ref>.
 
+Similarly, the type of schooling itself matters much less than many people think. There are three broad categories of schools: public schools, private schools, and charter schools. Public schools are operated by the government, while private schools are independent<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/07/balancing-school-choice-and-equity_b8766e0e/2592c974-en.pdf</ref>. Charter schools are public schools which receive public funds but are exempt from parts of the states’ education codes to allow them to experiment with alternative curricula and pedagogical approaches. While more independent, they also face higher risks of getting shut down<ref>https://sandera.ucsd.edu/publications/DISC%20PAPER%20Betts%20Tang%20Charter%20Lit%20Review%202018%2001.pdf</ref>.
 
+When comparing the two big categories, private schools and public schools, evidence suggests that there is essentially no difference in student outcomes as a product of the type of school. While in terms of raw scores private school students tend to do better than public school students, this advantage disappears when controlling for the socioeconomic status of the students and schools<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/how-do-public-and-private-schools-differ-in-oecd-countries_f196df88/90348307-en.pdf</ref>, or when looking at demographically similar students<ref>https://www.edweek.org/policy-politics/public-schools-outperform-private-schools-book-says/2014/05</ref>.
 
+Looking at the effects of charter schools, there are very heterogeneous effects depending on the study, although on the net there is a small positive effect of charter schools on elementary reading and math, as well as middle school math. There is no statistically significant effect on middle school reading or high school reading or math<ref>https://files.eric.ed.gov/fulltext/ED526353.pdf</ref>. Some evidence suggests that charter schools tend to produce the same or better school outcomes at a lower cost compared to traditional public schools<ref>https://www.researchgate.net/publication/251545870_The_Relative_Efficiency_of_Charter_Schools_A_Cost_Frontier_Approach</ref>. However, they can also present logistic problems with regards to cost for school districts. Charter schools tend to be more fiscally costly for school districts because separate governance arrangements can create excess costs and the financing policies can distribute resources to or away from districts<ref>http://www.columbia.edu/~rr2165/pdfs/nycharterfiscal.pdf</ref>. Here, tradeoffs appear to exist between the benefits of quality and individuality of education from charter schools and the costs of lower economies of scale associated with having smaller and more numerous school governance arrangements.
 
-
-
-
-
-
-
-
-
-Taking offense is a common experience on campuses and a sizable number of students are in favor of restricting speech on campuses. There is evidence of conformity pressures existing on university campuses. Left-leaning students are less likely to tolerate controversial viewpoints and right-leaning students are more likely to self-censor on politically sensitive issues such as gender, immigration, or sexual and ethnic minorities<ref>https://link.springer.com/article/10.1007/s11577-020-00713-z</ref>.
-
-Gen Z university students tend to emphasize emotional-well being and de-emphasize academic rigor. Men tended to score higher on measures of supporting academic freedom and advancing knowledge, while lower on advancing social justice and emotional well-being compared to females. Emotional stability positively predicted advancing knowledge, while negatively predicting emphasizing emotional well-being. Agreeableness positively predicted emphasizing emotional well-being while negatively predicting advancing knowledge<ref>https://researchers.one/articles/23.03.00001v1</ref>.
-
-The size of a DEI bureaucracy in a university is not related to students' level of tolerance for a liberal speaker, but it is negatively related to tolerance for a conservative speaker. Furthermore, larger DEI bureaucracies are associated with higher levels of support for shouting down a speaker to prevent them from speaking, blocking other students from attending a campus speech, and using violence to stop a campus speech. This suggests that DEI bureaucracies may contribute to a culture of censorship<ref>https://heterodoxacademy.org/blog/is-dei-causing-the-crisis-of-free-speech-on-campus/</ref>. Larger DEI bureaucracies are also associated with lower student comfort with expression outside of classrooms and a greater perceived difficulty to have open and honest conversations<ref>https://themissingdatadepot.substack.com/p/is-dei-destroying-free-speech-on</ref>.
-
-
-
-
-
-
-
-
-
+In short, while the private-public distinction with regards to schools doesn't matter much, charter schools appear to perform better, although they may come at a higher fiscal cost compared to other school types due to logistical problems. That charter schools appear to perform better than other school models may be due to the fact that they have much more flexibility to experiment with different approaches to education, enabling them to figure out what works and what doesn't to a greater degree than other school models would. Furthermore, charter schools can often specialize to a greater degree than other models can, which allows them to target for specific demographics of students who may lack suitable education in traditional education systems. This can include specializing for certain disabilities, giftedness, or interests such as fine arts.
 
 ## ================================================================ TO ADD BELOW ================================================================
 
@@ -167,8 +156,6 @@ The size of a DEI bureaucracy in a university is not related to students' level 
 
 **Degrees are Mostly Signalling:** According to Abel & Deitz (2019), the average annual rate of return for a college bachelor's degree, in spite of rising college costs, is around 14%, meaning it is still a good investment<ref>https://libertystreeteconomics.newyorkfed.org/2019/06/despite-rising-costs-college-is-still-a-good-investment/</ref>. Research suggests that there is large variation depending on a number of factors. While college selectivity and where one studies has relatively little effect on a person's long-term financial returns to their education<ref>https://sci-hub.se/https://doi.org/10.1007/BF00992285</ref><ref>https://sci-hub.se/https://doi.org/10.1162/003355302320935089</ref>, what a person studies has a large effect on their financial returns<ref>https://www.economist.com/united-states/2015/03/12/it-depends-what-you-study-not-where</ref>. There exists substantial sheepskin effects on returns to education, where there are increases in earnings due to the credential itself as opposed to the underlying skills or abilities demonstrated by individuals<ref>http://econ.queensu.ca/pub/jdi/deutsch/edu_conf/Ferrer.pdf</ref><ref>https://www.econstor.eu/bitstream/10419/188353/1/pjcss433.pdf</ref>. In 2011, a Russian educational reform shortened the university study period by one year and reduced the content of the curricula but did not change the quality of admitted students. This had no adverse effect on wages and on the probability of being employed, suggesting no returns to higher education<ref>https://wp.hse.ru/data/2020/09/22/1584505319/236EC2020.pdf</ref>.
 
-**Basic Education is Economically Good:** Literacy and numeracy have substantial economic value. More years in education alone does not improve this economic value, but it must be combined with a rigorous evaluation and curriculum<ref>https://wol.iza.org/articles/what-is-economic-value-of-literacy-and-numeracy</ref>.
-
 RDD shows that university admission yields earnings gains of 22% between 8 and 14 years after HS completion, which outstrip the costs of college attendance<ref>https://econpapers.repec.org/article/ucpjlabec/doi_3a10.1086_2f676661.htm#:~:text=the%20returns%20to%20college%20admission,lunch%20recipients</ref>.
 
 Educational returns for tertiary education have declined over time, although the gap between the educated and less educated has remained similar in most countries. This means that for younger cohorts, tertiary education has become more necessary to survive in the labor market, but the actual economic returns have decreased making tertiary education less sufficient than before<ref>https://link.springer.com/article/10.1007/s10734-018-0353-z#:~:text=we%20analyze%20trends%20over%20three,education%20less%20sufficient%20than%20before</ref>.
@@ -181,18 +168,10 @@ Over the period 1995-1998 Italy experienced an expansion of its higher education
 
 ### <span style="background-color:orange">Effects of Schooling</span>
 
-- **Crime: Reduced -** Improved schooling reduces crime rates. The causal link does not appear to be the reverse, as this was researched using randomized treatment, thus in effect acting as an experiment<ref>https://dash.harvard.edu/bitstream/handle/1/12308135/Deming_BSLC_QJE.pdf?sequence=1</ref>.
-- **Class Size: Positive -** Class size increases educational attainment even controlling for IQ<ref>https://sci-hub.ru/https://doi.org/10.2307/1164099</ref>.
-
-### <span style="background-color:lightcoral">Types of Schooling</span>
-
-#### <span style="background-color:orange">Homeschooling</span>
-
 **Homeschooling Based** There are a variety of reasons why parents and youth may decide to do homeschooling, including increasing family bonding, to accomplish more academically, to customize or individualize the curriculum and learning environment, to provide a safer environment, or to teach and impart a particular set of values, beliefs, or worldview.The home-educated tend to score above average on achievement tests regardless of their parents' level of formal education and also score above average on SAT and ACT tests. The home-educated typically do above average on measures of social, emotional, and psychological development and tend to engage more in civic life in adulthood. The causality of these relationships is not clear however<ref>https://files.eric.ed.gov/fulltext/ED556234.pdf</ref>.
 
-#### <span style="background-color:orange">Charter Schools</span>
-
-**Mixed:** Charter schools have very heterogeneous effects depending on the study, although on the net there is a small positive effect of charter schools on elementary reading and math, as well as middle school math. There is no statistically significant effect on middle school reading or high school reading or math<ref>https://files.eric.ed.gov/fulltext/ED526353.pdf</ref>. Charter schools tend to be more fiscally costly for school districts because separate governance arrangements can create excess costs and the financing policies can distribute resources to or away from districts<ref>http://www.columbia.edu/~rr2165/pdfs/nycharterfiscal.pdf</ref>.
+- **Crime: Reduced -** Improved schooling reduces crime rates. The causal link does not appear to be the reverse, as this was researched using randomized treatment, thus in effect acting as an experiment<ref>https://dash.harvard.edu/bitstream/handle/1/12308135/Deming_BSLC_QJE.pdf?sequence=1</ref>.
+- **Class Size: Positive -** Class size increases educational attainment even controlling for IQ<ref>https://sci-hub.ru/https://doi.org/10.2307/1164099</ref>.
 
 ### <span style="background-color:orange">Performance-Related Pay</span>
 
@@ -284,14 +263,6 @@ The entertainment industry, news media, and academia are among the most liberal 
 
 ## School types
 
-Public schools are operated by the government, while private schools are independent<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/07/balancing-school-choice-and-equity_b8766e0e/2592c974-en.pdf</ref>. Charter schools are public schools which receive public funds but are exempt from parts of the states’ education codes to allow them to experiment with alternative curricula and pedagogical approaches. While more independent, they also face higher risks of getting shut down<ref>https://sandera.ucsd.edu/publications/DISC%20PAPER%20Betts%20Tang%20Charter%20Lit%20Review%202018%2001.pdf</ref>.
-
-Charter schools tend to produce the same or better school outcomes at a lower cost compared to traditional public schools<ref>https://www.researchgate.net/publication/251545870_The_Relative_Efficiency_of_Charter_Schools_A_Cost_Frontier_Approach</ref>.
-
-Across OECD countries, public and private schools receive approximately the same total funding per student, but governments spend nearly twice as much on public institutions as on private institutions on average<ref>https://www.oecd.org/en/publications/education-at-a-glance-2023_e13bef63-en/full-report/how-much-is-spent-per-student-on-educational-institutions_7bd34293.html</ref>.
-
-While in terms of raw scores private school students tend to do better than public school students, this advantage disappears when controlling for the socioeconomic status of the students and schools<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/how-do-public-and-private-schools-differ-in-oecd-countries_f196df88/90348307-en.pdf</ref>, or when looking at demographically similar students<ref>https://www.edweek.org/policy-politics/public-schools-outperform-private-schools-book-says/2014/05</ref>.
-
 A meta-analysis of RCTs found an overall positive and statistically significant effect of school vouchers on school achievement<ref>https://scholarworks.uark.edu/edrepub/33/</ref>.
 
 The success of school types appears to be much more a function of the regulatory climate as opposed to the school types themselves<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2016/11/regulating-publicly-funded-private-schools_g17a28af/5jln6jcg80r4-en.pdf</ref>.
@@ -301,8 +272,6 @@ The success of school types appears to be much more a function of the regulatory
 When 10 percent of the population holds an unshakable belief, the belief will always be adopted by the majority of the society<ref>https://www.sciencedaily.com/releases/2011/07/110725190044.htm</ref>.
 
 ## TOADD
-
-School spending has essentially zero effect on class test scores. RCTs of educational interventions almost always find no benefits of such programs, with on average an effect of 0.06 standard deviations. School spending research shows very small benefits, such as 0.03 standard deviations per $1000 spent per pupil<ref>https://www.emilkirkegaard.com/p/against-the-economists-on-school</ref>.
 
 Robert K Merton in his work “The Sociology of Science” defines 4 norms of ideal scientific practice<ref>https://www.aporiamagazine.com/p/robert-k-merton-and-the-modern-ethos</ref>:
 - Universalism - Scientists and their claims should be judged on the basis of impersonal criteria
