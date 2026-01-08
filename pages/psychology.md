@@ -215,6 +215,52 @@ Another psychological domain where political differences have been shown to exis
 
 Similarly, there exists differences in moral foundations across people of differing political beliefs (see [The Emergence of Morality in Social Groups](https://prometheandissident.github.io/psychology/#the-emergence-of-morality-in-social-groups) for a discussion of moral foundations theory). Liberals have greater endorsement of the harm/care and fairness/reciprocity foundations compared to the other 3 foundations, while conservatives endorse and use the 5 foundations more equally<ref>https://psycnet.apa.org/record/2009-05192-002</ref>. Furthermore, liberals tend to express compassion toward less structured and more encompassing entities, supporting universalism, while conservatives express compassion toward more well-defined and less encompassing entities, supporting parochialism<ref>https://files.catbox.moe/kafw6v.pdf</ref>. In other words, liberals tend to support an expansion of the moral circle. Higher perceptions of social dangers and greater emphases on the binding moral foundations relative to the individualizing foundations is associated with conservatism<ref>http://timbates.wdfiles.com/local--files/group-project/Leuwen%20and%20Park.pdf</ref>.
 
+#### Is Leftism a Religion?
+
+While political belief is neurologically comparable to religions, there is a case to be made that some political beliefs can be analogized to religious belief better than others. This can be seen with the fact that some people can be seen as more religious than others, but arguably no one can be more "political" than another, as to abandon politics is to implicitly support the status quo. What then would make one political belief more analogous to a religion? i posit that there are two major traits:
+
+- **Causiness -** For a political belief to be more "religious" in nature, people have to care about it at a more fundamental level. It must arouse a strong degree of passion from its adherents, in that they are willing to openly talk about their politics, actively fight to get their ideas supported, and shun those who oppose their ideas.
+- **Conformity -** The attitudes which members of this political belief adopt must be highly consistent from member to member.
+
+Is leftism characterized by higher levels of causiness and conformity? Beginning with causiness:
+
+- The political scientist Richard Hanania points to differences between left-wingers and right-wingers in their levels of political donations as well as their willingness to shun their political opponents. Left-wingers donate a significantly higher amount of money to candidates they support, and they are significantly more likely to end a friendship over political differences<ref>https://www.richardhanania.com/p/why-is-everything-liberal</ref>.
+- Research looking at psychological representations suggest that conservatives tend to view liberals as more immature in terms of mental representations, while liberals tend to view conservatives as more savage in terms of mental representations<ref>https://pubmed.ncbi.nlm.nih.gov/37415508/#:~:text=Results%20suggest%20that%20partisans%20indeed,more%20strongly%20emphasizes%20savagery%20</ref>. In other words, liberals tend to think about their political opponents in more dehumanizing terms compared to conservatives.
+- Liberals are more likely to engage in non-voting political activities, such as protesting, donating to political candidates or campaigns, and engaging in politics online, compared to their conservative counterparts<ref>https://source.colostate.edu/political-party-voter-turnout-research/</ref>. These actions tend to be associated with a much higher level of fervor compared to more traditional within-the-system means of doing politics, which tends to characterize conservative action.
+- Despite the fact that leftists are more concerned with avoiding offending others when they speak<ref>https://www.pewresearch.org/global/2021/05/05/4-political-correctness-and-offensive-speech/</ref>, they are more likely to feel comfortable sharing their political beliefs, while conservatives are most likely to self-censor. Democrats are more likely to favor banning hate speech, saying offensive or insulting things about a group more than republicans, even when it’s about things that republicans favor such as the military and police<ref>https://www.cato.org/survey-reports/state-free-speech-tolerance-america#overview</ref>. This points to a general support among leftists to censor or shun people who they disagree with.
+
+As a sidenote, there is an interesting paradox when it comes to differences in beliefs between left-wingers and right-wingers. When it comes to deviance, left-wingers tend to be much more punitive against deviant ideas relative to right-wingers. This is despite the fact that liberals tend to be more empathetic than conservatives according to self reporting. This is corroborated by higher neural empathy responses in liberals compared to conservatives<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC10281241/</ref>. However, right-wingers tend to be much more punitive against deviant actions relative to left-wingers. The difference in punishment of deviant ideas can be seen in aforementioned political differences on censoriousness. The difference in punishment of deviant actions can be seen in how different ideological groups respond to criminial behavior. In reacting to victims of crimes, liberals tend to have a reparative mindset that directly addresses the needs and concerns of victims, while conservative responses are at least equally reflective of a punitive mindset that addresses victim harm through offender punishment<ref>https://www.researchgate.net/publication/228281541_Political_Ideology_and_Reactions_to_Crime_Victims_Preferences_for_Restorative_and_Punitive_Responses#:~:text=,associated%20with%20decreased%20confidence%20and</ref>.
+
+
+
+
+
+
+
+
+
+
+
+
+Republicans tend to have a wider range of beliefs in terms of attitude networks<ref>https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12665</ref>:
+
+<img src="https://bpspsychub.onlinelibrary.wiley.com/cms/asset/0ecbdd65-e5d7-462c-bb8d-a9664dcda6b6/bjso12665-fig-0002-m.jpg" alt="Attitude Network" width="500">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Discuss decline of religion, also examine evidence in favor of notion that "leftism" is a religion in a way that "rightism" is not generally speaking
 - It's not clear to me that left-right distinction is actually useful to examine in an objective sense, but because it is perceived as useful phenomenologically, people who self select into these cateogories will probably have objective differences even if the left-right distinction was arbitrarily arrived at. Maybe left-right isn't the most fundamental distinction, or maybe we need two or three dimensions to examine political belief in the modern age.
 - Of course models are always going to be oversimplifications, the question is whether the model is sufficiently explaining the phenomenon in a way that's useful to us.
@@ -315,13 +361,7 @@ The average decadal IQ increase since 1951 has been 2.6 points<ref>https://www.n
 
 Confirmation bias is the tendency to seek or interpret evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand<ref>https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</ref>. This has been shown in the case of the evaluation of political arguments, where attitudinally congruent arguments are uncritically supported and evaluated as stronger than attitudinally incongruent arguments, which are counter-argued against<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2006.00214.x</ref>. The latter can be referred to as a disconfirmation bias. This can lead to attitude polarization. Whether a person's prior belief is accompanied by emotional conviction affects the magnitude and form of the disconfirmation bias<ref>https://psycnet.apa.org/record/1996-01782-001</ref>.
 
-Republicans tend to have a wider range of beliefs in terms of attitude networks<ref>https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12665</ref>:
-
-<img src="https://bpspsychub.onlinelibrary.wiley.com/cms/asset/0ecbdd65-e5d7-462c-bb8d-a9664dcda6b6/bjso12665-fig-0002-m.jpg" alt="Attitude Network" width="500">
-
 Vertical cultural transfer effects, the notion that parents through teaching their children pass down their values onto their children independently of genetics or assortative mating, is mostly untrue. Political interests are somewhat copied from parents when living at home, but quickly disappear when people get into adulthood<ref>https://emilkirkegaard.dk/en/2018/09/vertical-cultural-transfer-effects-plausible-but-mostly-not-real/</ref>.
-
-Conservatives tend to view liberals as more immature in terms of mental representations, while liberals tend to view conservatives as more savage in terms of mental representations<ref>https://pubmed.ncbi.nlm.nih.gov/37415508/#:~:text=Results%20suggest%20that%20partisans%20indeed,more%20strongly%20emphasizes%20savagery%20</ref>.
 
 There is a positive link between increased paternal age and leftism, at r=0.12<ref>https://sociobiology.org/post/a-paternal-age-effect-on-leftism-is-detect</ref>. Traits that are changing due to mutational pressure are expected to be much more common with offspring from older fathers, suggesting that this implies a mutational load effect of leftism. Furthermore, older fathers themselves are not more leftist than younger fathers, meaning the paternal age effect is not due to differences in breeding patterns between leftists and non-leftists<ref>https://sociobiology.org/post/evidence-for-a-paternal-age-effect-on-left</ref>. However, this correlation goes away once controlling for age, sex and paternal education implying the mutational load hypothesis may be incorrect, although the sample size may mean the controls caused the test to be underpowered<ref>https://arctotherium.substack.com/p/against-the-mutational-load-hypothesis</ref>.
 
@@ -372,8 +412,6 @@ Conservatives and liberals also have equal levels of narcissism, although they d
 - **Physical Appearance -** Right-wingers tend to be more attractive than left-wingers<ref>https://sci-hub.ru/https://doi.org/10.1016/j.jpubeco.2016.12.008</ref><ref>https://sci-hub.ru/https://doi.org/10.1017/pls.2017.18</ref>, partially due to attractive people being more likely to support inequality<ref>https://sci-hub.ru/https://doi.org/10.1016/j.obhdp.2014.03.002</ref>, as they earn more. Appearance is a substantial predictor of political ideology, as facial recognition technology can correctly identify political orientation in liberal-conservative face pairs significantly greater than at random<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7801376/</ref>. Female politicians with stereotypically feminine facial features are more likely to be republican<ref>https://www.sciencedaily.com/releases/2012/09/120927130955.htm</ref>. The facts of politicians judged to be supporters of the Conservative Party are rated as more intelligent, attractive, honest, and of higher social class than the facts of politicians judged to be from the Labor Party. This effect exists regardless of the political allegiances of the observers<ref>https://www.jstor.org/stable/3791063?seq=1#page_scan_tab_contents</ref>. Taller individuals are more likely to support the Conservative Party, support conservative policies and vote Conservative<ref>https://www.cambridge.org/core/journals/british-journal-of-political-science/article/height-income-and-voting/2B6875BFB8B956963D1DBBD510A581CF</ref>. Self-perceived attractiveness is associated with support for group-based dominance and belief in legitimizing ideologies. This effect is mediated by subjective social class. Lower self-perceived attractiveness decreases subjective SES, which leads to a greater tendency to reject social hierarchies and to construe inequality in terms of contextual causes<ref>https://www.sciencedirect.com/science/article/abs/pii/S0749597814000223?via%3Dihub</ref>.
 
 ### <span style="background-color:orange">Behaviors/Thought Patterns</span>
-
-- **Activism -** Consistent liberals and consistent conservatives are the people most likely to engage in activism and the political process<ref>https://www.pewresearch.org/politics/2014/06/12/section-5-political-engagement-and-activism/</ref>. Stereotypes and perceptions about activists reduce people's willingness to affiliate with activists and to adopt the behaviors these activists promote<ref>https://psycnet.apa.org/record/2013-42785-004</ref>.
 - **Genetic Attributions -** Genetic attributions are more likely to be made by liberals, are associated with higher and not lower levels of tolerance of vulnerable individuals, and are unrelated with unseemly racial attitudes<ref>https://www.journals.uchicago.edu/doi/10.1086/696860</ref>. Both conservative economic and social political ideology indirectly predict homophobia through binding foundations<ref>https://pubmed.ncbi.nlm.nih.gov/28466228/#:~:text=Study%202%20found%20that%20both,between%20political%20ideology%20and%20homophobia</ref>.
 - **Authoritarianism -** Right-wing authoritarianism and left-wing authoritarianism are separate constructs that reflect a shared constellation of personality traits, cognitive features, beliefs, and motivational values that are at the core of authoritarianism in general. Relative to right-wing authoriarians, left-wing authoritarians have more negative emotionality, are lower in dogmatism and cognitive rigidity, and express stronger support for state control. Left-wing authoritarianism is a strong predictor of behavioral aggression and participation in political violence<ref>https://pubmed.ncbi.nlm.nih.gov/34383522/</ref>.
 - **Discrimination -** Compared to conservatives, moderates and liberals are much less accepting of discriminatory actions. Conservatives tend to value employers' decision rights while others value utilitarian concerns<ref>https://www.nber.org/papers/w30236#fromrss</ref>.
@@ -547,23 +585,9 @@ Epigenetic inheritance may account for a significant portion of “missing herit
 
 ## Crime vs Thought
 
-Liberals are more likely to feel comfortable sharing their political beliefs, while conservatives are most likely to self-censor. Democrats are more likely to favor banning hate speech, saying offensive or insulting things about a group more than republicans, even when it’s about things that republicans favor such as the military and police<ref>https://www.cato.org/survey-reports/state-free-speech-tolerance-america#overview</ref>.
-
-Leftists are more concerned with avoiding offending others when they speak<ref>https://www.pewresearch.org/global/2021/05/05/4-political-correctness-and-offensive-speech/</ref>.
-
 Liberals are cognitively speaking more flexible and tolerant of complexity and novelty, while conservatives are more rigid, more resistant to change and prefer clear answers. Liberals solve significantly more problems through insight instead of a step-by-step analytic fashion<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4869693/</ref>.
 
-Conservatives tend to show more intolerance to groups perceived as more liberal, while liberals tend to show more intolerance to groups perceived as more conservative<ref>https://research.tilburguniversity.edu/en/publications/the-ideological-conflict-hypothesis-intolerance-among-both-libera</ref>.
-
-Conservatives had less favorable impressions than liberals of groups that were identified as liberal (e.g., African Americans, homosexuals), but more favorable impressions than liberals of groups identified as conservative (e.g., Christian fundamentalists, businesspeople). This suggests that prejudice exists across the ideological spectrum<ref>https://journals.sagepub.com/doi/10.1177/0956797612447820?icid=int.sj-abstract.citing-articles.137</ref>.
-
-In reacting to victims of crimes, liberals tend to have a reparative mindset that directly addresses the needs and concerns of victims, while conservative responses are at least equally reflective of a punitive mindset that addresses victim harm through offender punishment<ref>https://www.researchgate.net/publication/228281541_Political_Ideology_and_Reactions_to_Crime_Victims_Preferences_for_Restorative_and_Punitive_Responses#:~:text=,associated%20with%20decreased%20confidence%20and</ref>.
-
 Right-wing authoritarianism predicts both the extent to which people worry about social threats and the extent to which they support harsh punitive measures<ref>https://www.academia.edu/14032546/Authority_and_punishment_on_the_ideological_basis_of_punitive_attitudes_towards_criminals</ref>.
-
-Liberals tend to be more empathetic than conservatives according to self reporting. This is corroborated by higher neural empathy responses in liberals compared to conservatives<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC10281241/</ref>.
-
-Harm and Fairness are considered individualizing because they emphasize the protection of individual wellbeing and rights. Authority, Loyalty, and Purity are considered binding because they emphasize duty, interdependence, tradition, and adherence to cultural and religious practices. Endorsement of group-oriented moral concerns was associated with more punitive and conservative attitudes, while endorsement of individual-oriented moral concerns was associated with less punitive and less conservative attitudes<ref>https://pubmed.ncbi.nlm.nih.gov/28150974/</ref>.
 
 ## Impact of Nationalism
 
@@ -618,8 +642,6 @@ One study estimates that 42% of protest movements in the 21st century achieved s
 Looking at US black led protests between 1960-72, nonviolent protest triggers news framed in terms sympathetic to protesters, while violent protest led to a media focus on the need for law and order to control dangerous riots. Violent protest is met with police violence and shifts voting away from the cause, while nonviolent protest is met with voting towards the cause. Looking at the BLM protests 2020 and after, at the state level more protest was associated with more approved bills for police reform. However, at the city level more protest was associated with increases to police budgets in cities with larger shares of whites and republicans, suggesting a backlash against calls to defund the police<ref>https://journals.sagepub.com/doi/10.1177/13684302241245660</ref>.
 
 Scholarship on left-wing campus movements shows a history of notable successes, such as hundreds of academic programs on topics like black studies, women’s studies, and Asian-American studies that now exist. Conservative movements seem to be less successful in achieving their goals on American college campuses. This may speak to a structural issue, that left-wing movements are mobilizing on their home turf in a sense<ref>https://compass.onlinelibrary.wiley.com/doi/full/10.1111/soc4.12603</ref>.
-
-Liberals are more likely to engage in non-voting political activities, such as protesting, donating to political candidates or campaigns, and engaging in politics online, compared to their conservative counterparts<ref>https://source.colostate.edu/political-party-voter-turnout-research/</ref>.
 
 Of the 34 largest single-day protests in the US, 32 promoted liberal causes. Student protesters tend to operate at Kohlberg’s postconventional level of moral judgment, while non-protestors score at the conventional level. Conventional morality is followed mostly by conservatives, while post-conventional morality is mostly followed by liberals. Liberals tend to be higher in political self-efficacy than conservatives, which is the belief that one’s public actions make a real difference. This may be a determinant of public protesting. High levels of openness to experience indicate a tendency to challenge tradition and establishments, which liberals tend to score high on. Protests require this and will thus most likely select for liberals. In contrast, conservatives prefer to work within traditional systems and respect the established order, and so may be more prone to engaging in activities, like voting, that adhere to these beliefs<ref>https://www.psychologytoday.com/us/blog/cui-bono/202506/do-liberals-protest-more-than-conservatives</ref>.
 
