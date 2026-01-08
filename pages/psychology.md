@@ -229,41 +229,13 @@ Is leftism characterized by higher levels of causiness and conformity? Beginning
 - Liberals are more likely to engage in non-voting political activities, such as protesting, donating to political candidates or campaigns, and engaging in politics online, compared to their conservative counterparts<ref>https://source.colostate.edu/political-party-voter-turnout-research/</ref>. These actions tend to be associated with a much higher level of fervor compared to more traditional within-the-system means of doing politics, which tends to characterize conservative action.
 - Despite the fact that leftists are more concerned with avoiding offending others when they speak<ref>https://www.pewresearch.org/global/2021/05/05/4-political-correctness-and-offensive-speech/</ref>, they are more likely to feel comfortable sharing their political beliefs, while conservatives are most likely to self-censor. Democrats are more likely to favor banning hate speech, saying offensive or insulting things about a group more than republicans, even when it’s about things that republicans favor such as the military and police<ref>https://www.cato.org/survey-reports/state-free-speech-tolerance-america#overview</ref>. This points to a general support among leftists to censor or shun people who they disagree with.
 
-As a sidenote, there is an interesting paradox when it comes to differences in beliefs between left-wingers and right-wingers. When it comes to deviance, left-wingers tend to be much more punitive against deviant ideas relative to right-wingers. This is despite the fact that liberals tend to be more empathetic than conservatives according to self reporting. This is corroborated by higher neural empathy responses in liberals compared to conservatives<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC10281241/</ref>. However, right-wingers tend to be much more punitive against deviant actions relative to left-wingers. The difference in punishment of deviant ideas can be seen in aforementioned political differences on censoriousness. The difference in punishment of deviant actions can be seen in how different ideological groups respond to criminial behavior. In reacting to victims of crimes, liberals tend to have a reparative mindset that directly addresses the needs and concerns of victims, while conservative responses are at least equally reflective of a punitive mindset that addresses victim harm through offender punishment<ref>https://www.researchgate.net/publication/228281541_Political_Ideology_and_Reactions_to_Crime_Victims_Preferences_for_Restorative_and_Punitive_Responses#:~:text=,associated%20with%20decreased%20confidence%20and</ref>.
+As a sidenote, there is an interesting paradox when it comes to differences in beliefs between left-wingers and right-wingers. When it comes to deviance, left-wingers tend to be much more punitive against deviant ideas relative to right-wingers. This is despite the fact that liberals tend to be more empathetic than conservatives according to self reporting. This is corroborated by higher neural empathy responses in liberals compared to conservatives<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC10281241/</ref>. However, right-wingers tend to be much more punitive against deviant actions relative to left-wingers. The difference in punishment of deviant ideas can be seen in aforementioned political differences on censoriousness. The difference in punishment of deviant actions can be seen in how different ideological groups respond to criminial behavior. In reacting to victims of crimes, liberals tend to have a reparative mindset that directly addresses the needs and concerns of victims, while conservative responses are at least equally reflective of a punitive mindset that addresses victim harm through offender punishment<ref>https://www.researchgate.net/publication/228281541_Political_Ideology_and_Reactions_to_Crime_Victims_Preferences_for_Restorative_and_Punitive_Responses#:~:text=,associated%20with%20decreased%20confidence%20and</ref>. This can be argued to be further evidence that leftism is more of a religion than most other belief systems. Whereas right-wingers tend to care a lot more about immoral behavior which has much more direct real-world consequences, left-wingers tend to care a lot more about immoral thoughts which if they have real-world consequences are generally much less extreme and much less direct.
 
-
-
-
-
-
-
-
-
-
-
-
-Republicans tend to have a wider range of beliefs in terms of attitude networks<ref>https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12665</ref>:
+What about conformity? Right-wingers might be more conformist in general behavior, but in terms of their beliefs they are significantly less so. This can be seen with a visual from a recent study, which finds that Republicans tend to have a wider range of beliefs in terms of attitude networks<ref>https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12665</ref>:
 
 <img src="https://bpspsychub.onlinelibrary.wiley.com/cms/asset/0ecbdd65-e5d7-462c-bb8d-a9664dcda6b6/bjso12665-fig-0002-m.jpg" alt="Attitude Network" width="500">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Discuss decline of religion, also examine evidence in favor of notion that "leftism" is a religion in a way that "rightism" is not generally speaking
-- It's not clear to me that left-right distinction is actually useful to examine in an objective sense, but because it is perceived as useful phenomenologically, people who self select into these cateogories will probably have objective differences even if the left-right distinction was arbitrarily arrived at. Maybe left-right isn't the most fundamental distinction, or maybe we need two or three dimensions to examine political belief in the modern age.
-- Of course models are always going to be oversimplifications, the question is whether the model is sufficiently explaining the phenomenon in a way that's useful to us.
+The two traits I identify which can make it more fair to suggest a political ideology is a religion are not on a binary. Rather, they are a spectrum, so it's more accurate to say that some ideologies are more religious than others. So while it is not fair to suggest that leftism is a religion, it is in relative terms, a relatively religious political ideology on a sociological level.
 
 ### Mobbing and Other Group Dynamics
 
