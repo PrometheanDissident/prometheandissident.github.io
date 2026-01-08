@@ -4,6 +4,20 @@ title: Economics
 permalink: /economics/
 ---
 
+**<u>Summary</u>**
+
+The fundamental aim of economics as a discipline is to figure out how to deal with scarcity and allocate resources in a way that is seen as "moral" or "efficient". This is an extremely broad topic, and in this section I go through a wide range of issues within the field of economics surrounding how we should organize society. I will summarize the broad themes which I discuss within this section.
+
+I begin with discussing private ownership, and conclude that private ownership of production as well as broad economic freedom are generally good things. Central planning is associated with less economic efficiency, and correspondingly, a lower quality of life. Claims that capitalism, or a society which generally allows for private ownership, is associated with exploitation or corruption, is shown to be false. The reason why capitalism is the system which every high-income country in the world today practices is because it works.
+
+I also discuss economic growth and technological progress, focusing on how important economic growth is and how crucial technological progress is to promoting growth. Because a small increase in the rate of economic growth leads to an exponential increase in total output over time, unlike most things which can only increase linearly, output growth presents one of the greatest opportunities to significantly increase the well-being of a population. While technological progress is essential to promoting this, it does carry with it some risks, particularly evolutionary mismatch and broader social disruption, which do have to be considered.
+
+Fiscal policy and monetary policy can be effective tools to help stabilize growth over time, as they can help to prevent an economy from overheating and can help stimulate demand during recessions. Particularly with fiscal policy, however, it is important to not go too far with spending as that can lead to problems associated with high debt which can ultimately cripple an economy.
+
+Inequality, while very commonly discussed in political debates, does not matter so much as social mobility and poverty. As long as everyone has a good baseline standard of living, inequality does not come with any of the social externalities which many claim it does. Due to inequalities being natural to a large degree, our discourse should move away from comparing the wealth of some relative to others, and instead move towards directly asking how we can improve the well-being of those who are less well-off. A social safety net which balances selective and universal programs would go a long way towards achieving this.
+
+At the end of this section, I discuss a few more meta points with regards to market economies, including the phenomena of "woke" capitalism and the future of capitalism. I demonstrate that "woke" capitalism is ultimately a function of consumer preferences, and thus will be disincentivized once consumers stop supporting it. I discuss the probability that capitalism in its current form will continue in the future, and examine whether every social problem could in theory be solved if everyone had as much as they wanted/needed. While material scarcity could in theory be abolished, it appears unlikely that social scarcity would be.
+
 ## On Private Ownership
 
 One of the biggest debates that has occurred in history is whether Capitalism or Socialism is preferable. This debate has taken numerous forms, as both systems can be defined in various ways, but they are most popularly defined according to what system they use to allocate resources. Under the traditional definition of Capitalism, resources are allocated according to a market mechanism, while under the traditional definition of Socialism resources are allocated according to a central authority.
@@ -630,9 +644,7 @@ I am in favor of high-income countries having floating exchange rate regimes as 
 
 ### Immigration
 
-Immigration often comes with a tradeoff between positive economic effects and (to some degree) negative social effects, especially when accounting for research on ethnic diversity in cases where immigration is non-white.
-
-<span style="background-color:orange">Write overview that's more detailed once finished compiling all of the information into this section</span>
+Immigration often comes with a tradeoff between positive economic effects and (to some degree) negative social effects. That said, I am generally in favor of immigration, especially high-skilled immigration. Most of the alleged negative social effects that come from immigration, whether it  be social cohesion, crime, political externalities, or others, tend to either be much smaller than is often claimed, non-existent, or even positive depending on the immigrant group examined.
 
 #### Economic Effects
 
