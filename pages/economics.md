@@ -358,8 +358,6 @@ There are theoretical reasons to believe that inequality can undermine the repre
 
 ### Trends in Inequality and Their Causes
 
-<span style="background-color:orange">May need to edit</span>
-
 As of 2020, in OECD countries income inequality is at its peak for the last 50 years. The richest 10% of the population in the income distribution possess about 50% of the entire wealth, while the bottom 40% hold just 3% of the total wealth<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC9340753/#:~:text=Income%20inequality%20in%20many%20OECD,of%20the</ref>. Inequality as measured by the Gini coefficient rose in OECD countries from 0.29 in the 1980s to 0.316 in 2015<ref>https://www.weforum.org/stories/2015/02/how-inequality-became-a-global-problem/#:~:text=inequality%20has%20grown%20within%20nations,in%20those%20years%2C%20reaching%2020</ref>. 
 
 There are a number of trends which have contributed to rising inequality in recent decades:
