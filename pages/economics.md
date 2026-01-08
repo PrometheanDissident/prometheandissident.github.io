@@ -725,7 +725,7 @@ However, not all “woke” advertising increases profits, such as in the Bud Li
 
 While Bud Light’s sales dip was particularly bad, boycotts in general due to social media trends are often short lived as research shows<ref>https://www.npr.org/2023/04/27/1172299478/bud-light-sales-fall-trans-influencer-boycott</ref>.
 
-LGBT-friendly corporate policies are positively associated with firm performance in the form of profitability and stock market valuations<ref>https://onlinelibrary.wiley.com/doi/10.1111/acfi.12787#:~:text=,Our%20results</ref>.
+LGBT-friendly corporate policies are positively associated with firm performance in the form of profitability and stock market valuations<ref>https://onlinelibrary.wiley.com/doi/10.1111/acfi.12787#:~:text=,Our%20results</ref>. This effect is pronounced in more liberal states while being weaker or non-existent for firms in more conservative states.
 
 Corporate social performance, a business’s outcomes in terms of how they relate to its social relationships, has become increasingly important with the rise of social media and its corresponding forms of activism. Research suggests that corporate virtue in the form of social responsibility and to a lesser extent environmental responsibility is likely to pay off<ref>https://www.researchgate.net/publication/241180100_Corporate_Social_and_Financial_Performance_A_Meta-Analysis</ref><ref>https://www.sciencedirect.com/science/article/pii/S0148296325000414</ref>.
 
