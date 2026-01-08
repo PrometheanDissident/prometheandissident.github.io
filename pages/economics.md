@@ -673,10 +673,6 @@ It must be emphasized that this discussion is highly speculative. It is likely t
 
 ## ================================================================ TO ADD BELOW ================================================================
 
-## <span style="background-color:yellow">Min Wage</span>
-
-**EITC > Minimum Wage** The minimum wage is worse at affecting poverty compared to an earned income tax credit, because it does not target households in need as well and the EITC increases labor force participation and employment<ref>https://wol.iza.org/articles/minimum-wage-versus-earned-income-tax-credit-for-reducing-poverty</ref>.
-
 ## <span style="background-color:orange">Monetary/Fiscal Policy</span>
 
 Quantitative easing tends to ease financial conditions and support economic growth, and can be especially powerful during times of financial stress<ref>https://www.piie.com/publications/policy-briefs/quantitative-easing-underappreciated-success</ref>.
@@ -734,12 +730,6 @@ Facts about public opinion:
 - Contact tends to reduce immigration-related fears for left-leaning but not right-leaning voters<ref>https://journals.sagepub.com/doi/full/10.1177/0010414017740590</ref>.
 - Natives tend to support redistribution less when the share of immigrants in their resident region is higher. This effect is driven by areas with large welfare states and by centrist or rightist respondents<ref>https://docs.iza.org/dp12130.pdf</ref>.
 - Exposure to refugee arrivals induces sizable and lasting increases in natives' hostility toward refugees and immigrants and support for restrictive asylum and immigration policies<ref>https://sci-hub.ru/https://doi.org/10.1017/S0003055418000813</ref>. Similarly research in Australia has suggested that Australians living in electoral districts with higher percentages of non-white immigrants are more likely to want lower immigrant numbers than those living in districts with fewer non-white immigrants<ref>https://www.tandfonline.com/doi/abs/10.1080/10361146.2018.1450357</ref>.
-
-## <span style="background-color:orange">Big Government</span>
-
-Big government bad.
-
-- **Economic Growth: Negative -** Government size negatively correlates with growth when controlling for economic freedom and globalization<ref>https://link.springer.com/article/10.1007/s11127-009-9484-1</ref>. Fiscal policy or public spending has a sizable negative effect on profits and business investment<ref>https://www.aeaweb.org/articles?id=10.1257/00028280260136255</ref>. There is a robust negative effect of government spending and taxation on economic growth in rich countries, based on a sample during the period of 1970-95<ref>https://www.ifn.se/Wfiles/wp/wp503.pdf</ref>.
 
 ## <span style="background-color:orange">Unions</span>
 
