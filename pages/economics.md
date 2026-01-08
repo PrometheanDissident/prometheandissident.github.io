@@ -354,31 +354,18 @@ In short, there is no clear link between inequality and growth, implying that th
 
 ### The Politics of Inequality
 
-<span style="background-color:orange">Discuss links between inequality, political responsiveness, and authoritarianism. Connect it to the corrupting infleunce of capitalism section and how lobbying is going to be more disproportionately harmful to the average person with higher inequality</span>
-
-
-
-
-
-
-
-
-
-- **Authoritarianism -** Income inequality is associated with an increase in authoritarianism<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273660</ref>.
-
-Political outcomes better reflect the preferences of the rich, suggesting that inequality can exacerbate differentials in political responsiveness to different income groups<ref>https://www.cambridge.org/core/journals/perspectives-on-politics/article/economic-inequality-and-political-responsiveness-a-systematic-review/3364318C95A3D608048BA1800013C7E1</ref>.
+There are theoretical reasons to believe that inequality can undermine the representativeness of a government. While inequality may not matter much in terms of affecting well-being, if power is zero-sum and is determined by income, then higher inequality in income would translate into higher inequality in political power. In this case, it may be that in places with higher inequality, politics tends to represent the interests of poorer people less, even if everyone has a minimum baseline standard of living. However, this does not actually appear to be the case in practice. The sociologist Tibor Rutar reviewed the research examining whether inequality undermines democracy and found that the empirical evidence for such a notion is weak. In fact, it may be the case that inequality actually has no effect on democracy<ref>https://statsandsociety.substack.com/p/does-inequality-undermine-democracy</ref>. This suggests that at most, inequality has a small negative effect on representativeness of a government, if at all.
 
 ### Trends in Inequality and Their Causes
 
 <span style="background-color:orange">May need to edit</span>
 
-As of 2020, in OECD countries income inequality is at its peak for the last 50 years. The richest 10% of the population in the income distribution possess about 50% of the entire wealth, while the bottom 40% hold just 3% of the total wealth<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC9340753/#:~:text=Income%20inequality%20in%20many%20OECD,of%20the</ref>. Inequality as measured by the Gini coefficient rose in OECD countries from 0.29 in the 1980s to 0.316 in 2015. Furthermore, the average top tax rates in member nations declined from 66% in 1981 to 41% in 2008<ref>https://www.weforum.org/stories/2015/02/how-inequality-became-a-global-problem/#:~:text=inequality%20has%20grown%20within%20nations,in%20those%20years%2C%20reaching%2020</ref>.
+As of 2020, in OECD countries income inequality is at its peak for the last 50 years. The richest 10% of the population in the income distribution possess about 50% of the entire wealth, while the bottom 40% hold just 3% of the total wealth<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC9340753/#:~:text=Income%20inequality%20in%20many%20OECD,of%20the</ref>. Inequality as measured by the Gini coefficient rose in OECD countries from 0.29 in the 1980s to 0.316 in 2015<ref>https://www.weforum.org/stories/2015/02/how-inequality-became-a-global-problem/#:~:text=inequality%20has%20grown%20within%20nations,in%20those%20years%2C%20reaching%2020</ref>. 
 
-Research on inequality suggests that both globalization and skill-biased technological change increase it<ref>https://iseak.eu/wp-content/uploads/2023/01/the-rise-of-income-inequality-in-oecd-countries-2023-01-18.pdf#:~:text=technological%20change%20has%20been%20the,1998%3B%20Autor%20et%20al%2C%201998</ref>.
+There are a number of trends which have contributed to rising inequality in recent decades:
 
-Trade liberalization between an industrialized country and a developing country leads to large inequality in the industrialized country in both the short-run and the long-run. In the short run, inequality is mainly driven by intersectoral wage inequality that arises due to the slow allocation of workers across industries. In the long run, inequality is driven by an increase in the skill premiums as specialization in the skill-intensive sector raises the demand for skilled workers. Taxes and transfers will  be effective in dealing with this in the short-run, but in the long run the most suitable instrument to fight inequality is a subsidy for training instruments, which reduces the skill premium by increasing the supply of skilled workers<ref>https://www.intereconomics.eu/contents/year/2015/number/6/article/trade-with-china-inequality-and-policy-responses.html#:~:text=The%20integration%20of%20China%E2%80%99s%20huge,the%20increased%20demand%20for</ref>.
-
-Income inequality has increased in most OECD countries over the past two decades, both because incomes before taxes and transfers have become more unequal, and because the extent of redistribution through taxes and transfers has fallen<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/02/income-redistribution-across-oecd-countries_f2d12a2b/3b63e61c-en.pdf#:~:text=Since%20the%20mid,crisis%20period%20and%20was</ref>.
+- More unequal taxes and transfers. The average top tax rates in OECD member nations declined from 66% in 1981 to 41% in 2008<ref>https://www.weforum.org/stories/2015/02/how-inequality-became-a-global-problem/#:~:text=inequality%20has%20grown%20within%20nations,in%20those%20years%2C%20reaching%2020</ref>. Income inequality has increased in most OECD countries over the past two decades, both because incomes before taxes and transfers have become more unequal, and because the extent of redistribution through taxes and transfers has fallen<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/02/income-redistribution-across-oecd-countries_f2d12a2b/3b63e61c-en.pdf#:~:text=Since%20the%20mid,crisis%20period%20and%20was</ref>. Fiscal policy accounts for a large share of differences in inequality across countries<ref>https://www.imf.org/en/Blogs/Articles/2017/10/11/inequality-fiscal-policy-can-make-the-difference</ref>.
+- Globalization and skill-biased technological change. Research on inequality suggests that both globalization and skill-biased technological change increase it<ref>https://iseak.eu/wp-content/uploads/2023/01/the-rise-of-income-inequality-in-oecd-countries-2023-01-18.pdf#:~:text=technological%20change%20has%20been%20the,1998%3B%20Autor%20et%20al%2C%201998</ref>. Trade liberalization between an industrialized country and a developing country leads to large inequality in the industrialized country in both the short-run and the long-run. In the short run, inequality is mainly driven by intersectoral wage inequality that arises due to the slow allocation of workers across industries. In the long run, inequality is driven by an increase in the skill premiums as specialization in the skill-intensive sector raises the demand for skilled workers. Taxes and transfers will  be effective in dealing with this in the short-run, but in the long run the most suitable instrument to fight inequality is a subsidy for training instruments, which reduces the skill premium by increasing the supply of skilled workers<ref>https://www.intereconomics.eu/contents/year/2015/number/6/article/trade-with-china-inequality-and-policy-responses.html#:~:text=The%20integration%20of%20China%E2%80%99s%20huge,the%20increased%20demand%20for</ref>.
 
 ### The Welfare State
 
@@ -691,6 +678,24 @@ Facts about public opinion on immigration:
 
 Public opinion on immigration appears to be in part motivated by biases against foreigners which people tend to have irrespective of the actual effects of immigration. This is one of the large biases that the economist Bryan Caplan identified voters as having in his book "The Myth of the Rational Voter"<ref>The Myth of the Rational Voter by Bryan Caplan</ref>.
 
+## On "Woke" Capitalism
+
+"Woke" capitalism is a phenomena whereby increasingly companies have begun to publicly adopt or signal their adherence to leftist values in their internal workings as well as their advertising and marketing. For people who disagree with many aspects of wokeness, such as myself (for example, see [The Modern Narrative on Racism](https://prometheandissident.github.io/race/#the-modern-narrative-on-racism)), this certainly appears like it's an annoying development. What is going on here?
+
+Many assert that "woke" capitalism is ultimately damaging to the companies that practice it. They will often use the catchphrase "go woke, go broke" to signify the idea that companies which go "woke" will lose money as people either don't care or oppose the developments. However, this notion generally appears to be wrong. Brands committed to diversity and representation build better consumer relationships and also experience significant financial gains, suggesting the “go woke go broke” idea is false. "Inclusive" advertising content has actually been found to lead to a 3.5% increase in short-term sales and a 16% boost in long-term revenue<ref>https://www.unilever.com/news/news-search/2024/new-study-shows-inclusive-advertising-is-better-for-business/</ref>. Corporate social performance, a business’s outcomes in terms of how they relate to its social relationships, has become increasingly important with the rise of social media and its corresponding forms of activism. Research suggests that corporate virtue in the form of social responsibility and to a lesser extent environmental responsibility is likely to pay off<ref>https://www.researchgate.net/publication/241180100_Corporate_Social_and_Financial_Performance_A_Meta-Analysis</ref><ref>https://www.sciencedirect.com/science/article/pii/S0148296325000414</ref>.
+
+This is not a product of "woke" firms being objectively more productive in some way as a result of them adopting the values they adopt. Rather, it is entirely a function of consumer demand. For example, Fatmy et al. (2021) found that LGBT-friendly corporate policies are positively associated with firm performance in the form of profitability and stock market valuations<ref>https://onlinelibrary.wiley.com/doi/10.1111/acfi.12787#:~:text=,Our%20results</ref>. However, this effect primarily appears to states which are more liberal. In states which are more conservative, this effect is weaker or non-existent.
+
+Not all “woke” advertising increases profits, such as in the Bud Light situation which led to boycotts against the brand. This led to significantly lower sales and purchasing of Bud Light beer. Several factors can explain why the Bud Light situation was worse, including<ref>https://hbr.org/2024/03/lessons-from-the-bud-light-boycott-one-year-later</ref>:
+
+- The brand’s consumer base was less in line with the brand’s stance on social and political issues due to them skewing slightly right. Because of this, the left stance alienated a big chunk of right-wing consumers of Bug Light. In general, brands that appeal to people closer to the center are at higher risk when they engage in any political advertising as they’ll always alienate some large chunk of their consumer base.
+- Bud Light was highly substitutable, meaning boycotts were not as personally costly to consumers.
+- Consumption of Bud Light is often done in social events, meaning that drinking or not drinking it following the woke advertising is seen as a political signal. Thus, people will be more weary of drinking it.
+
+While Bud Light’s sales dip was particularly bad, boycotts in general due to social media trends are often short lived as research shows<ref>https://www.npr.org/2023/04/27/1172299478/bud-light-sales-fall-trans-influencer-boycott</ref>.
+
+However, what much of this research shows is that "woke" capitalism is entirely a function of the rise of "wokeness". Thus, if the causes of "wokeness" are addressed (see [On the Origins of Woke](https://prometheandissident.github.io/academia/#on-the-origins-of-woke)), firms will fall suit and ultimately abandon these types of practices.
+
 ## On the Future of Capitalism
 
 The policy ideas and debates that I've been discussing here are only relevant in a particular temporal context. Much of this wouldn't make sense in the context of hunter-gatherer societies where there is no division of labor and as such no real use for markets, nevermind any ability for the society to create policy frameworks. How much of this would be relevant in the future? This is necessarily an uncertain question. No one truly knows what the future holds.
@@ -708,34 +713,6 @@ Furthermore, beyond absolute material goods being an area where arguably scarcit
 While this could incentivize individuals to stay within urbanized societies, the fact that status is zero-sum but also exists along a large number of dimensions could be a case in favor of deurbanized societies. In a society with a very high and dense population, it is very difficult to stand out socially. On virtually any dimension where a person could rank high in terms of social status, whether it be wealth, intellectual achievement, athletic ability, or something else, it is very unlikely for any individual to be at the top in a recognizable way in any of those dimensions. Compare this to smaller-scale societies, where because there are fewer people to compete against, it is much easier to be recognized for ranking high in one of these dimensions of social status, simply because the comparison group becomes significantly smaller.
 
 It must be emphasized that this discussion is highly speculative. It is likely that "micro-nations" will gain in prominence in the long run because the economic ability for such nations to succeed would rise, but it is not clear how they would function in reality or what the comparative sociological dynamics surrounding them would be. There are so many possible ways humanity could exist (or not exist) in the future, especially when looking at longer time frames. But it should be made clear that just because capitalism may be the best system currently, doesn't mean it won't always be. One thing the Marxists have arguably gotten right is the idea that there is no mode of production which is best for all periods of time. In reality, whether a particular economic system is best is highly temporally dependent.
-
-## ================================================================ TO ADD BELOW ================================================================
-
-## Woke Capitalism
-
-Brands committed to diversity and representation build better consumer relationships and also experience significant financial gains, suggesting the “go woke go broke” idea is false. Inclusive advertising content led to a 3.5% increase in short-term sales and a 16% boost in long-term revenue<ref>https://www.unilever.com/news/news-search/2024/new-study-shows-inclusive-advertising-is-better-for-business/</ref>.
-
-However, not all “woke” advertising increases profits, such as in the Bud Light situation which led to boycotts against the brand. This led to significantly lower sales and purchasing of Bud Light beer. Several factors can explain why the Bud Light situation was worse, including<ref>https://hbr.org/2024/03/lessons-from-the-bud-light-boycott-one-year-later</ref>:
-
-* The brand’s consumer base was less in line with the brand’s stance on social and political issues due to them skewing slightly right. Because of this, the left stance alienated a big chunk of right-wing consumers of Bug Light. In general, brands that appeal to people closer to the center are at higher risk when they engage in any political advertising as they’ll always alienate some large chunk of their consumer base.
-
-* Bud Light was highly substitutable, meaning boycotts were not as personally costly to consumers.
-
-* Consumption of Bud Light is often done in social events, meaning that drinking or not drinking it following the woke advertising is seen as a political signal. Thus, people will be more weary of drinking it.
-
-While Bud Light’s sales dip was particularly bad, boycotts in general due to social media trends are often short lived as research shows<ref>https://www.npr.org/2023/04/27/1172299478/bud-light-sales-fall-trans-influencer-boycott</ref>.
-
-LGBT-friendly corporate policies are positively associated with firm performance in the form of profitability and stock market valuations<ref>https://onlinelibrary.wiley.com/doi/10.1111/acfi.12787#:~:text=,Our%20results</ref>. This effect is pronounced in more liberal states while being weaker or non-existent for firms in more conservative states.
-
-Corporate social performance, a business’s outcomes in terms of how they relate to its social relationships, has become increasingly important with the rise of social media and its corresponding forms of activism. Research suggests that corporate virtue in the form of social responsibility and to a lesser extent environmental responsibility is likely to pay off<ref>https://www.researchgate.net/publication/241180100_Corporate_Social_and_Financial_Performance_A_Meta-Analysis</ref><ref>https://www.sciencedirect.com/science/article/pii/S0148296325000414</ref>.
-
-## Inequality 2 electric boogaloo
-
-Fiscal policy accounts for a large share of differences in inequality across countries<ref>https://www.imf.org/en/Blogs/Articles/2017/10/11/inequality-fiscal-policy-can-make-the-difference</ref>.
-
-Income inequality has increased in most OECD countries in the 2000s and 2010s, both because incomes before taxes and transfers have become more unequally distributed and because the extent of redistribution through taxes and transfers has fallen. This is mainly driven by a reduction in cash transfers, while personal income taxes have played a less important and more heterogeneous role across countries. Decline in redistribution through transfers was driven by less generous social insurance benefits, which in some countries were partly compensated by more progressive social assistance. Policy changes during this period of time have contributed markedly to the decline in redistribution. Relevant policy changes included cuts to cash income support to unemployed households and a reduction in the taxation of top incomes and income from capital, as globalization has put pressure on governments to shift away from highly mobile tax bases<ref>https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/02/income-redistribution-across-oecd-countries_f2d12a2b/3b63e61c-en.pdf</ref>.
-
-The evidence that inequality undermines democracy is weak, and it may be the case that inequality actually has no effect on democracy<ref>https://statsandsociety.substack.com/p/does-inequality-undermine-democracy</ref>.
 
 ## References
 
