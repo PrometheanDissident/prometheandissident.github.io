@@ -810,6 +810,12 @@ Research supports the notion that women benefit from having multiple roles, in o
 
 - Parental incarceration generally has positive effects on the child through the removal of a negative role model<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3034539</ref><ref>https://www.aeaweb.org/articles?id=10.1257/aer.20190415&from=f</ref>.
 
+## Unsorted
+
+Suicidal acts are significantly more likely to be fatal for men than for women<ref>https://www.acpjournals.org/doi/10.7326/M19-1324</ref>.
+
+Americans are having less sex. This is not due to an increase of women in the workforce, or to couples in general working longer hours, or to pornography, as research has shown that none of them could be the culprit<ref>https://greatergood.berkeley.edu/article/item/americans_are_having_less_sex_but_is_that_a_problem</ref>.
+
 ## References
 
 <references />
