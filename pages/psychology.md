@@ -18,6 +18,8 @@ Heritability isn't perfect. As Moore & Shenk (2016) points out, there are severa
 
 Of course, none of these limitations are fatal for heritability estimates. The notion that heritability is necessarily contingent on the type and variation in environment that a population is exposed to doesn't change the validity that it can have in explaining variation in outcomes within the context of those environmental parameters. It just limits its usefulness for examining how genes affect traits in populations with a vastly different environment. Additionally, even with all traits being filtered through a complex mix of genes and environment, this can just as easily be used to argue that genes affect traits more than most imagine they do, not less (see [Sociologist's Fallacy](https://prometheandissident.github.io/epistemic-progressivism-supplement/#sociologist%E2%80%99s-fallacy)). Another well-replicated finding from behavioral genetics is that most associations between environmental measures and psychological traits are significantly mediated genetically<ref>https://journals.sagepub.com/doi/full/10.1177/1745691615617439</ref>. Finally, even if the equal environments assumption can be undermined in certain circumstances, it has to be demonstrated that it is violated in a particular circumstance in a way that would meaningfully affect the trait in question. And even then, research suggests the actual effects are modest on final heritability estimates, so this doesn't significantly affect the validity of heritability.
 
+Biological determinism can to some degree help to explain individual differences in various traits and outcomes of importance today. For example, variance between individuals in the propensity towards violent crime can be in part explained by genetic differences in individuals. Frisell et al. (2012) found varying estimates for the heritability of violent crime, with models producing a range from 20-55%<ref>https://link.springer.com/article/10.1007/s10519-011-9483-0</ref>. Even traits which are very abstract and do not appear to have an immediate link to genetics can be explained through a biological determinist lens in part. For example, savings propensities are about 33% heritable, and individuals are born with a persistent genetic predisposition to a specific savings behavior. Parenting has some effect on savings among younger individuals but this effect decays over time<ref>https://www.jstor.org/stable/10.1086/679284#metadata_info_tab_contents</ref>. Similarly, lifetime income is 24% heritable in women and 54% heritable in men<ref>https://sci-hub.ru/https://doi.org/10.2139/ssrn.2253264</ref>.
+
 Biological determinism isn't the end-all-be-all of human analysis, but it is a crucial part which has been unfairly stigmatized in much of modern discourse.
 
 ## On Intelligence
@@ -539,22 +541,6 @@ Trigger warnings have no net effect on affective responses to material being war
 
 Anomaly (2018) defended the concept of eugenics or genetic enhancement and advocated for numerous "eugenic" policy proposals. Policy proposals include free contraception, genetic education and counseling, and incentives and penalties<ref>https://link.springer.com/article/10.1007/s40592-018-0081-2</ref>. Jonathan Anomaly believes that states should apply as little coercion as possible to facilitate the emergence of future people with desirable traits.
 
-## <span style="background-color:orange">Altruism and Ethics</span>
-
-Humans routinely help others to achieve their goals, even when the helper receives no immediate benefit and the person helped is a stranger. Such altruistic behaviors exist in human children as young as 18 months in age and also exist in chimpanzees although with less robust skills and motivations<ref>https://pubmed.ncbi.nlm.nih.gov/16513986/</ref>.
-
-## <span style="background-color:orange">Weight Loss (PROBABLY NEEDS TO GO INTO HEALTH)</span>
-
-Obesity is associated with higher all-cause mortality<ref>https://jamanetwork.com/journals/jama/fullarticle/1555137</ref>. Obesity has a substantial heritability, although there is significant variability in the heritability estimate across studies<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3355836/</ref>. Reduced energy diets and weight loss medications result in some weight loss outcomes, while advice-only and exercise-alone had minimal effects<ref>https://pubmed.ncbi.nlm.nih.gov/17904936/</ref>.
-
-## <span style="background-color:orange">Delay Gratification</span>
-
-Contrary to expert opinion based on polling, delay of gratification times have been increasing over the past 50 years, with a fifth of a standard increase in ability per decade. These correspond to secular gains in IQ seen, suggesting a possible common cause<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289620300295</ref>.
-
-## <span style="background-color:orange">Economic Outcomes</span>
-
-Savings propensities are about 33% heritable, and individuals are born with a persistent genetic predisposition to a specific savings behavior. Parenting has some effect on savings among younger individuals but this effect decays over time<ref>https://www.jstor.org/stable/10.1086/679284#metadata_info_tab_contents</ref>. Lifetime income is 24% heritable in women and 54% heritable in men<ref>https://sci-hub.ru/https://doi.org/10.2139/ssrn.2253264</ref>.
-
 ## <span style="background-color:orange">Belief</span>
 
 Although many people may have the impression that people with conspiracy beliefs are very irrational and thus won't budge to new evidence, they in fact can. Research shows that belief in conspiracy theories can be reduced through rational argumentation<ref>https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01525/full</ref>. This is in spite of the fact that many people who believe in conspiracy theories are motivated to do so, due to many people holding conspiracy theories having a need to uniqueness<ref>https://www.researchgate.net/publication/314188232_Too_special_to_be_duped_Need_for_uniqueness_motivates_conspiracy_beliefs</ref>.
@@ -562,13 +548,6 @@ Although many people may have the impression that people with conspiracy beliefs
 On average, people had a harder time distinguishing between real and fake news if they were generation Z, non-male, less educated, and more conservative<ref>https://news.ubc.ca/2025/04/misinformation-susceptibility-who-falls-for-fake-news/</ref>.
 
 Some argue that misinformation is something that you can be inoculated from by teaching people to identify surface-level fingerprints such as use of emotional language to detect misinformation. However, whether a claim is true or false is independent from these “fingerprints” and instead deals with whether it corresponds to reality, it’s in the interests of misinformation communicators to avoid these fingerprints, and the most widespread and effective misinformation techniques do that, these techniques are not inherently bad, and these fingerprints can risk detecting false positives. Evidence suggests that attempts to inoculate people against misinformation in general make people more likely to rate all information as false or manipulative, and fails to translate into generalized misinformation inoculation<ref>https://www.conspicuouscognition.com/p/misinformation-isnt-a-contagious</ref>.
-
-## <span style="background-color:orange">Biorealism</span>
-
-Misc biorealism factoids:
-- Parental incarceration generally has positive effects on the child through the removal of a negative role model<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3034539</ref><ref>https://www.aeaweb.org/articles?id=10.1257/aer.20190415&from=f</ref>.
-- There exists genetic influences which explain the overlap between low IQ and antisocial behavior in young children<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2254220/</ref>.
-- Frisell et al. (2012) found varying estimates for the heritability of violent crime, with models producing a range from 20-55%<ref>https://link.springer.com/article/10.1007/s10519-011-9483-0</ref>.
 
 ## <span style="background-color:orange">Journalists</span>
 
@@ -685,10 +664,6 @@ Rates of overdiagnosis of bipolar disorder range from 4.8% to 67%<ref>https://pm
 
 There has been a decline in general cognitive ability over the course of the 20th century that has been observed in the United States, United Kingdom and Iceland. This can be traced to differences in fertility by education<ref>https://www.anthro1.net/p/the-great-decline</ref>.
 
-Higher paternal age is associated with an increased risk of autism<ref>https://pubmed.ncbi.nlm.nih.gov/16953005/</ref>.
-
-Paternal-age-related de novo mutations are related to increased risk for autism, congenital heart disease, neurodevelopmental disorders with epilepsy, intellectual disability and schizophrenia<ref>https://www.nature.com/articles/s41467-019-11039-6#Sec7</ref>.
-
 ## Social Media and Discourse
 
 Research suggests that on twitter, virality predicts moral outrage in response to tweets about controversial issues even when controlling for the specific content of the tweet. This appears to be due to virality increasing people’s feelings of danger as a result of the tweet<ref>https://pubmed.ncbi.nlm.nih.gov/38421751/#:~:text=PubMed%20pubmed,virality</ref>.
@@ -786,10 +761,6 @@ Important thing to note is that now that genetic engineering is becoming increas
 
 When 10 percent of the population holds an unshakable belief, the belief will always be adopted by the majority of the society<ref>https://www.sciencedaily.com/releases/2011/07/110725190044.htm</ref>.
 
-## Dysgenics
-
-Genes that contribute to educational attainment are under negative selection in humans. The impact of higher POLYedu scores (the polygenic score for educational attainment) is due mainly to delayed reproduction, in part because those with high POLYedu scores delay reproduction to pursue education. However, it appears that higher POLYedu scores have a substantial effect on delayed reproduction that is independent of the actual education attained. POLYedu is positively correlated with longevity and HDL cholesterol levels, and negatively negatively correlated with obesity, high-fasting glucose levels, and smoking. Thus, the decline of genetic propensity over time has an effect on the population that is not limited to education<ref>https://www.decode.com/decode-study-shows-variants-sequence-genome-contribute-educational-attainment-negative-selection/</ref>.
-
 ## Belief More
 
 Corrections are effective only when they do not directly challenge people’s worldviews (can  be done by affirming the self-worth of recipients or by making the correction more persuasive by graphical means), and when they explain why the misinformation was was disseminated in the first place or they must provide an alternative explanation of the relevant event. While misinformation is an important part of the post-truth malaise, post-truth cannot be reduced to misinformation. Post-truth must be understood as the creation of an alternative epistemology that does not conform to conventional standards of evidentiary support<ref>https://cssn.org/wp-content/uploads/2020/12/Beyond-Misinformation-Understanding-and-Coping-with-the-Post-Truth-Era-Stephan-Lewandowsky.pdf</ref>.
@@ -831,6 +802,10 @@ It is reasonable to infer that magic and totemism are direct adaptations to the 
 ## Suicide
 
 Interestingly, while conservatives tend to have better mental health than liberals, suicide rates tend to be higher in places that are more conservative or are run by more conservative governments<ref>https://jech.bmj.com/content/56/10/722</ref><ref>https://www.bmj.com/content/377/bmj-2021-069308</ref>.
+
+## Dysgenics 2
+
+Genes that contribute to educational attainment are under negative selection in humans. The impact of higher POLYedu scores (the polygenic score for educational attainment) is due mainly to delayed reproduction, in part because those with high POLYedu scores delay reproduction to pursue education. However, it appears that higher POLYedu scores have a substantial effect on delayed reproduction that is independent of the actual education attained. POLYedu is positively correlated with longevity and HDL cholesterol levels, and negatively negatively correlated with obesity, high-fasting glucose levels, and smoking. Thus, the decline of genetic propensity over time has an effect on the population that is not limited to education<ref>https://www.decode.com/decode-study-shows-variants-sequence-genome-contribute-educational-attainment-negative-selection/</ref>.
 
 ## References
 
