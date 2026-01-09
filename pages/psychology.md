@@ -371,86 +371,17 @@ This neotenous or self-domestication aspect of humanity can be seen when compari
 
 The evolution of human self-domestication can be seen over time in our evolution. From the middle pleistocene to recent times, there has been craniofacial feminization in homo sapiens (reduction in average brow ridge projection and shortening of the upper facial skeleton). This reflects changes in average androgen reactivity (lower levels of adult circulating testosterone or reduced androgen receptor densities), which in turn affect the evolution of enhanced social tolerance. It coincides with the past 200,000 years of human cultural evolution witnessing the persistent establishment of behaviors involving innovation, planning depth, and abstract and symbolic thought, or what has been called “behavioral modernity”<ref>https://www.researchgate.net/publication/271799237_Craniofacial_Feminization_Social_Tolerance_and_the_Origins_of_Behavioral_Modernity</ref>. There is also some evidence to suggest that humans also have become genetically more oriented towards self control as they evolved, which might also help to explain higher prosociality<ref>https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00134/full</ref>.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Sociobiology Intro**
-
-Humans have undergone significant evolution in reproductive physiology and behavior. The estrous cycle of women has changed in two ways which affect sexual and social behavior. Menstruation is intensified, and the estrus, or period of female “heat”, has been replaced by virtually continuous sexual activity. Copulation is not initiated in response to conventional signs of estrus such as the changing of the color of the skin around the female sexual organs and release of pheromones, but by extended foreplay entailing mutual stimulation by partners. Traits such as protruding breasts are also permanent in humans. The flattened sexual cycle and continuous female attractiveness cements close bonds that are basic to human social life<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-**Plasticity of Social Organization**
-
-The parameters of social organization, including group size, properties of hierarchies, and rates of gene exchange, vary far more among human populations than among other primate species. Part of this is because the members themselves vary. Even in the most simple societies individuals differ greatly<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+Human self-domestication and neoteny can help to explain the fact that human behavior is in general much less predictable than it is in animals, despite substantial heritability of behavioral and psychological traits. The parameters of social organization, including group size, properties of hierarchies, and rates of gene exchange, vary far more among human populations than among other primate species. Part of this is because the members themselves vary. Even in the most simple societies individuals differ greatly<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
 The controls governing human societies are not as strong and the effects of deviation are not as dangerous. There are numerous examples in anthropology of inefficiencies or pathological flaws in human societies that endure. For example, the slave society of Jamaica was a society in which clergymen were the “most finished debauchees” in the land. The institution of marriage was officially condemned among both masters and slaves, the family was unthinkable to the vast majority of the population and promiscuity was the norm. Education was seen as a waste of time and teachers shunned it. The legal system was deliberately a travesty of anything that could be called justice, and all forms of refinements, art and folkways were either absent or in a state of total disintegration. Only a small proportion of whites who monopolized almost all the fertile land on the island benefited from the system. And once they secured their fortunes they abandoned the land for their mother land, for they found it unbearable to live in Jamaica. This world lasted for nearly two centuries, and the people multiplied while the economy flourished<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
-Variation in social structure might persist because of a lack of competition from other species, resulting in “biological release”. During the last ten thousand years man has been so successful in dominating its environment that almost any kind of culture can succeed for a while so long as it has a modest degree of internal consistency and does not shut off reproduction altogether<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+The high levels of variation in social structure might persist because of a lack of competition from other species, resulting in “biological release”. During the last ten thousand years man has been so successful in dominating its environment that almost any kind of culture can succeed for a while so long as it has a modest degree of internal consistency and does not shut off reproduction altogether<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>. While cultures can being altered substantially over the course of a single generation, such as the drastic alteration of Irish society in the first two years of the potato blight or the shift in Japanese authority structure during the American occupation following the second world war, this doesn’t mean that genetics do not play a role in cultural variation. Substantial heritability exists for a variety of traits, and this has the potential to lead to cultural differences between populations<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
-While cultures can being altered substantially over the course of a single generation, such as the drastic alteration of Irish society in the first two years of the potato blight or the shift in Japanese authority structure during the American occupation following the second world war, this doesn’t mean that genetics do not play a role in cultural variation. Substantial heritability exists for a variety of traits, and this has the potential to lead to cultural differences between populations<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-**Barter and Reciprocal Altruism**
-
-Sharing is rare among nonhuman primates, but in man it is one of the strongest social traits. As a result only man has an economy, as high intelligence and symbolizing ability makes such a thing possible. Intelligence also allows exchanges to be stretched out in time, leading to reciprocal altruism. “The microstructure of human social organization is based on sophisticated mutual assessments that lead to the making of contracts.” Strangers are quickly but politely explored to determine a wide range of traits about them which has a very practical value. The presentation of a person can be expected to be deceptive to some degree, and some level is adaptive. If deception and hypocrisy are too low in someone, they can be taken advantage of by others. If they are too high, the person can expect ostracism. Complete honesty on all sides is not the answer<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-**Bonding, Sex, and Division of Labor**
-
-The nuclear family is the building block of nearly all human societies. In such families, the family moves between regional communities maintaining close contact with primary kin. During the day women and children remain in the residential area while men forage for game or its symbolic equivalent in the form of barter or money. Sexual bonds are contracted and intended to be permanent, and sexual behavior is nearly continuous, largely disassociated from the act of fertilization<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-**Role Playing and Polyethism**
-
-Modern people can play a variety of roles. Roles in human societies are different from castes of social insects. Members of human societies sometimes cooperate, but other times they compete for the limited resources allocated to their role-sector. The best role-actors gain a larger share of the rewards. Individuals attempt to move up in position by changing roles. Heritability of roles may be present given the heritability of traits such as intelligence and emotive traits. However, there is little evidence of a hereditary solidification of status, as the cares of India which have existed for 2000 years only differ slightly in blood type and other anatomical and physiological traits<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+Related to the plasticity of social organization is the fact that modern people can play a variety of roles. Roles in human societies are different from castes of social insects. Members of human societies sometimes cooperate, but other times they compete for the limited resources allocated to their role-sector. The best role-actors gain a larger share of the rewards. Individuals attempt to move up in position by changing roles. Heritability of roles may be present given the heritability of traits such as intelligence and emotive traits. However, there is little evidence of a hereditary solidification of status, as the cares of India which have existed for 2000 years only differ slightly in blood type and other anatomical and physiological traits<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
 Some forces work against the genetic fixation of caste differences. The first is that cultural evolution is too fluid, making numerous pathways of upward mobility. Even in stable societies, the daughters of lower classes tend to marry upward. Still, it may be that some broad roles are influenced by genetics<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
-**Culture, Ritual, and Religion**
-
-The rudiments of culture exist in other primates but culture infiltrating virtually all aspects of life is exclusive to humans. There is great amounts of cultural diversity among societies. Culture, including ritual and religion, can be interpreted as a hierarchical system of “environmental tracking devices”, or responses. The fastest cultural responses in industrial societies include fashions on dress and speech. Slower are political ideology and attitudes toward other nations, and slowest includes incest taboos or belief/disbelief in higher gods. Slowly changing forms of culture tend to be encapsulated in rituals. Most human rituals have more than a simple immediate signal value. They both label, reaffirm and rejuvenate the moral values of the community. The most elementary forms of sacred rituals are concerned with magic, or the active attempt to manipulate nature and the gods<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-Formal religion is focused on deeper and more tribally oriented beliefs. Its rites celebrate creation myths, attempt to win the favor of the gods, and resanctify moral codes. In more complex societies, polity and religion blend naturally, as kings rule by divine right but high priests often ruled over kinds by the higher rank of the gods<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-It is reasonable to infer that magic and totemism are direct adaptations to the environment and preceded formal religion in social evolution. Sacred traditions are a cultural universal as are creation myths or at least myths which situation the tribe in relation to the world. Belief in high gods is not universal however. One analysis found that only about 35 percent of hunter-gatherer societies included high gods in their sacred traditions<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-“The enduring paradox of religion is that so much of its substance is demonstrably false, yet it remains a driving force in all societies. Men would rather believe than know, have the void as purpose, as Nietzsche said, than be void of purpose.”
-
-<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>
-
-“To sanctify a procedure or statement is to certify it as beyond question and imply punishment for anyone who dares to contradict it.” This certification is used to serve the most important interests of the group. Another force leading to the formalization of morality and religion is the fact that extreme human social plasticity can be both a strength and a danger. If trusted to make rules on their own, a person risks chaos<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-“Human beings are absurdly easy to indoctrinate – they seek it.”
-
-<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>
-
-
-
+What is quite interesting about all of this is that this in a sense represents a shift away from a more masculinized species and towards a more feminized species, where humans have become lower in testosterone and engage in more prosocial behavior than nearly any other primate. While I do think that there is value in having certain parts of society, such as scientific inquiry, be more masculinized, the evolutionary history of humanity suggests that there are limits to how much of a benefit can be derived from having every individual be high in testosterone. It's probably the case that trends of declining testosterone over the past century are bad, but a society which is too masculinized is also a bad thing.
 
 ## On Physiognomy
 
@@ -852,6 +783,38 @@ Genes that contribute to educational attainment are under negative selection in 
 Corrections are effective only when they do not directly challenge people’s worldviews (can  be done by affirming the self-worth of recipients or by making the correction more persuasive by graphical means), and when they explain why the misinformation was was disseminated in the first place or they must provide an alternative explanation of the relevant event. While misinformation is an important part of the post-truth malaise, post-truth cannot be reduced to misinformation. Post-truth must be understood as the creation of an alternative epistemology that does not conform to conventional standards of evidentiary support<ref>https://cssn.org/wp-content/uploads/2020/12/Beyond-Misinformation-Understanding-and-Coping-with-the-Post-Truth-Era-Stephan-Lewandowsky.pdf</ref>.
 
 Epistemic hubris is the expression of unwarranted factual certitude. Epistemic hubris is prevalent, bipartisan, and associated with both intellectualism (an identity marked by ruminative habits and learning for its own sake) and anti-intellectualism (negative affect toward intellectuals and the intellectual establishment). Correlates of epistemic hubris are distinctly partisan, where intellectuals are disproportionately democratic, while anti-intellectuals are disproportionately republican<ref>https://www.cambridge.org/core/journals/american-political-science-review/article/abs/intellectualism-antiintellectualism-and-epistemic-hubris-in-red-and-blue-america/37C9F95A5DF4F81BAF69677DC6C9C972</ref>.
+
+## Sociobiology
+
+**Sociobiology Intro**
+
+Humans have undergone significant evolution in reproductive physiology and behavior. The estrous cycle of women has changed in two ways which affect sexual and social behavior. Menstruation is intensified, and the estrus, or period of female “heat”, has been replaced by virtually continuous sexual activity. Copulation is not initiated in response to conventional signs of estrus such as the changing of the color of the skin around the female sexual organs and release of pheromones, but by extended foreplay entailing mutual stimulation by partners. Traits such as protruding breasts are also permanent in humans. The flattened sexual cycle and continuous female attractiveness cements close bonds that are basic to human social life<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+**Barter and Reciprocal Altruism**
+
+Sharing is rare among nonhuman primates, but in man it is one of the strongest social traits. As a result only man has an economy, as high intelligence and symbolizing ability makes such a thing possible. Intelligence also allows exchanges to be stretched out in time, leading to reciprocal altruism. “The microstructure of human social organization is based on sophisticated mutual assessments that lead to the making of contracts.” Strangers are quickly but politely explored to determine a wide range of traits about them which has a very practical value. The presentation of a person can be expected to be deceptive to some degree, and some level is adaptive. If deception and hypocrisy are too low in someone, they can be taken advantage of by others. If they are too high, the person can expect ostracism. Complete honesty on all sides is not the answer<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+**Bonding, Sex, and Division of Labor**
+
+The nuclear family is the building block of nearly all human societies. In such families, the family moves between regional communities maintaining close contact with primary kin. During the day women and children remain in the residential area while men forage for game or its symbolic equivalent in the form of barter or money. Sexual bonds are contracted and intended to be permanent, and sexual behavior is nearly continuous, largely disassociated from the act of fertilization<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+**Culture, Ritual, and Religion**
+
+The rudiments of culture exist in other primates but culture infiltrating virtually all aspects of life is exclusive to humans. There is great amounts of cultural diversity among societies. Culture, including ritual and religion, can be interpreted as a hierarchical system of “environmental tracking devices”, or responses. The fastest cultural responses in industrial societies include fashions on dress and speech. Slower are political ideology and attitudes toward other nations, and slowest includes incest taboos or belief/disbelief in higher gods. Slowly changing forms of culture tend to be encapsulated in rituals. Most human rituals have more than a simple immediate signal value. They both label, reaffirm and rejuvenate the moral values of the community. The most elementary forms of sacred rituals are concerned with magic, or the active attempt to manipulate nature and the gods<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+Formal religion is focused on deeper and more tribally oriented beliefs. Its rites celebrate creation myths, attempt to win the favor of the gods, and resanctify moral codes. In more complex societies, polity and religion blend naturally, as kings rule by divine right but high priests often ruled over kinds by the higher rank of the gods<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+It is reasonable to infer that magic and totemism are direct adaptations to the environment and preceded formal religion in social evolution. Sacred traditions are a cultural universal as are creation myths or at least myths which situation the tribe in relation to the world. Belief in high gods is not universal however. One analysis found that only about 35 percent of hunter-gatherer societies included high gods in their sacred traditions<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+“The enduring paradox of religion is that so much of its substance is demonstrably false, yet it remains a driving force in all societies. Men would rather believe than know, have the void as purpose, as Nietzsche said, than be void of purpose.”
+
+<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>
+
+“To sanctify a procedure or statement is to certify it as beyond question and imply punishment for anyone who dares to contradict it.” This certification is used to serve the most important interests of the group. Another force leading to the formalization of morality and religion is the fact that extreme human social plasticity can be both a strength and a danger. If trusted to make rules on their own, a person risks chaos<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+“Human beings are absurdly easy to indoctrinate – they seek it.”
+
+<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>
 
 ## References
 
