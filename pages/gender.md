@@ -806,6 +806,10 @@ There are a number of studies looking at gender dysphoria as it relates to cogni
 
 Research supports the notion that women benefit from having multiple roles, in other words both being in home and in the workplace. A meta-analysis found that there were no sex differences in experienced or perceived work stress, suggesting that women are not harmed psychologically by being put in the workplace, or at least not anymore than men are<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-9010.74.3.495</ref>. Having multiple roles decreases psychological distress in business women, suggesting that the benefits of paid employment outweigh the stresses of fulfilling multiple roles<ref>https://files.eric.ed.gov/fulltext/ED375326.pdf</ref>. An analysis on the contributions of employment, marriage and parenthood on health found that employment had the strongest effect on health while parenthood had the weakest<ref>https://www.jstor.org/stable/2136300?seq=1</ref>. Not only is there a positive link between having multiple roles for women, but the multiple roles of marriage, employment and children were more positive for women than they were for men<ref>https://psycnet.apa.org/record/1987-97690-009</ref>.
 
+## Parental Incarceration
+
+- Parental incarceration generally has positive effects on the child through the removal of a negative role model<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3034539</ref><ref>https://www.aeaweb.org/articles?id=10.1257/aer.20190415&from=f</ref>.
+
 ## References
 
 <references />
