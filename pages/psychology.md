@@ -307,6 +307,20 @@ While these were aimed at providing legitimacy to governments, the ultimate effe
 
 Mobbing, moral panics, and personality cults are all situations where the reality of group irrationality can be shown to persist in a range of circumstances. Individuals can be irrational, but arguably groups can be more so.
 
+#### On "Cancel Culture"
+
+While mobbing has been extensively studied and refers to a broader set of social behaviors, cancel culture is a newer term which can be understood as a type of mobbing which tends to happen online. The term "cancel culture" has its political roots on black Twitter, where it referred to attempts to use it to call out behavior deemed racist or offensive and put it on blast into the news. Since then, the term has expanded and has no universally agreed upon definition. In identifying how individuals define cancel culture, research has revealed ten themes that are most commonly mentioned. They are overblown disagreement, financial consequences, withdrawing support, job and visibility loss, mob punishment, rewriting history, accountability, freedom of speech, silencing opposition, and social media call out. Republicans appear to be less supportive of cancelling than democrats<ref>https://journals.sagepub.com/doi/10.1177/10659129241261374</ref>.
+
+While supporters of behaviors often termed "cancel culture" generally don't use the term due to its connotations. Cancel culture can constitute a means of norm enforcement, particularly when other forms of enforcement such as legal ones are absent or unapplicable. Furthermore, cancel culture, through disempowering opposition, can feel collectively empowering and validating for the group feeling targeted by the individual being cancelled<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC10399695/#abstract1</ref>.
+
+The problem is that the extremeness of the punishment means that there's few behaviors which should probably be considered cancellable which wouldn't be addressed through some other means, such as legally or otherwise. It has led to a broader culture of self-censorship which is relatively unique in recent history. Polling shows that about 40% of Americans report keeping quiet and holding back their true beliefs for fear of reprisal, significantly higher than during McCarthyism when only 13% of Americans reported censorship. Nearly one in four Americans are afraid to state certain opinions for fear of losing their jobs or standings in school<ref>https://americansforprosperity.org/blog/cancel-culture-fire-survey-results/</ref>.
+
+Interestingly, contrary to the estimates of Americans, only a minority of individuals actually engage in sanctioning behaviors often defined under the umbrella of "cancel culture". While some claim that cancelling behavior is primarily driven by personal dislike of individuals, particularly members of the other party, rather than principled disagreements, Americans tend to sanction statements that offend their ideology regardless of who says them. When presented with comparable scenarios, Democrats and Republicans appear to cancel others at similar rates. The real-world difference where Democrats cancel more may be due to them being exposed to more "cancellable" statements<ref>https://ubwp.buffalo.edu/jopblog/2025/04/01/unraveling-a-cancel-culture-dynamic-when-why-and-which-americans-sanction-offensive-speech/</ref>.
+
+## On Physiognomy
+
+Physiognomy has become an increasingly popular meme on the internet over the past decade, particularly in right-wing communities. It refers to the idea that a person's physical or facial features can be used to indicate certain psychological or behavioral traits about a person. It is the case that you can assess certain traits about a person at better than random by simply looking at their physical appearance. For example, research suggests that facial width-to-height ratio is a predictor of one's propensity for aggressive behavior<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2570531/</ref>. Thus, if you are presented with two men, one with a 2nd percentile facial width-to-height ratio and another with a 98th percentile facial width-to-height ratio, the person with the 98th percentile will statistically be more aggressive. Using a person's physical appearance as an indicator of aggression or related traits can allow for some predictive accuracy, but it is important to understand the limitations of doing so. Any of these physical traits is not going to correlate perfectly with a particular psychological or behavioral trait.
+
 ## ======================================== TO ADD BELOW ========================================
 
 ## Morality
@@ -445,21 +459,9 @@ Social networking websites are utilized by suicidal and self-harming youth as a 
 
 Most people who have died by suicide have suffered from mental disorders, a percentage which could be at least 90%. Risk of suicide has been estimated to be 5–8% for several mental disorders, such as depression, alcoholism and schizophrenia<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC6165520/</ref>.
 
-## <span style="background-color:orange">Tattoos</span>
-
-People with tattoos tend to be rated as less attractive, more promiscuous, and more heavy drinkers based on their appearance<ref>https://pubmed.ncbi.nlm.nih.gov/18089280/</ref>. While some stereotyping may be negative in this respect, there is a degree of accuracy to negative stereotypes about tattooed people.
-
-People with tattoos are more likely to engage in risk-taking behaviors<ref>https://pubmed.ncbi.nlm.nih.gov/22153289/</ref>, including physical violence<ref>https://pubmed.ncbi.nlm.nih.gov/12042538/</ref>, more drinking and illicit drug consumption, higher suicidal ideation/attempts and depression<ref>https://pubmed.ncbi.nlm.nih.gov/22726901/</ref>, psychiatric disorders such as antisocial personality disorder and borderline personality disorder<ref>https://pubmed.ncbi.nlm.nih.gov/2333825/</ref><ref>https://www.sciencedaily.com/releases/2008/07/080715204734.htm</ref>, higher levels of psychopathy and schizophrenia<ref>https://pubmed.ncbi.nlm.nih.gov/1781185/</ref>, higher impulsiveness, adventurism, empathy, and neuroticism<ref>https://pubmed.ncbi.nlm.nih.gov/15119003/</ref>, and have an earlier age of first intercourse and are more sexually active<ref>https://pubmed.ncbi.nlm.nih.gov/22616886/</ref>.
-
-Moreover, people with tattoos are more likely to have experienced childhood abuse and neglect<ref>https://pubmed.ncbi.nlm.nih.gov/35449026/</ref>, and score about 5 points lower on IQ tests<ref>https://pubmed.ncbi.nlm.nih.gov/15119003/</ref>. They also appear to die earlier than those without tattoos, possibly due to health concerns but also potentially due to higher levels of risk-taking behavior<ref>https://pubmed.ncbi.nlm.nih.gov/24926092/</ref>. Tattoos may signify something traumatic or extreme in someone's life or may signify impulsiveness in itself.
-
 ## <span style="background-color:orange">Trigger Warnings</span>
 
 Trigger warnings have no net effect on affective responses to material being warned about nor on educational outcomes<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7993791/</ref><ref>https://osf.io/qav9m/</ref>. It doesn't decrease engagement with negative material but can in fact increase engagement with material. Additionally, trigger warnings reinforce trauma survivor’s views of their trauma being central to their identity and increase anticipatory stress<ref>https://journals.sagepub.com/doi/10.1177/2167702620921341</ref>. This suggests that trigger warnings at best do essentially nothing and at worst have small negative effects.
-
-## <span style="background-color:orange">Physiognomy</span>
-
-Facial width-to-height ratio is a predictor of one's propensity for aggressive behavior<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2570531/</ref>.
 
 ## <span style="background-color:orange">Eugenics/Genetic Enhancement</span>
 
@@ -501,20 +503,6 @@ Misc biorealism factoids:
 Journalists generally prefer parties with more left-wing positions<ref>https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media</ref>.
 
 Americans’ trust in media is currently very low<ref>https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx</ref>.
-
-## Cancel Culture
-
-The term "cancel culture" has its political roots on black Twitter, where it referred to attempts to use it to call out behavior deemed racist or offensive and put it on blast into the news. Since then, the term has expanded and has no universally agreed upon definition. In identifying how individuals define cancel culture, research has revealed ten themes that are most commonly mentioned. They are overblown disagreement, financial consequences, withdrawing support, job and visibility loss, mob punishment, rewriting history, accountability, freedom of speech, silencing opposition, and social media call out. Republicans appear to be less supportive of cancelling than democrats<ref>https://journals.sagepub.com/doi/10.1177/10659129241261374</ref>.
-
-Cancel culture, through disempowering opposition, can feel collectively empowering and validating for the group feeling targeted by the individual being cancelled<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC10399695/#abstract1</ref>.
-
-Contrary to the estimates of Americans, only a minority of individuals actually engage in sanctioning behaviors often defined under the umbrella of "cancel culture". While some claim that cancelling behavior is primarily driven by personal dislike of individuals, particularly members of the other party, rather than principled disagreements, Americans tend to sanction statements that offend their ideology regardless of who says them. When presented with comparable scenarios, Democrats and Republicans appear to cancel others at similar rates. The real-world difference where Democrats cancel more may be due to them being exposed to more "cancellable" statements<ref>https://ubwp.buffalo.edu/jopblog/2025/04/01/unraveling-a-cancel-culture-dynamic-when-why-and-which-americans-sanction-offensive-speech/</ref>.
-
-About 40% of Americans report keeping quiet and holding back their true beliefs for fear of reprisal, significantly higher than during McCarthyism when only 13% of Americans reported censorship. Nearly one in four Americans are afraid to state certain opinions for fear of losing their jobs or standings in school<ref>https://americansforprosperity.org/blog/cancel-culture-fire-survey-results/</ref>.
-
-Cancel culture can constitute a means of norm enforcement, particularly when other forms of enforcement such as legal ones are absent or unapplicable.
-
-However, the extremeness of the punishment means that there's few behaviors which should probably be considered cancellable which wouldn't be addressed through some other means, such as legally or otherwise.
 
 ## Mobbing
 
