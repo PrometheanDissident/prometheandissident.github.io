@@ -519,12 +519,6 @@ Evidence for intergenerational transmission of stress in humans is supported emp
 
 Epigenetic inheritance may account for a significant portion of “missing heritability” in GWAS studies<ref>https://humgenomics.biomedcentral.com/articles/10.1186/s40246-015-0041-3</ref>.
 
-## <span style="background-color:orange">Journalists</span>
-
-Journalists generally prefer parties with more left-wing positions<ref>https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media</ref>.
-
-Americans’ trust in media is currently very low<ref>https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx</ref>.
-
 ## Mobbing
 
 One in 30 people is a serial bully with sociopathic traits, whose behavior profile includes compulsive lying, a Jekyll and Hyde nature, superficial charm, considerable capacity to deceive, arrested emotional development and a compulsive need to control<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>.
