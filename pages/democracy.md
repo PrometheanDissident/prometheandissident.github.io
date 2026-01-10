@@ -34,6 +34,12 @@ Economic shocks from globalization can help to fuel populism, and helped Trump w
 
 There is also some evidence suggesting that cultural backlash contributes to the rise of populism<ref>https://www.hks.harvard.edu/publications/trump-brexit-and-rise-populism-economic-have-nots-and-cultural-backlash</ref>.
 
+## <span style="background-color:orange">Journalists</span>
+
+Journalists generally prefer parties with more left-wing positions<ref>https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media</ref>.
+
+Americans’ trust in media is currently very low<ref>https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx</ref>.
+
 ## References
 
 <references />
