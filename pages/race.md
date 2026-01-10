@@ -549,6 +549,8 @@ Much of the mainstream narrative on race concerns the existence of anti-black ra
 
 - This appears to be due to the liberal belief in the existence of discrimination, the rejection of biological group differences, and the belief in the possibility and moral necessity of the pursuit of racial equality in society<ref>https://www.researchgate.net/publication/325033477_Equalitarianism_A_Source_of_Liberal_Bias</ref>.
 
+- A large proportion of college students and college graduates will agree with statements made by Hitler about Jews if the words about Jews are replaced with words about whites<ref>https://unsafescience.substack.com/p/who-agrees-with-hitler</ref>.
+
 - Political liberals are also more likely to endorse consequentialism when the victim in question is white rather than black, which suggests that liberals are more sensitive to sacrificing black people when compared to white people<ref>https://journal.sjdm.org/9616/jdm9616.pdf</ref>.
 
 - Moreover, white liberals appear to be more nervous talking to minorities when compared to white people, likely due to a liberal hyper-sensitivity to racism against minority groups<ref>https://psycnet.apa.org/record/2006-22158-006</ref><ref>https://psycnet.apa.org/record/2019-12064-001</ref>.
