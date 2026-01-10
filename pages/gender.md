@@ -827,6 +827,12 @@ The demographic transition is a model that explains why countries go through a p
 - Stage 4 - Mortality and birth rates are low
 - Stage 5 - Uncertain. The population may rise or fall again.
 
+## Sexual Selection
+
+Humans have undergone significant evolution in reproductive physiology and behavior. The estrous cycle of women has changed in two ways which affect sexual and social behavior. Menstruation is intensified, and the estrus, or period of female “heat”, has been replaced by virtually continuous sexual activity. Copulation is not initiated in response to conventional signs of estrus such as the changing of the color of the skin around the female sexual organs and release of pheromones, but by extended foreplay entailing mutual stimulation by partners. Traits such as protruding breasts are also permanent in humans. The flattened sexual cycle and continuous female attractiveness cements close bonds that are basic to human social life<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+The nuclear family is the building block of nearly all human societies. In such families, the family moves between regional communities maintaining close contact with primary kin. During the day women and children remain in the residential area while men forage for game or its symbolic equivalent in the form of barter or money. Sexual bonds are contracted and intended to be permanent, and sexual behavior is nearly continuous, largely disassociated from the act of fertilization<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
 ## References
 
 <references />
