@@ -816,6 +816,17 @@ Suicidal acts are significantly more likely to be fatal for men than for women<r
 
 Americans are having less sex. This is not due to an increase of women in the workforce, or to couples in general working longer hours, or to pornography, as research has shown that none of them could be the culprit<ref>https://greatergood.berkeley.edu/article/item/americans_are_having_less_sex_but_is_that_a_problem</ref>.
 
+## Population Cycles
+
+The world population is expected to peak in 2084 at 10.3 billion<ref>https://ourworldindata.org/un-population-2024-revision</ref>.
+
+The demographic transition is a model that explains why countries go through a period of rapid population growth. It is a sequence of five stages<ref>https://ourworldindata.org/demographic-transition</ref>:
+- Stage 1 - high mortality and birth rates - Little to no population growth
+- Stage 2 - Mortality falls but birth rates still high - Leads to rapid population growth.
+- Stage 3 - Low mortality and birth rates begin to fall - The birth rate starts to drop which leads to lower population growth. This is because when the mortality of children is not as high as it once was, parents adapt to the healthier environment and choose to have fewer children. The economy undergoes structural changes that make children less economically valuable, and as women gain more power within society and partnerships, they tend to on average have fewer children than before.
+- Stage 4 - Mortality and birth rates are low
+- Stage 5 - Uncertain. The population may rise or fall again.
+
 ## References
 
 <references />
