@@ -543,28 +543,6 @@ Trigger warnings don't work. Trigger warnings have no net effect on affective re
 
 One in 30 people is a serial bully with sociopathic traits, whose behavior profile includes compulsive lying, a Jekyll and Hyde nature, superficial charm, considerable capacity to deceive, arrested emotional development and a compulsive need to control<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC4170397/</ref>.
 
-## Impact of Nationalism
-
-National pride is correlated with greater personal well-being, but civic nationalists are on the whole happier than ethnic nationalists<ref>https://www.sciencedaily.com/releases/2011/12/111209171944.htm</ref>.
-
-Nationalism can improve social cohesion but can also increase protectionism and intolerance. There is an inverted U-shaped relationship between nationalism and government effectiveness, with most countries having a higher than optimal level of nationalism. Nationalism may also mitigate the effects of ethnic heterogeneity in former colonies through creating a new identity where there wasn’t one prior<ref>https://ideas.repec.org/a/eee/jcecon/v39y2011i3p431-451.html</ref>.
-
-Group-based relative deprivation in New Zealand was found to be negatively associated with well-being. However, it was associated with higher nationalism which was itself associated with higher well-being. This suggests that endorsing beliefs about national identity or superiority can help a dominant ethnic group cope with perceiving that their group is deprived<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12563</ref>.
-
-## Overprescription
-
-Across rich countries, antidepressant use has been on the rise, with doctors in some countries writing prescriptions for more than 1 in 10 adults. This is raising concerns about overprescription of pills<ref>https://www.theguardian.com/society/2013/nov/20/antidepressant-use-rise-world-oecd</ref>.
-
-The FDA has approved the use of antipsychotic medications in some children and adolescents with severe emotional and behavioral disorders. However, recent trends show a 2-5 fold increase in the use of antipsychotic medications in preschool children<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3778027/</ref>.
-
-In some countries, ADHD diagnoses are surging tenfold, which appears to be a product of marketing, where any fidgeting behavior is pathologized and seen as requiring treatment<ref>https://www.sciencedaily.com/releases/2014/11/141118125447.htm</ref>.
-
-There has been a significant surge in treatments for gender dysphoria for young people. There appears to be a rising level of professional disagreement over whether this is a good thing or not<ref>https://bmjgroup.com/gender-dysphoria-is-rising-and-so-is-professional-disagreement/</ref>.
-
-There has been a significant rise in the number of people in England obtaining central nervous system (CNS) stimulants and medicines for ADHD. The number of prescription items dispensed has increased in line with the number of patients. However, researchers estimate that ADHD is still underdiagnosed and undertreated<ref>https://pharmaceutical-journal.com/article/feature/special-report-charting-the-rise-in-adhd-prescribing</ref>.
-
-Rates of overdiagnosis of bipolar disorder range from 4.8% to 67%<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC3856145/</ref>.
-
 ## Social Media and Hyperconnectivity
 
 Research suggests that on twitter, virality predicts moral outrage in response to tweets about controversial issues even when controlling for the specific content of the tweet. This appears to be due to virality increasing people’s feelings of danger as a result of the tweet<ref>https://pubmed.ncbi.nlm.nih.gov/38421751/#:~:text=PubMed%20pubmed,virality</ref>.
