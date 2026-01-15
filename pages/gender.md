@@ -4,6 +4,57 @@ title: Gender
 permalink: /gender/
 ---
 
+## Understanding Sexual Selection
+
+- Discuss significance of sexual selection and how sex differences will inevitably emerge from it, including psychological differences
+- Discuss the different interests men and women have when finding a partner and how those pan out
+- Discuss how this can help to in part explain “double standards” in dating such as promiscuity being seen as bad for women but good for men
+
+## Understanding Sex Differences
+
+- Give an overview of physical and psychological sex differences that exist between men and women, paying attention to evidence which suggests they may be biological in their origin
+
+## On sex and gender
+
+## Dynamics of attraction
+
+## On monogamy/traditionalism
+
+- Discuss why monogamy/traditionalism is based, especially as it relates to forming families
+
+## On fertility/population decline
+
+## On Sex Atypicality
+
+- Discuss how just because average differences exist doesn’t mean there can’t be variation in how people behave
+- Look at homosexuality and transgenderism and discuss views on them, how they originate and what we should do about it
+
+## On abortion
+
+- Lay out philosophical views on abortion
+
+## On women’s empowerment
+
+- Go through the claims of oppression and whether they hold water, and also look at whether women in the workplace is a good thing or not
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## ================================================= TO ADD BELOW =================================================
+
 ## Understanding Sex Differences
 
 While it is fair to suggest that gender is distinct from sex, the two concepts are nonetheless inextricably linked. In spite of the narrativizing which suggests that men and women are the same from the neck up, the reality is that men and women are fundamentally different from one another.
