@@ -20,64 +20,19 @@ None of this is to suggest that everything we see in society with regards to how
 
 ## Understanding Sex Differences
 
-- Give an overview of physical and psychological sex differences that exist between men and women, paying attention to evidence which suggests they may be biological in their origin
-
-## On sex and gender
-
-## Dynamics of attraction
-
-## On monogamy/traditionalism
-
-- Discuss why monogamy/traditionalism is based, especially as it relates to forming families
-
-## On fertility/population decline
-
-## On Sex Atypicality
-
-- Discuss how just because average differences exist doesn’t mean there can’t be variation in how people behave
-- Look at homosexuality and transgenderism and discuss views on them, how they originate and what we should do about it
-
-## On abortion
-
-- Lay out philosophical views on abortion
-
-## On women’s empowerment
-
-- Go through the claims of oppression and whether they hold water, and also look at whether women in the workplace is a good thing or not
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## ================================================= TO ADD BELOW =================================================
-
-## Understanding Sex Differences
-
-While it is fair to suggest that gender is distinct from sex, the two concepts are nonetheless inextricably linked. In spite of the narrativizing which suggests that men and women are the same from the neck up, the reality is that men and women are fundamentally different from one another.
+While it is fair to suggest that gender is distinct from sex (see [On Sex and Gender](https://prometheandissident.github.io/gender/#on-sex-and-gender)), the two concepts are nonetheless inextricably linked. In spite of the narrativizing which suggests that men and women are the same from the neck up, the reality is that men and women are fundamentally different from one another.
 
 A common talking point meant to undermine the notion of sexes being distinct is to argue that sexes aren't binary but bimodal. The rationale for this is that phenotypic traits between men and women exist on a spectrum, thus allowing for a bimodal distribution of traits upon which men and women operate in sexually dimorphic ways. Furthermore, there is a small but substantial percentage of the population who have disorders of sex development, in which they may display traits that would be regarded by some as intersex. While some estimate the number of intersex people to be as high as 1.7%, Sax (2002) argues that to have any meaning, intersex should be restricted to those conditions where chromosomal sex is inconsistent with phenotypic sex, or in which the phenotype is not classifiable as either male or female. Under this definition, the true prevalence is actually about 0.018%<ref>https://pubmed.ncbi.nlm.nih.gov/12476264/</ref>. Any real definition of sex effectively makes sex binary, with some extremely rare exceptions.
 
 So with an understanding that there are only two sexes, male and female, it's time to dive into the numerous physical and psychological sex differences that exist. While many of these, particularly the psychological sex differences, are socially mediated, overwhelming evidence suggests that these are at least in part biological in origin.
 
-### Physical
+### Physical Sex Differences
 
 Physical sex differences are certainly the most obvious of sex differences. Physical sex differences are small but noticeable at birth, and increase significantly during puberty due to differences in testosterone<ref>https://www.sciencedirect.com/science/article/abs/pii/S1521690X07000371?via%3Dihub</ref><ref>https://journals.lww.com/co-endocrinology/Abstract/2009/02000/Effect_of_puberty_on_body_composition.4.aspx</ref>. Sex differences for muscle power are significant even when height, weight, and age are controlled for<ref>https://journals.sagepub.com/doi/10.2466/pms.110.3.714-720</ref> and athletic differences are so large that top level high school boys are better in athletics than top level olympic women in a variety of areas<ref>https://boysvswomen.com/#/</ref>. Men have 61% more muscle mass<ref>https://www.sciencedirect.com/science/article/abs/pii/S1090513809000397?via%3Dihub</ref>, and lower fat mass and higher mineral mass after adjusting for height<ref>https://www.sciencedirect.com/science/article/abs/pii/S1521690X07000371?via%3Dihub</ref>.
 
 Some may attribute these differences to socialization. From any intuitive perspective this view appears absurd, especially when taking into account sex differences in hormones and bone structure which are almost entirely a product of genetics as opposed to environment. Not only are these differences obviously biological, but evidence indicates that these physical differences were sexually selected for over time. Fat free mass and limb muscle volume in men are significant predictors of the numbers of total and past-year self-reported sex partners, as well as age at first intercourse, suggesting that sexual selection may have contributed to these physical sex differences<ref>https://www.sciencedirect.com/science/article/abs/pii/S1090513809000397?via%3Dihub</ref>. Sexual selection creates sexual dimorphism.
 
-### Psychological
+### Psychological Sex Differences
 
 The vast majority of people are fine with acknowledging the existence of physical sex differences. It seems strange to suggest that sexual selection and sexual dimorphism stopped at the neck, but many are uncomfortable with acknowledging that men and women are different temperamentally.
 
@@ -86,8 +41,6 @@ Krizan & Teeter (2015) used meta-synthesis to examine gender similarities and di
 - Reiner & Gearhart (2014) looked at 16 genetic males with cloacal exstrophy, an extremely rare birth defect that is associated with severe phallic inadequacy or phallic absence. As a result, 14 of the 16 males were neonatally assigned female socially, legally, and surgically. They tracked all of the children from ages 5 to 16 and found that 8 of the 14 subjects assigned to the female sex declared themselves male during the course of the study. Moreover, all 16 subjects had moderate to marked interests and attitudes that were considered typical of males<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1421517/</ref>. Additionally, The John Money experiment<ref>https://embryo.asu.edu/pages/david-reimer-and-john-money-gender-reassignment-controversy-johnjoan-case</ref> was a very famous experiment which examined the degree to which gender identity is intractable. To simplify, David and Brian Reimer were identical twins. After David suffered from a botched circumcision, he was raised as a girl while Brian was raised as a boy. David received estrogen during adolescence to help the development of feminine characteristics. In spite of the socialization David received, he experienced intense gender dysphoria as a child and desired to become a male. These two studies are consistent with the idea that a person's gender identity generally corresponds to a person's biological sex. Psychological sex differences correspond to biological sex even with attempts to socialize individuals out of it.
 
 - Boys and girls aged 9-17 months old, an age when they show few signs if any of recognizing their sex or the sex of others, still have marked differences in preference for stereotypically male vs stereotypically female toys. These sex differences in toy preferences also occur with rhesus monkeys<ref>https://stanmed.stanford.edu/how-mens-and-womens-brains-are-different/</ref>. Girls exposed to high levels of androgen in the prenatal and early postnatal periods show increased play with boys' toys and reduced play with girls' toys suggesting hormones may play a role in this sex difference<ref>https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.1992.tb00028.x</ref>. Psychological sex differences occur before gendered socialization can meaningfully influence behavior and are mediated by hormones, which naturally differ between men and women.
-
-Differential sexual selective pressures for men and women can help to explain how psychological sex differences may emerge<ref>https://psycnet.apa.org/record/1995-21138-001</ref>. Men can only be certain about whether they have in fact reproduced if they have a woman who is sexually loyal, while women can be guaranteed following sexual intercourse that they have reproduced. Through this mechanism, men and women will naturally develop different preferences in terms of their mate's personalities as well as different tendencies, personalities, etc. Janicke et al. (2016) finds that across the animal kingdom, sexual selection is stronger in males than in females and is evolutionarily tied to sex biases in parental care and sexual dimorphism. In the animal kingdom, females typically exhibit greater parental investment which leads to them becoming a limiting resource, such that males compete for females and not the other way around<ref>https://www.science.org/doi/10.1126/sciadv.1500983</ref>.
 
 While all of this evidence together clearly shows that men and women are naturally different psychologically, specifics have not been discussed. These specifics are essential for understanding why men and women will naturally have different interests and outcomes within society, and will be discussed in turn.
 
@@ -155,6 +108,72 @@ Women tend to have a stronger in-group bias than men do<ref>https://psycnet.apa.
 ### The Significance of Sex Differences
 
 When discussing the literature on sex differences, it is important to note that on any particular trait, there is going to be substantial overlap in the male and female distributions. In other words, some women will be more "male" on some traits than some men are, and vice versa. For example, while men and women differ in height on average, with men being taller, there are some women who are taller than some men, and some men that are shorter than some women. Despite this reality of overlapping statistical distributions, because the means of men and women on traits are different, past a certain threshold the proportion of men relative to women who score above that value will approach either one or zero. Virtually all people who are above 7 feet for example are men. Therefore, average differences may not matter too much when looking at the general population, but they matter immensely when looking at the extremes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## On Sex and Gender
+
+## Dynamics of Attraction
+
+## On Monogamy/Traditionalism
+
+- Discuss why monogamy/traditionalism is based, especially as it relates to forming families
+
+## On Fertility/Population Decline
+
+## On Sex Atypicality
+
+- Discuss how just because average differences exist doesn’t mean there can’t be variation in how people behave
+- Look at homosexuality and transgenderism and discuss views on them, how they originate and what we should do about it
+
+## On Abortion
+
+- Lay out philosophical views on abortion
+
+## On Women’s Empowerment
+
+- Go through the claims of oppression and whether they hold water, and also look at whether women in the workplace is a good thing or not
+
+## ================================================= TO ADD BELOW =================================================
 
 ## <span style="background-color:lightcoral">Sex Differences in Attraction and Mating Patterns</span>
 
@@ -889,6 +908,8 @@ The demographic transition is a model that explains why countries go through a p
 ## Sexual Selection
 
 The nuclear family is the building block of nearly all human societies. In such families, the family moves between regional communities maintaining close contact with primary kin. During the day women and children remain in the residential area while men forage for game or its symbolic equivalent in the form of barter or money. Sexual bonds are contracted and intended to be permanent, and sexual behavior is nearly continuous, largely disassociated from the act of fertilization<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+Differential sexual selective pressures for men and women can help to explain how psychological sex differences may emerge<ref>https://psycnet.apa.org/record/1995-21138-001</ref>. Men can only be certain about whether they have in fact reproduced if they have a woman who is sexually loyal, while women can be guaranteed following sexual intercourse that they have reproduced. Through this mechanism, men and women will naturally develop different preferences in terms of their mate's personalities as well as different tendencies, personalities, etc. Janicke et al. (2016) finds that across the animal kingdom, sexual selection is stronger in males than in females and is evolutionarily tied to sex biases in parental care and sexual dimorphism. In the animal kingdom, females typically exhibit greater parental investment which leads to them becoming a limiting resource, such that males compete for females and not the other way around<ref>https://www.science.org/doi/10.1126/sciadv.1500983</ref>.
 
 ## References
 
