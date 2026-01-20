@@ -109,48 +109,15 @@ Women tend to have a stronger in-group bias than men do<ref>https://psycnet.apa.
 
 When discussing the literature on sex differences, it is important to note that on any particular trait, there is going to be substantial overlap in the male and female distributions. In other words, some women will be more "male" on some traits than some men are, and vice versa. For example, while men and women differ in height on average, with men being taller, there are some women who are taller than some men, and some men that are shorter than some women. Despite this reality of overlapping statistical distributions, because the means of men and women on traits are different, past a certain threshold the proportion of men relative to women who score above that value will approach either one or zero. Virtually all people who are above 7 feet for example are men. Therefore, average differences may not matter too much when looking at the general population, but they matter immensely when looking at the extremes.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## On Sex and Gender
+
+Sex and gender are generally defined as distinct from one another. Whereas sex refers to the biological traits associated with men and women, gender refers to the social roles which we apply typically based on people's sex. Sex is effectively immutable, as you cannot change your chromosomes. However, various aspects of gender within society are much more mutable, simply because social rules and roles in general are mutable. Different societies throughout history have had differing norms that they apply to men and women, and there isn't anything intrinsically wrong with that.
+
+Sex differences, both physical and psychological, are immutable. It is impossible to completely get rid of these differences, although they may be malleable to some degree. Sex differences in many of these domains will necessarily result in different outcomes between men and women on a wide variety of domains. At the same time, it is important to note that many of these differences between men and women have distributions which overlap considerably. Men may be on average taller and more physically capable than women, but some women are taller and more physically capable than some men. Similarly, some men have predispositions more common of women, and some women have predispositions more common of men.
+
+Gender, the social structures we have in society to describe sex and prescribe roles, will naturally arise in any social context in which men and women are interacting with one another. People, interacting with both men and women, will inevitably notice that men and women tend to be different in a variety of attributes. Even without a prior knwoledge of gender, the development of understandings of the differences between men and women will arise organically, and social structures will begin to recognize that.
+
+At the same time, gender conceptions in society are somewhat malleable, and they should be modified to suit the needs of people. Gender abolitionism can never work, as it is impossible to deny sex differences. However, strict gender roles aren't inevitable either. I suggest that we should be sex conscious, understanding and respect the fact that men and women on average have differences, while also not necessarily preventing women or men who have sex-atypical interests from engaging in them so long as they don't harm themselves or the broader society.
 
 ## Dynamics of Attraction
 
@@ -176,14 +143,6 @@ When discussing the literature on sex differences, it is important to note that 
 ## ================================================= TO ADD BELOW =================================================
 
 ## <span style="background-color:lightcoral">Sex Differences in Attraction and Mating Patterns</span>
-
-## Sex and Gender in Society
-
-Sex differences, both physical and psychological, are immutable. It is impossible to completely get rid of these differences, although they may be malleable to some degree. Sex differences in many of these domains will necessarily result in different outcomes between men and women on a wide variety of domains. At the same time, it is important to note that many of these differences between men and women have distributions which overlap considerably. Men may be on average taller and more physically capable than women, but some women are taller and more physically capable than some men. Similarly, some men have predispositions more common of women, and some women have predispositions more common of men.
-
-Gender, which is the social structures we have in society to describe sex and prescribe roles, will naturally arise in any social context in which men and women are interacting with one another. People, interacting with both men and women, will inevitably notice that men and women tend to be different in a variety of attributes. Even without a prior knwoledge of gender, the development of understandings of the differences between men and women will arise organically, and social structures will begin to recognize that.
-
-At the same time, gender conceptions in society are somewhat malleable, and they should be modified to suit the needs of people. Gender abolitionism can never work, as it is impossible to deny sex differences. However, strict gender roles aren't inevitable either. I suggest that we should be sex conscious, understanding and respect the fact that men and women on average have differences, while also not preventing women or men who have sex-atypical interests from engaging in them. I will examine various examples of "sex atypicality" in future sections which have gained a fair bit of controversy, namely homosexuality and transgenderism.
 
 ## Sex Atypicality: Homosexuality
 
