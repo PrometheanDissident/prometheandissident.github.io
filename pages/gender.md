@@ -144,45 +144,23 @@ Many people, recognizing the importance of height, will lie about their height t
 
 Facial shape is similarly impactful on one's perceived attractiveness. Across cultures, facial averageness, symmetry, and sexual dimorphism are attractive in both male and female faces<ref>Rhodes, G. (2006). The Evolutionary Psychology of Facial Beauty. Annual Review of Psychology, 57(1), 199–226. https://doi.org/10.1146/annurev.psych.57.102904.190208</ref>. This suggests that there exists some good candidates for biologically based standards of beauty.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## On Monogamy/Traditionalism
 
-- Discuss why monogamy/traditionalism is based, especially as it relates to forming families
+The facts about attractiveness are in a sense tragic. It is extremely important for life outcomes, but at the same time it is substantially heritable. As a species whose fundamental drive is to reproduce, this reality can cause a lot of pain for people. Because men tend to be much more highly selected for evolutionarily, and because women tend to be much more picky in their partners, these inequalities can lead to a large number of men feeling screwed over in a society. In extreme cases, this can lead to immense conflict between men who are vying for power and competition over women. One way to address this is to promote strict monogamy over polygamy or general open relationships.
+
+The vast majority of human societies have permitted polygamous marriages, but normative monogamy has become the norm more recently. Through suppressing intrasexual competition it reduces crime rates, including rape, murder, assault, robbery and fraud, as well as decreasing personal abuses. Through reducing the competition for younger brides, normative monogamy reduces the spousal age gap, fertility, and gender inequality. It also increases savings, child investment, and economic productivity through shifting male efforts from seeking wives to paternal investment. Through increasing the relatedness within households normative monogamy also reduces intra-household conflict, leading to lower rates of child neglect, abuse, accidental death and homicide<ref>https://royalsocietypublishing.org/doi/10.1098/rstb.2011.0290</ref>. Polygamy, through creating a social imbalance where a few economically well-off men marry many wives and many poor men marry late or never, results in more intergroup conflict<ref>https://journals.sagepub.com/doi/10.1177/0022002719859636</ref>. Polygamy helps to partially explain sex differences in mortality rates in some nations due to the intensity of male mating competition<ref>https://journals.sagepub.com/doi/full/10.1177/147470491000800205</ref>.
+
+Polygamy also harms the well-being of women and children. Women in polygamous marriage have worsened mental health as compared with women in monogamous marriages<ref>https://files.catbox.moe/18e4px.pdf</ref>. Children with polygamous parents had significantly worse mental health than those with monogamous parents<ref>https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-021-04301-7</ref>.
+
+Beyond conflict and subject well-being, it may in fact be the case that monogamy helps to build stronger and better functioning societies. A lot of people like to separate the social from the economic, but this is not a clean distinction that can be made, especially when it comes to gender relations. The relations between men and women are fundamental to the human condition, and so it's inevitable that they can have huge impacts on a society, including its economic functioning.
+
+The early 20th century anthropologist J.D. Unwin predicted that _“as soon as the sexual opportunity of the society, or of a group within the society, [is] extended, the energy of the society, or of the group within it, decreases and finally disappears”_. The full disappearance is said to take about three generations. There is evidence to suggest that “social energy” has been decreasing since the sexual revolution. For example, the great stagnation, which began around 1973, occurred around the same time as the sexual revolution, and corresponds to slower producrtivity growth, fewer scientific discoveries, less use of language involving rationality and less original popular culture<ref>https://arctotherium.substack.com/p/review-of-j-d-unwins-sex-and-culture</ref>.
+
+While Unwin's explanation involved psychoanalysis which is outdated and lacking, there are some good explanations for why this may be occurring. One alternative explanation for this is that men, who tend to be responsible for the vast majority of human endeavors which can be considered “social energy”. These require low time preferences which are more incentivized when there is paternal certainty. Paternal certainty requires a restriction on female sexuality, and in its absence men have less of a reason to look to future generations. This can explain the perfect correspondence between cultural level and sexual restrictions as found by J.D. Unwin<ref>https://arctotherium.substack.com/p/review-of-j-d-unwins-sex-and-culture</ref>.
+
+Another possible explanation is that under absolute monogamy, sex is conditional on marriage which is usually conditional on impressing a woman’s father, often economically. This incentivizes productive and prosocial behavior. However, without prenuptial chastity, sex is dependent on impressing a woman, which is not dependent on productive and pro-social behavior. Thus, such behavior is either not selected for or is disincentivized in the absence of absolute monogamy. Absolute monogamy selects for intelligence and industriousness to a greater degree than other social systems do. There is even some evidence that monogamy is associated with larger brain size across primate species, validating this theory<ref>https://arctotherium.substack.com/p/review-of-j-d-unwins-sex-and-culture</ref>. Monogamy is thus crucial for creating long-lasting, functional societies.
+
+Reproduction is in a sense a prisoner's dilemma. Men who engage in polygamy are more likely to pass down their genes as they are reproducing more, but if every man tries to engage in polygamy it makes men and the broader society worse off. The way to address this is to raise the costs associated with "defecting", or engaging in polygamy in this case. This can be done through strong cultural and social pressures, and legal arrangements which disincentivize such arrangements from occuring. Monogamy can help address problems associated with inequality in attractiveness for men, as it gives less attractive men more opportunities to have partners when they otherwise wouldn't have such an opportunity. It is arguably one of the most important social institutions a society can have, for the benefit of men, women, and children.
 
 ## On Fertility/Population Decline
 
@@ -715,14 +693,6 @@ Repressive policing of sex workers is associated with increased risk of sexual/p
 
 Decriminalization of prostitution, while increasing the size of the sex market, also led to a significant decline in reported rape offences<ref>https://conference.iza.org/conference_files/riskonomics2015/kastoryano_s6317.pdf</ref><ref>https://www.eurekalert.org/news-releases/718952</ref>.
 
-### <span style="background-color:orange">Polygamy</span>
-
-Women in polygamous marriage have worsened mental health as compared with women in monogamous marriages<ref>https://files.catbox.moe/18e4px.pdf</ref>. Children with polygamous parents had significantly worse mental health than those with monogamous parents<ref>https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-021-04301-7</ref>.
-
-The vast majority of human societies have permitted polygamous marriages, but normative monogamy has become the norm more recently. Through suppressing intrasexual competition it reduces crime rates, including rape, murder, assault, robbery and fraud, as well as decreasing personal abuses. Through reducing the competition for younger brides, normative monogamy reduces the spousal age gap, fertility, and gender inequality. It also increases savings, child investment, and economic productivity through shifting male efforts from seeking wives to paternal investment. Through increasing the relatedness within households normative monogamy also reduces intra-household conflict, leading to lower rates of child neglect, abuse, accidental death and homicide<ref>https://royalsocietypublishing.org/doi/10.1098/rstb.2011.0290</ref>.
-
-Polygamy, through creating a social imbalance where a few economically well-off men marry many wives and many poor men marry late or never, results in more intergroup conflict<ref>https://journals.sagepub.com/doi/10.1177/0022002719859636</ref>. Polygamy helps to partially explain sex differences in mortality rates in some nations due to the intensity of male mating competition<ref>https://journals.sagepub.com/doi/full/10.1177/147470491000800205</ref>.
-
 ### <span style="background-color:orange">Birth Control</span>
 
 Publicly funded family planning has been shown to generate significant cost savings for the government<ref>https://doi.org/10.2307/2135837</ref><ref>https://doi.org/10.1111/J.1475-6773.2007.00702.X</ref><ref>https://doi.org/10.1353/hpu.0.0060</ref><ref>https://doi.org/10.2105/AJPH.2007.129353</ref>. For example, Foster et al. (2014) found that for every dollar spent on the family planning program it saved taxpayers $7.09. This was due to lower expenditures from STD testing and prevention of unplanned births<ref>https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.12080</ref>.
@@ -825,16 +795,6 @@ Some personality disorder diagnoses are more common in women, while others are m
 
 Research tends to support the advantages of multiple roles that have emerged with women entering the workforce. A meta-analysis of job-related stress revealed no gender differences in experienced or perceived stress on the job. Multiple roles in fact decreased psychological distress in business women, suggesting that the benefits of paid employment outweigh the stresses of fulfilling multiple roles. Being at work also protects women from the full impact of marriage, giving them economic and social power. An analysis of the contributions of employment, marriage, and parenthood on health showed that employment had the strongest effect and parenthood the weakest. The multiple roles of marriage, employment and children were more positive for women than men, with a positive relationship between multiple roles and happiness. Men find multiple roles rewarding but are less eager than women to allow family work to intrude on their employment obligations <ref>Gender: Psychological Perspectives - How Different?</ref>.
 
-**Sexual Morality**
-
-J.D. Unwin predicted that “as soon as the sexual opportunity of the society, or of a group within the society, [is] extended, the energy of the society, or of the group within it, decreases and finally disappears”. The full disappearance is said to take about three generations. There is evidence to suggest that “social energy” has been decreasing since the sexual revolution. The great stagnation, which began around 1973, occurred around the same time as the sexual revolution, and corresponds to slower producrtivity growth, fewer scientific discoveries, less use of language involving rationality and less original popular culture<ref>https://arctotherium.substack.com/p/review-of-j-d-unwins-sex-and-culture</ref>.
-
-Unwin’s explanation involves psychoanalysis which seems lacking. One alternative explanation for this is that men, who tend to be responsible for the vast majority of human endeavors which can be considered “social energy”. These require low time preferences which are more incentivized when there is paternal certainty. Paternal certainty requires a restriction on female sexuality, and in its absence men have less of a reason to look to future generations. This can explain the perfect correspondence between cultural level and sexual restrictions as found by J.D. Unwin<ref>https://arctotherium.substack.com/p/review-of-j-d-unwins-sex-and-culture</ref>.
-
-Another possible explanation is that under absolute monogamy, sex is conditional on marriage which is usually conditional on impressing a woman’s father, often economically. This incentivizes productive and prosocial behavior. However, without prenuptial chastity, sex is dependent on impressing a woman, which is not dependent on productive and pro-social behavior. Thus, such behavior is either not selected for or is disincentivized in the absence of absolute monogamy. Absolute monogamy selects for intelligence and industriousness to a greater degree than other social systems do. There is even some evidence that monogamy is associated with larger brain size across primate species, validating this theory<ref>https://arctotherium.substack.com/p/review-of-j-d-unwins-sex-and-culture</ref>.
-
-Unwin thinks that female emancipation can be separated from the relaxation of absolute monogamy and cultural decline<ref>https://arctotherium.substack.com/p/review-of-j-d-unwins-sex-and-culture</ref>.
-
 **Birth Rates**
 
 Paid parental leave doesn’t appear to have any clear strong effect on fertility. Paternity leave in particular might actually decrease fertility<ref>https://www.emilkirkegaard.com/p/can-we-boost-fertility-with-paid</ref>.
@@ -884,6 +844,8 @@ Research supports the notion that women benefit from having multiple roles, in o
 Suicidal acts are significantly more likely to be fatal for men than for women<ref>https://www.acpjournals.org/doi/10.7326/M19-1324</ref>.
 
 Americans are having less sex. This is not due to an increase of women in the workforce, or to couples in general working longer hours, or to pornography, as research has shown that none of them could be the culprit<ref>https://greatergood.berkeley.edu/article/item/americans_are_having_less_sex_but_is_that_a_problem</ref>.
+
+Unwin thinks that female emancipation can be separated from the relaxation of absolute monogamy and cultural decline<ref>https://arctotherium.substack.com/p/review-of-j-d-unwins-sex-and-culture</ref>.
 
 ## Population Cycles
 
