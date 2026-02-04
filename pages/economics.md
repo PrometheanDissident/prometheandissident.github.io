@@ -702,6 +702,10 @@ Facts about public opinion on immigration:
 
 Public opinion on immigration appears to be in part motivated by biases against foreigners which people tend to have irrespective of the actual effects of immigration. This is one of the large biases that the economist Bryan Caplan identified voters as having in his book "The Myth of the Rational Voter"<ref>The Myth of the Rational Voter by Bryan Caplan</ref>.
 
+### On Separatism
+
+_Note: This section will be dealing with the economic effects of separatism in a generalized context. For a detailed discussion on racial separatism more specifically, see_ [Separation or Integration?](https://prometheandissident.github.io/race/#separation-or-integration?).
+
 ## On "Woke" Capitalism
 
 "Woke" capitalism is a phenomena whereby increasingly companies have begun to publicly adopt or signal their adherence to leftist values in their internal workings as well as their advertising and marketing. For people who disagree with many aspects of wokeness, such as myself (for example, see [The Modern Narrative on Racism](https://prometheandissident.github.io/race/#the-modern-narrative-on-racism)), this certainly appears like it's an annoying development. What is going on here?
