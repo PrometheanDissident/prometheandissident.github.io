@@ -164,6 +164,44 @@ Reproduction is in a sense a prisoner's dilemma. Men who engage in polygamy are 
 
 ## On Fertility/Population Decline
 
+Evolutionary theory generally predicts that the population of a species will continously increase to the point where every organism is living at a subsistence level (defined as minimum level of resources required to maintain an organism). Under a Malthusian perspective, because every organism has a natural drive to reproduce, if every organism is living at above a subsistence level, the birth rate will increase and outstrip natural resources, until eventually an equilibrium is reached where the population is higher and everyone is living at a subsistence level. Alternatively, if every organism is living at below a subsistence level, then many organisms will die until there's enough resources for every organism to live at a subsistence level. An equilibrium is reached at a lower population level<ref>https://www.thwink.org/sustain/glossary/MalthusianTrap.htm</ref>.
+
+While this model is very effective in explaining survival of organisms generally, and was probably effective in explaining most of human history, it struggles to account for the simultaneous population boom and quality of life booms that have occurred over the past two centuries. Thomas Malthus, writing at the start of the Industrial Revolution, believed that it would create temporary gains which would be lost as population outstripped production. But that hasn't happened (at least not yet). Of course, if the population was still exponentially increasing, it wouldn't necessarily discount the Malthusian trap model applied to humans. However, what's interesting is that in the wealthiest countries, we've seen a sharp drop in fertility, which generally goes below replacement rates. While the world population is still increasing, projections suggest that that's not going to continue for much more than another half-century, as the world population is expected to peak in 2084 at 10.3 billion<ref>https://ourworldindata.org/un-population-2024-revision</ref>. This fertility decline appears to be cross-cultural. The demographic transition is a model that explains why countries go through a period of rapid population growth. It is a sequence of five stages<ref>https://ourworldindata.org/demographic-transition</ref>:
+
+- Stage 1 - high mortality and birth rates - Little to no population growth
+- Stage 2 - Mortality falls but birth rates still high - Leads to rapid population growth.
+- Stage 3 - Low mortality and birth rates begin to fall - The birth rate starts to drop which leads to lower population growth. This is because when the mortality of children is not as high as it once was, parents adapt to the healthier environment and choose to have fewer children. The economy undergoes structural changes that make children less economically valuable, and as women gain more power within society and partnerships, they tend to on average have fewer children than before.
+- Stage 4 - Mortality and birth rates are low
+- Stage 5 - Uncertain. The population may rise or fall again.
+
+Many countries are going to be entering stage 5 pretty soon, where it will be difficult to predict what will happen in the long-run, i.e. where the population will collapse, increase, or stay the same. But a big question to ask in the first place is why the population fertility rate declined in the first place. I have a few explanations:
+
+Porn
+Abortion, birth control
+Wealth
+Sexual revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## On Sex Atypicality
 
 - Discuss how just because average differences exist doesn’t mean there can’t be variation in how people behave
@@ -846,17 +884,6 @@ Suicidal acts are significantly more likely to be fatal for men than for women<r
 Americans are having less sex. This is not due to an increase of women in the workforce, or to couples in general working longer hours, or to pornography, as research has shown that none of them could be the culprit<ref>https://greatergood.berkeley.edu/article/item/americans_are_having_less_sex_but_is_that_a_problem</ref>.
 
 Unwin thinks that female emancipation can be separated from the relaxation of absolute monogamy and cultural decline<ref>https://arctotherium.substack.com/p/review-of-j-d-unwins-sex-and-culture</ref>.
-
-## Population Cycles
-
-The world population is expected to peak in 2084 at 10.3 billion<ref>https://ourworldindata.org/un-population-2024-revision</ref>.
-
-The demographic transition is a model that explains why countries go through a period of rapid population growth. It is a sequence of five stages<ref>https://ourworldindata.org/demographic-transition</ref>:
-- Stage 1 - high mortality and birth rates - Little to no population growth
-- Stage 2 - Mortality falls but birth rates still high - Leads to rapid population growth.
-- Stage 3 - Low mortality and birth rates begin to fall - The birth rate starts to drop which leads to lower population growth. This is because when the mortality of children is not as high as it once was, parents adapt to the healthier environment and choose to have fewer children. The economy undergoes structural changes that make children less economically valuable, and as women gain more power within society and partnerships, they tend to on average have fewer children than before.
-- Stage 4 - Mortality and birth rates are low
-- Stage 5 - Uncertain. The population may rise or fall again.
 
 ## Sexual Selection
 
