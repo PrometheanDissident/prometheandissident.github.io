@@ -174,33 +174,19 @@ While this model is very effective in explaining survival of organisms generally
 - Stage 4 - Mortality and birth rates are low
 - Stage 5 - Uncertain. The population may rise or fall again.
 
-Many countries are going to be entering stage 5 pretty soon, where it will be difficult to predict what will happen in the long-run, i.e. where the population will collapse, increase, or stay the same. But a big question to ask in the first place is why the population fertility rate declined in the first place. I have a few explanations:
+Many countries are going to be entering stage 5 pretty soon, where it will be difficult to predict what will happen in the long-run, i.e. where the population will collapse, increase, or stay the same. But a big question to ask in the first place is why the population fertility rate declined in the first place. Wealth in itself probably plays a role, but an even larger role has to do with technological changes associated with the sexual revolution. The introduction/improvement of various birth control methods, such as contraceptives and abortion, have led to an ability to engage in sexual intercourse without the associated consequence of having a child. Many will use such methods to continuously engage in sexual intercourse without that consequence, which they can view as undesirable. These methods also reduced the costs associated with cheating on a partner. Previously, if a person was to cheat on their partner, which in most cases was a man cheating on a wife with another woman, it would generally lead to pregnancy of another woman, something which is very difficult to keep hidden. With birth control, it becomes much easier for both men and women to cheat, which reduces the costs associated with cheating. Dating becomes a prisoner's dilemma game, where the Nash equilibrium strategy is for both parties to defect, i.e. cheat. It's difficult for people to willingly commit to having a child under these circumstances.
 
-Porn
-Abortion, birth control
-Wealth
-Sexual revolution
+Social media may end up exacerbating this prisoner's dilemma game. Dating apps significantly increase the quantity of individuals that men and women have access to. Because male attraction is more visually-oriented in a cardinal sense while female attraction is more socially-oriented in an ordinal sense, this means that women's natural pickiness in dating becomes exacerbated on social media apps. As such, it is a very common experience for men to have essentially zero luck whatsoever on such apps. Furthermore, because these apps increase the availability of other people, it further increases the ease at which people can cheat with one another. As such, the costs for defecting in the prisoner's dilemma dating game become further reduced, and the potential benefits increased as it can mean more selection than before, and so pair bonding is even less likely to actually occur.
 
+Is the trend of declining birth rates likely to continue? Some assert that this is merely a temporary phenomenon. The argument typically put forward in favor of this is that those who are less likely to have children will naturally die off, while those who are more likely to have children will naturally reproduce. To whatever extent this is heritable, this means that future generations will be genetically more predisposed towards having children than previous generations, which will reverse the birth rate decline. While there is some truth in the idea that populations naturally tend to adjust to changes in their environment, there are plenty of cases where an environmental or external change can be so strong that it can drive a population to extinction. In fact, all extinction events are due to some disequilibrium-inducing event leading a population to die off, unable to adapt quickly or sufficiently enough to survive. This can happen when there is one very extreme shift or a number of less extreme shifts occur in the environment. While it seems plausible that humans could adapt to birth control and gradually raise their birth rates over time as humans adapt, with the consistent rapid changes in technology consistently changing the social and environmental landscape, this probably won't happen to the extent that many are predicting it will.
 
+My view is that birth rates will probably stabilize at replacement rates at some point, or go up to higher than replacement rates. However, the current demographic transitions we're seeing will not bring about that outcome for a while, and in the meantime it risks producing substantial economic hardship. Economic production is generally done by the young, so as the age profile of countries shifts towards older and older individuals, an increasingly smaller subset of the population will have to provide for everyone else, as well as maintain infrastructure which presupposes a certain worker base population level exists.
 
+I'm not intrinsically against birth control or abortion for population/economic reasons. While a full discussion of the ethics of such is beyond the scope of this section, from a purely economics perspective some level of birth control is probably positive. Publicly funded family planning has been shown to generate significant cost savings for the government<ref>https://doi.org/10.2307/2135837</ref><ref>https://doi.org/10.1111/J.1475-6773.2007.00702.X</ref><ref>https://doi.org/10.1353/hpu.0.0060</ref><ref>https://doi.org/10.2105/AJPH.2007.129353</ref>. For example, Foster et al. (2014) found that for every dollar spent on the family planning program it saved taxpayers $7.09. This was due to lower expenditures from STD testing and prevention of unplanned births<ref>https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.12080</ref>. This generally leads to higher labor force participation from women, as well as lower fiscal costs associated with children being born who are disproportionately likely to be costly to the state. Beyond economic benefits, use of contraception is a substantial and effective primary prevention strategy to reduce maternal mortality in developing countries<ref>https://pubmed.ncbi.nlm.nih.gov/22784531/</ref>. For example, in Indonesia, it is estimated that between about 520,000-660,000 maternal deaths were averted from 1970 to 2017 due to contraceptive use, or a 37.5-43.1% reduction<ref>https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-020-00245-w</ref>.
 
+Nonetheless, some emphasis on birth rates should be taken, particularly among those who are economically well-off. While demographic transition theory suggests that greater wealth predicts lower fertility, there is some evidence to suggest that economic programs can have a small positive effect on fertility, and than economic hardship for individuals can have a small negative effect on fertility. For example, a 10 percent increase in real house prices is associated with a reduction of 0.01-0.03 births per woman<ref>https://www.sciencedirect.com/science/article/pii/S0927537124000678</ref>. There is a lot of evidence that pronatal benefits and economic booms lead to a higher birth rate. In the United States, it’s likely the birth rate could increase above replacement just through spending about 3% of the country’s GDP, and the benefits would exceed the costs multiple times over<ref>https://www.cremieux.xyz/p/storks-take-orders-from-the-state</ref>.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+It's not clear whether the fertility decline is a short-run trend or is something that will continue in the long-run. There are good reasons to believe that it will not be a short trend which will quickly resolve itself. Rather, in the absence of methods to address it, the fertility rate will continue to be below replacement rate for a long enough time that it will be societally damaging. If countries want to get serious about addressing this, an effective way they can do so without use of force is through pronatnal benefits. 3% of the country's GDP being spent on programs which boost the aggregate fertility rate and pay for themselves would be an extremely beneficial policy arrangement for any high-income country currently facing fertility problems to consider. In addition, immigration can also help stem some concerns associated with fertility decline (see [Immigration](https://prometheandissident.github.io/economics/#immigration)), although excessive reliance on immigration cannot be a permanent solution, as host countries will be expected to follow a similar demographic transition trend at some point in the future.
 
 ## On Sex Atypicality
 
@@ -731,10 +717,6 @@ Repressive policing of sex workers is associated with increased risk of sexual/p
 
 Decriminalization of prostitution, while increasing the size of the sex market, also led to a significant decline in reported rape offences<ref>https://conference.iza.org/conference_files/riskonomics2015/kastoryano_s6317.pdf</ref><ref>https://www.eurekalert.org/news-releases/718952</ref>.
 
-### <span style="background-color:orange">Birth Control</span>
-
-Publicly funded family planning has been shown to generate significant cost savings for the government<ref>https://doi.org/10.2307/2135837</ref><ref>https://doi.org/10.1111/J.1475-6773.2007.00702.X</ref><ref>https://doi.org/10.1353/hpu.0.0060</ref><ref>https://doi.org/10.2105/AJPH.2007.129353</ref>. For example, Foster et al. (2014) found that for every dollar spent on the family planning program it saved taxpayers $7.09. This was due to lower expenditures from STD testing and prevention of unplanned births<ref>https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.12080</ref>.
-
 ### <span style="background-color:orange">Sexual Education</span>
 
 Abstinence-only education does not appear to protect against pregnancy and STIs<ref>https://pubmed.ncbi.nlm.nih.gov/16387256/</ref>, and also contains scientifically inaccurate information on the issues of condom efficacy and gender stereotypes<ref>https://doi.org/10.1097/GCO.0b013e3282efdc0b</ref>. Moreover, abstinence-only interventions only have a very small overall effect on abstinent behavior<ref>https://doi.org/10.1093/HER/17.4.471</ref>. Abstinence-only programs have negative impacts on youth's willingness to use contraception to prevent negative sexual health outcomes related to sexual intercourse<ref>https://www.advocatesforyouth.org/wp-content/uploads/storage/advfy/documents/stateevaluations.pdf</ref>. Abstinence-only education is positively correlated with teenage pregnancy and birth rates compared to comprehensive sex education<ref>http://sciencedirect.com/science/article/abs/pii/S1054139X07004260?casa_token=mFeMFmZjXkMAAAAA:spyxC9wfLo0BY-CHKfH1QcR5ED_1spgDO41FrKxzK_0NEw3Bz11QXCA68xV_eiWH8nZlTc8</ref><ref>https://www.apha.org/policies-and-advocacy/public-health-policy-statements/policy-database/2015/01/23/09/37/sexuality-education-as-part-of-a-comprehensive-health-education-program-in-k-to-12-schools</ref>.
@@ -805,16 +787,6 @@ Beginning in the early 1960s, annual number of reported cases of gonorrhea among
 
 A large-scale analysis of studies found that sex differences in personality, verbal abilities, episodic memory, and negative emotions are more pronounced in countries with higher living conditions. In contrast, sex differences in sexual behavior, partner preferences, and math are smaller in countries with higher living conditions<ref>https://journals.sagepub.com/doi/10.1177/17456916231202685</ref>.
 
-## Birth Control More
-
-More than 90% of abortions occur due to unintended pregnancy, and research suggests that free birth control reduces both unplanned pregnancies and cuts abortion rates by 62-78% compared to the national rate<ref>https://medicine.washu.edu/news/access-to-free-birth-control-reduces-abortion-rates/</ref>.
-
-In Indonesia, it is estimated that between about 520,000-660,000 maternal deaths were averted from 1970 to 2017 due to contraceptive use, or a 37.5-43.1% reduction<ref>https://pophealthmetrics.biomedcentral.com/articles/10.1186/s12963-020-00245-w</ref>.
-
-Use of contraception is a substantial and effective primary prevention strategy to reduce maternal mortality in developing countries<ref>https://pubmed.ncbi.nlm.nih.gov/22784531/</ref>.
-
-Increased access to safe and reliable contraceptives is associated with fewer unplanned pregnancies, cost savings from federal and state governments on births, abortions and miscarriages, and increased educational opportunities and lifetime earnings for women<ref>https://www.jec.senate.gov/public/index.cfm/democrats/2022/10/the-economic-impacts-of-contraception</ref>.
-
 ## Female Happiness
 
 Despite substantial advances in women’s social and economic status over the past 50 years, their well-being relative to men has declined<ref>https://pmc.ncbi.nlm.nih.gov/articles/PMC11881900/</ref>.
@@ -832,20 +804,6 @@ Women live longer than men, a difference that has existed in most countries and 
 Some personality disorder diagnoses are more common in women, while others are much more common in men. Many categories of mental disorders show few gender differences, but major depression and substance-related disorders show market gender differences, with women being more often diagnosed with depression and men with substance abuse problems <ref>Gender: Psychological Perspectives - Stress, Coping and Psychopathology</ref>.
 
 Research tends to support the advantages of multiple roles that have emerged with women entering the workforce. A meta-analysis of job-related stress revealed no gender differences in experienced or perceived stress on the job. Multiple roles in fact decreased psychological distress in business women, suggesting that the benefits of paid employment outweigh the stresses of fulfilling multiple roles. Being at work also protects women from the full impact of marriage, giving them economic and social power. An analysis of the contributions of employment, marriage, and parenthood on health showed that employment had the strongest effect and parenthood the weakest. The multiple roles of marriage, employment and children were more positive for women than men, with a positive relationship between multiple roles and happiness. Men find multiple roles rewarding but are less eager than women to allow family work to intrude on their employment obligations <ref>Gender: Psychological Perspectives - How Different?</ref>.
-
-**Birth Rates**
-
-Paid parental leave doesn’t appear to have any clear strong effect on fertility. Paternity leave in particular might actually decrease fertility<ref>https://www.emilkirkegaard.com/p/can-we-boost-fertility-with-paid</ref>.
-
-There is a lot of evidence that pronatal benefits and economic booms lead to a higher birth rate. In the United States, it’s likely the birth rate could increase above replacement just through spending about 3% of the country’s GDP, and the benefits would exceed the costs multiple times over<ref>https://www.cremieux.xyz/p/storks-take-orders-from-the-state</ref>.
-
-A 10 percent increase in real house prices is associated with a reduction of 0.01-0.03 births per woman<ref>https://www.sciencedirect.com/science/article/pii/S0927537124000678</ref>.
-
-There is a case to be made that humans evolved for targeting surviving family size rather than live birth count. There are some genes that do predict higher fertility, but they predict very little fertility overall. Furthermore, while over 40 genes have been found to have a significant relationship with fertility, only one has been found to have been positively selected for over time, suggesting that humans have not been positively selected for fertility over the past 10,000 years. Furthermore, while few genes overall have been found to positively predict fertility, when looking within countries and cohorts there are a lot more genes. This suggests that the effects of particular genes on fertility is highly contextual on time and space. Furthermore, there are some genes which predict diagnosed fertility which are not the same genes that predict fertility generally. Many of these have been positively selected for over the last 2000 years. This is because such genes not only make it harder to conceive but also makes a woman more likely to survive infection as well as their fetus. This all makes intuitive sense, as historically the largest challenge to survival was not ability to reproduce, but how to keep one’s offspring alive<ref>https://lymanstone.substack.com/p/there-is-no-long-decline-in-fertility</ref>.
-
-As child mortality declines, live births can decline without changing human family size. While the total fertility rate (TFR) has declined over time, the effective reproductive rate (ERR), which accounts for child survival odds, has not had as strong of a decline over time<ref>https://lymanstone.substack.com/p/there-is-no-long-decline-in-fertility</ref>.
-
-Most countries are experiencing rapid fertility decline, and some countries are trying to pay people in various ways to have more children. Research generally shows that this doesn’t work<ref>https://www.emilkirkegaard.com/p/government-family-spending-does-not</ref>.
 
 **Abortion**
 
