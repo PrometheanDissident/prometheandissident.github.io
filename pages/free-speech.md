@@ -19,6 +19,7 @@ permalink: /free-speech/
 
 - Discuss ethics of limiting "hate speech", corporations engaging in censorship particularly in social media platforms
 - Pluralism should be preferred when navigating challenges associated with productive speech, and this necessitates fewer legal boundaries being imposed
+- X/twitter in its current form has advantages and disadvantages
 
 
 
