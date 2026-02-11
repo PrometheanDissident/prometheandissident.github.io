@@ -4,6 +4,27 @@ title: Free Speech
 permalink: /free-speech/
 ---
 
+## On the Importance of Freedom of Speech
+
+- Discuss why freedom of speech is necessary as a means to challenge and debate ideas
+- Use evolution as an analogy
+
+## Threats to Free Speech
+
+- Discuss freedom of speech as a positive right which needs to be culturally protected. People need to be culturally tolerant, and also engage in speech which is condusive to the fluorishing of society
+- Speech is not simply a right but also a responsibility
+- Threats to free speech can come from the state, society, or corporations in theory
+
+## The Limits of Freedom of Speech
+
+- Discuss ethics of limiting "hate speech", corporations engaging in censorship particularly in social media platforms
+- Pluralism should be preferred when navigating challenges associated with productive speech, and this necessitates fewer legal boundaries being imposed
+
+
+
+
+
+
 <span style="background-color:lightcoral">Need to expand on broader thoughts on this, even if studies are also important to discuss</span>
 
 ## <span style="background-color:orange">Effects</span>
