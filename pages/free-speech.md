@@ -30,6 +30,19 @@ With a legal protection of freedom of speech and a broader cultural framework wh
 
 ## Threats to Free Speech
 
+Because freedom of speech can be viewed as a positive right which can be violated at both a state level as well as a cultural level, threats to freedom of speech can manifest themselves at a number of levels. I identify four levels of note, which include the state, corporations, academia, and the general public. These will be discussed in order:
+
+- **The State -** The most obvious way in which freedom of speech can be violated or suppressed is through the state. The imposition of deliberate restrictions on the ability for people to express certain ideas or talk about certain things under threat of force by the state is perhaps the most egregious way in which freedom of speech can be violated. A less egregious form of violation of freedom of speech which can occur depending on state laws is the suppression of speech through lawfare, as what happened with the anti-immigration website VDARE<ref>https://vdare.com/</ref>. This can occur when dubiously valid legal attacks are consistently levied against an individual or entity, requiring the recipient to continously pay vast sums of money to cover legal funds associated with their defense. Through slowly whittling away at their income and causing impoverishment, lawfare of this form can effectively lead to the suppression of certain voices.
+- 
+
+
+
+
+Corporations
+Academia
+The general public (internet anonymity has expecially caused this to be a danger)
+
+
 - Discuss how free speech can exhibit "democratic" qualities to it, which means that bad ideas can win out if people are irrational (ex. myth of rational voter)
 - Free speech can arguably be used to silence others, if it attempts to exclude them from conversation or intimidate them. Discuss this from a left-wing or right-wing perspective, explain which one is correct, and connect it to the notion of the paradox of tolerance and how it's been misinterpreted and abused.
 
@@ -46,7 +59,7 @@ With a legal protection of freedom of speech and a broader cultural framework wh
 - Discuss ethics of limiting "hate speech", corporations engaging in censorship particularly in social media platforms
 - Pluralism should be preferred when navigating challenges associated with productive speech, and this necessitates fewer legal boundaries being imposed
 - X/twitter in its current form has advantages and disadvantages
-
+- Maybe discuss ways we can protect freedom of speech even when there is suppression? For example, look at anonymity
 
 
 
