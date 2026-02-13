@@ -29,7 +29,8 @@ With a legal protection of freedom of speech and a broader cultural framework wh
 ## Threats to Free Speech
 
 - Discuss how freedom of speech can reduce violence, as by allowing people to voice their grievances and feel heard they feel less of a need to engage in violence
-
+- Discuss how free speech can exhibit "democratic" qualities to it, which means that bad ideas can win out if people are irrational (ex. myth of rational voter)
+- Free speech can arguably be used to silence others, if it attempts to exclude them from conversation or intimidate them. Discuss this from a left-wing or right-wing perspective, explain which one is correct, and connect it to the notion of the paradox of tolerance and how it's been misinterpreted and abused.
 
 
 
