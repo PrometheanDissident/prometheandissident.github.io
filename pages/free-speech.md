@@ -30,17 +30,13 @@ With a legal protection of freedom of speech and a broader cultural framework wh
 
 ## Threats to Free Speech
 
-Because freedom of speech can be viewed as a positive right which can be violated at both a state level as well as a cultural level, threats to freedom of speech can manifest themselves at a number of levels. I identify four levels of note, which include the state, corporations, academia, and the general public. These will be discussed in order:
+Because freedom of speech can be viewed as a positive right which can be violated at both a state level as well as a cultural level, threats to freedom of speech can manifest themselves at a number of levels. I identify four levels of note, which include the state, corporations, academia, and the general public (note that this list draws heavily from T. K. Van Allen's analysis in his article on freedom of speech<ref>https://zerocontradictions.net/pdfs/freedom-of-speech.pdf</ref>). These will be discussed in order:
 
 - **The State -** The most obvious way in which freedom of speech can be violated or suppressed is through the state. The imposition of deliberate restrictions on the ability for people to express certain ideas or talk about certain things under threat of force by the state is perhaps the most egregious way in which freedom of speech can be violated. A less egregious form of violation of freedom of speech which can occur depending on state laws is the suppression of speech through lawfare, as what happened with the anti-immigration website VDARE<ref>https://vdare.com/</ref>. This can occur when dubiously valid legal attacks are consistently levied against an individual or entity, requiring the recipient to continously pay vast sums of money to cover legal funds associated with their defense. Through slowly whittling away at their income and causing impoverishment, lawfare of this form can effectively lead to the suppression of certain voices.
-- 
+- **Corporations -** Corporations, through engaging in viewpoint discrimination against individuals in hiring processes, or through firing individuals already employed, effectively coercing individuals into silence through economic soft power. Beyond this, there is the threat which corporations pose insofar as they control various platforms and mediums for communication. A particularly important instance of this is with social media, where a large debate over the past decade has surrounded whether deplatforming certain individuals can ever be justified. Social media companies which ban individuals for expressing certain viewpoints can effectively silence certain viewpoints. Beyond the economic effects of deplatforming individuals whose careers are often built on having large online audiences through these platforms, deplatforming can cut off certain viewpoints from being seen in what is currently one of the most fundamental mediums of communication. Because this medium is privatized, this opens up the opportunity for private entities to limit freedom of speech.
+- **Academia -** Academia is similar to corporations in that it can engage in viewpoint discrimination in hiring and firing, as well as in more soft means such as promotion for awards. This happens regularly in practice (see [Political Bias in Academia](https://prometheandissident.github.io/academia/#political-bias-in-academia)). What makes academia unique is that unlike corporate jobs which are in many cases held by individuals without strong expertise, or general social media platforms where anyone can talk, is that academia is a type of gatekeeper. Because academia is uniquely associated with prestige, it gatekeeps whose voices are regarded as ones which should be taken seriously. Furthermore, the broader system provides individuals with professional positions where they can conduct research on various topics. It is unique in that it pays individuals for producing knowledge, which is significantly more time-consuming, costly, but also valuable, relative to general dialectic which may be seen on an online platform. Gatekeeping of academia not only gatekeeps legitimacy to a degree, but it also gatekeeps the capacity for individuals to engage in research. In this respect, violations of free speech in academia are worse than corporate violations, as the chilling effects not only affect speech, but also the capacity to produce knowledge.
+- **The General Public -** While less talked about today, it has been widely recognized by a number of liberal philosophers, such as John Stuart Mill, Alexis de Tocqueville, Bertrand Russell, that the "tyranny of the majority" can act as a way to stifle free speech in itself<ref>https://necpluribusimpar.net/censorship-is-bad-even-when-its-done-by-private-companies/</ref>. In conjunction with threat of losing platforms, loss of employment in academia and elsewhere, social pressures to conform to societal dogmas can be immense, should such dogmas exist. While anonymity can help alleviate some of these problems, anonymously speaking about controversial subjects publicly inevitably breeds the risk of doxxing, which risks bringing social and economic costs to speech. In extreme cases, individual acts of terrorism or mob violence against individuals can also lead to a dampening on freedom of speech. Risk of violence from private individuals if one speaks out can effectively silence many individuals.
 
-
-
-
-Corporations
-Academia
-The general public (internet anonymity has expecially caused this to be a danger)
 
 
 - Discuss how free speech can exhibit "democratic" qualities to it, which means that bad ideas can win out if people are irrational (ex. myth of rational voter)
@@ -50,7 +46,6 @@ The general public (internet anonymity has expecially caused this to be a danger
 
 - Discuss freedom of speech as a positive right which needs to be culturally protected. People need to be culturally tolerant, and also engage in speech which is condusive to the fluorishing of society
 - Speech is not simply a right but also a responsibility
-- Threats to free speech can come from the state, society, or corporations in theory
 
 - Paradox of tolerance
 
@@ -60,6 +55,7 @@ The general public (internet anonymity has expecially caused this to be a danger
 - Pluralism should be preferred when navigating challenges associated with productive speech, and this necessitates fewer legal boundaries being imposed
 - X/twitter in its current form has advantages and disadvantages
 - Maybe discuss ways we can protect freedom of speech even when there is suppression? For example, look at anonymity
+- We probably don't need too much regulation at this point - twitter is based and we probably need diversity of approaches
 
 
 
