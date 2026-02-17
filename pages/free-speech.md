@@ -4,6 +4,8 @@ title: Free Speech
 permalink: /free-speech/
 ---
 
+**<u>Summary</u>**
+
 This page overviews the philosophy of freedom of speech: why it is important, and what is means to uphold it. Freedom of speech is crucial as it promotes the evolution of knowledge and rationality on a social level. The protection of freedom of speech is not merely limited to laws, but also must be cultural in nature. Beyond legal threats, freedom of speech in a substantive sense, as a means to knowledge and rationality, can be threatened by corporations, academia, individuals, and the general public. This is because free speech is a means to an end, a means by which knowledge and rationality are promoted. When private entities or cultural values undermine this means, even if they do so through speech, they undermine freedom of speech in effect. In promoting this substantive understanding of freedom of speech, I argue in favor of the right to invoke the paradox of tolerance against censoriousness in certain contexts, and the necessity of pluralism in forming communities with different norms and customs. Freedom of speech is the lifeblood of social evolution, and it is crucial that we treat it with the importance that it deserves.
 
 ## On the Importance of Freedom of Speech
