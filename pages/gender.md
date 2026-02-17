@@ -256,6 +256,8 @@ Some experimental and quasi-experimental evidence suggests that there is no asso
 
 In short, schooling appears to have few net biases in any particular direction. Alleged pressures that women who are stronger in STEM have relative to men can be explained by sex differences in opportunity costs associated with pursuing STEM, which arise from sex differences in verbal ability (see [Psychological Sex Differences: Intelligence](https://prometheandissident.github.io/gender/#intelligence)).
 
+### Conclusion on Disparities
+
 ## ================================================= TO ADD BELOW =================================================
 
 ## Sexism
