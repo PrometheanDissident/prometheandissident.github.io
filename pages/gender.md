@@ -190,6 +190,11 @@ It's not clear whether the fertility decline is a short-run trend or is somethin
 
 ## On Sex Atypicality
 
+- Make case for why in general, sex atypicality should largely be kept out of the public eye, merely because of how the public tends to perceive it. While libertine values should be adopted with regards to this, it should not be shown to children or actively promoted
+- Draw parallels to how discussion of kinks and fetishes is stigmatized in both adult conversation as particularly around children.
+
+
+
 - Discuss how just because average differences exist doesn’t mean there can’t be variation in how people behave
 - Look at homosexuality and transgenderism and discuss views on them, how they originate and what we should do about it
 
