@@ -311,6 +311,18 @@ I’m therefore against transgender women being allowed to compete in many elite
 
 SIDENOTE: Jones et al. (2017) is sometimes cited as a literature review suggesting that transgender male or female individuals do not have an athletic advantage at any stage of their transition<ref>Jones, B. A., Arcelus, J., Bouman, W. P., & Haycraft, E. (2016). Sport and Transgender People: A Systematic review of the literature relating to sport participation and competitive sport policies. Sports Medicine, 47(4), 701–716. https://doi.org/10.1007/s40279-016-0621-y</ref>, but the authors later clarified in Jones et al (2020) that the paper suggested that there wasn’t direct evidence at the time that would support the IOC policy or other sporting organizational policies<ref>Jones, B. A., Arcelus, J., Bouman, W. P., & Haycraft, E. (2020). Authors’ reply to Richardson and Chen: Comment on “Sport and Transgender People: A Systematic review of the literature relating to sport participation and Competitive Sport Policies.” Sports Medicine, 50(10), 1861–1862. https://doi.org/10.1007/s40279-020-01324-6</ref>. Rather than the paper being for transgender female inclusion into women’s sports, it is agnostic to the question.
 
+#### Public Accommodations
+
+Transgender people appear to fare better in terms of mental health when there are public accommodations for them, such as inclusive bathroom policies and inclusive housing. This comes with no clear negative impacts. Sexual assaults do not appear to occur at higher rates when there are inclusive bathroom policies. As long as transgender people are clearly passing and acting in accordance with the gender of the public accomodations they are being assigned to, if anything, requiring transgender people to use spaces of their own biological sex would be more outwardly non-normative. As such, I am fine with these accommodations existing so long as society generally consents to them.
+
+Transgender teens with restricted bathroom access are at higher risk of sexual assault than the population average<ref>Transgender teens with restricted bathroom access at higher risk of sexual assault. (2019, May 7). News. https://www.hsph.harvard.edu/news/hsph-in-the-news/transgender-teens-restricted-bathroom-access-sexual-assault/</ref>. This makes perfect sense if having two genders in a washroom meant traditionally for one creates social conditions which lead to sexual assaults occurring.
+
+Most research suggests that allowing transgender people into the gender-appropriate washroom does not cause increases in incidents of privacy and safety violations in such spaces<ref>Hasenbush, A., Flores, A. R., & Herman, J. L. (2018). Gender Identity Nondiscrimination Laws in Public Accommodations: a Review of Evidence Regarding Safety and Privacy in Public Restrooms, Locker Rooms, and Changing Rooms. Sexuality Research and Social Policy, 16(1), 70–83. https://doi.org/10.1007/s13178-018-0335-z</ref><ref>Murchison, G. R., Agénor, M., Reisner, S. L., & Watson, R. J. (2019). School restroom and locker room restrictions and sexual assault risk among transgender youth. PEDIATRICS, 143(6). https://doi.org/10.1542/peds.2018-2902</ref>. I did locate one study which suggested otherwise<ref>Target Study – WOMAN means something. (2019, January 11). https://womanmeanssomething.com/targetstudy/</ref>. However, this study looked at media reports as opposed to statistics and self-reporting data. Therefore, it is necessarily biased towards media which may paint transgender people in a more or less fair light than in reality and may exaggerate implicitly the actual incidence of sexual assault in such washrooms.
+
+The lack of a positive relationship between inclusive bathroom policy and safety and privacy violations might partially help explain why men are more concerned about transgender women in female bathrooms than women are, despite not being the demographic who is experiencing the issues they care about<ref>Stones, R. J. (2016). Which Gender is More Concerned About Transgender Women in Female Bathrooms? Gender Issues, 34(3), 275–291. https://doi.org/10.1007/s12147-016-9181-6</ref>. This could be seen as a sort of sexist condescension or a lack of understanding of the actual effects of allowing transgender women into female washrooms. Regardless, it is fairly ironic.
+
+In unisex washrooms, the story may be a bit different. The vast majority of reported sexual assaults at public swimming pools in the UK take place in unisex changing rooms. Just under 90% of complaints involving sexual assaults, voyeurism, and harassment happen in such changing rooms. This is despite the fact that unisex changing rooms account for less than half of the changing areas across the UK<ref>Hosie, R. (2018, September 15). Unisex changing rooms put women at danger of sexual assault, data reveals | The Independent. The Independent. https://www.independent.co.uk/life-style/women/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html</ref>.
+
 #### Prisons
 
 Data suggests that transgender women in male prisons are greatly disproportionately sexually abused compared to non-transgender inmates in men’s prisons<ref>just detention international. (2013). Targets for abuse: transgender inmates and prisoner rape. In Just Detention International. https://justdetention.org/wp-content/uploads/2015/10/FS-Targets-For-Abuse-Transgender-Inmates-And-Prisoner-Rape.pdf</ref>. At the same time, data from England and Wales suggests that nearly half of transgender prisoners have been convicted for sexual offenses, compared to 19% of males and 4% of females in the overall prison population<ref>Biggs, M. (2020, May 17). The Transition from Sex to Gender in English Prisons: Human Rights and Queer Theory. https://doi.org/10.31235/osf.io/43f2t</ref>. This lends credence to the hypothesis that there may be male inmates who insincerely attempt to identify as transgender to enter women’s spaces where they can engage in predatory behavior. Thus there is a very difficult dilemma posed. If however, we do hold that we should try and ensure that sincere transgender women do enter women’s prisons where they’ll be safe from sexual assault, we must take great care in rooting out false positives as not doing so could have disastrous consequences.
@@ -401,25 +413,9 @@ In short, schooling appears to have few net biases in any particular direction. 
 
 ## Sex Atypicality: Transgenderism
 
-The best evidence suggests that gender transition, medically and socially, appears to have positive health effects on transgender individuals. This will be discussed in later sections.
-
 ### Gender-Affirming Treatment
 
 **Note on Fertility Concerns:** Puberty blockers do not cause infertility although may pause the development of things which affect fertility potential<ref>Cheng, P. J., Pastuszak, A. W., Myers, J. B., Goodwin, I. A., & Hotaling, J. M. (2019). Fertility concerns of the transgender patient. Translational Andrology and Urology, 8(3), 209–218. https://doi.org/10.21037/tau.2019.05.09</ref><ref>Health, N. L. C. &. A. (2021). A flawed agenda for trans youth. The Lancet Child & Adolescent Health, 5(6), 385. https://doi.org/10.1016/s2352-4642(21)00139-5</ref>. Hormone therapy can affect fertility, although this is potentially reversible. Gender-affirming surgery that involves hysterectomy and oophorectomy in transmen or orchiectomy in transwomen results in permanent sterility<ref>Cheng, P. J., Pastuszak, A. W., Myers, J. B., Goodwin, I. A., & Hotaling, J. M. (2019). Fertility concerns of the transgender patient. Translational Andrology and Urology, 8(3), 209–218. https://doi.org/10.21037/tau.2019.05.09</ref>.
-
-### <span style="background-color:lightcoral">Policy Implications</span>
-
-#### <span style="background-color:yellow">Public Accommodations</span>
-
-Transgender people appear to fare better in terms of mental health when there are public accommodations for them, such as inclusive bathroom policies and inclusive housing. This comes with no clear negative impacts. Sexual assaults do not appear to occur at higher rates when there are inclusive bathroom policies. Funnily enough, it is men who are the most concerned about transgender-inclusive bathroom policies, in spite of the fact that they don’t have to experience the issues they fear women will, of “trans women predators”.
-
-Transgender teens with restricted bathroom access are at higher risk of sexual assault than the population average<ref>Transgender teens with restricted bathroom access at higher risk of sexual assault. (2019, May 7). News. https://www.hsph.harvard.edu/news/hsph-in-the-news/transgender-teens-restricted-bathroom-access-sexual-assault/</ref>. This makes perfect sense if having two genders in a washroom meant traditionally for one creates social conditions which lead to sexual assaults occurring.
-
-Most research suggests that allowing transgender people into the gender-appropriate washroom does not cause increases in incidents of privacy and safety violations in such spaces<ref>Hasenbush, A., Flores, A. R., & Herman, J. L. (2018). Gender Identity Nondiscrimination Laws in Public Accommodations: a Review of Evidence Regarding Safety and Privacy in Public Restrooms, Locker Rooms, and Changing Rooms. Sexuality Research and Social Policy, 16(1), 70–83. https://doi.org/10.1007/s13178-018-0335-z</ref><ref>Murchison, G. R., Agénor, M., Reisner, S. L., & Watson, R. J. (2019). School restroom and locker room restrictions and sexual assault risk among transgender youth. PEDIATRICS, 143(6). https://doi.org/10.1542/peds.2018-2902</ref>. I did locate one study which suggested otherwise<ref>Target Study – WOMAN means something. (2019, January 11). https://womanmeanssomething.com/targetstudy/</ref>. However, this study looked at media reports as opposed to statistics and self-reporting data. Therefore, it is necessarily biased towards media which may paint transgender people in a more or less fair light than in reality and may exaggerate implicitly the actual incidence of sexual assault in such washrooms.
-
-The lack of a positive relationship between inclusive bathroom policy and safety and privacy violations might partially help explain why men are more concerned about transgender women in female bathrooms than women are, despite not being the demographic who is experiencing the issues they care about<ref>Stones, R. J. (2016). Which Gender is More Concerned About Transgender Women in Female Bathrooms? Gender Issues, 34(3), 275–291. https://doi.org/10.1007/s12147-016-9181-6</ref>. This could be seen as a sort of sexist condescension or a lack of understanding of the actual effects of allowing transgender women into female washrooms. Regardless, it is fairly ironic.
-
-In unisex washrooms, the story may be a bit different. The vast majority of reported sexual assaults at public swimming pools in the UK take place in unisex changing rooms. Just under 90% of complaints involving sexual assaults, voyeurism, and harassment happen in such changing rooms. This is despite the fact that unisex changing rooms account for less than half of the changing areas across the UK<ref>Hosie, R. (2018, September 15). Unisex changing rooms put women at danger of sexual assault, data reveals | The Independent. The Independent. https://www.independent.co.uk/life-style/women/sexual-assault-unisex-changing-rooms-sunday-times-women-risk-a8519086.html</ref>.
 
 ## <span style="background-color:yellow">Politics: The Woman Question</span>
 
@@ -485,43 +481,11 @@ Comprehensive sex education appears to successfully delay sexual initiation<ref>
 
 A matriarchy is a social system in which the mother or a female elder has absolute authority over the family group, and by extension, one or more women exert a similar level of authority over the community as a whole. Under this definition, matriarchal societies have never existed<ref>https://www.britannica.com/topic/matriarchy</ref>. Dube & Harish (2017) looked at the effect of female rule on war among European polities between the 15th and 20th centuries. They found that polities led by queens are more likely to engage in war than polities led by kings<ref>https://www.nber.org/papers/w23337</ref>.
 
-### <span style="background-color:orange">Toxic Masculinity</span>
-
-Conformity to masculine norms of self-reliance, power over women, and playboy are related to worse mental health outcomes, while conformity to the masculine norm of the primacy of work is not significantly related to any mental health related outcome<ref>https://www.apa.org/pubs/journals/releases/cou-cou0000176.pdf</ref>. Girls' adherence to masculinity norms is also associated with less psychosocial well-being<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/jora.12475</ref>.
-
-### <span style="background-color:orange">Sexual Assault</span>
-
-Survey data suggests that about one out of five undergraduate women experience an attempted or completed sexual assault during their college years<ref>https://www.ojp.gov/pdffiles1/nij/grants/221153.pdf</ref>.
-
-### <span style="background-color:orange">Male Disposability</span>
-
-Empathic sadness was higher in women, but both men and women display higher empathic sadness toward women than toward men<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5112287/</ref>.
-
-There exists a greater moral condemnation of men's assaults on women and the belief that the victims of these assaults are in greater danger. This does not depend on gender, age, level of education, or political ideology of the respondent<ref>https://pubmed.ncbi.nlm.nih.gov/19746441/</ref>.
-
 ### <span style="background-color:orange">Attitudes/Stereotypes</span>
-
-Women have a higher in-group bias than men<ref>https://rutgerssocialcognitionlab.weebly.com/uploads/1/3/9/7/13979590/rudmangoodwin2004jpsp.pdf</ref><ref>https://link.springer.com/chapter/10.1007/978-3-030-04384-1_9</ref>.
 
 Feminist activist women have a more masculine 2d:4d digit ratio and tend to be more dominant in their personality<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4158978/</ref>.
 
 Women tend to prefer benevolent sexist men to nonsexist men<ref>https://files.catbox.moe/r4e3eb.pdf</ref><ref>https://files.catbox.moe/1scdcp.pdf</ref>.
-
-### <span style="background-color:orange">Rape Accusations</span>
-
-The rate of false reports of sexual assault tends to be found to be about 5%. However, the total false reporting rate, including both confirmed and equivocal cases would be greater than this 5% rate<ref>https://link.springer.com/article/10.1007/s10508-015-0666-2</ref>.
-
-### <span style="background-color:orange">Feminists</span>
-
-Feminists tend to report lower levels of hostility toward men than nonfeminists<ref>https://journals.sagepub.com/doi/10.1111/j.1471-6402.2009.01491.x</ref>.
-
-## Toxic Masculinity
-
-Toxic masculinity refers to stereotypes of masculinity that lead men to act like tough guys, being taught to be strong, not to cry, not to express emotions or be afraid, to fight if necessary, and more<ref>https://idrc-crdi.ca/en/stories/combatting-toxic-masculinity-africa</ref>.
-
-Some argue it is important to distinguish this from traditional masculinity which has traits and role expectations that are positive, such as being a provider and having emotional resilience<ref>https://www.binghamton.edu/news/story/4974/men-with-toxic-masculinity-are-more-likely-to-make-sexual-advances-without-consent</ref>.
-
-Toxic masculinity is associated with higher rates of verbal, online or physical bullying, as well as sexual harassment. It is also associated with experiencing depression and suicidal ideation<ref>https://www.pittwire.pitt.edu/pittwire/features-articles/study-men-scoring-higher-man-box-scale-are-prone-violence-mental-illness</ref>. It also contributes to a reluctance among men to seek help or support for their mental health concerns, exacerbating problems<ref>https://media.journoportfolio.com/users/323854/uploads/505373d9-965d-4e73-82dc-e0a0e7082395.pdf</ref>.
 
 ## Sexism more
 
