@@ -4,6 +4,38 @@ title: Crime
 permalink: /crime/
 ---
 
+## The Importance of Addressing Crime
+
+- Find estimates of the cost of crime from an economic perspective
+- Discuss effects of crime on social trust and all of that
+- This is why it's necessary to have a good legal system in place to address crime
+
+## On Policing Crime
+
+- Discuss research examining the effectiveness of policing
+- Examine various policing practices - which ones work and which ones don't
+- Discuss how the probability of getting caught is more important for explaining crime/recidivism than the length a person is sentenced
+- Discuss why defunding the police is gay
+
+## On Punishing Crime
+
+- Discuss punishment versus rehabilitation, and look at which efforts can work to reduce recidivism
+- Discuss private prisons debate
+- Discuss the death penalty and why it's probably gay and cringe
+
+## On Firearms Legislation
+
+- Go through the evidence showing that more guns generally means more crime and worse quality of life for people
+- "Good guy with a gun" is largely a myth, the people are retarded
+
+
+
+
+
+
+
+## ============================================================ TO ADD BELOW ============================================================
+
 ## Punishment Practices
 
 ### Private Prisons
