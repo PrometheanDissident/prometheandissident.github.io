@@ -1,0 +1,21 @@
+---
+layout: page
+title: Persuasion
+permalink: /persuasion/
+---
+
+## Why Persuasion is Important
+
+## On Persuadability Towards Better Philosophical/Political Beliefs
+
+As discussed in [Psychology of Belief](https://prometheandissident.github.io/psychology/#psychology-of-belief), people are not perfectly rational. In general, the more explicitly personal and relevant to the group an idea becomes, the less rational people are going to be surrounding it. For example, people are more willing to change their minds about an abstract mathematical idea if they are given a proof, as opposed to a belief about whether democracy or another political system would be preferable. The average person is thus not particularly good at being persuaded of a given issue. However, not everyone is the same. There are a number of signs which suggest that someone may be persuaded about an issue (note: some of this is influenced by the blogger Brittonic Memetics, who had a guide on persuasion for leftists specifically which has some generalized value<ref>https://brittonicmemetics.wordpress.com/2020/05/22/fixing-receptive-leftists/</ref>). These signs will be focused primarily on persuasion towards political or philosophical beliefs. Even though in some sense, many of them cannot necessarily be said to be "true" or "false", it is certainly the case that many of them are in part based on true or false propositions, so persuasion towards truth is still important. Similarly, persuasion towards particular values, while oftentimes a bit more difficult as it can deal with underlying human drives, can still work and is important. Here are some indicators of persuadability:
+
+- **Is open to conversation -** If someone doesn't have this, persuasion is a non-starter, as no openness to conversation means conversation cannot meaningfully occur, and thus persuasion cannot occur.
+- **They value truth and think that truth is on their side -** If someone values the truth, they will naturally be more likely to be persuaded towards it, as they will be relatively less concerned with other values such as temporary shame, social consequences, or other things which are irrelevant towards whether a given proposition is true. They will thus be more amenable to attempts at persuasion through logical reasoning and pointing out inconsistencies in alternative positions.
+- **They have a history of changing their mind -** A person changing their mind in the past can be an indicator that they are generally more suggestible, and also that in some cases they are more willing to adjust their opinion in accordance with new evidence.
+- **They haven't invested too much into their beliefs -** If a person has a social or economic incentive to hold a set of beliefs, it can be very difficult to change their view on it. For example, if their entire friend circle is comprised of people who share that belief dogmatically, they will naturally feel pressure to hold that belief regardless of persuasion attempts. Similarly, if that person has a job which requires them to adhere to that belief, the economic or social penalty associated with rejecting that belief can be substantial and dissuade someone from being persuaded. Furthermore, the longer a person has invested into their beliefs, the more difficult it can be to change them. This is because people are averse to sunk costs and want to view themselves as intelligent, and to protect their ego will rationalize their beliefs so that they don't have to potentially come to terms with them believing irrational things for so long. This is part of the reason why it can be easier to change the beliefs of someone who is younger.
+- **Has heterodox viewpoints for their "tribe" -** Most people who are interested in politics or philosophy tend to have a "tribe" that they adhere to ideologically, such as progressivism, conservatism, libertarianism, etc. If that person identifies with a particular tribe, but holds one or more viewpoints which are not associated with that tribe, that implies that the person is more independent in their thought, and so is more open to being broken out of a particular tribe and towards a better/more truthful worldview. Ideologues - people who strongly and dogmatically adhere to a specific ideological doctrine - are much less likely to be persuadable.
+
+## References
+
+<references />
