@@ -8,7 +8,8 @@ permalink: /democracy/
 
 - We see democracy as intrinsically good
 - Yet many areas are undemocratic and we don't care, such as workplaces and central banks
-- To some degree non-democracy is inevitable (iron law of oligarchy)
+- To some degree non-democracy is inevitable (iron law of oligarchy
+- Iron law of oligarchy explains why rent-seeking behavior can happen and why small, focused minorities can consistently get their way, mucking up political and economic systems and making them inefficient.
 - Democracy, insofar as it exists, must be seen as a means to an end
 - Maybe have a subsection looking at research on how democratically responsive governments actually are
 
