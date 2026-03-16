@@ -4,7 +4,9 @@ title: Persuasion
 permalink: /persuasion/
 ---
 
-## Why Persuasion is Important
+**<u>Summary</u>**
+
+This page looks at persuasion, or the process of attempting to convince an individual of a different set of beliefs through one-on-one dialogue. The page begins by looking at the relative "persuadability" of individuals, examining what traits make an individual more likely to be persuaded through this method. Then, a number of methods/tips for persuasion are discussed, drawing heavily on the work of Peter Boghossian and James Lindsay. The core of persuasion attempts is to deliberately try and instill doubt while framing the persuasion attempt in a non-hostile manner. The page finishes by discussing the opportunities and limits of persuasion, ultimately suggesting that while persuasion can be helpful on an individual level, it is more limited on a group level and cannot address irrational beliefs which arise due to group dynamics.
 
 ## On Persuadability Towards Better Philosophical/Political Beliefs
 
@@ -62,9 +64,11 @@ People tend to have less rational and contentious views on issues which are less
 - **Focus on epistemology -** Epistemology refers to a theory of knowledge. It focuses on how a person got to the conclusion that they did, rather than what the actual conclusion is. Focusing more on epistemology can help abstract the conversation away from what might otherwise be a heated area. Once a person changes their view or adopts your view on epistemology, so long as your view directly follows from it, they will be more likely to adopt your viewpoint in the end as they agreed with the process by which you got there.
 - **Avoid facts -** This is the converse of focusing on epistemology. While facts are important to influence a person's worldview, they can risk becoming contentious in a conversation. If possible, avoid facts and focus on reasoning, as reasoning is generally a much less contentious area and there's greater emotional room for people to agree with others. For factual questions, try to engage in outsourcing, whereby you ask the person how we might be able to arbitrate a factual disagreement that exists between both of you, such as a particular source to look at. This helps to depersonalize the conversation and gets the person to agree to terms prior which can help them change their view if it turns out that they were factually incorrect after using that method.
 
-## The Opportunities of Persuasion
+## The Opportunities and Limits of Persuasion
 
-## The Limits of Persuasion
+At its core, persuasion is important because beliefs are important. Beliefs determine how people will act in the world, and so the capacity to effectively change beliefs means that you can have a lot of power in the world. While much of social psychology shows that groups are irrational (see [Mobbing and Other Group Dynamics](https://prometheandissident.github.io/psychology/#mobbing-and-other-group-dynamics)), individual people can be surprisingly easy to persuade of particular issues. While research does show that political beliefs and related beliefs have a substantial heritability (see [Are Beliefs Genetic?](https://prometheandissident.github.io/psychology/#are-beliefs-genetic?)), it must always be remembered that heritability deals with a certain environmental variance presented in the population. If none of the population is exposed to a particular attempt at persuasion, then the heritability estimate says little about how effective persuasion can be in terms of changing a person's beliefs. Even with facts, which as discussed previously are generally non-advised to appeal to in persuasion attempts due to them being so contentious, research shows that attempts to correct misinformation, while not being perfect and don't lead to generalized inoculation, don't exhibit a "backfire effect" (see [Psychology of Belief](https://prometheandissident.github.io/psychology/#psychology-of-belief)).
+
+One of the problems however is that once group dynamics do get involved, persuasion becomes difficult or impossible. Persuasion attempts only really work in one-on-one situations where the person is higher in "persuadability", as discussed before. This requires some separation from groups which may pressure them to believe irrational ideas, which can be difficult if virtually everyone around them believes in said irrational ideas. Even if a person is open-minded in spite of the immense social pressure against it, they may only privately be persuaded, without changing their actions in accordance with the belief so as to not risk social ostracism. This can ultimately render persuasion attempts futile. Persuasion on an individual level cannot necessarily address other incentives which affect what a person believes, such as what is economically or socially advantageous to believe.
 
 ## References
 
