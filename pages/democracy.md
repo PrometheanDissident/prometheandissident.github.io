@@ -4,6 +4,34 @@ title: Democracy
 permalink: /democracy/
 ---
 
+## Democracy as a Dogma
+
+- We see democracy as intrinsically good
+- Yet many areas are undemocratic and we don't care, such as workplaces and central banks
+- To some degree non-democracy is inevitable (iron law of oligarchy)
+- Democracy, insofar as it exists, must be seen as a means to an end
+- Maybe have a subsection looking at research on how democratically responsive governments actually are
+
+## Principles of Democracy
+
+- Paradox of voting
+- Knowledge and systemic bias
+- Social value of voting
+
+## The Literature on Democracy
+
+- Discuss research relating democracy and economic growth as well as other outcomes
+
+## Possible Alternatives to the Status Quo
+
+- Central bank independence
+- Futarchy/betting prediction markets
+- Education/knowledge requirements
+
+- *LOOK INTO CANADA VS US SYSTEM AND WHICH IS BETTER
+
+## ======================================== TO INCORPORATE BELOW ========================================
+
 ## <span style="background-color:orange">Public Opinion and Political Change</span>
 
 The impact of public opinion on public policy is substantial, and salience of issues enhances the impact. This impact remains strong even when the activities of political organizations and elites are taken into account<ref>https://www.jstor.org/stable/3219881#metadata_info_tab_contents</ref><ref>https://www.cambridge.org/core/journals/american-political-science-review/article/abs/effects-of-public-opinion-on-policy/856B172A7DC19A7EB72C569A7F6F2104</ref>. Policy also drives public opinion, as the public naturally responds positively or negatively to policy changes by the government<ref>https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-74</ref>.
