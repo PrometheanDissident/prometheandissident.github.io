@@ -20,9 +20,10 @@ Suppose that there are two societies: Society A with only 10 voters and Society 
 
 Many economists, recognizing that the marginal benefit of an individual voting is miniscule, argue that in such circumstances it is rational for voters to not pay much attention to what policies would maximize their utility. This is often referred to as "rational ignorance"<ref>The Myth of the Rational Voter: Chapter 1</ref>.
 
-
 - Knowledge and systemic bias
 - Social value of voting
+
+- Reason why consumer goods model of democracy fails is that it ignores that democracy is less like a private good and more like a common good. Democracy becomes a tragedy of the commons, in which case it would traditionally be solved either through direct regulation of the commons (regulatory response) or through assignment of property rights (libertarian response)
 
 ## The Literature on Democracy
 
