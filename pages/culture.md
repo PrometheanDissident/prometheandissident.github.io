@@ -13,3 +13,7 @@ Formal religion is focused on deeper and more tribally oriented beliefs. Its rit
 It is reasonable to infer that magic and totemism are direct adaptations to the environment and preceded formal religion in social evolution. Sacred traditions are a cultural universal as are creation myths or at least myths which situation the tribe in relation to the world. Belief in high gods is not universal however. One analysis found that only about 35 percent of hunter-gatherer societies included high gods in their sacred traditions<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
 “To sanctify a procedure or statement is to certify it as beyond question and imply punishment for anyone who dares to contradict it.” This certification is used to serve the most important interests of the group. Another force leading to the formalization of morality and religion is the fact that extreme human social plasticity can be both a strength and a danger. If trusted to make rules on their own, a person risks chaos<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
+
+## References
+
+<references />
