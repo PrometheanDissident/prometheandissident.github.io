@@ -4,7 +4,30 @@ title: Culture
 permalink: /culture/
 ---
 
-## Culture
+## What is Culture
+
+- Define culture
+- Describe why culture is extremely broad in reality, discuss everything which it includes
+
+## The Value of Culture
+
+- Discuss Adam Lanza's "cultural philistine" view
+- Culture provides people with a set of scripts and sense of purpose (discuss gender abolitionism paper)
+
+## On Cultural Relativism
+
+- Discuss how hard cultural relativism is cringe and a form of tactical nihilism
+- 
+
+
+
+
+
+
+
+
+
+## Sociobiology Culture
 
 The rudiments of culture exist in other primates but culture infiltrating virtually all aspects of life is exclusive to humans. There is great amounts of cultural diversity among societies. Culture, including ritual and religion, can be interpreted as a hierarchical system of “environmental tracking devices”, or responses. The fastest cultural responses in industrial societies include fashions on dress and speech. Slower are political ideology and attitudes toward other nations, and slowest includes incest taboos or belief/disbelief in higher gods. Slowly changing forms of culture tend to be encapsulated in rituals. Most human rituals have more than a simple immediate signal value. They both label, reaffirm and rejuvenate the moral values of the community. The most elementary forms of sacred rituals are concerned with magic, or the active attempt to manipulate nature and the gods<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
