@@ -4,6 +4,26 @@ title: Climate Change
 permalink: /climate-change/
 ---
 
+## Understanding Climate Change
+
+## The Evidence for Anthropogenic Climate Change
+
+## Effects of Climate Change
+
+- List various effects that are environmental and more abstract
+
+## How Serious?
+
+- Effects on GDP, QOL
+- Tipping points?
+
+## Mitigation Strategies
+
+- Passive (EKC)
+- Active (Command-and-control, taxes, cap and trade, coase theorem, liability, renewable energy, carbon sinks, carbon capture
+
+## ====== TO ADD BELOW ======
+
 ## <span style="background-color:yellow">Evidence for Climate Change</span>
 
 Pieces of evidence:
