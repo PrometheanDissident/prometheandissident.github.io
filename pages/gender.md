@@ -516,9 +516,7 @@ Feminist activist women have a more masculine 2d:4d digit ratio and tend to be m
 
 Women tend to prefer benevolent sexist men to nonsexist men<ref>https://files.catbox.moe/r4e3eb.pdf</ref><ref>https://files.catbox.moe/1scdcp.pdf</ref>.
 
-## Unsorted
-
-Paternal incarceration is associated with increased physical aggression for boys, and these effects are concentrated among boys whose fathers were neither incarcerated for a violent offense nor abusive to the boys' mother. The removal of abusive fathers has on net results decreased physical aggression for boys<ref>https://academic.oup.com/sf/article-abstract/89/1/285/2235254?redirectedFrom=fulltext&login=false</ref>.
+## Unilateral Divorce
 
 Legalizing unilateral divorce increases female labor force, decreases marriages but increases marriage quality, may reduce child well-being, increases household saving rates, and reduces domestic violence and female suicide. Unilateral divorce combined with equal division of property may depress female employment. Because there is some evidence that children can be harmed by unilateral divorce, easy divorce should be accompanied by policies aimed at supporting children in vulnerable families<ref>https://wol.iza.org/articles/should-divorce-be-easier-or-harder</ref>.
 
