@@ -441,12 +441,6 @@ In short, schooling appears to have few net biases in any particular direction. 
 
 ## ================================================= TO ADD BELOW =================================================
 
-## Sex Atypicality: Transgenderism
-
-### Gender-Affirming Treatment
-
-**Note on Fertility Concerns:** Puberty blockers do not cause infertility although may pause the development of things which affect fertility potential<ref>Cheng, P. J., Pastuszak, A. W., Myers, J. B., Goodwin, I. A., & Hotaling, J. M. (2019). Fertility concerns of the transgender patient. Translational Andrology and Urology, 8(3), 209–218. https://doi.org/10.21037/tau.2019.05.09</ref><ref>Health, N. L. C. &. A. (2021). A flawed agenda for trans youth. The Lancet Child & Adolescent Health, 5(6), 385. https://doi.org/10.1016/s2352-4642(21)00139-5</ref>. Hormone therapy can affect fertility, although this is potentially reversible. Gender-affirming surgery that involves hysterectomy and oophorectomy in transmen or orchiectomy in transwomen results in permanent sterility<ref>Cheng, P. J., Pastuszak, A. W., Myers, J. B., Goodwin, I. A., & Hotaling, J. M. (2019). Fertility concerns of the transgender patient. Translational Andrology and Urology, 8(3), 209–218. https://doi.org/10.21037/tau.2019.05.09</ref>.
-
 ## <span style="background-color:yellow">Politics: The Woman Question</span>
 
 Women perform just as well when they run for public office, but there is a gender gap in political ambition. This is due to a combination of women being less likely to be encouraged or recruited for office, and that public office careers have traits which women tend to find undesirable<ref>https://www.brookings.edu/wp-content/uploads/2016/06/05_women_lawless_fox.pdf</ref><ref>https://www.american.edu/spa/wpi/upload/2012-men-rule-report-web.pdf</ref>.
