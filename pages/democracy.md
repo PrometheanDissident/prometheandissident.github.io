@@ -110,6 +110,8 @@ Gender quotas help to normalize women in politics, having a cultural effect sepa
 
 Female legislators tend to place higher emphasis on women's issues and children/family concerns, but also on general economic and health issues. They are more likely to cause increases in government expenditures towards public health and decreases in government expenditures towards military and other areas<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2006.00202.x</ref><ref>http://uu.diva-portal.org/smash/get/diva2:1246248/FULLTEXT01</ref>.
 
+A matriarchy is a social system in which the mother or a female elder has absolute authority over the family group, and by extension, one or more women exert a similar level of authority over the community as a whole. Under this definition, matriarchal societies have never existed<ref>https://www.britannica.com/topic/matriarchy</ref>. Dube & Harish (2017) looked at the effect of female rule on war among European polities between the 15th and 20th centuries. They found that polities led by queens are more likely to engage in war than polities led by kings<ref>https://www.nber.org/papers/w23337</ref>.
+
 ## References
 
 <references />
