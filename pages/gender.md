@@ -536,6 +536,8 @@ In short, schooling appears to have few net biases in any particular direction. 
 
 ### Conclusion on Disparities
 
+The causes of disparities between men and women on a range of issues differs across issues and is highly complex. However, claims by both those who wish to advance a male grievance narrative, as well as those who wish to advance a female grievance narrative, are generally exaggerated. While it appears that there is some discrimination, most notably against women in the economic sphere, the magnitude of these various forms of discrimination is much smaller than one would think at first glance. Disparities between men and women in social outcomes, if simplied to a single cause, can be better explained by a mix of physical and psychological sex differences which are largely biologically mediated.
+
 ## Is "Sexism" Always Bad?
 
 Let's define sexism under a very broad category. Sexism is defined as any time men and women are treated non-identically from one another. Is this preferred in society or not?
