@@ -554,15 +554,13 @@ Similarly, women who adhere to more traditional sex roles tend to be happier. Wo
 
 While all of these things would be referred to as "sexism", they are attitudes which women are happier when they adhere to, and actively state that they prefer so long as they are not overtly hostile towards women.
 
+## Conclusion
+
+- Stuff here may seem harsh and mean
+- In most policy contexts there are necessarily winners and losers
+- In this case however, if the culture was changed in favor of what I'm advocating here there would be a lot more winners than one might expect. Many women and sexual and gender minorities would be greatly benefitted as the evidence I have shown here is suggestive of that being the case.
+
 ## ================================================= TO ADD BELOW =================================================
-
-## <span style="background-color:orange">Fertility</span>
-
-Pronatalist policies are only modestly effective in increasing births<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=731766</ref><ref>https://wol.iza.org/articles/can-government-policies-reverse-undesirable-declines-in-fertility</ref>. Thus, pronatalist policies need to be combined with openness to increased immigration if they are to have any substantial effect on births. Socioeconomic factors in themselves such as job insecurity appear to only slightly affect fertility<ref>https://direct.mit.edu/rest/article-abstract/104/2/386/97750/A-Natural-Experiment-on-Job-Insecurity-and</ref>.
-
-- **Effect of poverty on Fertility -** Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/</ref>. Additionally, a $100,000 increase in housing wealth among homeowners causes a 16-18% increase in the probability of having a child<ref>https://sci-hub.ru/https://doi.org/10.1162/REST_a_00266</ref>. This suggests that income can have a positive effect on fertility.
-
-Female education reduces fertility<ref>https://www.sciencedirect.com/science/article/pii/S0305750X14001697</ref><ref>https://blogs.worldbank.org/health/female-education-and-childbearing-closer-look-data</ref><ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637960</ref><ref>https://link.springer.com/article/10.1007/s11150-016-9357-6</ref>.
 
 ## <span style="background-color:orange">Sex Work</span>
 
