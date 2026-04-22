@@ -29,8 +29,6 @@ permalink: /epistemology/
 - Mention the credibility revolution, which is taking economics by storm but is somewhat being ignored in fields like sociology
 - Maybe look at particular research methods quantiatively, in order of least advanced to most advanced.
 
-$E = mc^2$
-
 ## References
 
 <references />
