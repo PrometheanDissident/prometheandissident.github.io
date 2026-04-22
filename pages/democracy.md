@@ -94,6 +94,22 @@ Journalists generally prefer parties with more left-wing positions<ref>https://w
 
 Americans’ trust in media is currently very low<ref>https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx</ref>.
 
+## <span style="background-color:yellow">Politics: The Woman Question</span>
+
+Women perform just as well when they run for public office, but there is a gender gap in political ambition. This is due to a combination of women being less likely to be encouraged or recruited for office, and that public office careers have traits which women tend to find undesirable<ref>https://www.brookings.edu/wp-content/uploads/2016/06/05_women_lawless_fox.pdf</ref><ref>https://www.american.edu/spa/wpi/upload/2012-men-rule-report-web.pdf</ref>.
+
+I am generally for a gender quota in political office, to help increase representation of women to be more proportional to men than is the case currently in most if not all political offices. Quotas have neutral to positive effects on the quality of politicians, and they normalize women getting into politics.
+
+Gender quotas can take several forms. They can be reserved seats in political office, they can be quotas for candidates on ballots, or they can be voluntary quotas for candidates in political parties<ref>https://www.idea.int/data-tools/data/gender-quotas/quotas</ref>.
+
+These quotas increase the representation of women within politics<ref>https://onlinelibrary.wiley.com/doi/abs/10.3162/036298009787500330</ref>.
+
+Under such quota systems, the experience and decision-making ability of the candidates, primarily in terms of education, is the same if not better. This is because mediocre male politicians are pushed out of offices as a result of quotas<ref>https://academic.oup.com/book/6058/chapter/149497081</ref><ref>https://www.cambridge.org/core/journals/politics-and-gender/article/second-among-unequals-a-study-of-whether-frances-quota-women-are-up-to-the-job/91FA7B3D678ECBAC5472C8C58E650BA6</ref><ref>https://www.aeaweb.org/articles?id=10.1257/aer.20160080</ref><ref>https://www.sciencedirect.com/science/article/pii/S0047272714001480</ref>.
+
+Gender quotas help to normalize women in politics, having a cultural effect separate from the policy itself, helping to get more women into office through increasing the interest of potential female candidates and increasing the number of people who vote for female candidates<ref>https://academic.oup.com/qje/article/124/4/1497/1917190</ref>.
+
+Female legislators tend to place higher emphasis on women's issues and children/family concerns, but also on general economic and health issues. They are more likely to cause increases in government expenditures towards public health and decreases in government expenditures towards military and other areas<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2006.00202.x</ref><ref>http://uu.diva-portal.org/smash/get/diva2:1246248/FULLTEXT01</ref>.
+
 ## References
 
 <references />
