@@ -556,29 +556,19 @@ While all of these things would be referred to as "sexism", they are attitudes w
 
 ## ================================================= TO ADD BELOW =================================================
 
-## <span style="background-color:lightcoral">Sex</span>
-
-### <span style="background-color:orange">Fertility</span>
+## <span style="background-color:orange">Fertility</span>
 
 Pronatalist policies are only modestly effective in increasing births<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=731766</ref><ref>https://wol.iza.org/articles/can-government-policies-reverse-undesirable-declines-in-fertility</ref>. Thus, pronatalist policies need to be combined with openness to increased immigration if they are to have any substantial effect on births. Socioeconomic factors in themselves such as job insecurity appear to only slightly affect fertility<ref>https://direct.mit.edu/rest/article-abstract/104/2/386/97750/A-Natural-Experiment-on-Job-Insecurity-and</ref>.
 
 - **Effect of poverty on Fertility -** Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/</ref>. Additionally, a $100,000 increase in housing wealth among homeowners causes a 16-18% increase in the probability of having a child<ref>https://sci-hub.ru/https://doi.org/10.1162/REST_a_00266</ref>. This suggests that income can have a positive effect on fertility.
 
-### <span style="background-color:orange">Sex Work</span>
+Female education reduces fertility<ref>https://www.sciencedirect.com/science/article/pii/S0305750X14001697</ref><ref>https://blogs.worldbank.org/health/female-education-and-childbearing-closer-look-data</ref><ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637960</ref><ref>https://link.springer.com/article/10.1007/s11150-016-9357-6</ref>.
+
+## <span style="background-color:orange">Sex Work</span>
 
 Repressive policing of sex workers is associated with increased risk of sexual/physical violence from clients or other partners, also increasing risk of STIs for sex workers. It also disrupted sex workers' work environments, support networks, safety and risk reduction strategies, and access to health services and justice<ref>https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002680</ref>.
 
 Decriminalization of prostitution, while increasing the size of the sex market, also led to a significant decline in reported rape offences<ref>https://conference.iza.org/conference_files/riskonomics2015/kastoryano_s6317.pdf</ref><ref>https://www.eurekalert.org/news-releases/718952</ref>.
-
-## <span style="background-color:lightcoral">Miscellaneous</span>
-
-### <span style="background-color:orange">Matriarchy</span>
-
-A matriarchy is a social system in which the mother or a female elder has absolute authority over the family group, and by extension, one or more women exert a similar level of authority over the community as a whole. Under this definition, matriarchal societies have never existed<ref>https://www.britannica.com/topic/matriarchy</ref>. Dube & Harish (2017) looked at the effect of female rule on war among European polities between the 15th and 20th centuries. They found that polities led by queens are more likely to engage in war than polities led by kings<ref>https://www.nber.org/papers/w23337</ref>.
-
-## Education and Fertility
-
-Female education reduces fertility<ref>https://www.sciencedirect.com/science/article/pii/S0305750X14001697</ref><ref>https://blogs.worldbank.org/health/female-education-and-childbearing-closer-look-data</ref><ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637960</ref><ref>https://link.springer.com/article/10.1007/s11150-016-9357-6</ref>.
 
 ## References
 
