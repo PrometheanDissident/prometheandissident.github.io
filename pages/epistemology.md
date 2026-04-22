@@ -27,6 +27,9 @@ permalink: /epistemology/
 - Discuss distinction between correlation and causation
 - Explain why causality is difficult to establish in the social sciences. At best, it can be done in true experiments, or even potentially natural experiments
 - Mention the credibility revolution, which is taking economics by storm but is somewhat being ignored in fields like sociology
+- Maybe look at particular research methods quantiatively, in order of least advanced to most advanced.
+
+$E = mc^2$
 
 ## References
 
