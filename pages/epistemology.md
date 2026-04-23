@@ -15,6 +15,7 @@ permalink: /epistemology/
 ### The Validity of Appeals to Authority
 
 - Discuss whether this is valid, and explain why it oftentimes is
+- Appeals to authority are necessary because trust is always necessary to have with some individuals
 
 ## On Statistical reasoning
 
@@ -28,6 +29,14 @@ permalink: /epistemology/
 - Explain why causality is difficult to establish in the social sciences. At best, it can be done in true experiments, or even potentially natural experiments
 - Mention the credibility revolution, which is taking economics by storm but is somewhat being ignored in fields like sociology
 - Maybe look at particular research methods quantiatively, in order of least advanced to most advanced.
+- Important thing to understanding about effects of things - they are always done within a particular range of reaction. Effect of water on health study may find positive effect, but it'll only be within the variation of water shown in the study. Extreme deviations from that might have different effects. For example, reaching LD50 of drinking water would lead to negative effects from drinking water.
+- Maybe look at R^2 statistics and their interpretation (statistical vs practical significance)
+
+### Limits
+
+- The limits of quantitative reasoning (theory is always required, also some stuff may be difficult or impossible to quantify)
+Just because something isn't quantifiable doesn't mean that it doesn't exist
+Also there needs to be a certain value structure within many quantitative analyses for them to be actually applied properly (utilitarian vs deontologist might care vs not care about certain quantitative findings)
 
 ## References
 
