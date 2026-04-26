@@ -22,10 +22,19 @@ People are quite malleable in their views about political subjects. Despite poli
 
 ## On Scientific Reasoning
 
+Science refers to a systematic process by which knowledge about the world is acquired. At its core is the "scientific method" which involves the continuous formation and testing of various hypotheses. This method is foundational to how information about areas such as chemistry and physics is acquired. However, its applicability in the context of politics and to claims about humans is often contested. Science is often split into the "hard sciences" and the "soft sciences", with the hard sciences including chemistry and physics and the soft sciences including areas such as sociology and economics, with biology somewhere in between.
+
+Some argue that humans cannot be scientifically studied, and thus there can be no such thing as the "social sciences". There is no good reason why humans are excempt from this process. Contrary to what many might believe, human action is not completely random, and can be explained and even predicted by an understanding of the biological processes that underpin it (see [On Biological Determinism](https://prometheandissident.github.io/psychology/#on-biological-determinism)). Humans are made up of physical matter which adheres to the same laws of physics as matter which humans are not comprised of, and there is no evidence to suggest that there is any external thing interfacing with humans to determine their behavior outside of the physical matter that makes up people. There is no "ghost in the machine". Rather, human behavior is a complex interaction of chemicals and particles interfacing between the brain, the human's other physical parts, and its broader environment.
+
+Certainly, human behavior is much more complex and difficult to predict than, for example, aspects of physics.
+
+
+
+
+
 
 
 - Discuss distinction between hard sciences and soft sciences and why soft sciences are still sciences
-- People are very malleable in their views, and so it's essential to come up with ways to push past people's intuitive biases and stuff to assess what's true in the world.
 - Discuss parsimony with explanations and explanatory power. Discuss why falsifiability is not perfect
 - Discuss duhem-quine thesis and the problem of underdetermination, and how it is especially the case in the social sciences
 
