@@ -56,13 +56,30 @@ Ultimately, appeals to authority are inductive arguments. It is simply a rough p
 
 ## On Statistical reasoning
 
-- Discuss importance of valuing data when it comes to understanding the world and the effects of stuff
-- Data is like looking at game outcomes or war outcomes instead of focusing on individual battles or plays
-- It also helps to push against certain heuristics we may have. While anecdotes can be very useful in some cases, it is important not to rely too heavily on them
+In engaging in scientific analysis, statistics is crucial. As discussed in [What is Epistemology, and Why is it Important?](https://prometheandissident.github.io/epistemology/#what-is-epistemology,-and-why-is-it-important?), people's political beliefs are quite easily malleable, as one can easily make an intuitive argument in favor of any set of political beliefs. The ability to use language to obscure issues, and intuitively argue in favor of any set of beliefs, is why philosophy has been around for thousands of years and yet has arguably made very little progress in that period of time<ref>https://www.leonvoss.com/p/why-philosophy-is-invalid</ref>. Meanwhile, empirical research has made significant strides in only a few decades on a wide range of subjects.
+
+Statistical reasoning is the attempt to interpret and analyze data, which allows us to understand the world in terms of aggregates rather than individual instances. This helps to give us expectations for what the effect of something is going to be. Many arguments about a particular policy will point to one instance of the policy being implemented and look at its effects in one specific instance. This is like pointing to an individual battle in a historical event and using that to make a point about the outcome of the war. While individual battles can be informative, the outcome of the war is more important than individual battles. Data helps to aggregate the effects of one policy over a wide range of people, and answer related questions in a similar fashion. Anecdotes can be used, but data is a significantly stronger piece of evidence to use whenever assessing any empirical claim.
 
 ### Causal Inference
 
-- Discuss distinction between correlation and causation
+While the distinction between correlation and causation has been made to death, it is worth repeating. Correlation refers to whether two variables tend to go in the same direction. On the other hand, causation refers to whether one variable explains the change in another variable. Correlation is much easier to empirically establish than causation, as causality requires both correlation and that one variable was affected by the other. Correlation between two variables on its own cannot establish whether one variable caused another, as it is possible that variable A caused variable B, variable B caused variable A, both variables caused one another (ex. chicken and egg problems), or a third variable caused both. Further complicating this is that correlations can merely be produced due to error in a sample, rather than because there is an actual relationship between two variables in reality. This is generally addressed through looking at the statistical significance of a relationship, or in other words, examining how likely it is that a particular finding was established through mere chance in data noise.
+
+Causality is very difficult to establish in the social sciences. The best way to assess causality when it comes to humans is to use experiments, which are common in medicine and some parts of psychology. These involve randomly assigning people to a "treatment group" or a "control group", with the only relevant systematic difference between the two groups being whether the group has received a certain treatment. This alllows us to establish causal effects of things, but it is limited in its use. You can't do this with economies or very large groups of people, as that would be extremely expensive and disruptive. Furthermore, there are many ethical restrictions on experiments which mean that even when the method can be performed in theory, in practice it would never be allowed to be done. In the absence of purely experimental settings, it is difficult or impossible to know for sure whether a "treatment group" or "control group" for a study, or whatever their technical analogues are, are really identical in everything except for having a particular treatment. This makes precise estimation of causal effects extremely difficult in areas such as economics or sociology.
+
+Luckily, the aforementioned credibility revolution, which has taken economics by storm, has been very helpful in devising methods to establish causality in the absence of experiments and randomized control trials.
+
+
+
+Discuss natural experiments
+Instrumental variables
+Differences in differences
+Regression discontinuity design
+
+
+
+
+
+
 - Explain why causality is difficult to establish in the social sciences. At best, it can be done in true experiments, or even potentially natural experiments
 - Mention the credibility revolution, which is taking economics by storm but is somewhat being ignored in fields like sociology
 - Maybe look at particular research methods quantiatively, in order of least advanced to most advanced.
