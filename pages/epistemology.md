@@ -93,6 +93,22 @@ Regression discontinuity design
 Just because something isn't quantifiable doesn't mean that it doesn't exist
 Also there needs to be a certain value structure within many quantitative analyses for them to be actually applied properly (utilitarian vs deontologist might care vs not care about certain quantitative findings)
 
+
+
+
+
+
+
+
+
+
+**Other**
+
+- When addressing the problem with auxiliary hypotheses it can be very useful to point to several independent lines of evidence for one theory, as Occam’s razor will generally rule out the auxiliary hypotheses explanation should they differ in explaining each individual line of evidence
+- It also increases the probability that a person begins engaging in kettle logic, after which you know that the explanations are ad hoc
+
+
+
 ## References
 
 <references />
