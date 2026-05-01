@@ -66,24 +66,20 @@ While the distinction between correlation and causation has been made to death, 
 
 Causality is very difficult to establish in the social sciences. The best way to assess causality when it comes to humans is to use experiments, which are common in medicine and some parts of psychology. These involve randomly assigning people to a "treatment group" or a "control group", with the only relevant systematic difference between the two groups being whether the group has received a certain treatment. This alllows us to establish causal effects of things, but it is limited in its use. You can't do this with economies or very large groups of people, as that would be extremely expensive and disruptive. Furthermore, there are many ethical restrictions on experiments which mean that even when the method can be performed in theory, in practice it would never be allowed to be done. In the absence of purely experimental settings, it is difficult or impossible to know for sure whether a "treatment group" or "control group" for a study, or whatever their technical analogues are, are really identical in everything except for having a particular treatment. This makes precise estimation of causal effects extremely difficult in areas such as economics or sociology.
 
-Luckily, the aforementioned credibility revolution, which has taken economics by storm, has been very helpful in devising methods to establish causality in the absence of experiments and randomized control trials.
+Luckily, the aforementioned credibility revolution, which has taken economics by storm, has been very helpful in devising methods to establish causality in the absence of experiments and randomized control trials. Perhaps the strongest of these have been natural experiments, which were utilized as early at the mid-19th century, but have been popularized and methodologically formalized in the 1980s<ref>https://en.wikipedia.org/wiki/Natural_experiment</ref>. Natural experiments look at real-world cases where individuals are in effect split into control and experimental groups, where the treatment is exogenous, and examines the differential changes in outcomes between the individuals, utilizing a statistical method known as "difference in differences"<ref>https://en.wikipedia.org/wiki/Difference_in_differences</ref>. These types of research designs allow for people to study much more macro-level phenomena which could not be studied in a true experimental study, while nonetheless remaining confident that the true effect size/causal relationship is established. Other methods which have gained widespread popularity due to their ability to ascertain causality to a strong degree include instrumental variables design<ref>https://en.wikipedia.org/wiki/Instrumental_variable</ref> and regression discontinuity design<ref>https://en.wikipedia.org/wiki/Regression_discontinuity_design</ref>. These three methods are perhaps the most rigorous observational study designs which allow causality to be ascertained in conditions where a true experiment cannot be devised.
+
+#### Ranges of Reaction
+
+One of the most important things to recognize about effects is that they must always be interpreted as existing within a particular range of reaction. A simple example of this can be seen with the famous minimum wage debate. One of the largest debates between economists on the minimum wage is what effect it has on unemployment, and there has been an explosion of econometric research designed to empirically assess this question. Every study will look at one or more changes in the minimum wage and attempt to determine their effect on unemployment. Suppose one study looked at a change in a state's minimum wage that was from $14.00/hour to $15.00/hour, and found no net effect. It would be reasonable to suggest that other changes in the minimum wage of a similar magnitude and with similar starting and end points would have similar effect (or absence of effects). However, this says little about whether a change in a minimum wage from $15.00/hour to $40.00/hour would have no effect on unemployment. If every study only looks at small changes in the minimum wage with low starting and end points, none of them would provide much information on whether a drastic change to an especially high minimum wage would have a significant effect on unemployment. All studies are done within a particular context and range of reaction (for a more extensive discussion on the empirics of the minimum wage, see [Minimum Wage](https://prometheandissident.github.io/economics/#minimum-wage)).
+
+#### Statistical and Practical Significance
+
+#### On the Use of Control Variables
 
 
 
-Discuss natural experiments
-Instrumental variables
-Differences in differences
-Regression discontinuity design
 
 
-
-
-
-
-- Explain why causality is difficult to establish in the social sciences. At best, it can be done in true experiments, or even potentially natural experiments
-- Mention the credibility revolution, which is taking economics by storm but is somewhat being ignored in fields like sociology
-- Maybe look at particular research methods quantiatively, in order of least advanced to most advanced.
-- Important thing to understanding about effects of things - they are always done within a particular range of reaction. Effect of water on health study may find positive effect, but it'll only be within the variation of water shown in the study. Extreme deviations from that might have different effects. For example, reaching LD50 of drinking water would lead to negative effects from drinking water.
 - Maybe look at R^2 statistics and their interpretation (statistical vs practical significance)
 - Discuss "bad control" problem/sociologist's fallacy
 
