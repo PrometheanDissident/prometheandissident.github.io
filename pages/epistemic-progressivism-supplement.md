@@ -34,6 +34,10 @@ Given that the way humanity acts evolutionarily ultimately derives from attempts
 
 The moralistic fallacy refers to the reverse of the relationship between truth and ethics, where instead of a normative claim being derived from a descriptive claim in an argument, a descriptive claim is derived from a normative claim. This form of reasoning is very common within ideological frameworks, which take a set of values they have and try to project them onto the world.
 
+## Kettle Logic
+
+Kettle logic refers to a situation where one uses multiple arguments to defend a point which are inconsistent with one another<ref>https://en.wikipedia.org/wiki/Kettle_logic</ref>. Because the case for the broader point is internally inconsistent, kettle logic can be considered a form of fallacious reasoning.
+
 ## References
 
 <references />
