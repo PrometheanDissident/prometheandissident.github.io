@@ -36,9 +36,13 @@ The Duhem-Quine thesis demonstrates why. It states that it is impossible to defi
 
 Karl Popper himself eventually conceded this fact<ref>https://plato.stanford.edu/entries/popper/#CritEval</ref>, and asserted that it is impossible to discriminate between scientific versus non-scientific theories on the basis of falsification alone. Readjustment of auxiliary hypotheses is natural and integral to the sciences, and is not necessarily done in a dishonest manner. It thus cannot be discounted as a valid way to reinterpret empirical findings which may have been previously claimed to falsify a theory. He attempted to outline conditions for whether a modification of auxiliary hypotheses itself was genuinely scientific, or whether it was ad hoc (invented for preserving a belief/theory for its own sake). Popper later asserted that Marxism was not unscientific because it was unfalsifiable, but because its advocates preserved it from falsificationism through ad hoc modification of auxiliary hypotheses. How the adjustment of auxiliary hypotheses can be assessed to be scientific or ad hoc opens up a new problem, and there appears to be no clear solution to it.
 
+What is ultimately demonstrated with the Duhem-Quine thesis however is that science cannot be reducible to raw empiricism. Every piece of information can only be interpreted through presupposing a certain set of auxiliary hypotheses, some of which are inevitably not directly challenged by the observation itself. This can be understood as having a theoretical framework, regardless of whether it is explicitly or implicitly articulated as such. Theory can be challenged by empirical evidence and how it's interpreted, and empirical evidence and how it's intepreted can be challenged by theory. It is not a one-sided process as Popperian falsificationism would suggest that it is.
+
 While falsificationism is not a good way to engage with science, as it becomes functionally meaningless, I hold that parsimony or Occam's razor is one strong heuristic for scientific reasoning. Occam's razor is a principle coined by the 14th century philosopher William of Ockham, which states that when comparing two competing theories, the simplest explanation is to be preferred<ref>https://www.britannica.com/topic/Occams-razor</ref>. It suggests that the theory with the fewest number of assumptions is to be preferred over and above a set of competing explanations. This helps to counter the problem of any information falsifying a theory being ad hoc reinterpreted through the introduction of new auxiliary hypotheses, as any large number of new auxiliary hypotheses can be dismissed through the use of Occam's razor.
 
 Importantly, Occam's razor shouldn't be misused to suggest that more simple theories are necessarily better than more complex theories. The theories have to have some level of explanatory power to them, and if a theory doesn't, then no matter how simple it is, it is not a useful theory. However, Occam's razor can be effectively employed when comparing two theories of equal or roughly equal explanatory power. In this case, the simpler theory should take prevedence. This notion can be justified mathematically speaking using probability theory<ref>https://en.wikipedia.org/wiki/Occam%27s_razor#Mathematical</ref>. All assumptions by definition create a possibility for error or incorrectness. Thus, if the introduction of a new assumption does not improve the accuracy of a theory, its net effect is only to increase the probability that the overall theory is wrong.
+
+Occam's razor can be invaluable in addressing the problem of determining whether auxiliary hypotheses are ad hoc in nature. If one were to point to several independent lines of evidence in favor of one theory, in the case where lines of evidence are dismissed through ad hoc introduction of auxiliary hypotheses, these will generally differ in explaining each individual line of evidence. Occam's razor or the principle of parsimony will generally rule in favor of the theory, as one explanation for a set of phenomena is more parsimonious than multiple explanations for multiple sets of phenomena. The use of this strategy can also be beneficial as it increases the probability that a person begins engaging in [kettle logic](https://prometheandissident.github.io/epistemic-progressivism-supplement/#kettle-logic) to try and tear down each line of evidence, after which you can be consident that the explanations are ad hoc.
 
 ### The Validity of Appeals to Authority
 
@@ -74,34 +78,24 @@ One of the most important things to recognize about effects is that they must al
 
 #### Statistical and Practical Significance
 
+An important distinction must be made between statistical and practical significance. Statistical significance refers to whether it is reasonable to reject the null hypothesis in a statistical analysis. In other words, it refers to whether there is an effect in one direction that is unlikely to be due to chance. Conversely, practical significance refers to whether an effect is large enough to be considered meaningful. These two can often be conflated in research findings, and while they are often correlated with one another, it is possible to have findings which are one but not the other.
+
+In general, practical significance is more important to look at, as it indicates whether the expected effect of something is likely to actually be meaningful and worth consideration. However, in the absence of statistical significance, the effect found, even if practically significant, will have an extremely high variance, and in reality may actually be null. Another aspect of significance which can be worth consideration, particularly in meta-analyses where practical significance can be hard to establish even when statistical signficance can, is "relative significance", or the R^2 value. The R^2 value refers to what percentage of the variance in an outcome variable can be explained by the explanatory variable. If the R^2 value is low, it can mean that the explanatory variable is not particularly important. However, this is nonetheless contingent upon a given range of reaction (see [Ranges of Reaction](https://prometheandissident.github.io/epistemology/#ranges-of-reaction)), so care must be taken in its interpretation.
+
 #### On the Use of Control Variables
 
+In many cases, experimental or quasi-experimental settings cannot be established in a study. This means that a study will merely have to be correlational in nature, which means that all findings must be interpreted with care. One issue which often comes up is confounding variables. These refer to situations where an exogenous variable affects both the dependent and independent variable in a study. If not controlled for, this can bias findings and mean that any effect size given does not reflect the true relationship between the two variables in question.
 
+Many people who are new to statistical analysis or don't understand the basics may be quick to add a bunch of control variables when doing any analysis. This is wrongheaded. There needs to be a strong theoretical reason for why particular controls are included, as the inclusion of controls can often lead to misleading or incorrect results. Controls require causal theories<ref>https://www.cremieux.xyz/p/you-cant-just-control-for-things</ref>. Suppose that we are trying to look at the effect of X on Y, and we are considering controlling for C, which is correlated with both X and Y. It could be the case that C causes both X and Y, in which case it is a "confounder", and we should control for C. However, suppose that X causes C, and both C and X independently cause Y. In this case, C is a "mediator", and controlling for it would not capture the full range of effects that X can have on Y, as there is a direct effect of X on Y and an indirect effect through X's effect on C which affects Y. Here, controlling for C would lead to misleading results. Similarly, suppose that X and Y both cause C. In this case, C is a "collider", and its correlations with X and Y do not meaningfully make for a confounding relationship. Thus, C should not be controlled for. It is only when there is a strong theoretical reason to believe that C causes X and Y that it should be controlled for.
 
+One area where bad controls commonly pop up takes the form of the [Sociologist's Fallacy](https://prometheandissident.github.io/epistemic-progressivism-supplement/#sociologist%E2%80%99s-fallacy). A common example of this is the assumption that intelligence is caused by socioeconomics because income is correlated with intelligence, when it could be the case that those with high intelligence tend to be wealthier and pass their genes down to their offspring who now have both a genetically high IQ and a high parental socioeconomic status. In reality, there is most likely bidirectional causality at play in these types of relationships (see [The Predictive Validity of Intelligence](https://prometheandissident.github.io/psychology/#the-predictive-validity-of-intelligence)).
 
-
-- Maybe look at R^2 statistics and their interpretation (statistical vs practical significance)
-- Discuss "bad control" problem/sociologist's fallacy
-
-### Limits
-
-- The limits of quantitative reasoning (theory is always required, also some stuff may be difficult or impossible to quantify)
-Just because something isn't quantifiable doesn't mean that it doesn't exist
-Also there needs to be a certain value structure within many quantitative analyses for them to be actually applied properly (utilitarian vs deontologist might care vs not care about certain quantitative findings)
-
-
-
-
-
-
-
-
-
+### ToAdd
 
 **Other**
 
-- When addressing the problem with auxiliary hypotheses it can be very useful to point to several independent lines of evidence for one theory, as Occam’s razor will generally rule out the auxiliary hypotheses explanation should they differ in explaining each individual line of evidence
-- It also increases the probability that a person begins engaging in kettle logic, after which you know that the explanations are ad hoc
+- - Just because something isn't quantifiable doesn't mean that it doesn't exist
+Also there needs to be a certain value structure within many quantitative analyses for them to be actually applied properly (utilitarian vs deontologist might care vs not care about certain quantitative findings)
 
 
 
