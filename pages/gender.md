@@ -560,14 +560,6 @@ While all of these things would be referred to as "sexism", they are attitudes w
 - In most policy contexts there are necessarily winners and losers
 - In this case however, if the culture was changed in favor of what I'm advocating here there would be a lot more winners than one might expect. Many women and sexual and gender minorities would be greatly benefitted as the evidence I have shown here is suggestive of that being the case.
 
-## ================================================= TO ADD BELOW =================================================
-
-## <span style="background-color:orange">Sex Work</span>
-
-Repressive policing of sex workers is associated with increased risk of sexual/physical violence from clients or other partners, also increasing risk of STIs for sex workers. It also disrupted sex workers' work environments, support networks, safety and risk reduction strategies, and access to health services and justice<ref>https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002680</ref>.
-
-Decriminalization of prostitution, while increasing the size of the sex market, also led to a significant decline in reported rape offences<ref>https://conference.iza.org/conference_files/riskonomics2015/kastoryano_s6317.pdf</ref><ref>https://www.eurekalert.org/news-releases/718952</ref>.
-
 ## References
 
 <references />
