@@ -4,6 +4,10 @@ title: Epistemology
 permalink: /epistemology/
 ---
 
+**Summary**
+
+This page is an overview of epistemology, or the study of knowledge. Epistemology is important as insofar as we care about the effects of policies, social arrangements, etc., we need to have a strong means by which we can determine what is true. This page discusses scientific and statistical reasoning, which are crucial towards this process. It also delves into more specific issues, such as the validity of appeals to authority, as well as various issues surrounding causal inference, where there is extensive disagreement and debate. Epistemology is an extremely underappreciated area of inquiry which is crucial for having a strong and coherent understanding of the world, and hence a strong and coherent set of political beliefs.
+
 ## What is Epistemology, and Why is it Important?
 
 Epistemology refers to a branch of philosophy which studies knowledge. It generally deals with more meta-level questions, such as what knowledge is and what the sources of knowledge are. This page will not deal with extremely foundational questions, such as definining knowledge or whether any beliefs are truly justified. While these are interesting questions, they are not particularly important for understanding political theory or the social sciences in general. Rather, this page will be dedicated to addressing how to understand what is true or false in a general social scientific context.
@@ -90,14 +94,11 @@ Many people who are new to statistical analysis or don't understand the basics m
 
 One area where bad controls commonly pop up takes the form of the [Sociologist's Fallacy](https://prometheandissident.github.io/epistemic-progressivism-supplement/#sociologist%E2%80%99s-fallacy). A common example of this is the assumption that intelligence is caused by socioeconomics because income is correlated with intelligence, when it could be the case that those with high intelligence tend to be wealthier and pass their genes down to their offspring who now have both a genetically high IQ and a high parental socioeconomic status. In reality, there is most likely bidirectional causality at play in these types of relationships (see [The Predictive Validity of Intelligence](https://prometheandissident.github.io/psychology/#the-predictive-validity-of-intelligence)).
 
-### ToAdd
+## Value Structures in Reasoning
 
-**Other**
+When it comes to analyzing a particular issue, the questions one is interested in will necessarily be dependent on one's value structure. For example, empirical research on the laffer curve, or the relationship between the tax rate versus the tax revenue, might be valuable to someone who wants to maximize tax revenue, or someone who is interested in balancing tax revenue with economic growth. However, if one views taxation as intrinsically immoral in a deontlogical manner, the laffer curve will be unimportant to them.
 
-- - Just because something isn't quantifiable doesn't mean that it doesn't exist
-Also there needs to be a certain value structure within many quantitative analyses for them to be actually applied properly (utilitarian vs deontologist might care vs not care about certain quantitative findings)
-
-
+Because the questions we ask are dependent on value structures and are derived from preferences, we can say that the questions asked are not objective. However, this does not mean that the answers or information we derive from trying to answer those questions are themselves also not objective. The opposite is true. In short, the questions we ask are subjective, while the answers we receive are objective. This is an instance where the is-ought distinction must be kept in mind. Depending on what "ought" claims we make about the world, this can affect what "is" issues we are interested in.
 
 ## References
 
