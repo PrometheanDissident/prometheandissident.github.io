@@ -4,6 +4,18 @@ title: Gender
 permalink: /gender/
 ---
 
+**Summary**
+
+This page is dedicated to a range of issues under the umbrella of gender. I begin by discussing the importance of ensuring that the relations between men and women aren't hostile as they oftentimes presently are, due to it being necessary for civilizational survival. This requires a complementarian view of gender which acknowledges that men and women are fundamentally different from one another - a reality that must be reflected in our social structures. I review the extensive body of research which documents a range of physical and psychological sex differences, and demonstrate why many of these are biologically mediated in part or in whole.
+
+I then go on to discuss political and cultural implications of this, while also drawing on other ideas. I discuss why monogamy is the best social structure to ensure that families can form and children are raised as best as possible. Policies should actively promote this, through having the state recognize marriage and actively ensure that families do not arbitrarily separate through the removal of no fault divorce laws. Culturally, the sexual revolution was disasterous for family formation and the well-being of men and women, and it should be reversed to the extent that it is possible to do so. Related issues are also discussed including the ethics of abortion.
+
+Sex atypicality is also discussed. I argue that sex atypicality, or any non-normative sexual behavior which includes homosexuality and transgenderism, should be kept in the private realm if it is to be done. Homosexuals with more conservative orientations (i.e. are more outwardly traditional) appear to be better off mentally, and the most robust research suggests that gender transition may actually be harmful to the well-being of gender dysphoric individuals. As such, while exceptions can be made and no one should be forced to do something they don't want to do, there should generally be a cultural shift towards more traditional appearances.
+
+The last major issue discussed concerns the economic realm. I argue that women entering the workforce was a positive development, and that claims of it creating a "double burden" are largely exaggerated. The question of whether there is discrimination against one gender or the other is also examined. I show that discrimination likely does not account for much of the present gender disparities in economic outcomes, and that the direction of discrimination is ambiguous, and may be anti-male in some cases.
+
+Gender/sex is the most important social dimension by which we can categorize people, as men and women are both necessary to have a functioning, sustainable civilization. It is crucial that we have honest and serious dialogue and investigation into its various aspects, and that the interests of children are put first. After all, we are all children at some point.
+
 ## Gender Complementarity as an End Goal
 
 Sex differences are real, and they must be acknowledged. Unfortunately, it is extremely common today for individuals to deny the existence of biologically mediated sex differences, with many merely reducing sex differences down to socialization. While environmental/social influences are not irrelevant to understanding why and how sex differences came to be, it is erroneous to reduce sex differences to such factors. Like practically everything with human behavior (see [On Biological Determinism](https://prometheandissident.github.io/psychology/#on-biological-determinism)), biology plays a non-zero factor in sex differences.
@@ -556,9 +568,9 @@ While all of these things would be referred to as "sexism", they are attitudes w
 
 ## Conclusion
 
-- Stuff here may seem harsh and mean
-- In most policy contexts there are necessarily winners and losers
-- In this case however, if the culture was changed in favor of what I'm advocating here there would be a lot more winners than one might expect. Many women and sexual and gender minorities would be greatly benefitted as the evidence I have shown here is suggestive of that being the case.
+From the vantage point of modern sexual ethics, much of what has been written about here may seem harsh or mean, particularly towards certain people. In most policy or cultural contexts, there are necessarily winners and losers, and gender issues are not necessarily an exception to this. Proper consideration of cultural or political issues necessitates a recognition of this, and a careful consideration of what to do as a result. Still, in the various issues I have identified here, if the culture was changed in favor of what I advocate for, there would likely be a lot more winners than one might expect. In reality, everything I discussed here, which some may seem to be harmful to the interests of women, homosexuals, or transgenders, would in reality be beneficial to these people. This is a common theme which a careful reader would be able to discern with all of this.
+
+If there is one thing that should be taken in this article, it is that it is a matter of existential priority to ensure that the relations between men and women are healthy, and that our social structures ensure as such. Any system which undermines this should be flatly rejected.
 
 ## References
 
