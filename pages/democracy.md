@@ -12,6 +12,22 @@ Furthermore, many industrialized countries have large aspects of their policy de
 
 The example of central bank governance shows that democracy must not be seen as an ends in itself, but rather as a means to an end. It is one system which aims to promote effective decision-making. Insofar as it may not promote effective decision-making, it should be modified or thrown out.
 
+### Voting Age as a Case Study
+
+There is a strong case to be made that our current political arrangement doesn't even intrinsically value democracy as a good in the way which people sell it. Consider the institution of a minimum voting age. Democracies vary in where they set the voting age, with most setting it to 18. Some set it as low as 16, including Austria, Argentina, and Brazil among others<ref>https://en.wikipedia.org/wiki/Voting_age#/media/File:Voting_Age_-_Global.svg</ref>. This means that virtually every democracy prevents a significant proportion of its population from actually participating in it. In that case, can they truly be considered democratic?
+
+Several arguments have been made in favor of instituting a legal voting age. These consistently deal with some trait which is more likely to exist after the cutoff than before, such as having a stake in the society, having intelligence/competence to know what policies are good, or having life experience. However, for all of these demarcators, there are plenty of instances where a person below the voting age would score better than a person above the voting age. It would be one thing is this was a case where it was difficult to determine who was, for instance, intelligent versus unintelligent, and thus it is preferable to have some rough proxy such as age instituted instead. All of these things could be directly measured. Intelligence or competence could be measured through an IQ test or political knowledge test (ex. basic questions about the structure of the government). Similarly, having a stake could be measured through whether one owns property, assuming that there is even a reasonable way to measure "stakes".
+
+Irrespective of the ability to directly measure these traits, this suggests that people care about the "quality" of the voting population, however defined, and are willing to restrict voting rights to certain people to improve it. A consistent understanding of this would be a recognition that democracy is not an intrinsic good, but a means to an end. It would furthermore be open to other ways to measure the "quality" of a voter, which would be irrespective of age (ex. IQ testing), even if it would lead to some people previously above the voting age being no longer allowed to vote.
+
+### The Iron Law of Oligarchy
+
+### Conclusion on Democratic Dogmatism
+
+Bryan Caplan addresses democratic dogmatism in chapter 8 of his book "The Myth of the Rational Voter", pointing to the research of psychologist Philip Tetlock. As Tetlock observes, _“people often insist with apparently great conviction that certain relationships and commitments are sacred and that even to contemplate trade-offs with the secular values of money or convenience is anathema”_. Democracy is an example of this.
+
+The purpose of this discussion is not to suggest that democracy is bad. Rather, it is to open up the dialogue in favor of alternative political systems, and have a fair and honest comparison of them without putting one system up on a pedestal. It is when systems are taken seriously relative to one another, without an automatic attachment to one over another, that a more mature examination of governance can be had.
+
 ## Principles of Democracy
 
 A typical economist view of consumption assumes that individuals are rational actors who will purchase and consume goods which will maximize their utility. Many attempt to apply this model to democracy, suggesting that individuals have the greatest knowledge of their preferences, and so aggregating their preferences through voting will allow for the best policies to be decided upon. Under a pure rational view of voting, does democracy work?
@@ -37,6 +53,42 @@ In economics, tragedy of the commons situations are generally solved in one of t
 
 Another challenge to the typical economist view of consumption being used to examine voting behavior is that it assumes that people value their own personal material benefits associated with voting when it comes to their voting decision. Empirical evidence shows that the self-interested voter hypothesis is false<ref>The Myth of the Rational Voter: Chapter 6</ref>. There are numerous cases where there is little connection or a reverse connection between voting decisions, and one's material interests. For example, Bryan Caplan at the time of writing his book points out that the elderly are if anything slightly less supportive of social security and medicare compared to the rest of the population. Furthermore, men are more pro-choice than women<ref>The Myth of the Rational Voter: Chapter 1</ref>.
 
+### The Danger of Populism
+
+
+
+
+
+
+
+
+
+
+
+
+
+The longer both right- and left-wing populists are in power, the greater inflation becomes. Inflation is worse under left-wing populists than right-wing populists, but both are still worse than moderate leaders<ref>https://hbr.org/2024/10/when-populists-rise-economies-often-fall</ref>.
+
+Populism can be understood as a political strategy that focuses on the conflict between “the people” and “the elites”. A leader is considered populist if they place the alleged struggle of the people against the elites as the center of their political campaign and governing style. Populism at the country level has been around for over 100 years but has reached a historical high recently. It is associated with lower growth rates over the next 5 years after a populist gains power, as well as the next 15 years. Populism is also costly for democratic institutions, being associated with a decline in checks and balances when populist leaders get into power among both left and right-wing cases, as well as lower electoral and press freedoms. Populist leaders rarely leave office without drama, disregarding democratic procedures. Economic nationalism (protectionism) and disintegration (unsustainable macroeconomic policies resulting in spiraling public debt and inflation) are the two main ways in which populist governments harm growth<ref>https://cepr.org/voxeu/columns/cost-populism-evidence-history</ref>.
+
+There is a negative association between educational attainment and support for radical right-wing populist parties, but not for radical left-wing or other types of populists. This suggests it is not the populist message of right-wing populist political parties that attracts lower-educated voters, but their nativism<ref>https://academic.oup.com/edited-volume/45896/chapter-abstract/437004119?redirectedFrom=fulltext&login=false</ref>.
+
+Populism is closely related to societal polarization, as there is a high correlation between public opinion regarding the division of society between “ordinary people and the corrupt elites who exploit them” and social polarization<ref>https://www.idea.int/blog/explainer-populism-left-and-right-progressive-and-regressive</ref>.
+
+On average, ordinary democratic governments remain for about 3 years. However, populist governments on average manage to sustain their hold for about 6.5 years, more than double as long. Populists are also more likely to win re-election once or twice and more likely to remain in power for well over a decade. Among populist leaders who entered office between 1990 and 2015, only a small minority left office as a result of the normal democratic process. 50 percent of populists either rewrote or amended their country’s constitution when they gained power, frequently with the aim of eliminating presidential term limits and reducing checks and balances on executive power. Populist rule is associated with lower press freedom, civil liberties, and political rights. In terms of danger to democratic institutions, left-wing populists do not appear to fare much better than right-wing populists<ref>https://www.theatlantic.com/ideas/archive/2018/12/hard-data-populism-bolsonaro-trump/578878/</ref>.
+
+Economic shocks from globalization can help to fuel populism, and helped Trump win the 2016 presidential election<ref>https://www.annualreviews.org/content/journals/10.1146/annurev-economics-070220-032416</ref>.
+
+There is also some evidence suggesting that cultural backlash contributes to the rise of populism<ref>https://www.hks.harvard.edu/publications/trump-brexit-and-rise-populism-economic-have-nots-and-cultural-backlash</ref>.
+
+
+
+
+
+
+
+
+
 ## The Literature on Democracy
 
 - Discuss research relating democracy and economic growth as well as other outcomes
@@ -46,6 +98,7 @@ Another challenge to the typical economist view of consumption being used to exa
 - Central bank independence
 - Futarchy/betting prediction markets
 - Education/knowledge requirements
+- Sortition
 
 
 
@@ -71,22 +124,6 @@ Polities with higher levels of democracy are more likely to be politically stabl
 ## <span style="background-color:orange">Economic Growth</span>
 
 There is very clearly a positive correlation between democracy and economic growth. However, there is a lot of debate about the causal direction, if there is a causal relationship at all<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2007.00299.x</ref><ref>https://www.journals.uchicago.edu/doi/abs/10.1086/700936</ref><ref>https://www.sciencedirect.com/science/article/pii/S1048984317308093</ref><ref>https://0x0.la/u/fcovCUN.pdf</ref><ref>http://www.columbia.edu/~flr9/documents/Rivera-Batiz_Democracy_Governance_Growth.pdf</ref><ref>https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/</ref><ref>https://onlinelibrary.wiley.com/doi/10.1111/1540-5907.00023</ref><ref>https://www.cambridge.org/core/journals/british-journal-of-political-science/article/democracy-political-stability-and-economic-growth/1630FBD0E7690CAF595EE9C612E405AE</ref><ref>https://www.democracy.uci.edu/files/docs/conferences/grad/chen.pdf</ref><ref>https://scholar.harvard.edu/jrobinson/files/jr_econdevelopment.pdf</ref>. I would need to examine this question further to form a stronger opinion on it, although a lot of the mechanisms discussed below in studies for how democracy causes economic growth seem intuitively correct to me. It is clear that while the precise economic effects of democracy have not been determined, it is very unlikely that democracy has negative effects on economic growth. In order to even begin to establish such a relationship, it would first need to be shown that there was a negative correlation between democracy and economic growth, and the existing evidence suggests the exact reverse.
-
-## <span style="background-color:orange">Populism</span>
-
-The longer both right- and left-wing populists are in power, the greater inflation becomes. Inflation is worse under left-wing populists than right-wing populists, but both are still worse than moderate leaders<ref>https://hbr.org/2024/10/when-populists-rise-economies-often-fall</ref>.
-
-Populism can be understood as a political strategy that focuses on the conflict between “the people” and “the elites”. A leader is considered populist if they place the alleged struggle of the people against the elites as the center of their political campaign and governing style. Populism at the country level has been around for over 100 years but has reached a historical high recently. It is associated with lower growth rates over the next 5 years after a populist gains power, as well as the next 15 years. Populism is also costly for democratic institutions, being associated with a decline in checks and balances when populist leaders get into power among both left and right-wing cases, as well as lower electoral and press freedoms. Populist leaders rarely leave office without drama, disregarding democratic procedures. Economic nationalism (protectionism) and disintegration (unsustainable macroeconomic policies resulting in spiraling public debt and inflation) are the two main ways in which populist governments harm growth<ref>https://cepr.org/voxeu/columns/cost-populism-evidence-history</ref>.
-
-There is a negative association between educational attainment and support for radical right-wing populist parties, but not for radical left-wing or other types of populists. This suggests it is not the populist message of right-wing populist political parties that attracts lower-educated voters, but their nativism<ref>https://academic.oup.com/edited-volume/45896/chapter-abstract/437004119?redirectedFrom=fulltext&login=false</ref>.
-
-Populism is closely related to societal polarization, as there is a high correlation between public opinion regarding the division of society between “ordinary people and the corrupt elites who exploit them” and social polarization<ref>https://www.idea.int/blog/explainer-populism-left-and-right-progressive-and-regressive</ref>.
-
-On average, ordinary democratic governments remain for about 3 years. However, populist governments on average manage to sustain their hold for about 6.5 years, more than double as long. Populists are also more likely to win re-election once or twice and more likely to remain in power for well over a decade. Among populist leaders who entered office between 1990 and 2015, only a small minority left office as a result of the normal democratic process. 50 percent of populists either rewrote or amended their country’s constitution when they gained power, frequently with the aim of eliminating presidential term limits and reducing checks and balances on executive power. Populist rule is associated with lower press freedom, civil liberties, and political rights. In terms of danger to democratic institutions, left-wing populists do not appear to fare much better than right-wing populists<ref>https://www.theatlantic.com/ideas/archive/2018/12/hard-data-populism-bolsonaro-trump/578878/</ref>.
-
-Economic shocks from globalization can help to fuel populism, and helped Trump win the 2016 presidential election<ref>https://www.annualreviews.org/content/journals/10.1146/annurev-economics-070220-032416</ref>.
-
-There is also some evidence suggesting that cultural backlash contributes to the rise of populism<ref>https://www.hks.harvard.edu/publications/trump-brexit-and-rise-populism-economic-have-nots-and-cultural-backlash</ref>.
 
 ## <span style="background-color:orange">Journalists</span>
 
