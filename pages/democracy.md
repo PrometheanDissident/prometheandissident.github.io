@@ -24,7 +24,7 @@ Irrespective of the ability to directly measure these traits, this suggests that
 
 ### Conclusion on Democratic Dogmatism
 
-Bryan Caplan addresses democratic dogmatism in chapter 8 of his book "The Myth of the Rational Voter", pointing to the research of psychologist Philip Tetlock. As Tetlock observes, _“people often insist with apparently great conviction that certain relationships and commitments are sacred and that even to contemplate trade-offs with the secular values of money or convenience is anathema”_. Democracy is an example of this.
+Bryan Caplan addresses democratic dogmatism in chapter 8 of his book "The Myth of the Rational Voter", pointing to the research of psychologist Philip Tetlock. As Tetlock observes, _“people often insist with apparently great conviction that certain relationships and commitments are sacred and that even to contemplate trade-offs with the secular values of money or convenience is anathema”_<ref>The Myth of the Rational Voter: Chapter 8</ref>. Democracy is an example of this.
 
 The purpose of this discussion is not to suggest that democracy is bad. Rather, it is to open up the dialogue in favor of alternative political systems, and have a fair and honest comparison of them without putting one system up on a pedestal. It is when systems are taken seriously relative to one another, without an automatic attachment to one over another, that a more mature examination of governance can be had.
 
@@ -47,51 +47,52 @@ These biases tend to lead to individuals opposing economic freedom and immigrati
 
 _“Natural scientists have long known that the majority of people disbelieve some of their findings because they contradict religion. Social scientists need to learn that the majority disbelieves some of their findings because they contradict quasi-religion.”_
 
-The reason why the consumer goods model of democracy fails is that it assumes that individuals have no intrinsic attachment to beliefs, when in reality they do, and it treats democracy less like a private good and more like a common good. Private goods, which are rivalrous and excludable, are generally analyzed solely in terms of the private utility that they bring to individual consumers. However, pure democracy is better understood as analogous to a common good, which is also rivalrous, but non-excludable. Democracy can be said to be rivalrous in that an individual person's vote can be cancelled out by another person's vote in the opposite direction, and it is non-excludable in that there is universal suffrage. Democracy can thus be argued to be a tragedy of the commons<ref>https://thewaywardaxolotl.blogspot.com/2015/05/democracy-is-tragedy-of-commons.html</ref>, where a tragedy of the commons refers to how a common resource can get overused due to people gaining private benefits from its use without directly incurring all of the social costs that such private use creates. Democracy is a tragedy of the commons-esque situation because the primary individual benefit associated with voting is not to receive some payoff from getting an optimal policy, but rather as a means to express oneself. If one is religiously attached to their political views, voting can be seen as a religious ritual in which the ritual itself is the benefit associated with voting. This leads to private benefits of voting creating social costs for the rest of society, as it leads to a net decrease in the quality of policies which end up getting implemented.
+The reason why the consumer goods model of democracy fails is that it assumes that individuals have no intrinsic attachment to beliefs, when in reality they do, and it treats democracy less like a private good and more like a common good. Private goods, which are rivalrous and excludable, are generally analyzed solely in terms of the private utility that they bring to individual consumers. However, pure democracy is better understood as analogous to a common good, which is also rivalrous, but non-excludable. Democracy can be said to be rivalrous in that an individual person's vote can be cancelled out by another person's vote in the opposite direction, and it is non-excludable in that there is universal suffrage. Democracy can thus be argued to be a tragedy of the commons<ref>https://thewaywardaxolotl.blogspot.com/2015/05/democracy-is-tragedy-of-commons.html</ref>, where a tragedy of the commons refers to how a common resource can get overused due to people gaining private benefits from its use without directly incurring all of the social costs that such private use creates. Democracy is a tragedy of the commons-esque situation because the primary individual benefit associated with voting is not to receive some payoff from getting an optimal policy, but rather as a means to express oneself<ref>The Myth of the Rational Voter: Chapter 5</ref>. If one is religiously attached to their political views, voting can be seen as a religious ritual in which the ritual itself is the benefit associated with voting. This leads to private benefits of voting creating social costs for the rest of society, as it leads to a net decrease in the quality of policies which end up getting implemented.
 
 In economics, tragedy of the commons situations are generally solved in one of two ways. There is the top-down approach, whereby regulations are imposed to prevent the commons from being overused, such as a Pigouvian tax which imposes a cost to use the commons<ref>https://www.investopedia.com/terms/p/pigoviantax.asp</ref>. There is also the market approach, whereby property rights are established to ensure that the commons is privately owned, ensuring that there is an agent that has an incentive to maintain the commons and not overuse it<ref>https://www.investopedia.com/terms/c/coase-theorem.asp</ref>. In the context of voting, this would either imply that costs need to be imposed on voters for voting, or we ought to organize the political system such that voters have a more direct stake in what happens electorally. This is not to suggest that either solution would be more desirable to the status quo, but it does mean that there are "market failures" to democracy which should be seriously considered and examined.
 
 Another challenge to the typical economist view of consumption being used to examine voting behavior is that it assumes that people value their own personal material benefits associated with voting when it comes to their voting decision. Empirical evidence shows that the self-interested voter hypothesis is false<ref>The Myth of the Rational Voter: Chapter 6</ref>. There are numerous cases where there is little connection or a reverse connection between voting decisions, and one's material interests. For example, Bryan Caplan at the time of writing his book points out that the elderly are if anything slightly less supportive of social security and medicare compared to the rest of the population. Furthermore, men are more pro-choice than women<ref>The Myth of the Rational Voter: Chapter 1</ref>.
 
-### The Danger of Populism
+### The Danger and Inevitability of Populism
 
+Populism is a political strategy that focuses on the conflict between "the people" and "the elites". It can thus be understood as something which is not intrinsic to the left or the right. In fact, populism of both varieties has been on the rise in recent decades. This is likely because of rising polarization, as populism is closely related to societal polarization, as there is a high correlation between public opinion regarding the division of society between “ordinary people and the corrupt elites who exploit them” and social polarization<ref>https://www.idea.int/blog/explainer-populism-left-and-right-progressive-and-regressive</ref>. There is also some evidence suggesting that cultural backlash contributes to the rise of populism<ref>https://www.hks.harvard.edu/publications/trump-brexit-and-rise-populism-economic-have-nots-and-cultural-backlash</ref>, which could also be an explanatory factor. A leader is considered populist if they place the alleged struggle of the people against the elites as the center of their political campaign and governing style.
 
+Populism is both a cause and a consequences of economic hardship. Populism at the country level has been around for over 100 years but has reached a historical high recently. It is associated with lower growth rates over the next 5 years after a populist gains power, as well as the next 15 years<ref>https://cepr.org/voxeu/columns/cost-populism-evidence-history</ref>. The longer both right- and left-wing populists are in power, the greater inflation becomes. Inflation is worse under left-wing populists than right-wing populists, but both are still worse than moderate leaders<ref>https://hbr.org/2024/10/when-populists-rise-economies-often-fall</ref>.
 
-
-
-
-
-
-
-
-
-
-
-The longer both right- and left-wing populists are in power, the greater inflation becomes. Inflation is worse under left-wing populists than right-wing populists, but both are still worse than moderate leaders<ref>https://hbr.org/2024/10/when-populists-rise-economies-often-fall</ref>.
-
-Populism can be understood as a political strategy that focuses on the conflict between “the people” and “the elites”. A leader is considered populist if they place the alleged struggle of the people against the elites as the center of their political campaign and governing style. Populism at the country level has been around for over 100 years but has reached a historical high recently. It is associated with lower growth rates over the next 5 years after a populist gains power, as well as the next 15 years. Populism is also costly for democratic institutions, being associated with a decline in checks and balances when populist leaders get into power among both left and right-wing cases, as well as lower electoral and press freedoms. Populist leaders rarely leave office without drama, disregarding democratic procedures. Economic nationalism (protectionism) and disintegration (unsustainable macroeconomic policies resulting in spiraling public debt and inflation) are the two main ways in which populist governments harm growth<ref>https://cepr.org/voxeu/columns/cost-populism-evidence-history</ref>.
-
-There is a negative association between educational attainment and support for radical right-wing populist parties, but not for radical left-wing or other types of populists. This suggests it is not the populist message of right-wing populist political parties that attracts lower-educated voters, but their nativism<ref>https://academic.oup.com/edited-volume/45896/chapter-abstract/437004119?redirectedFrom=fulltext&login=false</ref>.
-
-Populism is closely related to societal polarization, as there is a high correlation between public opinion regarding the division of society between “ordinary people and the corrupt elites who exploit them” and social polarization<ref>https://www.idea.int/blog/explainer-populism-left-and-right-progressive-and-regressive</ref>.
+Populism is also costly for democratic institutions, being associated with a decline in checks and balances when populist leaders get into power among both left and right-wing cases, as well as lower electoral and press freedoms. Populist leaders rarely leave office without drama, disregarding democratic procedures. Economic nationalism (protectionism) and disintegration (unsustainable macroeconomic policies resulting in spiraling public debt and inflation) are the two main ways in which populist governments harm growth<ref>https://cepr.org/voxeu/columns/cost-populism-evidence-history</ref>. However, populism is also caused by economic hardship. Economic shocks from globalization can help to fuel populism, and helped Trump win the 2016 presidential election<ref>https://www.annualreviews.org/content/journals/10.1146/annurev-economics-070220-032416</ref>.
 
 On average, ordinary democratic governments remain for about 3 years. However, populist governments on average manage to sustain their hold for about 6.5 years, more than double as long. Populists are also more likely to win re-election once or twice and more likely to remain in power for well over a decade. Among populist leaders who entered office between 1990 and 2015, only a small minority left office as a result of the normal democratic process. 50 percent of populists either rewrote or amended their country’s constitution when they gained power, frequently with the aim of eliminating presidential term limits and reducing checks and balances on executive power. Populist rule is associated with lower press freedom, civil liberties, and political rights. In terms of danger to democratic institutions, left-wing populists do not appear to fare much better than right-wing populists<ref>https://www.theatlantic.com/ideas/archive/2018/12/hard-data-populism-bolsonaro-trump/578878/</ref>.
 
-Economic shocks from globalization can help to fuel populism, and helped Trump win the 2016 presidential election<ref>https://www.annualreviews.org/content/journals/10.1146/annurev-economics-070220-032416</ref>.
+Populism appears to be an inevitable part of democracy. It is the worst aspects of democracy manifesting in its most extreme form. Populist leaders inspire blind faith in their supporters and change people's minds not with information, but with mere rhetoric. It is not about what is said, but how well it is stated. In the presence of voter irrationality (see [Principles of Democracy](https://prometheandissident.github.io/democracy/#principles-of-democracy)), it leads to the public getting taken advantage of in a way which ultimately harms the society and undermines its institutions. It doesn't just undermine democratic decision-making, but also basic civil liberties and political rights which are crucial for the well-functioning of society (for example, see [Free Speech](https://prometheandissident.github.io/free-speech/)).
 
-There is also some evidence suggesting that cultural backlash contributes to the rise of populism<ref>https://www.hks.harvard.edu/publications/trump-brexit-and-rise-populism-economic-have-nots-and-cultural-backlash</ref>.
-
-
-
-
-
-
-
-
+It should once again be remembered that this doesn't necessarily mean that democracy is an undesirable system. The question is how well or poorly this system does _relative_ to other systems. However, the harms and inevitability of populism in the present era is at least an indicator that on absolute terms, democracy doesn't perform as well as many might think it does.
 
 ## The Literature on Democracy
 
 - Discuss research relating democracy and economic growth as well as other outcomes
+- Bring 10% less democracy book information
+
+Democracies are less warlike than other regimes, particularly in terms of the severity of war<ref>https://www.hawaii.edu/powerkills/DP95.HTM</ref>.
+
+Polities with higher levels of democracy are more likely to be politically stable<ref>https://www.jstor.org/stable/intesociscierevi.90.1.01</ref>.
+
+There is very clearly a positive correlation between democracy and economic growth. However, there is a lot of debate about the causal direction, if there is a causal relationship at all<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2007.00299.x</ref><ref>https://www.journals.uchicago.edu/doi/abs/10.1086/700936</ref><ref>https://www.sciencedirect.com/science/article/pii/S1048984317308093</ref><ref>https://0x0.la/u/fcovCUN.pdf</ref><ref>http://www.columbia.edu/~flr9/documents/Rivera-Batiz_Democracy_Governance_Growth.pdf</ref><ref>https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/</ref><ref>https://onlinelibrary.wiley.com/doi/10.1111/1540-5907.00023</ref><ref>https://www.cambridge.org/core/journals/british-journal-of-political-science/article/democracy-political-stability-and-economic-growth/1630FBD0E7690CAF595EE9C612E405AE</ref><ref>https://www.democracy.uci.edu/files/docs/conferences/grad/chen.pdf</ref><ref>https://scholar.harvard.edu/jrobinson/files/jr_econdevelopment.pdf</ref>. I would need to examine this question further to form a stronger opinion on it, although a lot of the mechanisms discussed below in studies for how democracy causes economic growth seem intuitively correct to me. It is clear that while the precise economic effects of democracy have not been determined, it is very unlikely that democracy has negative effects on economic growth. In order to even begin to establish such a relationship, it would first need to be shown that there was a negative correlation between democracy and economic growth, and the existing evidence suggests the exact reverse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Possible Alternatives to the Status Quo
 
@@ -114,16 +115,6 @@ There is also some evidence suggesting that cultural backlash contributes to the
 ## <span style="background-color:orange">Public Opinion and Political Change</span>
 
 The impact of public opinion on public policy is substantial, and salience of issues enhances the impact. This impact remains strong even when the activities of political organizations and elites are taken into account<ref>https://www.jstor.org/stable/3219881#metadata_info_tab_contents</ref><ref>https://www.cambridge.org/core/journals/american-political-science-review/article/abs/effects-of-public-opinion-on-policy/856B172A7DC19A7EB72C569A7F6F2104</ref>. Policy also drives public opinion, as the public naturally responds positively or negatively to policy changes by the government<ref>https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-74</ref>.
-
-## <span style="background-color:orange">Stability</span>
-
-Democracies are less warlike than other regimes, particularly in terms of the severity of war<ref>https://www.hawaii.edu/powerkills/DP95.HTM</ref>.
-
-Polities with higher levels of democracy are more likely to be politically stable<ref>https://www.jstor.org/stable/intesociscierevi.90.1.01</ref>.
-
-## <span style="background-color:orange">Economic Growth</span>
-
-There is very clearly a positive correlation between democracy and economic growth. However, there is a lot of debate about the causal direction, if there is a causal relationship at all<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2007.00299.x</ref><ref>https://www.journals.uchicago.edu/doi/abs/10.1086/700936</ref><ref>https://www.sciencedirect.com/science/article/pii/S1048984317308093</ref><ref>https://0x0.la/u/fcovCUN.pdf</ref><ref>http://www.columbia.edu/~flr9/documents/Rivera-Batiz_Democracy_Governance_Growth.pdf</ref><ref>https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/</ref><ref>https://onlinelibrary.wiley.com/doi/10.1111/1540-5907.00023</ref><ref>https://www.cambridge.org/core/journals/british-journal-of-political-science/article/democracy-political-stability-and-economic-growth/1630FBD0E7690CAF595EE9C612E405AE</ref><ref>https://www.democracy.uci.edu/files/docs/conferences/grad/chen.pdf</ref><ref>https://scholar.harvard.edu/jrobinson/files/jr_econdevelopment.pdf</ref>. I would need to examine this question further to form a stronger opinion on it, although a lot of the mechanisms discussed below in studies for how democracy causes economic growth seem intuitively correct to me. It is clear that while the precise economic effects of democracy have not been determined, it is very unlikely that democracy has negative effects on economic growth. In order to even begin to establish such a relationship, it would first need to be shown that there was a negative correlation between democracy and economic growth, and the existing evidence suggests the exact reverse.
 
 ## <span style="background-color:orange">Journalists</span>
 
