@@ -38,6 +38,7 @@ Taken together, this suggests that economic elites, who tend to be more intellig
 
 
 - Iron law of oligarchy explains why rent-seeking behavior can happen and why small, focused minorities can consistently get their way, mucking up political and economic systems and making them inefficient.
+- One possibility for why this is the case is that even if most of the elites are not dictating what happens in government, representatives may be from the elite class and so represent their class beliefs
 
 
 
