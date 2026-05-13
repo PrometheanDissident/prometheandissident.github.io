@@ -4,6 +4,16 @@ title: Democracy
 permalink: /democracy/
 ---
 
+**<u>Summary</u>**
+
+This section deals with politics in democratic societies, both attempting to analyze how democratic decision-making works, as well as how political institutions should be moulded in response to ensure that more effective policy decisions are made. The section begins with a discussion of whether democracy is valuable in itself, and argues that democracy, rather than something which should be dogmatically upheld, should rather be seen as a means to an end. Democracy is only good insofar as it allows states to make good policy, and should be rejected or modified when it is shown to not be effective in this.
+
+Using empirical research as well as extensive insights from rational choice theory, I show that democratic societies struggle to make effective decisions, as voters are systematically misinformed, and have no incentive to engage in rational decision-making. To some degree, this is a function of voter intelligence, as well as low accountability for voters who make bad decisions. The problems with democratic decision-making can be especially shown with populist leaders, who tend to be enormously popular despite their deleterious effects on economies and personal freedoms. Populism is not only harmful, but also may be inevitable when mass democracy is present in a society.
+
+I outline a number of possible reforms which can combat this issue. These reform ideas aim to address the incentive and knowledge problems which persist in democracies, and should be looked at more carefully. Solutions include, among other things, having competence tests for voting, preventing people of low intelligence from voting; having certain sectors of government be independent (i.e. undemocratic), including ones currently independent such as central banks, but with the addition of others, such as tax policy; as well as having bondholders potentially be a separate branch of government.
+
+Finally, I discuss a number of smaller issues in government, including political parties and leadership. A society's political system should be understood as something which evolves, just as technology and cultural norms do. We should not be afraid to be experimental with how society is run, and humble ourselves to the possibility that what we already have can be improved upon.
+
 ## By the People, or for the People?
 
 As Abraham Lincoln's Gettysburg address famously states, democracy is a "government of the people, by the people, for the people". But what happens if a democracy is cannot be all of those? What happens if a democracy can either be by the people, or for the people?
@@ -160,25 +170,17 @@ Because of these challenges, while prediction markets is an interesting hypothet
 
 ## Are Parties and Leaders Necessary?
 
-One of the largest issues in debates about democracy deals with whether democracies should be representative or direct.
+One of the largest issues in debates about democracy deals with whether democracies should be representative or direct. A direct democracy is when citizens vote directly on policies, while a representative democracy is when policy decisions are made by people who are voted on by citizens. Direct democracy can in theory be easier with a smaller and more educated population, as it allows for only a few people to need to specialize in knowledge necessary to know what policies are good or bad. However, lack of political knowledge and time to figure out what good policies are can make it much more difficult for people to make good decisions, even if they are of high intelligence. Most people simply don't have the time to figure out what are good and bad ideas, a problem exacerbated in direct democracy. And as shown in [Principles of Democracy](https://prometheandissident.github.io/democracy/#principles-of-democracy), this can have deleterious effects.
 
-- Explain distinction
-- Direct democracy is easier with smaller and more educated population
-- However, there can be risks with political knowledge and lack of time the average educated person has
-- Most people don't have time to figure out what are good or bad ideas, and so there needs to be a small group of people who are involved with directly making policy and whose job it is to do so
-- Leaders and parties are crucial to this process
-- Is a leader necessary? Leaders are important as has been shown by research, as particular leader's personalities appear to affect economic outcomes in the country. But is it necessary? I argue that leaders can be necessary for engaging in rapid deiciosion-making when necessary, particularly in cases of emergency.
-- People are irrationally loyal to parties, although this would be benefitted by a more epistocratic system as smarter people are less party loyal
-- Still, this can come with a risk, are parties necessary?
-- Parties are.
-- Parties help coordinate policy preferences across policymakers, help voters understand basic platforms without having to review particular details of people, and help coordinate funding for campaigning should it occur
+To address these issues, there needs to be a small group of people who are involved with directly making policy and whose job it is to do so. Since the individuals in charge of policy are fewer, they are more accountable and have a greater incentive to make correct decisions. Furthermore, because they are specialized and paid to make policy decisions, they have the time to learn about issues and the prerequisite knowledge required to make good decisions, at least when they are educated and selected effectively, which an epistocracy would help to achieve (see [Epistocratic Decision-Making](https://prometheandissident.github.io/democracy/#epistocratic-decision-making)).
 
+Both political leaders and parties are crucial to this process, despite their drawbacks. As has been shown by research, leaders are very important for the economic outcomes of a society. Jones & Olken (2005) looked at deaths of leaders while in office due to natural causes as a source of exogenous variation in leadership. They found that leaders were very important for growth, particularly in autocratic regimes, but even still having substantial effects in democratic regimes<ref>https://economics.mit.edu/sites/default/files/publications/DO%20LEADERS%20MATTER.pdf</ref>. Leaders can be necessary for encaging in rapid decision-making when necessary, particularly in cases of emergency. It is often helpful to have a single person who can deal with large-scale issues in an immediate matter, as it speeds up the decision-making process. It would be more difficult to achieve such things with a committee of individuals.
 
+What about parties? As shown in [Principles of Democracy](https://prometheandissident.github.io/democracy/#principles-of-democracy), people are irrationally attached to party loyalty. This may be lowered in people with greater intelligence, so epistocratic decision-making could address the problem of excessive party loyalty to a degree. But this doesn't explain what the potential benefits of parties are.
 
+Democratic or voting-based institutions have been found to be unable to work properly in the absence of parties<ref>https://v-dem.net/media/publications/brief3.pdf</ref>. This is because parties fulfill a number of roles which helps both voters and legislators work properly. Within legislatures, political parties allow them to manage policymaking agendas and make credible bargains with one another, ensuring that decisions are made more efficiently and effectively in policymaking. During elections, political parties lower candidate mobilization costs through creating positive externality spillovers of one party member campaigning onto other party members, and also allows candidates to establish a greater reputation than they might be able to establish otherwise. This allows parties to function as a useful information shortcut or heuristic when voters are trying to make decisions, as they no longer need to research every individual candidate for every election round.
 
-
-
-
+Due to the median voter theorem, whereby democratic systems will generally elect in favor of the candidate or policy favored by the median voter<ref>https://en.wikipedia.org/wiki/Median_voter_theorem</ref>, democratic systems will oftentimes trend towards two party systems, where both parties become relatively similar to one another as they try to reach the preferences of the median voter. This means that two party systems are inevitable to a degree.
 
 ## On Women in Politics
 
@@ -191,11 +193,6 @@ This appears nice, but what are the actual effects on politician quality and pol
 However, this doesn't say anything about the policies that women tend to support when they get into political office. The decision-making of women involved in politics tends to be consistent with their relative differences in values compared to men (see [Psychological Sex Differences: Values](https://prometheandissident.github.io/gender/#values)). Evidence suggests that female legislators tend to focus on children's and family concerns, as well as potentially increased government spending towards health and away from military and other areas. There appears to be no strong differences in focus on issues such as education, the economy, agriculture, or employment<ref>https://uu.diva-portal.org/smash/get/diva2:1246248/FULLTEXT01</ref><ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2006.00202.x</ref>. However, there is some evidence to suggest that women tend to have stronger support for policies such as tariffs<ref>10% Less Democracy: Why you Should Trust Elites a Little More and the Masses a Little Less - Chapter 5</ref>. In short, women are probably more in favor of higher regulation and the decline of economic freedom, even if their stated concerns with these issues are the same as men.
 
 It is probably the case that having more men and women in office is a good thing, given the general policy decisions that men versus women tend to make. However, this does not mean that women should be barred from politics or that there are no women politicians who can be good for society. Rather than socially engineering outcomes, the proper thing appears to be to be softly aware of sex differences in political priorities, while allowing both sexes to engage in politics. The best people should rise to the top of political decision-making, irrespective of their sex.
-
-## ======================================== TO INCORPORATE BELOW ========================================
-
-- *LOOK INTO CANADA VS US SYSTEM AND WHICH IS BETTER
-
 
 ## References
 
