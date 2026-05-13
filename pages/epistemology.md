@@ -4,7 +4,7 @@ title: Epistemology
 permalink: /epistemology/
 ---
 
-**Summary**
+**<u>Summary</u>**
 
 This page is an overview of epistemology, or the study of knowledge. Epistemology is important as insofar as we care about the effects of policies, social arrangements, etc., we need to have a strong means by which we can determine what is true. This page discusses scientific and statistical reasoning, which are crucial towards this process. It also delves into more specific issues, such as the validity of appeals to authority, as well as various issues surrounding causal inference, where there is extensive disagreement and debate. Epistemology is an extremely underappreciated area of inquiry which is crucial for having a strong and coherent understanding of the world, and hence a strong and coherent set of political beliefs.
 
