@@ -6,6 +6,14 @@ permalink: /democracy/
 
 ## By the People, or for the People?
 
+As Abraham Lincoln's Gettysburg address famously states, democracy is a "government of the people, by the people, for the people". But what happens if a democracy is cannot be all of those? What happens if a democracy can either be by the people, or for the people?
+
+This can occur when a country ruled by the people will necessarily not act in the people's interests, due to voter ignorance or a related reality. Much of the later sections will show how this can happen, and will seriously analyze democracy. However, it is important to seriously consider what type of governmental system is more desirable when a government "by the people" and a government "for the people" are mutually exclusive. In other words, should a government prioritize being managed by the people, or being managed in the interests of the people?
+
+I argue that when the two collide, a government should prioritize being managed in the interests of the people rather than by the people. Two simple examples of this in practice exist. The first is that virtually all democracies have a minimum voting age, which legally disenfranchises a significant proportion of the population. This is generally justified on the basis that younger people are ignorant about politics, lack maturity, or lack life experience to effectively vote. In this case, governments prioritize management for the people rather than by the people. Similarly, in some places felons can lose their right to vote. This is justified on the basis that felons may vote for harmful policies not in the interests of the people. Once again, there is governance being done for the people rather than by the people.
+
+When this distinction is recognized, it helps us to recognize what our priorities should be when it comes to creating an idea political system, and helps us see where democracy may succeed, and where it may fall short.
+
 ## Democracy as a Dogma
 
 Democracy, or a government which is ruled by the people either directly or indirectly, is dogmatically upheld as an inherent good. Under this view, systems of government are good because they allow people to have a say, and thus any oppressive set of policies will be voted out by the people. Anyone who disagrees with democracy to any degree or expresses skepticism of it is often seen with suspicion. But it should be noted that many areas of life are undemocratic and we don't particularly care about it. For example, rights enshrined in constitutions or related documents in countries are undemocratically upheld, as majority votes either directly or indirectly would not necessarily lead to them being removed or modified, even if it was the "will of the people". In a sense, rights can be said to be anything which is granted in a state which exists outside of public debate.
