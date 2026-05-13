@@ -32,18 +32,7 @@ Another paper by Mikael Persson and Anders Sundell looked at Europe, analyzing s
 
 Taken together, this suggests that economic elites, who tend to be more intelligent and meritocratically selected for, are the primary drivers of policy in democratic societies as opposed to the general population. While the general population may or may not have influence depending on the country, their influence is smaller than that of wealthier individuals. The iron law of oligarchy may in fact be correct, leaving aside the potential reasons for why this is the case.
 
-
-
-
-
-
-- Iron law of oligarchy explains why rent-seeking behavior can happen and why small, focused minorities can consistently get their way, mucking up political and economic systems and making them inefficient.
-- One possibility for why this is the case is that even if most of the elites are not dictating what happens in government, representatives may be from the elite class and so represent their class beliefs
-
-
-
-
-
+The iron law of oligarchy helps to explain why rent-seeking behavior can happen, and why small, focused minorities can consistently get their way. While this can be beneficial insofar as the upper classes tend to be more intelligent and will thus make more rational decisions as shown earlier, it can carry some risks. With interest groups comes the risk of rent-seeking, which can reduce the efficiency of economies significantly (see [Corrupting Influence of Capitalism?](https://prometheandissident.github.io/economics/#corrupting-influence-of-capitalism?)). While there are positives to aspect of elite influence on politics, it can also be negative in other respects, and those negatives should be combatted through going after rent-seeking in politics.
 
 ### Conclusion on Democratic Dogmatism
 
@@ -76,7 +65,7 @@ In economics, tragedy of the commons situations are generally solved in one of t
 
 Another challenge to the typical economist view of consumption being used to examine voting behavior is that it assumes that people value their own personal material benefits associated with voting when it comes to their voting decision. Empirical evidence shows that the self-interested voter hypothesis is false<ref>The Myth of the Rational Voter: Chapter 6</ref>. There are numerous cases where there is little connection or a reverse connection between voting decisions, and one's material interests. For example, Bryan Caplan at the time of writing his book points out that the elderly are if anything slightly less supportive of social security and medicare compared to the rest of the population. Furthermore, men are more pro-choice than women<ref>The Myth of the Rational Voter: Chapter 1</ref>.
 
-Finally, the rationality of voters can be tested by looking at the quality of the leaders that they elect. Attempting to test this by assessing the "quality" of leaders' decisions would be difficult, as it would assume that there is a correct and perfectly knowable metric according to which leaders' decisions can be ranked as high-quality or low-quality. However, we can go past this by merely looking at the intelligence of elected representatives. Research looking at this suggests that elected representatives are "midwits", in other words people of above average but unremarkable intelligence<ref>https://www.aporiamagazine.com/p/are-we-ruled-by-midwits</ref>. Representatives are not the best of the best when it comes to cognitive ability, which translates into unexceptional decision-making ability.
+Finally, the rationality of voters can be tested by looking at the quality of the leaders that they elect. Attempting to test this by assessing the "quality" of leaders' decisions would be difficult, as it would assume that there is a correct and perfectly knowable metric according to which leaders' decisions can be ranked as high-quality or low-quality. However, we can go past this by merely looking at the intelligence of elected representatives. Research looking at this suggests that elected representatives are "midwits", in other words people of above average but unremarkable intelligence<ref>https://www.aporiamagazine.com/p/are-we-ruled-by-midwits</ref>. Representatives are not the best of the best when it comes to cognitive ability, which translates into unexceptional decision-making ability. Luckily, due to the disproportionate elite influence on actual policymaking (see [The Iron Law of Oligarchy](https://prometheandissident.github.io/democracy/#the-iron-law-of-oligarchy)), this isn't as harmful to actual policy outcomes as it could be. Nonetheless, it is important to recognize that in areas where average voters have a direct influence on politics, as with leaders even if the influence doesn't translate into policy, they don't choose particularly well.
 
 ### The Danger and Inevitability of Populism
 
