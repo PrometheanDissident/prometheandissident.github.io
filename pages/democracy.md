@@ -4,6 +4,8 @@ title: Democracy
 permalink: /democracy/
 ---
 
+## By the People, or for the People?
+
 ## Democracy as a Dogma
 
 Democracy, or a government which is ruled by the people either directly or indirectly, is dogmatically upheld as an inherent good. Under this view, systems of government are good because they allow people to have a say, and thus any oppressive set of policies will be voted out by the people. Anyone who disagrees with democracy to any degree or expresses skepticism of it is often seen with suspicion. But it should be noted that many areas of life are undemocratic and we don't particularly care about it. For example, rights enshrined in constitutions or related documents in countries are undemocratically upheld, as majority votes either directly or indirectly would not necessarily lead to them being removed or modified, even if it was the "will of the people". In a sense, rights can be said to be anything which is granted in a state which exists outside of public debate.
@@ -21,6 +23,26 @@ Several arguments have been made in favor of instituting a legal voting age. The
 Irrespective of the ability to directly measure these traits, this suggests that people care about the "quality" of the voting population, however defined, and are willing to restrict voting rights to certain people to improve it. A consistent understanding of this would be a recognition that democracy is not an intrinsic good, but a means to an end. It would furthermore be open to other ways to measure the "quality" of a voter, which would be irrespective of age (ex. IQ testing), even if it would lead to some people previously above the voting age being no longer allowed to vote.
 
 ### The Iron Law of Oligarchy
+
+One issue which is essential to talking about democracies as they exist is whether they actually achieve what they're intended to achieve. The sociologist Robert Michels came up with the idea of the "iron law of oligarchy", which suggests that "All complex organizations—regardless of how democratic they start—inevitably develop into oligarchies, where power is concentrated in the hands of a few elite leaders"<ref>https://in-sights.ca/2026/02/22/iron-law-of-oligarchy/</ref>. There is evidence suggesting that the economic elites in countries are generally meritocratic, with nepotism explaining relatively little of the variance in why some people end up economic elites<ref>https://www.leonvoss.com/p/americas-elite-is-mostly-a-meritocracy</ref>. As discussed in [Principles of Democracy](https://prometheandissident.github.io/democracy/#principles-of-democracy) and [Epistocratic Decision-Making](https://prometheandissident.github.io/democracy/#epistocratic-decision-making), the average voter is irrational, and as the intelligence of the voting population rises, policy can be expected to increase in quality and rationality. As such, having political outcomes be disproportionately affected by elites may actually be a good thing, but this has not been substantiated yet. Is policy evenly dictated by people across income groups, or is it biased in favor of wealthier people?
+
+The literature on the democratic responsiveness of countries generally suggests that wealthier people tend to have stronger influence on policy outcomes compared to the average person. Perhaps the most comprehensive and well-cited study on the subject, entitled "Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens"<ref>https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B</ref>, looked at 1,779 instances between 1981 and 2002 in which there was a national survey of the general public that asked about a proposed policy change and whether people favored or opposed it, providing income breakdowns for respondents. While it is the case that preferences of average citizens are significantly positively associated with policy outcomes, this is only the case when the preferences of economic elites or the alignment of interest groups are not controlled for, both of which also have a significant positive association with policy outcomes. When all three are taken into account in statistical modelling, preferences of average citizens have zero significant effect on policy outcomes, while economic elite preferences and alignment of interest groups do.
+
+Another paper by Mikael Persson and Anders Sundell looked at Europe, analyzing survey data on the policy preferences of about 3,000 policy proposals from 30 European countries over a 40 year period, combined with information of whether each policy was implemented<ref>https://www.cambridge.org/core/journals/british-journal-of-political-science/article/rich-have-a-slight-edge-evidence-from-comparative-data-on-incomebased-inequality-in-policy-congruence/A09095FC0874B162149014212872BE86</ref>. They found that policies supported by the rich are more likely to be implemented than those supported by the poor, although found that this was only a slight advantage of the rich over the poor. Similar findings in Europe have been found by other research<ref>https://sci-hub.ru/https://doi.org/10.1080/13501763.2020.1801804</ref>.
+
+Taken together, this suggests that economic elites, who tend to be more intelligent and meritocratically selected for, are the primary drivers of policy in democratic societies as opposed to the general population. While the general population may or may not have influence depending on the country, their influence is smaller than that of wealthier individuals. The iron law of oligarchy may in fact be correct, leaving aside the potential reasons for why this is the case.
+
+
+
+
+
+
+- Iron law of oligarchy explains why rent-seeking behavior can happen and why small, focused minorities can consistently get their way, mucking up political and economic systems and making them inefficient.
+
+
+
+
+
 
 ### Conclusion on Democratic Dogmatism
 
@@ -52,6 +74,8 @@ The reason why the consumer goods model of democracy fails is that it assumes th
 In economics, tragedy of the commons situations are generally solved in one of two ways. There is the top-down approach, whereby regulations are imposed to prevent the commons from being overused, such as a Pigouvian tax which imposes a cost to use the commons<ref>https://www.investopedia.com/terms/p/pigoviantax.asp</ref>. There is also the market approach, whereby property rights are established to ensure that the commons is privately owned, ensuring that there is an agent that has an incentive to maintain the commons and not overuse it<ref>https://www.investopedia.com/terms/c/coase-theorem.asp</ref>. In the context of voting, this would either imply that costs need to be imposed on voters for voting, or we ought to organize the political system such that voters have a more direct stake in what happens electorally. This is not to suggest that either solution would be more desirable to the status quo, but it does mean that there are "market failures" to democracy which should be seriously considered and examined.
 
 Another challenge to the typical economist view of consumption being used to examine voting behavior is that it assumes that people value their own personal material benefits associated with voting when it comes to their voting decision. Empirical evidence shows that the self-interested voter hypothesis is false<ref>The Myth of the Rational Voter: Chapter 6</ref>. There are numerous cases where there is little connection or a reverse connection between voting decisions, and one's material interests. For example, Bryan Caplan at the time of writing his book points out that the elderly are if anything slightly less supportive of social security and medicare compared to the rest of the population. Furthermore, men are more pro-choice than women<ref>The Myth of the Rational Voter: Chapter 1</ref>.
+
+Finally, the rationality of voters can be tested by looking at the quality of the leaders that they elect. Attempting to test this by assessing the "quality" of leaders' decisions would be difficult, as it would assume that there is a correct and perfectly knowable metric according to which leaders' decisions can be ranked as high-quality or low-quality. However, we can go past this by merely looking at the intelligence of elected representatives. Research looking at this suggests that elected representatives are "midwits", in other words people of above average but unremarkable intelligence<ref>https://www.aporiamagazine.com/p/are-we-ruled-by-midwits</ref>. Representatives are not the best of the best when it comes to cognitive ability, which translates into unexceptional decision-making ability.
 
 ### The Danger and Inevitability of Populism
 
@@ -119,25 +143,20 @@ To some degree, most industrialized states today are epistocratic in their decis
 
 On average, more educated voters bring more information and intelligence into the voting booth. If only those with a high school diploma would vote, public opinion polling suggests that voters would tend to know more about what the government is doing, and are more likely to have facts in mind rather than believe urban legends and conspiracy theories. Conspiracy belief tends to be correlated with a feeling of powerlessness and a belief that most of life’s big problems have simple solutions. Education is negatively related to these two things. People with more education tend to think that life’s problems are harder to solve, and they feel more in control of their lives. As such, having an education requirement for voting would potentially significantly improve the quality of governmental decision-making.
 
+### Prediction Markets
 
+One possibility which involves technology which has gained a rise in popularity deals with prediction markets. Futarchy is a system where "elected officials define measures of national wellbeing, and prediction markets are used to determine which policies will have the most positive effect"<ref>https://en.wikipedia.org/wiki/Futarchy</ref>. This system would essentially involve voting on values, but betting on beliefs, in such a way that prediction markets are used to assess what is empirically going to best achieve the value structure that is voted upon. For example, if society wants to maximize a particular metric, such as GDP per capita, the betting market would be used to assess what policy decisions would most likely lead to that outcome, and then the proposals would pass if the markets predict higher welfare.
 
-- Futarchy/betting prediction markets
-- Sortition
+This is an extremely theoretical proposal which intuitively has the potential to go very wrong if mishandled. There are many criticisms and challenges associated with the system<ref>https://en.wikipedia.org/wiki/Futarchy#Criticism</ref>:
 
+- Values and beliefs may not be easily separated. For example, betting on maximizing GDP per capita assumes either that per-capita income is valuable in itself, or more likely that it is a reasonable proxy for what is considered valuable. However, it may be theoretically possible to game the system by engaging in policymaking which maximizes per-capita income without benefitting what is considered valuable about the metric, at least not to its fullest extent. The value of maximizing per-capita income involves a belief that it functions as a reasonable proxy. This may not necessarily be true, and demonstrates the potential inseparability of values and beliefs in a policymaking context. This can make it difficult to define comprehensive metrics for measuring welfare or whatever values one is trying to maximize for in a way that is desirable to the population.
+- There are risks of market manipulation. The notion of futarchy goes back to the 2000s or earlier. Since then, there have been prediction markets which, while not used directly for policymaking, are used to predict future political variables. However, these have become prone to insider trading, with those who have special knowledge being able to affect outcomes and make money by betting on outcomes they know about for certain<ref>https://www.wsj.com/opinion/prediction-market-cheating-gets-creative-3068365e</ref>. Prediction markets in political decision-making could potentially be manipulated in a similar manner, which can undermine its effectiveness at promoting positive outcomes, even if the values were perfectly decided upon.
 
+Because of these challenges, while prediction markets is an interesting hypothetical, it's not clear how well this would work in practice. Currently, with how prediction markets are going, it does not look like a promising avenue. However, in the future if prediction markets were improved in their management/operations, it could potentially be effective for policy decisions.
 
 ## ======================================== TO INCORPORATE BELOW ========================================
 
-- To some degree non-democracy is inevitable (iron law of oligarchy
-- Iron law of oligarchy explains why rent-seeking behavior can happen and why small, focused minorities can consistently get their way, mucking up political and economic systems and making them inefficient.
-
 - *LOOK INTO CANADA VS US SYSTEM AND WHICH IS BETTER
-
-- Maybe have a subsection looking at research on how democratically responsive governments actually are
-
-## <span style="background-color:orange">Public Opinion and Political Change</span>
-
-The impact of public opinion on public policy is substantial, and salience of issues enhances the impact. This impact remains strong even when the activities of political organizations and elites are taken into account<ref>https://www.jstor.org/stable/3219881#metadata_info_tab_contents</ref><ref>https://www.cambridge.org/core/journals/american-political-science-review/article/abs/effects-of-public-opinion-on-policy/856B172A7DC19A7EB72C569A7F6F2104</ref>. Policy also drives public opinion, as the public naturally responds positively or negatively to policy changes by the government<ref>https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-74</ref>.
 
 ## <span style="background-color:orange">Journalists</span>
 
