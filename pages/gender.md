@@ -4,7 +4,7 @@ title: Gender
 permalink: /gender/
 ---
 
-**Summary**
+**<u>Summary</u>**
 
 This page is dedicated to a range of issues under the umbrella of gender. I begin by discussing the importance of ensuring that the relations between men and women aren't hostile as they oftentimes presently are, due to it being necessary for civilizational survival. This requires a complementarian view of gender which acknowledges that men and women are fundamentally different from one another - a reality that must be reflected in our social structures. I review the extensive body of research which documents a range of physical and psychological sex differences, and demonstrate why many of these are biologically mediated in part or in whole.
 
