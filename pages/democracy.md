@@ -158,33 +158,44 @@ This is an extremely theoretical proposal which intuitively has the potential to
 
 Because of these challenges, while prediction markets is an interesting hypothetical, it's not clear how well this would work in practice. Currently, with how prediction markets are going, it does not look like a promising avenue. However, in the future if prediction markets were improved in their management/operations, it could potentially be effective for policy decisions.
 
+## Are Parties and Leaders Necessary?
+
+One of the largest issues in debates about democracy deals with whether democracies should be representative or direct.
+
+- Explain distinction
+- Direct democracy is easier with smaller and more educated population
+- However, there can be risks with political knowledge and lack of time the average educated person has
+- Most people don't have time to figure out what are good or bad ideas, and so there needs to be a small group of people who are involved with directly making policy and whose job it is to do so
+- Leaders and parties are crucial to this process
+- Is a leader necessary? Leaders are important as has been shown by research, as particular leader's personalities appear to affect economic outcomes in the country. But is it necessary? I argue that leaders can be necessary for engaging in rapid deiciosion-making when necessary, particularly in cases of emergency.
+- People are irrationally loyal to parties, although this would be benefitted by a more epistocratic system as smarter people are less party loyal
+- Still, this can come with a risk, are parties necessary?
+- Parties are.
+- Parties help coordinate policy preferences across policymakers, help voters understand basic platforms without having to review particular details of people, and help coordinate funding for campaigning should it occur
+
+
+
+
+
+
+
+
+## On Women in Politics
+
+One big issue which has arisen in recent years concerns the representation of women in politics. How does the relative level of women in politics affect political decision-making, and does this justify things like gender quotas? Gender quotas refer to systems which deliberately ensure that a certain number of women are able to get involved in politics. Gender quotas can take several forms. They can be reserved seats in political office, they can be quotas for candidates on ballots, or they can be voluntary quotas for candidates in political parties<ref>https://www.idea.int/data-tools/data/gender-quotas/quotas</ref>. These quotas increase the representation of women within politics<ref>https://onlinelibrary.wiley.com/doi/abs/10.3162/036298009787500330</ref>.
+
+Women perform just as well when they run for public office, but there is a gender gap in political ambition. This may be due to a combination of women being less likely to be encouraged or recruited for office, and that public office careers have traits which women tend to find undesirable<ref>https://www.brookings.edu/wp-content/uploads/2016/06/05_women_lawless_fox.pdf</ref><ref>https://www.american.edu/spa/wpi/upload/2012-men-rule-report-web.pdf</ref>. Gender quotas can help to normalize women in politics, having a cultural effect separate from the policy itself, helping to get more women into office through increasing the interest of potential female candidates and increasing the number of people who vote for female candidates<ref>https://academic.oup.com/qje/article/124/4/1497/1917190</ref>.
+
+This appears nice, but what are the actual effects on politician quality and policymaking? Murray (2010) looks at whether gender quotas in France have an effect on the quality of politicians in parliament, suggesting that female politicians are no less active than male politicians in parliament, including numbers of bills, reports, and questions introduced<ref>https://www.cambridge.org/core/journals/politics-and-gender/article/second-among-unequals-a-study-of-whether-frances-quota-women-are-up-to-the-job/91FA7B3D678ECBAC5472C8C58E650BA6</ref>. Baltrunaite et al. (2014) finds that the introduction of gender quotas is associated with an increased quality of politicians as measured by years of education, with the effect ranging from around 0.12-0.24 years of education<ref>https://www.sciencedirect.com/science/article/pii/S0047272714001480</ref>. In short, having more women in politics probably has no effect or a slight positive effect on the "quality" of politicians.
+
+However, this doesn't say anything about the policies that women tend to support when they get into political office. The decision-making of women involved in politics tends to be consistent with their relative differences in values compared to men (see [Psychological Sex Differences: Values](https://prometheandissident.github.io/gender/#values)). Evidence suggests that female legislators tend to focus on children's and family concerns, as well as potentially increased government spending towards health and away from military and other areas. There appears to be no strong differences in focus on issues such as education, the economy, agriculture, or employment<ref>https://uu.diva-portal.org/smash/get/diva2:1246248/FULLTEXT01</ref><ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2006.00202.x</ref>. However, there is some evidence to suggest that women tend to have stronger support for policies such as tariffs<ref>10% Less Democracy: Why you Should Trust Elites a Little More and the Masses a Little Less - Chapter 5</ref>. In short, women are probably more in favor of higher regulation and the decline of economic freedom, even if their stated concerns with these issues are the same as men.
+
+It is probably the case that having more men and women in office is a good thing, given the general policy decisions that men versus women tend to make. However, this does not mean that women should be barred from politics or that there are no women politicians who can be good for society. Rather than socially engineering outcomes, the proper thing appears to be to be softly aware of sex differences in political priorities, while allowing both sexes to engage in politics. The best people should rise to the top of political decision-making, irrespective of their sex.
+
 ## ======================================== TO INCORPORATE BELOW ========================================
 
 - *LOOK INTO CANADA VS US SYSTEM AND WHICH IS BETTER
 
-## <span style="background-color:orange">Journalists</span>
-
-Journalists generally prefer parties with more left-wing positions<ref>https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media</ref>.
-
-Americans’ trust in media is currently very low<ref>https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx</ref>.
-
-## <span style="background-color:yellow">Politics: The Woman Question</span>
-
-Women perform just as well when they run for public office, but there is a gender gap in political ambition. This is due to a combination of women being less likely to be encouraged or recruited for office, and that public office careers have traits which women tend to find undesirable<ref>https://www.brookings.edu/wp-content/uploads/2016/06/05_women_lawless_fox.pdf</ref><ref>https://www.american.edu/spa/wpi/upload/2012-men-rule-report-web.pdf</ref>.
-
-I am generally for a gender quota in political office, to help increase representation of women to be more proportional to men than is the case currently in most if not all political offices. Quotas have neutral to positive effects on the quality of politicians, and they normalize women getting into politics.
-
-Gender quotas can take several forms. They can be reserved seats in political office, they can be quotas for candidates on ballots, or they can be voluntary quotas for candidates in political parties<ref>https://www.idea.int/data-tools/data/gender-quotas/quotas</ref>.
-
-These quotas increase the representation of women within politics<ref>https://onlinelibrary.wiley.com/doi/abs/10.3162/036298009787500330</ref>.
-
-Under such quota systems, the experience and decision-making ability of the candidates, primarily in terms of education, is the same if not better. This is because mediocre male politicians are pushed out of offices as a result of quotas<ref>https://academic.oup.com/book/6058/chapter/149497081</ref><ref>https://www.cambridge.org/core/journals/politics-and-gender/article/second-among-unequals-a-study-of-whether-frances-quota-women-are-up-to-the-job/91FA7B3D678ECBAC5472C8C58E650BA6</ref><ref>https://www.aeaweb.org/articles?id=10.1257/aer.20160080</ref><ref>https://www.sciencedirect.com/science/article/pii/S0047272714001480</ref>.
-
-Gender quotas help to normalize women in politics, having a cultural effect separate from the policy itself, helping to get more women into office through increasing the interest of potential female candidates and increasing the number of people who vote for female candidates<ref>https://academic.oup.com/qje/article/124/4/1497/1917190</ref>.
-
-Female legislators tend to place higher emphasis on women's issues and children/family concerns, but also on general economic and health issues. They are more likely to cause increases in government expenditures towards public health and decreases in government expenditures towards military and other areas<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2006.00202.x</ref><ref>http://uu.diva-portal.org/smash/get/diva2:1246248/FULLTEXT01</ref>.
-
-A matriarchy is a social system in which the mother or a female elder has absolute authority over the family group, and by extension, one or more women exert a similar level of authority over the community as a whole. Under this definition, matriarchal societies have never existed<ref>https://www.britannica.com/topic/matriarchy</ref>. Dube & Harish (2017) looked at the effect of female rule on war among European polities between the 15th and 20th centuries. They found that polities led by queens are more likely to engage in war than polities led by kings<ref>https://www.nber.org/papers/w23337</ref>.
 
 ## References
 
