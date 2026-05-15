@@ -471,8 +471,6 @@ However, when it comes to general cognitive tasks, within which issues such as p
 
 ### Activism
 
-## Activism in General
-
 Economic affluence, state capacity, women as a percentage of the total labor force and left corporatism (left party control and higher neocorporatism) contribute to greater aggregate protest potential. Ethnic grievances stemming from economic discrimination and percentage of protestants also contribute positively while language dominance suppresses protest potential<ref>https://www.jstor.org/stable/20628335?seq=1</ref>.
 
 Mass political protests have increased globally by an annual average of 11.5 percent between 2009 and 2019. The size and frequency of recent protests are unprecedented historically, eclipsing historical examples of eras of mass protest. Common grievances overwhelmingly center on perceptions of ineffective governance and corruption. Protests have resulted in a broad range of outcomes, ranging from regime change and political accommodation to protracted political violence with many casualties. Factors that could increase the rate of protest include slowing global economic growth, worsening effects of climate change, and foreign meddling in internal politics via disinformation and other tactics<ref>https://www.csis.org/analysis/age-mass-protests-understanding-escalating-global-trend</ref>.
