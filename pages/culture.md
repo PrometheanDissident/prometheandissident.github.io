@@ -4,6 +4,10 @@ title: Culture
 permalink: /culture/
 ---
 
+**<u>Summary</u>**
+
+This section discusses culture from a very abstract level. Culture is a concept which has a lot of confusion surrounding it, and I begin this section with a discussion of what culture is, and what it encompasses to help clarify things. Once culture is well-defined, it is easy to understand how culture should be analyzed and where its value comes from. While some rationalist types argue that culture is something bad, I assert that it carries significant value as it helps to socialize people within a community, which is crucial towards the survival and thriving of people. Sociobiologically, culture carries with it a numbeer of adaptive functions which I lay out in detail using analysis done by E.O. Wilson. Finally, I discuss cultural relativism, and its various conceptions. I argue that cultural relativism can be good as a methodological tool to study cultures, as well as a way to underatand and empathize with cultural beliefs in their particular contexts. However, cultural relativism as a moral viewpoint is ultimately rendered incoherent in its application, and thus must be rejected. Culture is important, but it is not static. Cultures should be assessed according to how well they fulfill their adaptive functions.
+
 ## What is Culture
 
 Culture is best understood as being a set of values, beliefs, and practices that a particular group of people have. Insofar as a "group" can be said to have statistical commonalities between themselves along these dimensions, or statistically differ in their propensities for things along these dimensions relative to other groups, that group can be said to have a culture. This understanding of culture is extremely broad, and includes a wide variety of issues. It is not merely simple things such as rituals or customs, or norms and mores, but can also include political ideologies, theories of history, or even scientific propositions.
@@ -26,38 +30,25 @@ The fundamental problem with this worldview, the rejection of culture, is that h
 
 ## The Sociobiology of Culture
 
-- Overview all of this and discuss it in more detail
+It's important to understand culture from a sociobiological and evolutionary perspective, as it can help understand its importance and adaptive functions. This is not only important to understand why culture exists, but also to understand where it can be adaptive versus maladaptive. The rudiments of culture exist in other primates but culture infiltrating virtually all aspects of life is exclusive to humans. There is great amounts of cultural diversity among societies. Culture, including ritual and religion, can be interpreted as a hierarchical system of “environmental tracking devices”, or responses. The fastest cultural responses in industrial societies include fashions on dress and speech. Slower are political ideology and attitudes toward other nations, and slowest includes incest taboos or belief/disbelief in higher gods. Slowly changing forms of culture tend to be encapsulated in rituals. Most human rituals have more than a simple immediate signal value. They both label, reaffirm and rejuvenate the moral values of the community. The most elementary forms of sacred rituals are concerned with magic, or the active attempt to manipulate nature and the gods<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
+Formal religion is focused on deeper and more tribally oriented beliefs. Its rites celebrate creation myths, attempt to win the favor of the gods, and resanctify moral codes. In more complex societies, polity and religion blend naturally, as kings rule by divine right but high priests often ruled over kinds by the higher rank of the gods. It is reasonable to infer that magic and totemism are direct adaptations to the environment and preceded formal religion in social evolution. Sacred traditions are a cultural universal as are creation myths or at least myths which situation the tribe in relation to the world. Belief in high gods is not universal however. One analysis found that only about 35 percent of hunter-gatherer societies included high gods in their sacred traditions<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
+The sanctification of a prodecutre is the process by which it is certified as beyond question, something which is dogmatically adhered to. This implies punishment for anyone who dares to contradict the procedure. This certification is used to serve the most important interests of the group. Another force leading to the formalization of morality and religion is the fact that extreme human social plasticity can be both a strength and a danger. If trusted to make rules on their own, a person risks chaos<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
 
-
-The rudiments of culture exist in other primates but culture infiltrating virtually all aspects of life is exclusive to humans. There is great amounts of cultural diversity among societies. Culture, including ritual and religion, can be interpreted as a hierarchical system of “environmental tracking devices”, or responses. The fastest cultural responses in industrial societies include fashions on dress and speech. Slower are political ideology and attitudes toward other nations, and slowest includes incest taboos or belief/disbelief in higher gods. Slowly changing forms of culture tend to be encapsulated in rituals. Most human rituals have more than a simple immediate signal value. They both label, reaffirm and rejuvenate the moral values of the community. The most elementary forms of sacred rituals are concerned with magic, or the active attempt to manipulate nature and the gods<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-Formal religion is focused on deeper and more tribally oriented beliefs. Its rites celebrate creation myths, attempt to win the favor of the gods, and resanctify moral codes. In more complex societies, polity and religion blend naturally, as kings rule by divine right but high priests often ruled over kinds by the higher rank of the gods<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-It is reasonable to infer that magic and totemism are direct adaptations to the environment and preceded formal religion in social evolution. Sacred traditions are a cultural universal as are creation myths or at least myths which situation the tribe in relation to the world. Belief in high gods is not universal however. One analysis found that only about 35 percent of hunter-gatherer societies included high gods in their sacred traditions<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-“To sanctify a procedure or statement is to certify it as beyond question and imply punishment for anyone who dares to contradict it.” This certification is used to serve the most important interests of the group. Another force leading to the formalization of morality and religion is the fact that extreme human social plasticity can be both a strength and a danger. If trusted to make rules on their own, a person risks chaos<ref>Sociobiology: The New Synthesis | Ch. 26 - Man: From Sociobiology to Sociology</ref>.
-
-
-
+In short, culture is a crucial element of human socialization which allows people to cooperate better, survive, and make sense of the world. Culture is natural to us, and adaptive insofar as it achieves these goals. Thus, culture in some form should be taken seriously as a legitimate aspect of human experience, but should always be evaluated with respect to how well it achieves these goals.
 
 ## On Cultural Relativism
 
-- Discuss how hard cultural relativism is cringe and a form of tactical nihilism
-- 
+Cultural relativism refers to a collection of several positions on culture, some of which I hold are reasonable, while others I hold are unreasonable. Cultural relativism can be a scientific methodology, whereby a person who is trying to study a culture studies the culture according to its own terms and attempts to make sense of it on those terms. In this respect, adopting a cultural relativist framework can be beneficial for better understanding various aspects of the culture.
 
+Cultural relativism can also refer to an attempt to sympathize with the circumstances which led a culture to adopt the beliefs that they did. In his essay entitled "The Relativity of Wrong," Isaac Asimov argued that in science, "right" and "wrong" are not absolute terms, but are fuzzy concepts which must be understood according to a particular context<ref>https://www.sas.upenn.edu/~dbalmer/eportfolio/Nature%20of%20Science_Asimov.pdf</ref>. Early civilizations, while believing that the earth was flat, an incorrect viewpoint, were actually quite sophisticated in their reasoning for why the earth was flat. If, after all, the rises and dips of the land all on net land on a certain elevation, it makes sense to assume that the earth is flat. Similarly, many cultures may have adopted maladaptive or incorrect views of the world, or moral principles which could be regarded by outsiders are maladaptive. However, oftentimes these make sense in the context of the culture and their circumstances. Cultural relativism under this view is also reasonable.
 
+However, there is a third type of cultural relativism which is not reasonable, which is the notion that all cultures are somehow "equal" to one another. If one adopts any moral stance, they will naturally have to conclude that some cultures better adhere to that moral stance than others. Even if one has a moral stance which holds that all cultures are equal, if some cultures believe that not all cultures are equal, they will run into a paradox that the views that "some cultures are better than others" and "no culture is better than another" are equivalent views. Ultimately, it is impossible to be morally neutral towards cultures equally.
 
+Particularly insidious about some politically correct notions of cultural relativism as viewing all cultures as equivalent is the inability to explain why an insider to a culture advocating for a change in that culture is morally different from an outsider. If all cultures and all manifestations of cultures were equal, there would be no rationale that an insider would have to advocate for an internal change in their own culture. Similarly, there would be no rationale for why it would be wrong for someone outside of the culture to criticize that culture. One cannot have it both ways.
 
-
-
-
-
-
-## Sociobiology Culture
-
-
+Recognizing that culture serves certain sociobiological ends allows us to step back and assess whether cultures are doing a good job at that or not. If cultures are maladaptive to social thriving, they should be scrutinized and changed, and there is nothing wrong with advocating for a change in a particular culture. Culture is changing and never static, and there's no reason to expect it to be otherwise, or to fight against change because it is change.
 
 ## References
 
