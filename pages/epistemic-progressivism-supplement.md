@@ -38,6 +38,10 @@ The moralistic fallacy refers to the reverse of the relationship between truth a
 
 Kettle logic refers to a situation where one uses multiple arguments to defend a point which are inconsistent with one another<ref>https://en.wikipedia.org/wiki/Kettle_logic</ref>. Because the case for the broader point is internally inconsistent, kettle logic can be considered a form of fallacious reasoning.
 
+## Tactical Nihilism
+
+Tactical nihilism is a rhetorical strategy whereby a person rejects descriptive or normative concepts that they would normally accept in an attempt to win an argument.
+
 ## References
 
 <references />
