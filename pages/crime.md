@@ -24,6 +24,24 @@ In short, policing is crucial towards reducing crime, and if anything, its benef
 
 Contrary to the assertions of many, who suggest that communities are being overpoliced, the evidence suggests that if anything, communities for the most part are underpoliced in terms of the returns on investment that policing has. Attempts to "defund the police", while oftentimes good-intentioned, are nonetheless ill-informed. Police station closures in London between 2010 and 2016 as a consequence of austerity led to an 11 percent increase in violent crimes<ref>https://cepr.org/voxeu/columns/policing-budget-understanding-impacts-austerity-cuts-crime-police-effectiveness-and</ref>. Defunding the police does not work.
 
+### Use of Body Cameras
+
+A systematic review and meta-analysis found that body-worn cameras showed no consistent or statistically significant effects in general. Research does not necessarily support notions that police body-worn cameras improve officer safety, increase evidence quality, reduce civilian complaints, or reduce agency liability<ref>https://nij.ojp.gov/topics/articles/research-body-worn-cameras-and-law-enforcement</ref>. However, the context matters significantly. When officers have the discretion to turn cameras on and off during their shift, some evidence suggests that officers’ use of force increased, while when they leave the camera rolling for the entire shift, use of force decreased<ref>https://www.rand.org/news/press/2016/05/17.html</ref>. Another meta-analysis found a 9.6% decrease in police use of force from wearing body-worn cameras. It also found a 16.9% reduction in complaints against police<ref>https://urbanlabs.uchicago.edu/attachments/fa10fa8358f9a374192f2360e0cf620dd4fcb523/store/5959e869f443a4b4feb02bb33edcc63e12308bcb279b0b3d08d673c23a27/Williams+et+al_Body-Worn+Cameras_03_25.pdf</ref>. Some evidence also suggests that body-worn cameras reduce fear of the police from both black and non-black individuals<ref>https://www.researchgate.net/publication/356235878_Body-worn_cameras_lawful_police_stops_and_NYPD_officer_compliance_A_cluster_randomized_controlled_trial</ref>. Due to the second aforementioned meta-analysis finding benefits from body-worn cameras, they found a cost-benefit ratio of body-worn cameras of 4.95<ref>https://urbanlabs.uchicago.edu/attachments/fa10fa8358f9a374192f2360e0cf620dd4fcb523/store/5959e869f443a4b4feb02bb33edcc63e12308bcb279b0b3d08d673c23a27/Williams+et+al_Body-Worn+Cameras_03_25.pdf</ref>.
+
+I am not of the belief that police use of force is racially biased (see [Unfair Bias as a Factor in Disparities: Criminal](https://prometheandissident.github.io/race/#criminal)), but this does not necessarily mean that there can't be excessive use of police force in many circumstances. It appears that body cameras, when mandated to be on at all times, can potentially have marginal effects on police use of force. However, it's not clear whether this is a decline in use of force from an unacceptably high level, or a decline from an acceptable level, therefore meaning that police are using less force than they should. In order to properly assess this issue, effects of body cameras on crime would need to be ascertained.
+
+### The Use of Welfare Checks
+
+Another issue which has become a subject of hot debate in recent years is welfare checks. Many people who have the false assumption that police are racially biased want to remove police involvement in as many areas of life as possible. One area is welfare checks. Regardless of whether the impetus for examining this issue was based on false assumptions, it is interesting to look at, and it may still be better to not have police involved in welfare checks if they are worse at responding to them irrespective of racial bias.
+
+Welfare checks when done generally do not involve suspected crime, but rather mental health, substance use, or medical crises. In most cases, police are the default first responders to welfare checks. There are many concerns with police doing welfare checks, including that they can make individuals resistant to treatment by disrupting treatment plans or negatively impacting trust between doctors, therapists and their patients. Knowing that police will respond to their calls may make family and friends less willing to call for welfare checks. Furthermore, there is no evidence to suggest that sending the police to conduct welfare checks is effective in reducing harmful outcomes such as preventing suicide<ref>https://www.safetyreimagined.org/papers/welfare-checks</ref>.
+
+Police are rarely trained to address the human, medical or social conditions that prompt welfare checks, and in some cases by entering a private space without warning they can precipitate violent confrontation, injury or death. Between 2019 and 2021, there were at least 178 instances in which officers shot and killed an individual they were called upon to assist<ref>https://www.safetyreimagined.org/papers/welfare-checks</ref>.
+
+One way to improve police responses to welfare checks, especially when it’s necessary in cases which involve weapons or threats of violence, is to offer Crisis Intervention Team (CIT) training<ref>https://www.safetyreimagined.org/papers/welfare-checks</ref>. Co-response which involves pairing police with mental health clinicians may have improved outcomes compared to police-only models<ref>https://pubmed.ncbi.nlm.nih.gov/35103364/</ref>. Some responses to welfare checks may not require any police intervention at all. A 2020 review of 911 calls in 8 major cities found that up to 68% of calls could be handled without sending an armed officer<ref>https://www.themarshallproject.org/2024/07/25/police-mental-health-alternative-911</ref>.
+
+Thus, it looks like there may be some validity in not having police do welfare checks. Not having as many police do them would free up their resources to help deal with crime more generally, and would potentially reduce the risk of violent incidents occurring when welfare checks are conducted.
+
 ## On Higher-Order Causes of Crime
 
 ## On Punishing Crime
@@ -44,58 +62,13 @@ Greater access to firearms is also related to deaths by suicide. Homes in the US
 
 There is some evidence that the link between firearm access and harm done to people costs a substantial amount within the Amercian healthcare system. Firearm injuries in the US have an economic cost between hundreds of millions per year to tens of billions per year<ref>https://www.childrenssafetynetwork.org/sites/default/files/TheCostofGunViolence.pdf</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0039606014000609</ref><ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303684</ref>.
 
+So the prepondernance of evidence suggests that more guns in a place is not associated with lower crime, homicide, etc. This implies that policies which attempt to limit/restrict access to firearms would reduce crime and homicide, but is this the case? The evidence is fairly mixed. Makarios & Pratt (2008) did a meta-analysis and found that in the US, most gun policies are unrelated to gun violence, including gun buybacks, enhanced prison terms, waiting periods/background checks, weapons bans, and safe storage laws. The only gun law that had marginal effects was bans on the sale of firearms<ref>https://journals.sagepub.com/doi/abs/10.1177/0011128708321321?journalCode=cadc</ref>. However, according to a RAND corporation systematic review, in the US in general, stricter gun control results in lower gun crime<ref>https://www.rand.org/research/gun-policy/analysis.html</ref>. Cross-country analysis furthermore suggests that stricter gun control entails a strong negative effect on overall homicide and suicide rates<ref>https://www.researchgate.net/publication/329840934_Does_regulation_matter_A_cross-national_analysis_of_the_impact_of_gun_policies_on_homicide_and_suicide_rates</ref>. Research from 130 studies in 10 different countries suggests that in some countries the simultaneous implementation of laws targeting multiple firearms restrictions is associated with reductions in firearms deaths, as well as background checks and safer storage laws<ref>https://pubmed.ncbi.nlm.nih.gov/26905895/</ref>.
 
-
-
-
-
-### General Strictness
-
-**Gun control reduces deaths**
-
-Stand your ground laws increase violent crime<ref>https://www.rand.org/research/gun-policy/analysis/stand-your-ground.html</ref>.
-
-Stand-your-ground laws are at least in some contexts associated with increases in violence<ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101</ref>.
-
-A higher number of firearm laws in a state are associated with a lower rate of firearm fatalities in the state, overall, and for suicides and homicides individually<ref>https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1661390</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5885268/</ref>.
-
-Makarios & Pratt (2008) did a meta-analysis and found that in the US, most gun policies are unrelated to gun violence, including gun buybacks, enhanced prison terms, waiting periods/background checks, weapons bans, and safe storage laws. The only gun law that had marginal effects was bans on the sale of firearms<ref>https://journals.sagepub.com/doi/abs/10.1177/0011128708321321?journalCode=cadc</ref>.
-
-According to a RAND corporation systematic review, in the US in general, stricter gun control results in lower gun crime<ref>https://www.rand.org/research/gun-policy/analysis.html</ref>.
-
-Across countries, analysis indicates that stricter gun control entails a strong negative effect on overall homicide and suicide rates<ref>https://www.researchgate.net/publication/329840934_Does_regulation_matter_A_cross-national_analysis_of_the_impact_of_gun_policies_on_homicide_and_suicide_rates</ref>.
-
-The strongest evidence is consistent with the claim that the Australian 1996 National Firearms Agreement caused reductions in firearm suicides, mass shootings, and female homicide victimization, although there is still evidence that raises questions<ref>https://www.rand.org/research/gun-policy/analysis/essays/1996-national-firearms-agreement.html</ref>.
-
-Research from 130 studies in 10 different countries suggests that in some countries the simultaneous implementation of laws targeting multiple firearms restrictions is associated with reductions in firearms deaths, as well as background check and safer storage laws<ref>https://pubmed.ncbi.nlm.nih.gov/26905895/</ref>.
-
-
-
-
-
-
-
-
-
-
+In short, the evidence is mixed, but there is no evidence to suggest that the "good guy with a gun" notion, the idea that having more guns in a society would lead to lower crime, is true. At best, the effect on crime is null, and at worst, it is negative. Intuitively, I think there are strong reasons to believe that greater access to firearms is associated with higher crime. Whether the effect is small or large is debatable. I don't think that people should be completely prevented from owning firearms in general, but it appears that the self-defense justification for firearms is moot, and firearms should generally not be promoted for that purpose.
 
 ## ============================================================ TO ADD BELOW ============================================================
 
-## Punishment Practices
-
-### Private Prisons
-
-Probably cringe
-
-Cost savings from private prisons are minimal to null, and quality of confinement is slightly better for publicly managed prisons, with slightly better skills training and slightly fewer inmate grievances<ref>Pratt, T. C., & Maahs, J. (1999). Are Private Prisons More Cost-Effective than Public Prisons? A Meta-Analysis of Evaluation Research Studies. Crime & Delinquency, 45(3), 358–371. https://doi.org/10.1177/0011128799045003004</ref><ref>Lundahl, B. W., Kunz, C., Brownell, C., Harris, N., & Van Vleet, R. (2009). Prison privatization. Research on Social Work Practice, 19(4), 383–394. https://doi.org/10.1177/1049731509331946</ref>. Private prison inmates tend to have higher recidivism<ref>Spivak, A. L., & Sharp, S. F. (2008). Inmate recidivism as a measure of private prison performance. Crime & Delinquency, 54(3), 482–508. https://doi.org/10.1177/0011128707307962</ref><ref>Duwe, G., & Clark, V. (2013). The effects of private prison confinement on offender recidivism. Criminal Justice Review, 38(3), 375–394. https://doi.org/10.1177/0734016813478823</ref>.
-
-### Rehabilitation
-
-Probably based
-
-Restorative justice programs are significantly more effective in terms of victim and offender satisfaction, restitution compliance, and recidivism, although these are tempered by self-selection bias inherent in restorative justice research<ref>Latimer, J., Dowden, C., & Muise, D. (2005). The Effectiveness of Restorative Justice Practices: A Meta-Analysis. The Prison Journal, 85(2), 127–144. https://doi.org/10.1177/0032885505276969</ref>.
-
-### Death Penalty
+## Death Penalty
 
 Gay and cringe
 
@@ -133,23 +106,13 @@ The legalization of marijuana does not result in increased adolescent marijuana 
 
 Supervised injection sites reduce overdose mortality, reduce ambulance calls for treating overdoses, and decrease HIV infections, without increasing drug injection, trafficking, or crime in the surrounding environments<ref>Potier, C., Laprévote, V., Dubois-Arber, F., Cottencin, O., & Rolland, B. (2014). Supervised injection services: What has been demonstrated? A systematic literature review. Drug and Alcohol Dependence, 145, 48–68. https://doi.org/10.1016/j.drugalcdep.2014.10.012</ref><ref>Ng, J., Sutherland, C., & Kolber, M. R. (2017, November 1). Does evidence support supervised injection sites? PubMed Central (PMC). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685449/</ref>. Decreased needle sharing and better health services at safe injection sites resulted in Vancouver's supervised injection facility saving more than $20 million and 1070 life years gained<ref>Bayoumi, A. M., & Zaric, G. S. (2008). The cost-effectiveness of Vancouver’s supervised injection facility. Canadian Medical Association Journal, 179(11), 1143–1151. https://doi.org/10.1503/cmaj.080808</ref>.
 
-## Body-Worn Cameras
-
-A systematic review and meta-analysis found that body-worn cameras showed no consistent or statistically significant effects in general. Research does not necessarily support notions that police body-worn cameras improve officer safety, increase evidence quality, reduce civilian complaints, or reduce agency liability<ref>https://nij.ojp.gov/topics/articles/research-body-worn-cameras-and-law-enforcement</ref>. However, the context matters significantly. When officers have the discretion to turn cameras on and off during their shift, some evidence suggests that officers’ use of force increased, while when they leave the camera rolling for the entire shift, use of force decreased<ref>https://www.rand.org/news/press/2016/05/17.html</ref>. Another meta-analysis found a 9.6% decrease in police use of force from wearing body-worn cameras. It also found a 16.9% reduction in complaints against police<ref>https://urbanlabs.uchicago.edu/attachments/fa10fa8358f9a374192f2360e0cf620dd4fcb523/store/5959e869f443a4b4feb02bb33edcc63e12308bcb279b0b3d08d673c23a27/Williams+et+al_Body-Worn+Cameras_03_25.pdf</ref>. Some evidence also suggests that body-worn cameras reduce fear of the police from both black and non-black individuals<ref>https://www.researchgate.net/publication/356235878_Body-worn_cameras_lawful_police_stops_and_NYPD_officer_compliance_A_cluster_randomized_controlled_trial</ref>. Due to the second aforementioned meta-analysis finding benefits from body-worn cameras, they found a cost-benefit ratio of body-worn cameras of 4.95<ref>https://urbanlabs.uchicago.edu/attachments/fa10fa8358f9a374192f2360e0cf620dd4fcb523/store/5959e869f443a4b4feb02bb33edcc63e12308bcb279b0b3d08d673c23a27/Williams+et+al_Body-Worn+Cameras_03_25.pdf</ref>.
-
-## Welfare Checks
-
-Welfare checks when done generally do not involve suspected crime, but rather mental health, substance use, or medical crises. In most cases, police are the default first responders to welfare checks. There are many concerns with police doing welfare checks, including that they can make individuals resistant to treatment by disrupting treatment plans or negatively impacting trust between doctors, therapists and their patients. Knowing that police will respond to their calls may make family and friends less willing to call for welfare checks. Furthermore, there is no evidence to suggest that sending the police to conduct welfare checks is effective in reducing harmful outcomes such as preventing suicide<ref>https://www.safetyreimagined.org/papers/welfare-checks</ref>.
-
-Police are rarely trained to address the human, medical or social conditions that prompt welfare checks, and in some cases by entering a private space without warning they can precipitate violent confrontation, injury or death. Between 2019 and 2021, there were at least 178 instances in which officers shot and killed an individual they were called upon to assist<ref>https://www.safetyreimagined.org/papers/welfare-checks</ref>.
-
-One way to improve police responses to welfare checks, especially when it’s necessary in cases which involve weapons or threats of violence, is to offer Crisis Intervention Team (CIT) training<ref>https://www.safetyreimagined.org/papers/welfare-checks</ref>. Co-response which involves pairing police with mental health clinicians may have improved outcomes compared to police-only models<ref>https://pubmed.ncbi.nlm.nih.gov/35103364/</ref>. Some responses to welfare checks may not require any police intervention at all. A 2020 review of 911 calls in 8 major cities found that up to 68% of calls could be handled without sending an armed officer<ref>https://www.themarshallproject.org/2024/07/25/police-mental-health-alternative-911</ref>.
-
 ## Rehabilitation
 
 A meta-analysis found that cognitive behavioral therapy (CBT) has on average significant positive effects on recidivism. The odds of not having recidivism for the next 12 months after release was 1.53 for those receiving CBT, or an implied recidivism reduction of 25 percent<ref>https://pdfs.semanticscholar.org/8305/612f8770971495bbf9e2225906e501e9f060.pdf</ref>.
 
 Correctional education comprises college- and university-level courses for individuals incarcerated in prison to enhance pathways for post-release employment and overall success. Such programs tend to have significant benefits which outweigh the costs, as they reduce the probability of future criminal offending or prison misconduct<ref>https://www.wsipp.wa.gov/BenefitCost/Program/735</ref>.
+
+Restorative justice programs are significantly more effective in terms of victim and offender satisfaction, restitution compliance, and recidivism, although these are tempered by self-selection bias inherent in restorative justice research<ref>Latimer, J., Dowden, C., & Muise, D. (2005). The Effectiveness of Restorative Justice Practices: A Meta-Analysis. The Prison Journal, 85(2), 127–144. https://doi.org/10.1177/0032885505276969</ref>.
 
 ## Drug Decriminalization
 
