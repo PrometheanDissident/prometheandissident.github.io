@@ -34,8 +34,53 @@ Contrary to the assertions of many, who suggest that communities are being overp
 
 ## On Firearms Legislation
 
+Firearms is something which has been the subject of intense debate. While most developed countries have restrictive laws on firearms, there are a few such as the United States and Switzerland which are much more allowing of firearms purchase and use of firearms for purposes of self-defense. This begs the question: is greater firearms provision, and more libertine firearm laws, related to a generally safer society?
+
+In high-income countries with more firearms, both men and women are at higher risk of homicide<ref>https://pubmed.ncbi.nlm.nih.gov/11130511/</ref>, particularly firearm homicide<ref>https://files.catbox.moe/td3g80.pdf</ref>. The US is among high-income countries a serious outlier when it comes to homicide, mostly due to their massive firearm homicide rates<ref>https://repository.usfca.edu/cgi/viewcontent.cgi?article=1147&context=nursing_fac</ref>. Even within American states, variation in firearm homicides and related crimes are heavily explained by firearm ownership levels. A disproportionately high number of 5-14 year olds die from homicide, suicide, and unintentional firearm deaths in states and regions where guns are more prevalent<ref>https://moscow.sci-hub.st/5262/a4a65f985a1236228760a36cbdc9d757/miller2002.pdf</ref><ref>https://files.catbox.moe/y36ppa.pdf</ref>. In addition, in the US, higher levels of firearm ownership are associated with higher levels of firearm assault, firearm robbery, firearm homicides, and overall homicide<ref>http://ajpmonline.org/article/S0749-3797(15)00072-0/pdf</ref>.
+
+Greater access to firearms is also related to deaths by suicide. Homes in the US with and without firearms have no differences in mental health, substance dependence, abuse, suicidal ideation, and suicide planning. Having made a suicide attempt however is more common in households with firearms<ref>https://injuryprevention.bmj.com/content/15/3/183.short</ref>. In other words, firearms provide an easy means of access for individuals who are already at risk of suicide. Changes in a household's gun ownership over time are associated with significant changes in suicide<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563517/pdf/178.pdf</ref>. Furthermore, there is an association between gun ownership and overall risk of suicide, with the risk highest immediately after the purchase of a handgun. This suggests that some firearms are specifically used for the purpose of committing suicide<ref>https://nap.nationalacademies.org/read/10881/chapter/9</ref>.
+
+
+
+
 - Go through the evidence showing that more guns generally means more crime and worse quality of life for people
 - "Good guy with a gun" is largely a myth, the people are retarded
+
+
+### Homicide
+
+
+The presence of firearms increases aggression in people<ref>https://journals.sagepub.com/doi/abs/10.1177/1088868317725419</ref>.
+
+### Economic Cost
+
+**Guns have health costs**
+
+Firearm injuries in the US have an economic cost between hundreds of millions per year to tens of billions per year<ref>https://www.childrenssafetynetwork.org/sites/default/files/TheCostofGunViolence.pdf</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0039606014000609</ref><ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303684</ref>.
+
+### General Strictness
+
+**Gun control reduces deaths**
+
+Stand your ground laws increase violent crime<ref>https://www.rand.org/research/gun-policy/analysis/stand-your-ground.html</ref>.
+
+Stand-your-ground laws are at least in some contexts associated with increases in violence<ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101</ref>.
+
+A higher number of firearm laws in a state are associated with a lower rate of firearm fatalities in the state, overall, and for suicides and homicides individually<ref>https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1661390</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5885268/</ref>.
+
+Makarios & Pratt (2008) did a meta-analysis and found that in the US, most gun policies are unrelated to gun violence, including gun buybacks, enhanced prison terms, waiting periods/background checks, weapons bans, and safe storage laws. The only gun law that had marginal effects was bans on the sale of firearms<ref>https://journals.sagepub.com/doi/abs/10.1177/0011128708321321?journalCode=cadc</ref>.
+
+According to a RAND corporation systematic review, in the US in general, stricter gun control results in lower gun crime<ref>https://www.rand.org/research/gun-policy/analysis.html</ref>.
+
+Across countries, analysis indicates that stricter gun control entails a strong negative effect on overall homicide and suicide rates<ref>https://www.researchgate.net/publication/329840934_Does_regulation_matter_A_cross-national_analysis_of_the_impact_of_gun_policies_on_homicide_and_suicide_rates</ref>.
+
+The strongest evidence is consistent with the claim that the Australian 1996 National Firearms Agreement caused reductions in firearm suicides, mass shootings, and female homicide victimization, although there is still evidence that raises questions<ref>https://www.rand.org/research/gun-policy/analysis/essays/1996-national-firearms-agreement.html</ref>.
+
+Research from 130 studies in 10 different countries suggests that in some countries the simultaneous implementation of laws targeting multiple firearms restrictions is associated with reductions in firearms deaths, as well as background check and safer storage laws<ref>https://pubmed.ncbi.nlm.nih.gov/26905895/</ref>.
+
+
+
+
 
 
 
@@ -96,60 +141,6 @@ The legalization of marijuana does not result in increased adolescent marijuana 
 **Based**
 
 Supervised injection sites reduce overdose mortality, reduce ambulance calls for treating overdoses, and decrease HIV infections, without increasing drug injection, trafficking, or crime in the surrounding environments<ref>Potier, C., Laprévote, V., Dubois-Arber, F., Cottencin, O., & Rolland, B. (2014). Supervised injection services: What has been demonstrated? A systematic literature review. Drug and Alcohol Dependence, 145, 48–68. https://doi.org/10.1016/j.drugalcdep.2014.10.012</ref><ref>Ng, J., Sutherland, C., & Kolber, M. R. (2017, November 1). Does evidence support supervised injection sites? PubMed Central (PMC). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685449/</ref>. Decreased needle sharing and better health services at safe injection sites resulted in Vancouver's supervised injection facility saving more than $20 million and 1070 life years gained<ref>Bayoumi, A. M., & Zaric, G. S. (2008). The cost-effectiveness of Vancouver’s supervised injection facility. Canadian Medical Association Journal, 179(11), 1143–1151. https://doi.org/10.1503/cmaj.080808</ref>.
-
-## Guns
-
-### Homicide
-
-**Moar guns = moar homicides**
-
-In high-income countries with more firearms, both men and women are at higher risk of homicide, particularly firearm homicide<ref>https://files.catbox.moe/td3g80.pdf</ref>.
-
-The US is among high-income countries a serious outlier when it comes to homicide, mostly due to their massive firearm homicide rates<ref>https://repository.usfca.edu/cgi/viewcontent.cgi?article=1147&context=nursing_fac</ref>.
-
-The presence of firearms increases aggression in people<ref>https://journals.sagepub.com/doi/abs/10.1177/1088868317725419</ref>.
-
-A disproportionately high number of 5-14 year olds die from homicide, suicide, and unintentional firearm deaths in states and regions where guns are more prevalent<ref>https://moscow.sci-hub.st/5262/a4a65f985a1236228760a36cbdc9d757/miller2002.pdf</ref><ref>https://files.catbox.moe/y36ppa.pdf</ref>.
-
-In the US, higher levels of firearm ownership are associated with higher levels of firearm assault, firearm robbery, firearm homicides, and overall homicide<ref>http://ajpmonline.org/article/S0749-3797(15)00072-0/pdf</ref>.
-
-Across developed countries, where guns are more available there are more homicides<ref>https://pubmed.ncbi.nlm.nih.gov/11130511/</ref>.
-
-### Suicide
-
-**Moar guns = Moar suicides**
-
-Homes in the US with and without firearms have no differences in mental health, substance dependence, abuse, suicidal ideation, and suicide planning. Having made a suicide attempt however is more common in households with firearms<ref>https://injuryprevention.bmj.com/content/15/3/183.short</ref>.
-
-There is an association between gun ownership and overall risk of suicide, with the risk highest immediately after the purchase of a handgun. This suggests that some firearms are specifically used for the purpose of committing suicide<ref>https://nap.nationalacademies.org/read/10881/chapter/9</ref>.
-
-Changes in a household's gun ownership over time are associated with significant changes in suicide<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563517/pdf/178.pdf</ref>.
-
-### Economic Cost
-
-**Guns have health costs**
-
-Firearm injuries in the US have an economic cost between hundreds of millions per year to tens of billions per year<ref>https://www.childrenssafetynetwork.org/sites/default/files/TheCostofGunViolence.pdf</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0039606014000609</ref><ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303684</ref>.
-
-### General Strictness
-
-**Gun control reduces deaths**
-
-Stand your ground laws increase violent crime<ref>https://www.rand.org/research/gun-policy/analysis/stand-your-ground.html</ref>.
-
-Stand-your-ground laws are at least in some contexts associated with increases in violence<ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101</ref>.
-
-A higher number of firearm laws in a state are associated with a lower rate of firearm fatalities in the state, overall, and for suicides and homicides individually<ref>https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1661390</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5885268/</ref>.
-
-Makarios & Pratt (2008) did a meta-analysis and found that in the US, most gun policies are unrelated to gun violence, including gun buybacks, enhanced prison terms, waiting periods/background checks, weapons bans, and safe storage laws. The only gun law that had marginal effects was bans on the sale of firearms<ref>https://journals.sagepub.com/doi/abs/10.1177/0011128708321321?journalCode=cadc</ref>.
-
-According to a RAND corporation systematic review, in the US in general, stricter gun control results in lower gun crime<ref>https://www.rand.org/research/gun-policy/analysis.html</ref>.
-
-Across countries, analysis indicates that stricter gun control entails a strong negative effect on overall homicide and suicide rates<ref>https://www.researchgate.net/publication/329840934_Does_regulation_matter_A_cross-national_analysis_of_the_impact_of_gun_policies_on_homicide_and_suicide_rates</ref>.
-
-The strongest evidence is consistent with the claim that the Australian 1996 National Firearms Agreement caused reductions in firearm suicides, mass shootings, and female homicide victimization, although there is still evidence that raises questions<ref>https://www.rand.org/research/gun-policy/analysis/essays/1996-national-firearms-agreement.html</ref>.
-
-Research from 130 studies in 10 different countries suggests that in some countries the simultaneous implementation of laws targeting multiple firearms restrictions is associated with reductions in firearms deaths, as well as background check and safer storage laws<ref>https://pubmed.ncbi.nlm.nih.gov/26905895/</ref>.
 
 ## Body-Worn Cameras
 
