@@ -27,6 +27,22 @@ Given that morality is merely about enforcement, in a sense the presence of an a
 
 In the absence of a god, it's much more difficult to enforce morality, as there is no threat of use of force by a god, or of eternal damnation as exists in many religions. In some sense, the gods of many religions were likely created for that precise purpose - to try and enforce a standard of morality through giving people a new set of information about the costs of defecting from that standard. However, this does not mean that it's impossible, or that therefore religion is true. A belief can be adaptive in a particular context without being true, after all.
 
+## The Validity of Present-Day Religions
+
+This section will overview a number of arguments for why, inductively speaking, present-day religions are likely false. A full comprehensive examination of every religion and every aspect of each religion is far beyond the scope of this article, but this will combine a number of ideas which lead me to the conclusion that present-day religions were most likely man-made and are false.
+
+### Religious Texts
+
+Religious texts regularly say pseudoscientific things which are easily disproven. A short list:
+
+- The Bible describes the earth as being created in seven days, with an ordering of events which wouldn't make sense for what was created. For example, the book of Genesis says that god created vegetation on the third day, but the day and night cycle with the sun and moon on the fourth day. Plants cannot survive in the absence of the sun, meaning that god did not provide plants with what they need to grow prior to creating them.
+- Furthermore, the Bible strongly suggests that the earth is 6,000 years old, which contradicts virtually all evidence on the subject. There are even clonal trees which are older than 6,000 years<ref>https://en.wikipedia.org/wiki/List_of_oldest_trees</ref>.
+- Genesis also describes all living organisms as being popped into existence through divine creation, when we know that organisms evolved into their present states over millions of years and all share a common ancestor from billions of years ago.
+- The existence of nephilism are also implied in Biblical texts, when there is no evidence for their existence
+- Noah's flood is another event which is discussed in the bible, with no evidence of its existence.
+
+Adherents of religion have, over time, said fewer erroneous things about the world. However, this is only through a progressive improvement of knowledge over time, which sometimes happened in opposition to religious doctrine and to the resistence of many religious adherents. Religious texts which are, in part or in whole, "divinely inspired" have practically never contributed new knowledge about science or medicine, and may have actually held some of it back to a degree through promoting false ideas about the world.
+
 ## References
 
 <references />
