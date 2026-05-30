@@ -41,7 +41,9 @@ Religious texts regularly say pseudoscientific things which are easily disproven
 - The existence of nephilism are also implied in Biblical texts, when there is no evidence for their existence
 - Noah's flood is another event which is discussed in the bible, with no evidence of its existence.
 
-Adherents of religion have, over time, said fewer erroneous things about the world. However, this is only through a progressive improvement of knowledge over time, which sometimes happened in opposition to religious doctrine and to the resistence of many religious adherents. Religious texts which are, in part or in whole, "divinely inspired" have practically never contributed new knowledge about science or medicine, and may have actually held some of it back to a degree through promoting false ideas about the world.
+Adherents of religion have, over time, said fewer erroneous things about the world. However, this is only through a progressive improvement of knowledge over time, which sometimes happened in opposition to religious doctrine and to the resistence of many religious adherents. Religious texts which are, in part or in whole, "divinely inspired" have practically never contributed new knowledge about science or medicine, and may have actually held some of it back to a degree through promoting false ideas about the world. Rather than questions which religion has tried to explain, such as the origin of life, the existence of weather or the wind, the age or origin of the universe, or more, converging towards explanations held in religious texts, they have consistently been explained through non-supernatural means in part or in whole. In other words, with more knowledge, the capacity for religion to reasponably explain the world has significantly declined.
+
+Many religious people today assert that certain elements of their texts shouldn't be taken literally.
 
 ## References
 
