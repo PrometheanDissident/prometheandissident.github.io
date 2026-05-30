@@ -14,8 +14,19 @@ I don't think that it is possible to know whether a god exists or not. I don't t
 
 ## On Purpose and Religion
 
-- Religion provides people with a major set of purpose (review elephant in the brain book stuff)
-- Many believe that because religion provides purpose that therefore it is true. This is wrong.
+Religion provides people with a major sense of purpose, giving people a package of a variety of things, including community, a reason for living, a moral code to live by, and more. In their book "The Elephant in the Brain", Kevin Smiler and Robin Hanson examine this from an evolutionary psychology perspective, documenting numerous ways in which religions provide community-level benefits. While many people assume that religious behavior can be explained by religious belief, they point out that this isn't true. Most religions do not care about private belief in the religion so long as people publicly accept it. Furthermore, in general, we have many practices which are devoid of supernatural beliefs but are said to have a religious element to them, such as reciting national anthems<ref>The Elephant in the Brain: Chapter 15</ref>.
+
+Instead, religion creates cooperation between individuals through a variety of means. These include traditional means, such as gossip, monitoring, and punishment, but also has a few ones which are fairly unique to religions. The means of inducing and enforcing cooperation include the following<ref>The Elephant in the Brain: Chapter 15</ref>:
+
+- Religions require people to make a number of personal sacrifices which signify loyalty to a group and acts as a way to pay one's dues to a group, including time, energy, status through acts of worship like kneeling and bowing, and even fertility in the case of high-ranking religious leaders who often have to take vows of celibacy.
+- Religions take advantage of the fact that humans are hard-wired to form social bonds when moving in lockstep through the introduction of countless rituals involving synchronized movement of some kind.
+- Sermons don't merely provide education, but also act as a ritual and signal of conformity by mere participation.
+- Religions often have types of badges used to signify insiders from outsiders, and high-ranking members from low-ranking members.
+- Supernatural beliefs can also be valuable. For example, in the case of an all-powerful, all-knowing deity, people who believe in such a god are more likely to behave well. They will be seen as more moral by others if they are believed to hold that belief, and one of the best ways to make others think you believe something is to believe it. Thus, belief in god helps increase social trust and good behavior in a community.
+- The craziness of particular religious beliefs can be a barometer for how tightly held the community is, and how trusting it is. Stronger suppressions of common sense suggest that the community provides more value for its members.
+
+Thus, religions, even though they have irrational beliefs, those beliefs can be beneficial to the community, and as shown in [Understanding Religious Belief](https://prometheandissident.github.io/psychology/#understanding-religious-belief), people tend to psychologically benefit from having religious beliefs. None of this should be used to suggest that religions are true. Religious beliefs can be false even if they are adaptive. However, it does suggest that there can be positives to religion, or at least certain aspects of it.
+
 
 ## On Morality and Religion
 
