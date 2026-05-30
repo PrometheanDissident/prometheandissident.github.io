@@ -63,6 +63,14 @@ The predominant view on free will amongst religious people is that it exists. In
 
 ### The Validity of Prayer
 
+What about prayer? There has been research done on whether prayer actually exhibits supernatural effects. A study done on patients at American hospitals looked at the effects of intercessory prayer (i.e. prayer for an intervention on behalf of others). They found that there was no difference in complications between people who were versus weren't prayed for, if the person did not know they were being prayed for. However, if they knew they were being prayed for, there was a greater risk of complications<ref>https://www.sciencedirect.com/science/article/abs/pii/S0002870305006496</ref>. This suggests that prayer does not have the supernatural effects it is often believed to have.
+
+## Conclusion
+
+Religion should probably be done away with culturally. While it has some value associated with it providing meaning and community to people, it generally makes false claims about the world and risks inhibiting progress in scientific/descriptive domains as a result. Purpose must be found in areas outside of religion, and it can be. People's relationships with one another can provide a strong sense of purpose, whether it be the raising of children, familial bonds, spousal bonds, the bonds between friends, and other relationships. We can also find purpose in other domains, through finding things which give us a sense of discovery, achievement, adventurism, and related emotions.
+
+However, despite the flaws and limits of religion, and despite my view that it should be done away with, this doesn't mean that we can't learn anything from religion. Many religions, despite evolving, have remained successful in establishing many followers for millennia. This suggests that religion is a very powerful, and potentially even natural aspect of human societies. Future ways to give people meaning should follow from this, and perhaps create new pseudo-religions which are based on rationality, as opposed to false beliefs about the world, if desirable and necessary.
+
 ## References
 
 <references />
