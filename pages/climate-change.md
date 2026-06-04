@@ -41,23 +41,24 @@ So there are moderate negative impacts of climate change. It should be noted tha
 
 ## The Ethical Dilemmas of Climate Change
 
-- Discuss prisoner's dilemma aspect of climate change
-- Other challenge is what responsibility poorer countries have to address climate change issues
+Climate change is a very difficult issue to politically address. The primary reason for this is because it is international in nature. No one country can act to "stop" climate change, as all of the driver of it, most notably greenhouse gas emissions, are things which all countries engage in. One country may individually end their emissions, but this will not stop the vast majority of emissions from still occurring. As a result, climate change requires multiple countries to act in unison to be addressed. This is difficult, as climate change constitutes a type of "prisoner's dilemma" problem. This occurs because if every country cooperates to reduce their emissions, every country is in theory better off than in the status quo (assuming it's done with relatively little harm to the countries). However, each country, individually speaking, would be even better off if they "free rode" off of other countries reducing their emissions without reducing their own, as they could incur practically all of the benefits of little climate change while not incurring any of the costs. Because every country faces this incentive, the resultant Nash equlibrium is that no country is willing to reduce their emissions.
+
+The way to solve prisoner's dilemma-type games is to force players to make decisions. This can work if the prisoner's dilemma situation involves several individuals within a state, as the state has a monopoly on the use of force and can use that to force individuals to play particular actions, which ultimately benefits everyone. However, there is no one "world government" which can force the actions of countries to the degree which would be required to do this in the case of climate change. As a result, it is very difficult for binding agreements to be made on climate change, as even if countries on paper agree to a particular goal, they are incentivized not to follow through and to free ride on other countries.
+
+A second, although less serious, ethical dilemma is also present in climate change, which concerns the distributional effects that mitigation strategies present. A significant proportion of emissions come from countries which are not especially high income. A 2024 report found that high-income countries were responsible for just 29 percent of GHG emissions in 2022<ref>https://www.cgdev.org/blog/climate-and-development-three-charts-update</ref>, indicating that the majority of emissions are coming from countries which are not especially rich, and may be underdeveloped in some cases. It is the case that nonetheless on a per-capita basis high-income countries are emiting more, but the fact remains that any serious mitigation strategy will require some sacrifices to be made by countries which are not especially rich. This begs the question as to what extent these countries should be expected to commit to any climate mitigative strategies if they end up becoming costly.
 
 ## Mitigation Strategies
 
+There are a number of possible mitigative strategies which can be undertaken to address climate change, some of which are much more invasive in nature than others. Many of these strategies, however, have the potential to be non-invasive, beneficial in other areas, and agreeable to the general population, while also addressing climate change to an extent. Some of the more passive strategies:
+
+- **Getting rid of environmentally damaging subsidies -** Many countries today have significant subsidies on fossil fuels, often as a result of rent-seeking behavior (see [Corrupting Influence of Capitalism?](https://prometheandissident.github.io/economics/#corrupting-influence-of-capitalism?)). These help artificially reduce the price of fossil fuels relative to renewables, leading to consumers becoming more reliant on fossil fuels relative to renewable energy sources. The subsidies are not only economically distortionary, but also lead to greater damage to the environment. As such, getting rid of them would likely both benefit the economy while also addressing climatic issues. This should especially be considered prior to one considering engaging in carbon taxation, as a carbon tax while also subsidizing fossil fuels would lead to more money going through the government when we can have the same effect without engaging in as much government spending in the first place. Beyond direct subsidies for fossil fuels, agricultural subsidies are very common. Agricultural subsidies distort market prices, interfere with trade, adversely affect poor farmers in developing countries, burden US taxpayers, and lead to environmental degradation<ref>Ostria, M. (2013). How U.S. agricultural subsidies harm the environment, taxpayers and the poor. https://www.ncpathinktank.org/pdfs/ib126.pdf</ref>. As a result, these are another type of subsidy which should be gotten rid of in general.
+
+
+- Get rid of regulations
 - Passive (EKC)
 - Active (Command-and-control, taxes, cap and trade, coase theorem, liability, renewable energy, carbon sinks, carbon capture
 
 ## ====== TO ADD BELOW ======
-
-## <span style="background-color:yellow">Evidence for Climate Change</span>
-
-Pieces of evidence:
-
-- **Climate Model Accuracy -** 
-
-## <span style="background-color:orange">Effects of Climate Change</span>
 
 ## <span style="background-color:orange">Mitigative Behavior</span>
 
@@ -74,10 +75,6 @@ The effects of energy policies and environmental regulation on employment are un
 ### <span style="background-color:orange">Willingness to Pay</span>
 
 To combat climate change, 57% of Americans were willing to pay a dollar a month, while 23% were willing to pay a monthly fee of $40<ref>Admin, P. (2020, July 1). Is the Public Willing to Pay to Help Fix Climate Change? - AP-NORC. AP-NORC -. https://apnorc.org/projects/is-the-public-willing-to-pay-to-help-fix-climate-change/</ref>.
-
-### <span style="background-color:orange">Agricultural Subsidies</span>
-
-Agricultural subsidies distort market prices, interfere with trade, adversely affect poor farmers in developing countries, burden US taxpayers, and lead to environmental degradation<ref>Ostria, M. (2013). How U.S. agricultural subsidies harm the environment, taxpayers and the poor. https://www.ncpathinktank.org/pdfs/ib126.pdf</ref>.
 
 ### <span style="background-color:orange">Renewables</span>
 
