@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Epistemic Progressivism Supplement
-permalink: /epistemic-progressivism-supplement/
+title: Post-Progressivism Supplement
+permalink: /post-progressivism-supplement/
 ---
 
 ## Sociologist's Fallacy
